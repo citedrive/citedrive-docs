@@ -2,14 +2,26 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'CiteDrive',
       items: [
         'getting-started',
-        'create-a-page',
+        /*'create-a-page',
         'create-a-document',
         'create-a-blog-post',
         'markdown-features',
-        'thank-you',
+        'thank-you',*/
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Test',
+      items: [
+        'test/toast',
+        /*'create-a-page',
+        'create-a-document',
+        'create-a-blog-post',
+        'markdown-features',
+        'thank-you',*/
       ],
     },
   ],

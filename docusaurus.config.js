@@ -13,7 +13,7 @@ module.exports = {
     navbar: {
       title: 'CiteDrive Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'CiteDrive Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -74,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CiteDrive LLC - CiteDrive Docs Built with Docusaurus.`,
     },
   },
   presets: [
@@ -85,13 +85,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/citedrive/citedrive-docs/tree/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/citedrive/citedrive-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
