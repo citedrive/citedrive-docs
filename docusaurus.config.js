@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CiteDrive Docs',
-  tagline: 'The tagline of my site',
+  tagline: 'Looking for an easy-to-use, web-based, collaborative Referencing tool, with over 9000 styles plus native R Mardown and BibTeX-support? ',
   url: 'https://citedrive-docs.github.io',
   baseUrl: '/citedrive-docs/',
   onBrokenLinks: 'throw',
@@ -25,8 +25,13 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://app.citedrive.com/',
+          label: 'Login',
+          position: 'right',
+        },
+        {
+          href: 'https://app.citedrive.com/sign-up',
+          label: 'Sign up',
           position: 'right',
         },
       ],
@@ -47,16 +52,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Facebook',
+              href: 'https://www.facebook.com/citedrive',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/citedrive',
+            },
+            {
+              label: 'Community',
+              href: 'https://github.com/citedrive/citedrive-docs/issues',
             },
           ],
         },
@@ -69,12 +74,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/citedrive',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} CiteDrive LLC - CiteDrive Docs Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} CiteDrive LLC`,
     },
   },
   presets: [
