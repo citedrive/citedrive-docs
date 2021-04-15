@@ -16,7 +16,7 @@ module.exports = {
       type: 'category',
       label: 'Test',
       items: [
-        'test/toast',
+        //'test/toast',
         /*'create-a-page',
         'create-a-document',
         'create-a-blog-post',
