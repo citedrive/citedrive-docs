@@ -3,7 +3,7 @@ module.exports = {
   title: 'CiteDrive Docs',
   tagline: 'Looking for an easy-to-use, web-based, collaborative Referencing tool, with over 9000 styles plus native R Mardown and BibTeX-support? ',
   url: 'https://citedrive-docs.github.io',
-  baseUrl: '/citedrive-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
