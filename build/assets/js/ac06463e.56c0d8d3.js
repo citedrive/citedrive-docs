@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{84:function(o){o.exports=JSON.parse('{"allTagsPath":"/citedrive-docs/blog/tags","slug":"docs","name":"docs","count":1,"permalink":"/citedrive-docs/blog/tags/docs"}')}}]);

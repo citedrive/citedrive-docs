@@ -9,7 +9,7 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome to CiteDrive Docs]]></title>
-            <link>https://citedrive-docs.github.io/citedrive-docs/blog/welcome</link>
+            <link>https://citedrive-docs.github.io/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
             <description><![CDATA[...]]></description>
