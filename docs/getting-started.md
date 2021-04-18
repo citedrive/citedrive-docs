@@ -1,6 +1,14 @@
 ---
-title: Getting Started with the CiteDrive Web App
+title: Basic steps
 slug: /
 ---
 
-## Step 1: Create an account
+## Create a new project
+
+
+## Create new references
+
+
+## Organize references
+
+## Create citations and bibliography
