@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{87:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to CiteDrive Docs","permalink":"/blog/welcome"}]}')}}]);
