@@ -10,14 +10,12 @@ After you log in, you will see all your projects in the dashboard overview. Thes
 :::tip Example projects
 When you log in for the first time, we make three sample projects for you to play around with.
 :::
-To create a new project, click on the following button: ![](https://)
+To create a new project, click on the `+ Add new project`-button. A pop-up window should appear, looking like this:
 
-A pop-up window should appear, looking like this:
-
-![](https://)
+![Example banner](./assets/new_project_window.svg)
 
 
-There you enter a name for your project; this could be a paper or essay title. In our example, we name our project "My first project."
+There you enter a name for your project; this could be a paper or essay title. In our example, we name our project ``My first project.``
 
 You choose the project type in the second step, with the standard "CiteDrive" being the typical use for most users.
 
@@ -30,7 +28,7 @@ If you work with Pandoc or R Markdown, choose R Markdown.
 :::
 
 
-With ![](https://), you create the project that we can now see in your overview. Click on the new project for more in the next step.
+With `Create new project`, when you are ready. We can now see in your new project in the overview. Click on the new project for more in the next step.
 
 
 
@@ -39,7 +37,7 @@ With ![](https://), you create the project that we can now see in your overview.
 You can click on the big plus sign ![Example banner](./assets/plus.svg) in the panel on the right side to add new references. A pop-up window will appear. Define the type of your source, such as “Article in Journal” (paper / scientific publication), website, piece of music, etc., and enter all the data you need to cite.
 Scroll down and click on the button when you have finished. We should have added a new table with further reference.
 
-If you want to edit this reference, hover over the table and click on the edit icon.
+If you want to edit any reference, **hover** over the table and click on the edit icon.
 
 ![Example banner](./assets/edit.svg)
 
@@ -57,4 +55,4 @@ To cite:
 2. Click on the citation icon, and it will generate the appropriate format for in-text citations.
 3. You can now copy and paste it into your text document. For example Microsoft Word.
 
-To generate your bibliography, click on ![](https://), you will be redirected to a page with all sources in the correct style format.
+To generate your bibliography, click on `Create Bibliography` in the navbar, you will be redirected to a page with all sources in the correct style format.
