@@ -1,0 +1,7 @@
+<svg id="Add_Reference" data-name="Add Reference" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 64 64">
+  <path id="Circle" d="M32,0A32,32,0,1,1,0,32,32,32,0,0,1,32,0Z" fill="#0058ff"/>
+  <g id="Plus" transform="translate(-561.28 -34)">
+    <path id="Pfad_16" data-name="Pfad 16" d="M0,0V32" transform="translate(609.28 66) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+    <path id="Pfad_17" data-name="Pfad 17" d="M-2440.721-2640v32" transform="translate(3034 2690)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

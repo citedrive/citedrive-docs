@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1420" height="133.948" viewBox="0 0 1420 133.948">
+  <defs>
+    <filter id="row-reference-container" x="0" y="0" width="1420" height="133.948" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Komponente_23_11" data-name="Komponente 23 – 11" transform="translate(7 7)">
+    <g transform="matrix(1, 0, 0, 1, -7, -7)" filter="url(#row-reference-container)">
+      <path id="row-reference-container-2" data-name="row-reference-container" d="M8.7,0H1393.3c4.806,0,8.7,4.153,8.7,9.276v97.4c0,5.123-3.9,9.276-8.7,9.276H8.7c-4.806,0-8.7-4.153-8.7-9.276V9.276C0,4.153,3.9,0,8.7,0Z" transform="translate(7 7)" fill="#fff"/>
+    </g>
+    <g id="Ellipse_45" data-name="Ellipse 45" transform="translate(1318.396 30.995)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <g id="Ellipse_46" data-name="Ellipse 46" transform="translate(1252.396 30.995)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <g id="Ellipse_47" data-name="Ellipse 47" transform="translate(1186.396 30.995)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <circle cx="27" cy="27" r="27" stroke="none"/>
+      <circle cx="27" cy="27" r="26.5" fill="none"/>
+    </g>
+    <path id="Vereinigungsmenge_4" data-name="Vereinigungsmenge 4" d="M12.635,17.24H1.5a1.5,1.5,0,0,1-1.5-1.5V1.5A1.5,1.5,0,0,1,1.5,0h18A1.5,1.5,0,0,1,21,1.5V15.739a1.5,1.5,0,0,1-1.5,1.5H16.23V22.92Z" transform="translate(1269.396 46.995)" fill="#4b4b4b" opacity="0"/>
+    <text id="PDF" transform="translate(1331.396 64.995)" fill="#2f2f2f" font-size="21" font-family="AcuminProCond-Medium, Acumin Pro Condensed" font-weight="500" opacity="0"><tspan x="0" y="0">PDF</tspan></text>
+    <g id="Gruppe_206" data-name="Gruppe 206" transform="translate(1221.305 44.994) rotate(45)" opacity="0">
+      <path id="Polygon_25" data-name="Polygon 25" d="M2.646,1.457a1,1,0,0,1,1.722,0l1.755,2.97a1,1,0,0,1-.861,1.509H1.752A1,1,0,0,1,.892,4.427Z" transform="translate(5.14 23.356) rotate(60)" fill="#4b4b4b"/>
+      <rect id="Rechteck_153" data-name="Rechteck 153" width="4.856" height="22.123" transform="translate(1.086 3.777)" fill="#4b4b4b"/>
+      <path id="Rechteck_154" data-name="Rechteck 154" d="M1,0H3.856a1,1,0,0,1,1,1V3.238a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V1A1,1,0,0,1,1,0Z" transform="translate(1.086 0)" fill="#4b4b4b"/>
+    </g>
+    <rect id="Rechteck_280" data-name="Rechteck 280" width="1163" height="54" rx="8" transform="translate(35.396 30.974)" fill="#797979"/>
+  </g>
+  <g id="Gruppe_265" data-name="Gruppe 265" transform="translate(1278.881 47.849)">
+    <path id="Pfad_74" data-name="Pfad 74" d="M17.224,6.637H-.382V32.59H27.285V13.3" fill="none" stroke="#0058ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Pfad_75" data-name="Pfad 75" d="M16.007,18.937,12.112,20.33l1.374-3.947L28.549,1.123a1.792,1.792,0,0,1,2.551,0h0a1.8,1.8,0,0,1,0,2.524Z" fill="none" stroke="#0058ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>
