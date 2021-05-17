@@ -1,0 +1,22 @@
+{
+  "unversionedId": "word-processor",
+  "id": "word-processor",
+  "isDocsHomePage": false,
+  "title": "Working with any word processor",
+  "description": "Create a new project",
+  "source": "@site/docs/word-processor.md",
+  "sourceDirName": ".",
+  "slug": "/word-processor",
+  "permalink": "/docs/word-processor",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "Working with any word processor",
+    "slug": "/word-processor"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "This is a test",
+    "permalink": "/docs/test/test"
+  }
+}

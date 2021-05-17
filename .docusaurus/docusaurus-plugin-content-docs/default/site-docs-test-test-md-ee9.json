@@ -1,0 +1,26 @@
+{
+  "unversionedId": "test/test",
+  "id": "test/test",
+  "isDocsHomePage": false,
+  "title": "This is a test",
+  "description": "Step 1: Create an account",
+  "source": "@site/docs/test/test.md",
+  "sourceDirName": "test",
+  "slug": "/test/test",
+  "permalink": "/docs/test/test",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/test/test.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "This is a test",
+    "slug": "/test/test"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Share project",
+    "permalink": "/docs/share-project"
+  },
+  "next": {
+    "title": "Working with any word processor",
+    "permalink": "/docs/overleaf"
+  }
+}

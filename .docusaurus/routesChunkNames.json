@@ -1,0 +1,108 @@
+{
+  "/-deb": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/blog-b64": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blogfee-bae",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/tags-a35": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blogfee-bae",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/citedrive-1ba": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogfee-bae",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blog-tags-citedrivef-99-d30"
+  },
+  "/blog/tags/docs-a1e": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogfee-bae",
+    "items": [
+      {
+        "content": "content---blogaf-1-856"
+      }
+    ],
+    "metadata": "metadata---blog-tags-docs-69-f-160"
+  },
+  "/blog/welcome-30e": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogfee-bae",
+    "content": "content---blog-welcome-286-e55"
+  },
+  "/markdown-page-be1": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-b64": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/bibtex-c69": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtexef-6-192"
+  },
+  "/docs/export-684": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-exportfc-2-d25"
+  },
+  "/docs/intro-e84": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/overleaf-8d0": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-overleaf-099-637"
+  },
+  "/docs/r-markdown-533": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-r-markdown-966-479"
+  },
+  "/docs/r-markdown/bibliography-and-citation-styles/toast-47a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-r-markdown-bibliography-and-citation-styles-toast-98-a-742"
+  },
+  "/docs/share-project-c93": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-share-project-61-a-362"
+  },
+  "/docs/word-processor-37f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-word-processor-695-6bb"
+  }
+}

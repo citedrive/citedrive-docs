@@ -1,0 +1,26 @@
+{
+  "unversionedId": "export",
+  "id": "export",
+  "isDocsHomePage": false,
+  "title": "Export data",
+  "description": "",
+  "source": "@site/docs/export.md",
+  "sourceDirName": ".",
+  "slug": "/export",
+  "permalink": "/docs/export",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/export.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Share project",
+    "permalink": "/docs/share-project"
+  },
+  "next": {
+    "title": "Working with BibTeX",
+    "permalink": "/docs/bibtex"
+  }
+}

@@ -1,6 +1,5 @@
 ---
-title: Share project
-slug: /share-project
+sidebar_position: 2
 ---
 
-## Create a new project
+# Share project

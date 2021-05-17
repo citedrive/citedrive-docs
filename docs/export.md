@@ -1,6 +1,5 @@
 ---
-title: Export data
-slug: /export
+sidebar_position: 3
 ---
 
-## Create a new project
+# Export data

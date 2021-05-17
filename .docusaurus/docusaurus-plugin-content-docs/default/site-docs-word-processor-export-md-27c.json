@@ -1,0 +1,26 @@
+{
+  "unversionedId": "word-processor/export",
+  "id": "word-processor/export",
+  "isDocsHomePage": false,
+  "title": "Export data",
+  "description": "",
+  "source": "@site/docs/word-processor/export.md",
+  "sourceDirName": "word-processor",
+  "slug": "/word-processor/export",
+  "permalink": "/docs/word-processor/export",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/export.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "share-project",
+    "permalink": "/docs/share-project"
+  },
+  "next": {
+    "title": "Working with BibTeX",
+    "permalink": "/docs/bibtex"
+  }
+}

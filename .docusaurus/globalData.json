@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "export",
+              "path": "/docs/export",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "r-markdown/bibliography-and-citation-styles/toast",
+              "path": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "share-project",
+              "path": "/docs/share-project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "word-processor/bibtex",
+              "path": "/docs/bibtex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "word-processor/overleaf",
+              "path": "/docs/overleaf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "word-processor/r-markdown",
+              "path": "/docs/r-markdown",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "word-processor/word-processor",
+              "path": "/docs/word-processor",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "versionEditUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs",
+          "versionEditUrlLocalized": "https://github.com/citedrive/citedrive-docs/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/garethii/Documents/GitHub/citedrive-docs/sidebars.js",
+          "contentPath": "/Users/garethii/Documents/GitHub/citedrive-docs/docs",
+          "contentPathLocalized": "/Users/garethii/Documents/GitHub/citedrive-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "share-project"
+              },
+              {
+                "type": "doc",
+                "id": "export"
+              },
+              {
+                "type": "category",
+                "label": "Word Processors",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "word-processor/bibtex"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "word-processor/overleaf"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "word-processor/r-markdown"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "word-processor/word-processor"
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "R Markdown",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "bibliography-and-citation-styles",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "r-markdown/bibliography-and-citation-styles/toast"
+                      }
+                    ],
+                    "collapsed": true
+                  }
+                ],
+                "collapsed": true
+              }
+            ]
+          },
+          "permalinkToSidebar": {
+            "/docs/export": "tutorialSidebar",
+            "/docs/intro": "tutorialSidebar",
+            "/docs/r-markdown/bibliography-and-citation-styles/toast": "tutorialSidebar",
+            "/docs/share-project": "tutorialSidebar",
+            "/docs/bibtex": "tutorialSidebar",
+            "/docs/overleaf": "tutorialSidebar",
+            "/docs/r-markdown": "tutorialSidebar",
+            "/docs/word-processor": "tutorialSidebar"
+          },
+          "docs": [
+            {
+              "unversionedId": "export",
+              "id": "export",
+              "isDocsHomePage": false,
+              "title": "Export data",
+              "description": "",
+              "source": "@site/docs/export.md",
+              "sourceDirName": ".",
+              "slug": "/export",
+              "permalink": "/docs/export",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/export.md",
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Share project",
+                "permalink": "/docs/share-project"
+              },
+              "next": {
+                "title": "Working with BibTeX",
+                "permalink": "/docs/bibtex"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Basic Steps",
+              "description": "Create a new project",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/intro.md",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Share project",
+                "permalink": "/docs/share-project"
+              }
+            },
+            {
+              "unversionedId": "r-markdown/bibliography-and-citation-styles/toast",
+              "id": "r-markdown/bibliography-and-citation-styles/toast",
+              "isDocsHomePage": false,
+              "title": "toast Style",
+              "description": "the toast styles",
+              "source": "@site/docs/r-markdown/bibliography-and-citation-styles/toast.md",
+              "sourceDirName": "r-markdown/bibliography-and-citation-styles",
+              "slug": "/r-markdown/bibliography-and-citation-styles/toast",
+              "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/r-markdown/bibliography-and-citation-styles/toast.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "toast Style",
+                "slug": "/r-markdown/bibliography-and-citation-styles/toast"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working with any word processor",
+                "permalink": "/docs/word-processor"
+              }
+            },
+            {
+              "unversionedId": "share-project",
+              "id": "share-project",
+              "isDocsHomePage": false,
+              "title": "Share project",
+              "description": "",
+              "source": "@site/docs/share-project.md",
+              "sourceDirName": ".",
+              "slug": "/share-project",
+              "permalink": "/docs/share-project",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/share-project.md",
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Basic Steps",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Export data",
+                "permalink": "/docs/export"
+              }
+            },
+            {
+              "unversionedId": "word-processor/bibtex",
+              "id": "word-processor/bibtex",
+              "isDocsHomePage": false,
+              "title": "Working with BibTeX",
+              "description": "Create a new project",
+              "source": "@site/docs/word-processor/bibtex.md",
+              "sourceDirName": "word-processor",
+              "slug": "/bibtex",
+              "permalink": "/docs/bibtex",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/bibtex.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Working with BibTeX",
+                "slug": "/bibtex"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Export data",
+                "permalink": "/docs/export"
+              },
+              "next": {
+                "title": "Working with any word processor",
+                "permalink": "/docs/overleaf"
+              }
+            },
+            {
+              "unversionedId": "word-processor/overleaf",
+              "id": "word-processor/overleaf",
+              "isDocsHomePage": false,
+              "title": "Working with any word processor",
+              "description": "Create a new project",
+              "source": "@site/docs/word-processor/overleaf.md",
+              "sourceDirName": "word-processor",
+              "slug": "/overleaf",
+              "permalink": "/docs/overleaf",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/overleaf.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Working with any word processor",
+                "slug": "/overleaf"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working with BibTeX",
+                "permalink": "/docs/bibtex"
+              },
+              "next": {
+                "title": "Working with R Markdown",
+                "permalink": "/docs/r-markdown"
+              }
+            },
+            {
+              "unversionedId": "word-processor/r-markdown",
+              "id": "word-processor/r-markdown",
+              "isDocsHomePage": false,
+              "title": "Working with R Markdown",
+              "description": "Create a new project",
+              "source": "@site/docs/word-processor/r-markdown.md",
+              "sourceDirName": "word-processor",
+              "slug": "/r-markdown",
+              "permalink": "/docs/r-markdown",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/r-markdown.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Working with R Markdown",
+                "slug": "/r-markdown"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working with any word processor",
+                "permalink": "/docs/overleaf"
+              },
+              "next": {
+                "title": "Working with any word processor",
+                "permalink": "/docs/word-processor"
+              }
+            },
+            {
+              "unversionedId": "word-processor/word-processor",
+              "id": "word-processor/word-processor",
+              "isDocsHomePage": false,
+              "title": "Working with any word processor",
+              "description": "Create a new project",
+              "source": "@site/docs/word-processor/word-processor.md",
+              "sourceDirName": "word-processor",
+              "slug": "/word-processor",
+              "permalink": "/docs/word-processor",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/word-processor.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "Working with any word processor",
+                "slug": "/word-processor"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working with R Markdown",
+                "permalink": "/docs/r-markdown"
+              },
+              "next": {
+                "title": "toast Style",
+                "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/blog/2019-05-30-welcome.md",
+            "source": "@site/blog/2019-05-30-welcome.md",
+            "title": "Welcome to CiteDrive Docs",
+            "description": "...",
+            "date": "2019-05-30T00:00:00.000Z",
+            "formattedDate": "May 30, 2019",
+            "tags": [
+              {
+                "label": "citedrive",
+                "permalink": "/blog/tags/citedrive"
+              },
+              {
+                "label": "docs",
+                "permalink": "/blog/tags/docs"
+              }
+            ],
+            "readingTime": 0.005,
+            "truncated": false
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome"
+          ]
+        }
+      ],
+      "blogTags": {
+        "citedrive": {
+          "name": "citedrive",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/citedrive"
+        },
+        "docs": {
+          "name": "docs",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/docs"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}
