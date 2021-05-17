@@ -57,7 +57,7 @@
                 "items": [
                   {
                     "type": "category",
-                    "label": "bibliography-and-citation-styles",
+                    "label": "Bibliography and Citation Styles for R Markdown",
                     "items": [
                       {
                         "type": "doc",

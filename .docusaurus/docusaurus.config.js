@@ -17,10 +17,11 @@ export default {
       },
       "items": [
         {
-          "to": "docs/",
-          "activeBasePath": "docs",
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
           "label": "Docs",
-          "position": "left"
+          "activeSidebarClassName": "navbar__link--active"
         },
         {
           "to": "blog",
