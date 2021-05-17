@@ -8,32 +8,31 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Project and platform based',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        No folder chaos; instead, each of your works gets its own project. You can choose between our standard, BibTeX, and R-Markdown projects, each with native support for generating citations and bibliographies in the correct format. All your references are in the cloud—no more stress with data loss or with annoying patches.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Fully collaborative and unobtrusive!',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        We know how essential teamwork is for scientists. Comprehensive tools for teams have become commonplace, and most importantly, papers are rarely written alone. We have therefore built our platform for collaboration.
+Add colleagues to your project at any time. You and your team collect, structure, and annotate references and material for your work, clearly organized in one project.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Simple but powerful!',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        No more back and forth and no more installing countless plugins on your devices. We generate citations and bibliographies in the cloud, which you can then conveniently use in your paper.
+Whether for Word, Google-docs, LaTeX, or R-markdown, we provide you with the necessary tools and over 9000 citation styles and various output languages. We want to be a pure platform for citing and creating bibliographies and work in conjunction with the tools you already use. You can directly feed the citations and bibliographies into your writing program or export them to other literature management programs. And we have seamless integrations with Overleaf, Word, Google Docs, R-Markdown, and many other tools.
       </>
     ),
   },
