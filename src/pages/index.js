@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        No folder chaos; instead, each of your works gets its own project. You can choose between our standard, BibTeX, and R-Markdown projects, each with native support for generating citations and bibliographies in the correct format. All your references are in the cloud—no more stress with data loss or with annoying patches.
+        Instead of a jumble of folders, each of the works is assigned to its own project. You can choose from our regular, BibTeX, and R-Markdown ventures, all of which have native support for generating correct citations and bibliographies. All of your references are stored in the cloud, so you won't have to worry about losing data or dealing with annoying patches.
       </>
     ),
   },
@@ -21,8 +21,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        We know how essential teamwork is for scientists. Comprehensive tools for teams have become commonplace, and most importantly, papers are rarely written alone. We have therefore built our platform for collaboration.
-Add colleagues to your project at any time. You and your team collect, structure, and annotate references and material for your work, clearly organized in one project.
+        We all know how crucial collaboration is for scientists. Comprehensive team-building tools are now popular, and articles are rarely written alone. That is why we created our platform to facilitate collaboration. You may invite collaborators to your project at any time. You and your team gather, coordinate, and annotate sources and materials for your project in a single project.
       </>
     ),
   },
@@ -31,8 +30,7 @@ Add colleagues to your project at any time. You and your team collect, structure
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        No more back and forth and no more installing countless plugins on your devices. We generate citations and bibliographies in the cloud, which you can then conveniently use in your paper.
-Whether for Word, Google-docs, LaTeX, or R-markdown, we provide you with the necessary tools and over 9000 citation styles and various output languages. We want to be a pure platform for citing and creating bibliographies and work in conjunction with the tools you already use. You can directly feed the citations and bibliographies into your writing program or export them to other literature management programs. And we have seamless integrations with Overleaf, Word, Google Docs, R-Markdown, and many other tools.
+        There will be no more back-and-forth, and you will not have to mount a plethora of plugins on your computers. In the cloud, we create citations and bibliographies, which you can then use in your article. We provide you with the required resources, as well as over 9000 citation types and various output languages if you're using Word, Google Docs, LaTeX, or R-markdown.
       </>
     ),
   },
