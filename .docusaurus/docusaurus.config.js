@@ -19,14 +19,14 @@ export default {
         {
           "type": "doc",
           "docId": "intro",
-          "position": "left",
+          "position": "right",
           "label": "Docs",
           "activeSidebarClassName": "navbar__link--active"
         },
         {
           "to": "blog",
           "label": "Blog",
-          "position": "left"
+          "position": "right"
         },
         {
           "href": "https://app.citedrive.com/",

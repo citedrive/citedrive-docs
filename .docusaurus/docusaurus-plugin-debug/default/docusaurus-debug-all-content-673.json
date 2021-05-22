@@ -356,6 +356,11 @@
     "default": [
       {
         "type": "jsx",
+        "permalink": "/hi",
+        "source": "@site/src/pages/hi.js"
+      },
+      {
+        "type": "jsx",
         "permalink": "/",
         "source": "@site/src/pages/index.js"
       },
