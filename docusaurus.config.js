@@ -16,22 +16,23 @@ module.exports = {
         alt: 'CiteDrive Logo',
         src: 'img/logo.svg',
       },
+      
       items: [
         {
           type: 'doc',
           docId: 'intro',
-          position: 'right',
+          position: 'left',
           label: 'Docs',
         },
-        {to: 'blog', label: 'Blog', position: 'right'},
+        {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://app.citedrive.com/',
           label: 'Login',
-          position: 'right',
+          position: 'left',
         },
         {
           href: 'https://app.citedrive.com/sign-up',
-          label: 'Sign up',
+          label: 'Get started now',
           position: 'right',
         },
       ],
