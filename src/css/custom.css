@@ -24,6 +24,11 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+.button.button--secondary.button--outline:not(.button--active):not(:hover) {
+  color: #9119B3;
+  background: #fff;
+}
+
 .react-toggle {
   touch-action: pan-x;
   position: relative;

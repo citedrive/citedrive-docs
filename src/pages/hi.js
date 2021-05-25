@@ -51,7 +51,7 @@ function Feature({imageUrl, title, description}) {
     </div>
   );
 }
-
+//FFFFFD
 export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -59,9 +59,9 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="A short introduction on how to get started with CiteDrive - Citation Guidelines - BibTeX - Academic Publishing">
-              <header className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#FFFFFD", color: "#333", height: "1020px"}}>
+              <header className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#9119B3", color: "rgb(31 215 96)", }}>  
         <div className="container">
-          <h1 className="hero__title">Nothing but a <div style={{fontWeight: 0}}>(distraction-free, powerful, cloud-based and fully-collaborative)</div> Referencing Tool</h1>
+          <h1 style={{fontSize: "156px"}} className="hero__title">Nothing but a <br />Referencing Tool</h1>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -75,7 +75,7 @@ export default function Home() {
 
         </div>
       </header>
-      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#393838" , height: "1020px"}}>
+      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#393838" }}>
         <div className="container">
 
           <p className="hero__subtitle">With CiteDrive, the focus is on a simple and equally appealing user experience.
