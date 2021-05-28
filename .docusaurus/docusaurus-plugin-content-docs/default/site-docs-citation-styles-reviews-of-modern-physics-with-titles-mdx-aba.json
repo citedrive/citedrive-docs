@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/reviews-of-modern-physics-with-titles",
+  "id": "citation-styles/reviews-of-modern-physics-with-titles",
+  "isDocsHomePage": false,
+  "title": "reviews-of-modern-physics-with-titles",
+  "description": "---",
+  "source": "@site/docs/citation-styles/reviews-of-modern-physics-with-titles.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/reviews-of-modern-physics-with-titles",
+  "permalink": "/docs/citation-styles/reviews-of-modern-physics-with-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/reviews-of-modern-physics-with-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review-of-political-economy",
+    "permalink": "/docs/citation-styles/review-of-political-economy"
+  },
+  "next": {
+    "title": "revista-argentina-de-antropologia-biologica-spanish",
+    "permalink": "/docs/citation-styles/revista-argentina-de-antropologia-biologica-spanish"
+  }
+}

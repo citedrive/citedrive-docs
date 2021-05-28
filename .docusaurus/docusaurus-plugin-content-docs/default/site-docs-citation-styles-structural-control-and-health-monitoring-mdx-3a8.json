@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/structural-control-and-health-monitoring",
+  "id": "citation-styles/structural-control-and-health-monitoring",
+  "isDocsHomePage": false,
+  "title": "structural-control-and-health-monitoring",
+  "description": "---",
+  "source": "@site/docs/citation-styles/structural-control-and-health-monitoring.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/structural-control-and-health-monitoring",
+  "permalink": "/docs/citation-styles/structural-control-and-health-monitoring",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/structural-control-and-health-monitoring.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stroke",
+    "permalink": "/docs/citation-styles/stroke"
+  },
+  "next": {
+    "title": "studi-e-materiali-di-storia-delle-religioni-italian",
+    "permalink": "/docs/citation-styles/studi-e-materiali-di-storia-delle-religioni-italian"
+  }
+}

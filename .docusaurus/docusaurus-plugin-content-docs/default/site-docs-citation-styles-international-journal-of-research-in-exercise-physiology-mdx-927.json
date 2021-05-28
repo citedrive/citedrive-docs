@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-research-in-exercise-physiology",
+  "id": "citation-styles/international-journal-of-research-in-exercise-physiology",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-research-in-exercise-physiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-research-in-exercise-physiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-research-in-exercise-physiology",
+  "permalink": "/docs/citation-styles/international-journal-of-research-in-exercise-physiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-research-in-exercise-physiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-radiation-oncology-biology-physics",
+    "permalink": "/docs/citation-styles/international-journal-of-radiation-oncology-biology-physics"
+  },
+  "next": {
+    "title": "international-journal-of-simulation-modelling",
+    "permalink": "/docs/citation-styles/international-journal-of-simulation-modelling"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+  "id": "citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+  "isDocsHomePage": false,
+  "title": "mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+  "permalink": "/docs/citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "memorias-do-instituto-oswaldo-cruz",
+    "permalink": "/docs/citation-styles/memorias-do-instituto-oswaldo-cruz"
+  },
+  "next": {
+    "title": "mercatus-center",
+    "permalink": "/docs/citation-styles/mercatus-center"
+  }
+}

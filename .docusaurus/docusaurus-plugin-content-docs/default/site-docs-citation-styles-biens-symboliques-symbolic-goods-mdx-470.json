@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biens-symboliques--symbolic-goods",
+  "id": "citation-styles/biens-symboliques--symbolic-goods",
+  "isDocsHomePage": false,
+  "title": "biens-symboliques--symbolic-goods",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biens-symboliques--symbolic-goods.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biens-symboliques--symbolic-goods",
+  "permalink": "/docs/citation-styles/biens-symboliques--symbolic-goods",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biens-symboliques--symbolic-goods.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bibtex-generic-citation-style",
+    "permalink": "/docs/citation-styles/bibtex-generic-citation-style"
+  },
+  "next": {
+    "title": "bioarchaeology-international",
+    "permalink": "/docs/citation-styles/bioarchaeology-international"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-development-policy",
+  "id": "citation-styles/international-development-policy",
+  "isDocsHomePage": false,
+  "title": "international-development-policy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-development-policy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-development-policy",
+  "permalink": "/docs/citation-styles/international-development-policy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-development-policy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-conference-on-information-systems-development",
+    "permalink": "/docs/citation-styles/international-conference-on-information-systems-development"
+  },
+  "next": {
+    "title": "international-energy-agency--organisation-for-economic-cooperation-and-development",
+    "permalink": "/docs/citation-styles/international-energy-agency--organisation-for-economic-cooperation-and-development"
+  }
+}

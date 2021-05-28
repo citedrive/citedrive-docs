@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/kunstakademie-munster-german",
+  "id": "citation-styles/kunstakademie-munster-german",
+  "isDocsHomePage": false,
+  "title": "kunstakademie-munster-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/kunstakademie-munster-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/kunstakademie-munster-german",
+  "permalink": "/docs/citation-styles/kunstakademie-munster-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/kunstakademie-munster-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+    "permalink": "/docs/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication"
+  },
+  "next": {
+    "title": "la-revue-des-sciences-de-gestion-french",
+    "permalink": "/docs/citation-styles/la-revue-des-sciences-de-gestion-french"
+  }
+}

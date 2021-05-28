@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/taylor-and-francis--national-library-of-medicine",
+  "id": "citation-styles/taylor-and-francis--national-library-of-medicine",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--national-library-of-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/taylor-and-francis--national-library-of-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/taylor-and-francis--national-library-of-medicine",
+  "permalink": "/docs/citation-styles/taylor-and-francis--national-library-of-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/taylor-and-francis--national-library-of-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--harvard-x",
+    "permalink": "/docs/citation-styles/taylor-and-francis--harvard-x"
+  },
+  "next": {
+    "title": "taylor-and-francis--numeric-q",
+    "permalink": "/docs/citation-styles/taylor-and-francis--numeric-q"
+  }
+}

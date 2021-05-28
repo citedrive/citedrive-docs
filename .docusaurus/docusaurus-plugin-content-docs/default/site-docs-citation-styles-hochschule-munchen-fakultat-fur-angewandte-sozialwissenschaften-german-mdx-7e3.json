@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+  "id": "citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+  "permalink": "/docs/citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-hannover--soziale-arbeit-german",
+    "permalink": "/docs/citation-styles/hochschule-hannover--soziale-arbeit-german"
+  },
+  "next": {
+    "title": "hochschule-osnabruck--fakultat-agrarwissenschaften-und-landschaftsarchitektur-german",
+    "permalink": "/docs/citation-styles/hochschule-osnabruck--fakultat-agrarwissenschaften-und-landschaftsarchitektur-german"
+  }
+}

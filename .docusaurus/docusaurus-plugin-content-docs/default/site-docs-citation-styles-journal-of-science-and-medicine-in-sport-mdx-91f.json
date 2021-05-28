@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-science-and-medicine-in-sport",
+  "id": "citation-styles/journal-of-science-and-medicine-in-sport",
+  "isDocsHomePage": false,
+  "title": "journal-of-science-and-medicine-in-sport",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-science-and-medicine-in-sport.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-science-and-medicine-in-sport",
+  "permalink": "/docs/citation-styles/journal-of-science-and-medicine-in-sport",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-science-and-medicine-in-sport.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-roman-archaeology-b",
+    "permalink": "/docs/citation-styles/journal-of-roman-archaeology-b"
+  },
+  "next": {
+    "title": "journal-of-separation-science",
+    "permalink": "/docs/citation-styles/journal-of-separation-science"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/natures-sciences-societes",
+  "id": "citation-styles/natures-sciences-societes",
+  "isDocsHomePage": false,
+  "title": "natures-sciences-societes",
+  "description": "---",
+  "source": "@site/docs/citation-styles/natures-sciences-societes.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/natures-sciences-societes",
+  "permalink": "/docs/citation-styles/natures-sciences-societes",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/natures-sciences-societes.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nature",
+    "permalink": "/docs/citation-styles/nature"
+  },
+  "next": {
+    "title": "nauplius",
+    "permalink": "/docs/citation-styles/nauplius"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/risk-analysis",
+  "id": "citation-styles/risk-analysis",
+  "isDocsHomePage": false,
+  "title": "risk-analysis",
+  "description": "---",
+  "source": "@site/docs/citation-styles/risk-analysis.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/risk-analysis",
+  "permalink": "/docs/citation-styles/risk-analysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/risk-analysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rhodora",
+    "permalink": "/docs/citation-styles/rhodora"
+  },
+  "next": {
+    "title": "riti-timarit-hugvisindastofnunar-icelandic",
+    "permalink": "/docs/citation-styles/riti-timarit-hugvisindastofnunar-icelandic"
+  }
+}

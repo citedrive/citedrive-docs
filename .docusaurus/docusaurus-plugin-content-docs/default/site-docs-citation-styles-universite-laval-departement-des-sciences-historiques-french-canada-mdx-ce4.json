@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universite-laval--departement-des-sciences-historiques-french--canada",
+  "id": "citation-styles/universite-laval--departement-des-sciences-historiques-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-laval--departement-des-sciences-historiques-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universite-laval--departement-des-sciences-historiques-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universite-laval--departement-des-sciences-historiques-french--canada",
+  "permalink": "/docs/citation-styles/universite-laval--departement-des-sciences-historiques-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universite-laval--departement-des-sciences-historiques-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-du-quebec-a-montreal-french--canada",
+    "permalink": "/docs/citation-styles/universite-du-quebec-a-montreal-french--canada"
+  },
+  "next": {
+    "title": "universite-laval--departement-dinformation-et-de-communication-french--canada",
+    "permalink": "/docs/citation-styles/universite-laval--departement-dinformation-et-de-communication-french--canada"
+  }
+}

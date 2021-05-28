@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mycologia",
+  "id": "citation-styles/mycologia",
+  "isDocsHomePage": false,
+  "title": "mycologia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mycologia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mycologia",
+  "permalink": "/docs/citation-styles/mycologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mycologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mutagenesis",
+    "permalink": "/docs/citation-styles/mutagenesis"
+  },
+  "next": {
+    "title": "myrmecological-news",
+    "permalink": "/docs/citation-styles/myrmecological-news"
+  }
+}

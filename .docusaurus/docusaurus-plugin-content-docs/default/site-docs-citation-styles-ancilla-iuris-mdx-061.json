@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ancilla-iuris",
+  "id": "citation-styles/ancilla-iuris",
+  "isDocsHomePage": false,
+  "title": "ancilla-iuris",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ancilla-iuris.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ancilla-iuris",
+  "permalink": "/docs/citation-styles/ancilla-iuris",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ancilla-iuris.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anatomical-sciences-education",
+    "permalink": "/docs/citation-styles/anatomical-sciences-education"
+  },
+  "next": {
+    "title": "andean-geology",
+    "permalink": "/docs/citation-styles/andean-geology"
+  }
+}

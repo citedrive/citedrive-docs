@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-forensic-sciences",
+  "id": "citation-styles/journal-of-forensic-sciences",
+  "isDocsHomePage": false,
+  "title": "journal-of-forensic-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-forensic-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-forensic-sciences",
+  "permalink": "/docs/citation-styles/journal-of-forensic-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-forensic-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-foraminiferal-research",
+    "permalink": "/docs/citation-styles/journal-of-foraminiferal-research"
+  },
+  "next": {
+    "title": "journal-of-frailty-and-aging",
+    "permalink": "/docs/citation-styles/journal-of-frailty-and-aging"
+  }
+}

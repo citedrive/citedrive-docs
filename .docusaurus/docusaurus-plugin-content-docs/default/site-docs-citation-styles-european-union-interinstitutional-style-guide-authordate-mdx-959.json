@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-union--interinstitutional-style-guide-authordate",
+  "id": "citation-styles/european-union--interinstitutional-style-guide-authordate",
+  "isDocsHomePage": false,
+  "title": "european-union--interinstitutional-style-guide-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-union--interinstitutional-style-guide-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-union--interinstitutional-style-guide-authordate",
+  "permalink": "/docs/citation-styles/european-union--interinstitutional-style-guide-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-union--interinstitutional-style-guide-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-society-of-cardiology",
+    "permalink": "/docs/citation-styles/european-society-of-cardiology"
+  },
+  "next": {
+    "title": "european-union--interinstitutional-style-guide-note",
+    "permalink": "/docs/citation-styles/european-union--interinstitutional-style-guide-note"
+  }
+}

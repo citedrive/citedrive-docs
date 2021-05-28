@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/applied-clay-science",
+  "id": "citation-styles/applied-clay-science",
+  "isDocsHomePage": false,
+  "title": "applied-clay-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/applied-clay-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/applied-clay-science",
+  "permalink": "/docs/citation-styles/applied-clay-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/applied-clay-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aporia-the-nursing-journal",
+    "permalink": "/docs/citation-styles/aporia-the-nursing-journal"
+  },
+  "next": {
+    "title": "applied-in-vitro-toxicology",
+    "permalink": "/docs/citation-styles/applied-in-vitro-toxicology"
+  }
+}

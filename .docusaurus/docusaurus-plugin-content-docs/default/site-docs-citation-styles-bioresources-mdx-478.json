@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bioresources",
+  "id": "citation-styles/bioresources",
+  "isDocsHomePage": false,
+  "title": "bioresources",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bioresources.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bioresources",
+  "permalink": "/docs/citation-styles/bioresources",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bioresources.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biopolymers",
+    "permalink": "/docs/citation-styles/biopolymers"
+  },
+  "next": {
+    "title": "bioscience",
+    "permalink": "/docs/citation-styles/bioscience"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+  "id": "citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+  "isDocsHomePage": false,
+  "title": "guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+  "permalink": "/docs/citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
+    "permalink": "/docs/citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french"
+  },
+  "next": {
+    "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+    "permalink": "/docs/citation-styles/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada"
+  }
+}

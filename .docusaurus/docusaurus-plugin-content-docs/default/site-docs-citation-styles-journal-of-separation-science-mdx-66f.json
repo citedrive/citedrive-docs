@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-separation-science",
+  "id": "citation-styles/journal-of-separation-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-separation-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-separation-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-separation-science",
+  "permalink": "/docs/citation-styles/journal-of-separation-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-separation-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-science-and-medicine-in-sport",
+    "permalink": "/docs/citation-styles/journal-of-science-and-medicine-in-sport"
+  },
+  "next": {
+    "title": "journal-of-shoulder-and-elbow-surgery",
+    "permalink": "/docs/citation-styles/journal-of-shoulder-and-elbow-surgery"
+  }
+}

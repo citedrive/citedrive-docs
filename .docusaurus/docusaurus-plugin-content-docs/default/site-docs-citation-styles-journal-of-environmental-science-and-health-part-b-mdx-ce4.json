@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-environmental-science-and-health-part-b",
+  "id": "citation-styles/journal-of-environmental-science-and-health-part-b",
+  "isDocsHomePage": false,
+  "title": "journal-of-environmental-science-and-health-part-b",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-environmental-science-and-health-part-b.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-environmental-science-and-health-part-b",
+  "permalink": "/docs/citation-styles/journal-of-environmental-science-and-health-part-b",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-environmental-science-and-health-part-b.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-endodontics",
+    "permalink": "/docs/citation-styles/journal-of-endodontics"
+  },
+  "next": {
+    "title": "journal-of-eta-maritime-science",
+    "permalink": "/docs/citation-styles/journal-of-eta-maritime-science"
+  }
+}

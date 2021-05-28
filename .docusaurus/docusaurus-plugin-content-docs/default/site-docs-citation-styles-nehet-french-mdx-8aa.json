@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nehet-french",
+  "id": "citation-styles/nehet-french",
+  "isDocsHomePage": false,
+  "title": "nehet-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nehet-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nehet-french",
+  "permalink": "/docs/citation-styles/nehet-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nehet-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish",
+    "permalink": "/docs/citation-styles/necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish"
+  },
+  "next": {
+    "title": "nejm-catalyst-innovations-in-care-delivery",
+    "permalink": "/docs/citation-styles/nejm-catalyst-innovations-in-care-delivery"
+  }
+}

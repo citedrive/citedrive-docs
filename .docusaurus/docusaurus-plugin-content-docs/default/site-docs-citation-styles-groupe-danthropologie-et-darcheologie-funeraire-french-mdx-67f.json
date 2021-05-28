@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french",
+  "id": "citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french",
+  "isDocsHomePage": false,
+  "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french",
+  "permalink": "/docs/citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/groupe-danthropologie-et-darcheologie-funeraire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "grasas-y-aceites",
+    "permalink": "/docs/citation-styles/grasas-y-aceites"
+  },
+  "next": {
+    "title": "guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+    "permalink": "/docs/citation-styles/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french"
+  }
+}

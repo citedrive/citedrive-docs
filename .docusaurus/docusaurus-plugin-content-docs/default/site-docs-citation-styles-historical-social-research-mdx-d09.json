@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/historical-social-research",
+  "id": "citation-styles/historical-social-research",
+  "isDocsHomePage": false,
+  "title": "historical-social-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/historical-social-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/historical-social-research",
+  "permalink": "/docs/citation-styles/historical-social-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/historical-social-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "historical-materialism",
+    "permalink": "/docs/citation-styles/historical-materialism"
+  },
+  "next": {
+    "title": "history-and-theory",
+    "permalink": "/docs/citation-styles/history-and-theory"
+  }
+}

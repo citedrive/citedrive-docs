@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+  "id": "citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+  "isDocsHomePage": false,
+  "title": "zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+  "permalink": "/docs/citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zastosowania-komputerow-w-elektrotechnice",
+    "permalink": "/docs/citation-styles/zastosowania-komputerow-w-elektrotechnice"
+  },
+  "next": {
+    "title": "zdravniski-vestnik-slovenian-medical-journal",
+    "permalink": "/docs/citation-styles/zdravniski-vestnik-slovenian-medical-journal"
+  }
+}

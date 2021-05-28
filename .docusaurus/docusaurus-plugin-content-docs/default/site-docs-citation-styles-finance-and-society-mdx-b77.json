@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/finance-and-society",
+  "id": "citation-styles/finance-and-society",
+  "isDocsHomePage": false,
+  "title": "finance-and-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/finance-and-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/finance-and-society",
+  "permalink": "/docs/citation-styles/finance-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/finance-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fertility-and-sterility",
+    "permalink": "/docs/citation-styles/fertility-and-sterility"
+  },
+  "next": {
+    "title": "finanzarchiv--public-finance-analysis",
+    "permalink": "/docs/citation-styles/finanzarchiv--public-finance-analysis"
+  }
+}

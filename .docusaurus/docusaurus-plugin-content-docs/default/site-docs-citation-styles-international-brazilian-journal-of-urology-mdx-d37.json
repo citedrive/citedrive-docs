@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-brazilian-journal-of-urology",
+  "id": "citation-styles/international-brazilian-journal-of-urology",
+  "isDocsHomePage": false,
+  "title": "international-brazilian-journal-of-urology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-brazilian-journal-of-urology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-brazilian-journal-of-urology",
+  "permalink": "/docs/citation-styles/international-brazilian-journal-of-urology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-brazilian-journal-of-urology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-biodeterioration-and-biodegradation",
+    "permalink": "/docs/citation-styles/international-biodeterioration-and-biodegradation"
+  },
+  "next": {
+    "title": "international-conference-on-information-systems-development",
+    "permalink": "/docs/citation-styles/international-conference-on-information-systems-development"
+  }
+}

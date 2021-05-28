@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revue-archeologique-de-lest-french",
+  "id": "citation-styles/revue-archeologique-de-lest-french",
+  "isDocsHomePage": false,
+  "title": "revue-archeologique-de-lest-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revue-archeologique-de-lest-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revue-archeologique-de-lest-french",
+  "permalink": "/docs/citation-styles/revue-archeologique-de-lest-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revue-archeologique-de-lest-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-virtual-de-quimica-portuguese--brazil",
+    "permalink": "/docs/citation-styles/revista-virtual-de-quimica-portuguese--brazil"
+  },
+  "next": {
+    "title": "revue-archeologique-du-centre-de-la-france-french",
+    "permalink": "/docs/citation-styles/revue-archeologique-du-centre-de-la-france-french"
+  }
+}

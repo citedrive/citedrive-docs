@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+  "id": "citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+  "isDocsHomePage": false,
+  "title": "universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+  "permalink": "/docs/citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
+    "permalink": "/docs/citation-styles/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica"
+  },
+  "next": {
+    "title": "universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+    "permalink": "/docs/citation-styles/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa"
+  }
+}

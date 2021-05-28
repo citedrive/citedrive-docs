@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-nutrition",
+  "id": "citation-styles/journal-of-nutrition",
+  "isDocsHomePage": false,
+  "title": "journal-of-nutrition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-nutrition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-nutrition",
+  "permalink": "/docs/citation-styles/journal-of-nutrition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-nutrition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-new-zealand-grasslands",
+    "permalink": "/docs/citation-styles/journal-of-new-zealand-grasslands"
+  },
+  "next": {
+    "title": "journal-of-oral-and-maxillofacial-surgery",
+    "permalink": "/docs/citation-styles/journal-of-oral-and-maxillofacial-surgery"
+  }
+}

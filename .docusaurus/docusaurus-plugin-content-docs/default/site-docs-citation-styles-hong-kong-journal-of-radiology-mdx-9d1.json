@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hong-kong-journal-of-radiology",
+  "id": "citation-styles/hong-kong-journal-of-radiology",
+  "isDocsHomePage": false,
+  "title": "hong-kong-journal-of-radiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hong-kong-journal-of-radiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hong-kong-journal-of-radiology",
+  "permalink": "/docs/citation-styles/hong-kong-journal-of-radiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hong-kong-journal-of-radiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-pforzheim--fakultat-fur-wirtschaft-und-recht-german",
+    "permalink": "/docs/citation-styles/hochschule-pforzheim--fakultat-fur-wirtschaft-und-recht-german"
+  },
+  "next": {
+    "title": "housing-studies",
+    "permalink": "/docs/citation-styles/housing-studies"
+  }
+}

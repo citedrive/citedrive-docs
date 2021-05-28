@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--basic-numeric-brackets-no-et-al",
+  "id": "citation-styles/springer--basic-numeric-brackets-no-et-al",
+  "isDocsHomePage": false,
+  "title": "springer--basic-numeric-brackets-no-et-al",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--basic-numeric-brackets-no-et-al.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--basic-numeric-brackets-no-et-al",
+  "permalink": "/docs/citation-styles/springer--basic-numeric-brackets-no-et-al",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--basic-numeric-brackets-no-et-al.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-numeric-brackets-no-et-al-alphabetical",
+    "permalink": "/docs/citation-styles/springer--basic-numeric-brackets-no-et-al-alphabetical"
+  },
+  "next": {
+    "title": "springer--basic-numeric-brackets",
+    "permalink": "/docs/citation-styles/springer--basic-numeric-brackets"
+  }
+}

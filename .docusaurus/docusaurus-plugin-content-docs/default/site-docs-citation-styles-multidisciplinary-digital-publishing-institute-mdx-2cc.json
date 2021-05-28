@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/multidisciplinary-digital-publishing-institute",
+  "id": "citation-styles/multidisciplinary-digital-publishing-institute",
+  "isDocsHomePage": false,
+  "title": "multidisciplinary-digital-publishing-institute",
+  "description": "---",
+  "source": "@site/docs/citation-styles/multidisciplinary-digital-publishing-institute.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/multidisciplinary-digital-publishing-institute",
+  "permalink": "/docs/citation-styles/multidisciplinary-digital-publishing-institute",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/multidisciplinary-digital-publishing-institute.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "moorlands-college",
+    "permalink": "/docs/citation-styles/moorlands-college"
+  },
+  "next": {
+    "title": "multimed-spanish",
+    "permalink": "/docs/citation-styles/multimed-spanish"
+  }
+}

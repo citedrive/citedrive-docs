@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically",
+  "id": "citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically",
+  "isDocsHomePage": false,
+  "title": "council-of-science-editors-citationname-numeric-sorted-alphabetically",
+  "description": "---",
+  "source": "@site/docs/citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically",
+  "permalink": "/docs/citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "corrosion",
+    "permalink": "/docs/citation-styles/corrosion"
+  },
+  "next": {
+    "title": "council-of-science-editors-citationsequence-numeric",
+    "permalink": "/docs/citation-styles/council-of-science-editors-citationsequence-numeric"
+  }
+}

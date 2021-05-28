@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada",
+  "id": "citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-de-sherbrooke--faculte-deducation-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada",
+  "permalink": "/docs/citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-sherbrooke--departement-de-geomatique-french--canada",
+    "permalink": "/docs/citation-styles/universite-de-sherbrooke--departement-de-geomatique-french--canada"
+  },
+  "next": {
+    "title": "universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+    "permalink": "/docs/citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada"
+  }
+}

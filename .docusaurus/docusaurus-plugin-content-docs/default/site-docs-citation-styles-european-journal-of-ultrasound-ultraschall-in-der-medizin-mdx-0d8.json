@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin",
+  "id": "citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-ultrasound-ultraschall-in-der-medizin",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin",
+  "permalink": "/docs/citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-journal-of-ultrasound-ultraschall-in-der-medizin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-taxonomy",
+    "permalink": "/docs/citation-styles/european-journal-of-taxonomy"
+  },
+  "next": {
+    "title": "european-journal-of-vascular-and-endovascular-surgery",
+    "permalink": "/docs/citation-styles/european-journal-of-vascular-and-endovascular-surgery"
+  }
+}

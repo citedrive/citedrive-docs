@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+  "id": "citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+  "isDocsHomePage": false,
+  "title": "journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+  "permalink": "/docs/citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "johnson-matthey-technology-review",
+    "permalink": "/docs/citation-styles/johnson-matthey-technology-review"
+  },
+  "next": {
+    "title": "journal-de-la-societe-des-americanistes",
+    "permalink": "/docs/citation-styles/journal-de-la-societe-des-americanistes"
+  }
+}

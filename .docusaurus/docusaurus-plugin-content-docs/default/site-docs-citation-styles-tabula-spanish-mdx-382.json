@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/tabula-spanish",
+  "id": "citation-styles/tabula-spanish",
+  "isDocsHomePage": false,
+  "title": "tabula-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/tabula-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/tabula-spanish",
+  "permalink": "/docs/citation-styles/tabula-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/tabula-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "systematic-biology",
+    "permalink": "/docs/citation-styles/systematic-biology"
+  },
+  "next": {
+    "title": "tagungsberichte-der-historischen-kommission-fur-ost-und-westpreuische-landesforschung-german",
+    "permalink": "/docs/citation-styles/tagungsberichte-der-historischen-kommission-fur-ost-und-westpreuische-landesforschung-german"
+  }
+}

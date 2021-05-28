@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-kunstgeschichte",
+  "id": "citation-styles/zeitschrift-fur-kunstgeschichte",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-kunstgeschichte",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-kunstgeschichte.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-kunstgeschichte",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-kunstgeschichte",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-kunstgeschichte.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-internationale-beziehungen-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-internationale-beziehungen-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-medien-und-kulturforschung-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german"
+  }
+}

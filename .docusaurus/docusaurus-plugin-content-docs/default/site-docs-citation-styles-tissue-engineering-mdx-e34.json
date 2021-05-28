@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/tissue-engineering",
+  "id": "citation-styles/tissue-engineering",
+  "isDocsHomePage": false,
+  "title": "tissue-engineering",
+  "description": "---",
+  "source": "@site/docs/citation-styles/tissue-engineering.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/tissue-engineering",
+  "permalink": "/docs/citation-styles/tissue-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/tissue-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tijdschrift-voor-geneeskunde-dutch",
+    "permalink": "/docs/citation-styles/tijdschrift-voor-geneeskunde-dutch"
+  },
+  "next": {
+    "title": "toxicological-sciences",
+    "permalink": "/docs/citation-styles/toxicological-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/invisu",
+  "id": "citation-styles/invisu",
+  "isDocsHomePage": false,
+  "title": "invisu",
+  "description": "---",
+  "source": "@site/docs/citation-styles/invisu.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/invisu",
+  "permalink": "/docs/citation-styles/invisu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/invisu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "investigative-radiology",
+    "permalink": "/docs/citation-styles/investigative-radiology"
+  },
+  "next": {
+    "title": "ios-press-books",
+    "permalink": "/docs/citation-styles/ios-press-books"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scandinavian-journal-of-work-environment-and-health",
+  "id": "citation-styles/scandinavian-journal-of-work-environment-and-health",
+  "isDocsHomePage": false,
+  "title": "scandinavian-journal-of-work-environment-and-health",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scandinavian-journal-of-work-environment-and-health.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scandinavian-journal-of-work-environment-and-health",
+  "permalink": "/docs/citation-styles/scandinavian-journal-of-work-environment-and-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scandinavian-journal-of-work-environment-and-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scandinavian-journal-of-rheumatology",
+    "permalink": "/docs/citation-styles/scandinavian-journal-of-rheumatology"
+  },
+  "next": {
+    "title": "scandinavian-political-studies",
+    "permalink": "/docs/citation-styles/scandinavian-political-studies"
+  }
+}

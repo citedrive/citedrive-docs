@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-studies-on-alcohol-and-drugs",
+  "id": "citation-styles/journal-of-studies-on-alcohol-and-drugs",
+  "isDocsHomePage": false,
+  "title": "journal-of-studies-on-alcohol-and-drugs",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-studies-on-alcohol-and-drugs.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-studies-on-alcohol-and-drugs",
+  "permalink": "/docs/citation-styles/journal-of-studies-on-alcohol-and-drugs",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-studies-on-alcohol-and-drugs.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-structural-geology",
+    "permalink": "/docs/citation-styles/journal-of-structural-geology"
+  },
+  "next": {
+    "title": "journal-of-surgery-and-medicine",
+    "permalink": "/docs/citation-styles/journal-of-surgery-and-medicine"
+  }
+}

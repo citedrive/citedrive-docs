@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-pollination-ecology",
+  "id": "citation-styles/journal-of-pollination-ecology",
+  "isDocsHomePage": false,
+  "title": "journal-of-pollination-ecology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-pollination-ecology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-pollination-ecology",
+  "permalink": "/docs/citation-styles/journal-of-pollination-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-pollination-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-political-philosophy",
+    "permalink": "/docs/citation-styles/journal-of-political-philosophy"
+  },
+  "next": {
+    "title": "journal-of-polymer-science-part-a-polymer-chemistry",
+    "permalink": "/docs/citation-styles/journal-of-polymer-science-part-a-polymer-chemistry"
+  }
+}

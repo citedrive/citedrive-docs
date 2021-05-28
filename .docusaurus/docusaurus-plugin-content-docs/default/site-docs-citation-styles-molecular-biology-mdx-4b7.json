@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/molecular-biology",
+  "id": "citation-styles/molecular-biology",
+  "isDocsHomePage": false,
+  "title": "molecular-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/molecular-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/molecular-biology",
+  "permalink": "/docs/citation-styles/molecular-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/molecular-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-biology-of-the-cell",
+    "permalink": "/docs/citation-styles/molecular-biology-of-the-cell"
+  },
+  "next": {
+    "title": "molecular-metabolism",
+    "permalink": "/docs/citation-styles/molecular-metabolism"
+  }
+}

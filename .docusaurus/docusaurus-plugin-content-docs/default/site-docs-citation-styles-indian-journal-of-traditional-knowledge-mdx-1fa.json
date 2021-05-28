@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/indian-journal-of-traditional-knowledge",
+  "id": "citation-styles/indian-journal-of-traditional-knowledge",
+  "isDocsHomePage": false,
+  "title": "indian-journal-of-traditional-knowledge",
+  "description": "---",
+  "source": "@site/docs/citation-styles/indian-journal-of-traditional-knowledge.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/indian-journal-of-traditional-knowledge",
+  "permalink": "/docs/citation-styles/indian-journal-of-traditional-knowledge",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/indian-journal-of-traditional-knowledge.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indian-journal-of-physics",
+    "permalink": "/docs/citation-styles/indian-journal-of-physics"
+  },
+  "next": {
+    "title": "indiana",
+    "permalink": "/docs/citation-styles/indiana"
+  }
+}

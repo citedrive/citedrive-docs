@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/diplo",
+  "id": "citation-styles/diplo",
+  "isDocsHomePage": false,
+  "title": "diplo",
+  "description": "---",
+  "source": "@site/docs/citation-styles/diplo.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/diplo",
+  "permalink": "/docs/citation-styles/diplo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/diplo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+    "permalink": "/docs/citation-styles/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690"
+  },
+  "next": {
+    "title": "disability-and-rehabilitation",
+    "permalink": "/docs/citation-styles/disability-and-rehabilitation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/crustaceana",
+  "id": "citation-styles/crustaceana",
+  "isDocsHomePage": false,
+  "title": "crustaceana",
+  "description": "---",
+  "source": "@site/docs/citation-styles/crustaceana.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/crustaceana",
+  "permalink": "/docs/citation-styles/crustaceana",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/crustaceana.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crop-breeding-and-applied-biotechnology",
+    "permalink": "/docs/citation-styles/crop-breeding-and-applied-biotechnology"
+  },
+  "next": {
+    "title": "cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+    "permalink": "/docs/citation-styles/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+  "id": "citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+  "isDocsHomePage": false,
+  "title": "universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+  "permalink": "/docs/citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universitat-bern--institut-fur-sozialanthropologie-german--switzerland.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-bern--institut-fur-musikwissenschaft-note-german",
+    "permalink": "/docs/citation-styles/universitat-bern--institut-fur-musikwissenschaft-note-german"
+  },
+  "next": {
+    "title": "universitat-bremen--institut-fur-politikwissenschaft-german",
+    "permalink": "/docs/citation-styles/universitat-bremen--institut-fur-politikwissenschaft-german"
+  }
+}

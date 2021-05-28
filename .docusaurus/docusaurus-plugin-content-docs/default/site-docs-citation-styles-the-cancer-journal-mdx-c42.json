@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-cancer-journal",
+  "id": "citation-styles/the-cancer-journal",
+  "isDocsHomePage": false,
+  "title": "the-cancer-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-cancer-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-cancer-journal",
+  "permalink": "/docs/citation-styles/the-cancer-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-cancer-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-canadian-journal-of-psychiatry",
+    "permalink": "/docs/citation-styles/the-canadian-journal-of-psychiatry"
+  },
+  "next": {
+    "title": "the-chemical-society-of-japan",
+    "permalink": "/docs/citation-styles/the-chemical-society-of-japan"
+  }
+}

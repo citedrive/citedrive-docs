@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-vertebrate-biology",
+  "id": "citation-styles/journal-of-vertebrate-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-vertebrate-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-vertebrate-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-vertebrate-biology",
+  "permalink": "/docs/citation-styles/journal-of-vertebrate-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-vertebrate-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-vegetation-science",
+    "permalink": "/docs/citation-styles/journal-of-vegetation-science"
+  },
+  "next": {
+    "title": "journal-of-vertebrate-paleontology",
+    "permalink": "/docs/citation-styles/journal-of-vertebrate-paleontology"
+  }
+}

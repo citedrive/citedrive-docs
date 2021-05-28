@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/vigiliae-christianae",
+  "id": "citation-styles/vigiliae-christianae",
+  "isDocsHomePage": false,
+  "title": "vigiliae-christianae",
+  "description": "---",
+  "source": "@site/docs/citation-styles/vigiliae-christianae.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/vigiliae-christianae",
+  "permalink": "/docs/citation-styles/vigiliae-christianae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/vigiliae-christianae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vietnam-ministry-of-education-and-training-vietnamese",
+    "permalink": "/docs/citation-styles/vietnam-ministry-of-education-and-training-vietnamese"
+  },
+  "next": {
+    "title": "vingtieme-siecle-revue-dhistoire-french",
+    "permalink": "/docs/citation-styles/vingtieme-siecle-revue-dhistoire-french"
+  }
+}

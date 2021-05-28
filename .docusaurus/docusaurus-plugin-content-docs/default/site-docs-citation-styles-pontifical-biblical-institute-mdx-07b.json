@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pontifical-biblical-institute",
+  "id": "citation-styles/pontifical-biblical-institute",
+  "isDocsHomePage": false,
+  "title": "pontifical-biblical-institute",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pontifical-biblical-institute.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pontifical-biblical-institute",
+  "permalink": "/docs/citation-styles/pontifical-biblical-institute",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pontifical-biblical-institute.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pontifical-athenaeum-regina-apostolorum",
+    "permalink": "/docs/citation-styles/pontifical-athenaeum-regina-apostolorum"
+  },
+  "next": {
+    "title": "pontifical-gregorian-university-italian",
+    "permalink": "/docs/citation-styles/pontifical-gregorian-university-italian"
+  }
+}

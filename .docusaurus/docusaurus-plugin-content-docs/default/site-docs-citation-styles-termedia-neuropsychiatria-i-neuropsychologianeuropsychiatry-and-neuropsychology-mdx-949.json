@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+  "id": "citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+  "isDocsHomePage": false,
+  "title": "termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+  "permalink": "/docs/citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "teologia-catalunya",
+    "permalink": "/docs/citation-styles/teologia-catalunya"
+  },
+  "next": {
+    "title": "terra-nova",
+    "permalink": "/docs/citation-styles/terra-nova"
+  }
+}

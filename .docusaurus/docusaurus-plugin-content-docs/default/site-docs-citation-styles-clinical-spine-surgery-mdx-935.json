@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-spine-surgery",
+  "id": "citation-styles/clinical-spine-surgery",
+  "isDocsHomePage": false,
+  "title": "clinical-spine-surgery",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-spine-surgery.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-spine-surgery",
+  "permalink": "/docs/citation-styles/clinical-spine-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-spine-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-radiology",
+    "permalink": "/docs/citation-styles/clinical-radiology"
+  },
+  "next": {
+    "title": "clio-medica",
+    "permalink": "/docs/citation-styles/clio-medica"
+  }
+}

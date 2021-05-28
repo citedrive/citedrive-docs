@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish",
+  "id": "citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish",
+  "isDocsHomePage": false,
+  "title": "uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish",
+  "permalink": "/docs/citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-with-ibid-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uludag-universitesi--sosyal-bilimler-enstitusu-full-note-turkish",
+    "permalink": "/docs/citation-styles/uludag-universitesi--sosyal-bilimler-enstitusu-full-note-turkish"
+  },
+  "next": {
+    "title": "unified-style-sheet-for-linguistics",
+    "permalink": "/docs/citation-styles/unified-style-sheet-for-linguistics"
+  }
+}

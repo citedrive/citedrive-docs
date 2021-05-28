@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-journal-of-the-american-society-of-nephrology",
+  "id": "citation-styles/clinical-journal-of-the-american-society-of-nephrology",
+  "isDocsHomePage": false,
+  "title": "clinical-journal-of-the-american-society-of-nephrology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-journal-of-the-american-society-of-nephrology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-journal-of-the-american-society-of-nephrology",
+  "permalink": "/docs/citation-styles/clinical-journal-of-the-american-society-of-nephrology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-journal-of-the-american-society-of-nephrology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-journal-of-sport-medicine",
+    "permalink": "/docs/citation-styles/clinical-journal-of-sport-medicine"
+  },
+  "next": {
+    "title": "clinical-management-issues",
+    "permalink": "/docs/citation-styles/clinical-management-issues"
+  }
+}

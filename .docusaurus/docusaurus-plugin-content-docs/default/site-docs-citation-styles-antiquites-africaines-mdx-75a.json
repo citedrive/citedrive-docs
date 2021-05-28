@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/antiquites-africaines",
+  "id": "citation-styles/antiquites-africaines",
+  "isDocsHomePage": false,
+  "title": "antiquites-africaines",
+  "description": "---",
+  "source": "@site/docs/citation-styles/antiquites-africaines.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/antiquites-africaines",
+  "permalink": "/docs/citation-styles/antiquites-africaines",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/antiquites-africaines.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antipode",
+    "permalink": "/docs/citation-styles/antipode"
+  },
+  "next": {
+    "title": "antiquity",
+    "permalink": "/docs/citation-styles/antiquity"
+  }
+}

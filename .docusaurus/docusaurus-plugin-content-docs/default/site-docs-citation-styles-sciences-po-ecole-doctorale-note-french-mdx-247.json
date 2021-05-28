@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sciences-po--ecole-doctorale-note-french",
+  "id": "citation-styles/sciences-po--ecole-doctorale-note-french",
+  "isDocsHomePage": false,
+  "title": "sciences-po--ecole-doctorale-note-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sciences-po--ecole-doctorale-note-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sciences-po--ecole-doctorale-note-french",
+  "permalink": "/docs/citation-styles/sciences-po--ecole-doctorale-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sciences-po--ecole-doctorale-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sciences-po--ecole-doctorale-authordate-french",
+    "permalink": "/docs/citation-styles/sciences-po--ecole-doctorale-authordate-french"
+  },
+  "next": {
+    "title": "scientia-agriculturae-bohemica",
+    "permalink": "/docs/citation-styles/scientia-agriculturae-bohemica"
+  }
+}

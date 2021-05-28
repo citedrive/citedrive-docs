@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bulletin-of-the-american-schools-of-oriental-research",
+  "id": "citation-styles/bulletin-of-the-american-schools-of-oriental-research",
+  "isDocsHomePage": false,
+  "title": "bulletin-of-the-american-schools-of-oriental-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bulletin-of-the-american-schools-of-oriental-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bulletin-of-the-american-schools-of-oriental-research",
+  "permalink": "/docs/citation-styles/bulletin-of-the-american-schools-of-oriental-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bulletin-of-the-american-schools-of-oriental-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-of-marine-science",
+    "permalink": "/docs/citation-styles/bulletin-of-marine-science"
+  },
+  "next": {
+    "title": "bulletin-of-the-seismological-society-of-america",
+    "permalink": "/docs/citation-styles/bulletin-of-the-seismological-society-of-america"
+  }
+}

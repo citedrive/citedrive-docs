@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/institute-for-operations-research-and-the-management-sciences",
+  "id": "citation-styles/institute-for-operations-research-and-the-management-sciences",
+  "isDocsHomePage": false,
+  "title": "institute-for-operations-research-and-the-management-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/institute-for-operations-research-and-the-management-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/institute-for-operations-research-and-the-management-sciences",
+  "permalink": "/docs/citation-styles/institute-for-operations-research-and-the-management-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/institute-for-operations-research-and-the-management-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-teknologi-bandung--sekolah-pascasarjana",
+    "permalink": "/docs/citation-styles/institut-teknologi-bandung--sekolah-pascasarjana"
+  },
+  "next": {
+    "title": "institute-of-mathematical-statistics-journals",
+    "permalink": "/docs/citation-styles/institute-of-mathematical-statistics-journals"
+  }
+}

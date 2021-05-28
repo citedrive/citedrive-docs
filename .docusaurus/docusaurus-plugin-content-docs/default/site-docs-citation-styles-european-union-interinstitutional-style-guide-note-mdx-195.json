@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-union--interinstitutional-style-guide-note",
+  "id": "citation-styles/european-union--interinstitutional-style-guide-note",
+  "isDocsHomePage": false,
+  "title": "european-union--interinstitutional-style-guide-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-union--interinstitutional-style-guide-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-union--interinstitutional-style-guide-note",
+  "permalink": "/docs/citation-styles/european-union--interinstitutional-style-guide-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-union--interinstitutional-style-guide-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-union--interinstitutional-style-guide-authordate",
+    "permalink": "/docs/citation-styles/european-union--interinstitutional-style-guide-authordate"
+  },
+  "next": {
+    "title": "eva-berlin-konferenz-german",
+    "permalink": "/docs/citation-styles/eva-berlin-konferenz-german"
+  }
+}

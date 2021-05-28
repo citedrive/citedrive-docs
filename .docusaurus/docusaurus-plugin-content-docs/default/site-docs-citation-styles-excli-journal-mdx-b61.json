@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/excli-journal",
+  "id": "citation-styles/excli-journal",
+  "isDocsHomePage": false,
+  "title": "excli-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/excli-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/excli-journal",
+  "permalink": "/docs/citation-styles/excli-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/excli-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolutionary-ecology-research",
+    "permalink": "/docs/citation-styles/evolutionary-ecology-research"
+  },
+  "next": {
+    "title": "exercer-french",
+    "permalink": "/docs/citation-styles/exercer-french"
+  }
+}

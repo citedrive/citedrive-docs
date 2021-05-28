@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/quaternary-international",
+  "id": "citation-styles/quaternary-international",
+  "isDocsHomePage": false,
+  "title": "quaternary-international",
+  "description": "---",
+  "source": "@site/docs/citation-styles/quaternary-international.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/quaternary-international",
+  "permalink": "/docs/citation-styles/quaternary-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/quaternary-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quaternaire-french",
+    "permalink": "/docs/citation-styles/quaternaire-french"
+  },
+  "next": {
+    "title": "queen-margaret-university--harvard",
+    "permalink": "/docs/citation-styles/queen-margaret-university--harvard"
+  }
+}

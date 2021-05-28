@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/science-and-technology-for-the-built-environment",
+  "id": "citation-styles/science-and-technology-for-the-built-environment",
+  "isDocsHomePage": false,
+  "title": "science-and-technology-for-the-built-environment",
+  "description": "---",
+  "source": "@site/docs/citation-styles/science-and-technology-for-the-built-environment.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/science-and-technology-for-the-built-environment",
+  "permalink": "/docs/citation-styles/science-and-technology-for-the-built-environment",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/science-and-technology-for-the-built-environment.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scandinavian-political-studies",
+    "permalink": "/docs/citation-styles/scandinavian-political-studies"
+  },
+  "next": {
+    "title": "science-china-chemistry",
+    "permalink": "/docs/citation-styles/science-china-chemistry"
+  }
+}

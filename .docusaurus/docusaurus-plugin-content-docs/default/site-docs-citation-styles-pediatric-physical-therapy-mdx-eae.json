@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pediatric-physical-therapy",
+  "id": "citation-styles/pediatric-physical-therapy",
+  "isDocsHomePage": false,
+  "title": "pediatric-physical-therapy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pediatric-physical-therapy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pediatric-physical-therapy",
+  "permalink": "/docs/citation-styles/pediatric-physical-therapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pediatric-physical-therapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-infectious-disease-journal",
+    "permalink": "/docs/citation-styles/pediatric-infectious-disease-journal"
+  },
+  "next": {
+    "title": "pediatric-practice-and-research",
+    "permalink": "/docs/citation-styles/pediatric-practice-and-research"
+  }
+}

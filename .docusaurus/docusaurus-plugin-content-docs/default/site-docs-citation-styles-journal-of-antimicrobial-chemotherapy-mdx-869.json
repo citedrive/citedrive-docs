@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-antimicrobial-chemotherapy",
+  "id": "citation-styles/journal-of-antimicrobial-chemotherapy",
+  "isDocsHomePage": false,
+  "title": "journal-of-antimicrobial-chemotherapy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-antimicrobial-chemotherapy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-antimicrobial-chemotherapy",
+  "permalink": "/docs/citation-styles/journal-of-antimicrobial-chemotherapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-antimicrobial-chemotherapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-animal-science",
+    "permalink": "/docs/citation-styles/journal-of-animal-science"
+  },
+  "next": {
+    "title": "journal-of-aoac-international",
+    "permalink": "/docs/citation-styles/journal-of-aoac-international"
+  }
+}

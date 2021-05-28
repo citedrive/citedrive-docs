@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-chemical-society-of-japan",
+  "id": "citation-styles/the-chemical-society-of-japan",
+  "isDocsHomePage": false,
+  "title": "the-chemical-society-of-japan",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-chemical-society-of-japan.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-chemical-society-of-japan",
+  "permalink": "/docs/citation-styles/the-chemical-society-of-japan",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-chemical-society-of-japan.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-cancer-journal",
+    "permalink": "/docs/citation-styles/the-cancer-journal"
+  },
+  "next": {
+    "title": "the-company-of-biologists",
+    "permalink": "/docs/citation-styles/the-company-of-biologists"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-south-african-veterinary-association",
+  "id": "citation-styles/journal-of-the-south-african-veterinary-association",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-south-african-veterinary-association",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-south-african-veterinary-association.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-south-african-veterinary-association",
+  "permalink": "/docs/citation-styles/journal-of-the-south-african-veterinary-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-south-african-veterinary-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-serbian-chemical-society",
+    "permalink": "/docs/citation-styles/journal-of-the-serbian-chemical-society"
+  },
+  "next": {
+    "title": "journal-of-the-warburg-and-courtauld-institutes",
+    "permalink": "/docs/citation-styles/journal-of-the-warburg-and-courtauld-institutes"
+  }
+}

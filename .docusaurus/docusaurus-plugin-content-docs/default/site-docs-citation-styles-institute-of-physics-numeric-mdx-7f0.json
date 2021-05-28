@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/institute-of-physics-numeric",
+  "id": "citation-styles/institute-of-physics-numeric",
+  "isDocsHomePage": false,
+  "title": "institute-of-physics-numeric",
+  "description": "---",
+  "source": "@site/docs/citation-styles/institute-of-physics-numeric.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/institute-of-physics-numeric",
+  "permalink": "/docs/citation-styles/institute-of-physics-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/institute-of-physics-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institute-of-physics--harvard",
+    "permalink": "/docs/citation-styles/institute-of-physics--harvard"
+  },
+  "next": {
+    "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+    "permalink": "/docs/citation-styles/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada"
+  }
+}

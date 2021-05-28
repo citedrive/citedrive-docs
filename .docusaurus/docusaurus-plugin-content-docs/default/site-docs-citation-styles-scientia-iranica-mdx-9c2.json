@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scientia-iranica",
+  "id": "citation-styles/scientia-iranica",
+  "isDocsHomePage": false,
+  "title": "scientia-iranica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scientia-iranica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scientia-iranica",
+  "permalink": "/docs/citation-styles/scientia-iranica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scientia-iranica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scientia-agriculturae-bohemica",
+    "permalink": "/docs/citation-styles/scientia-agriculturae-bohemica"
+  },
+  "next": {
+    "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+    "permalink": "/docs/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska"
+  }
+}

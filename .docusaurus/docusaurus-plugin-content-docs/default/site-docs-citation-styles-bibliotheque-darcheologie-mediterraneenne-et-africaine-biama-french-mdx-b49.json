@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+  "id": "citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+  "isDocsHomePage": false,
+  "title": "bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+  "permalink": "/docs/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biblio-3w-spanish",
+    "permalink": "/docs/citation-styles/biblio-3w-spanish"
+  },
+  "next": {
+    "title": "bibliotheque-universitaire-de-medecine--vancouver-french",
+    "permalink": "/docs/citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french"
+  }
+}

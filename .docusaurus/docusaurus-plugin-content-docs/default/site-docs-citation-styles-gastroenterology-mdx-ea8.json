@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/gastroenterology",
+  "id": "citation-styles/gastroenterology",
+  "isDocsHomePage": false,
+  "title": "gastroenterology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/gastroenterology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/gastroenterology",
+  "permalink": "/docs/citation-styles/gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gallia-prehistoire-french",
+    "permalink": "/docs/citation-styles/gallia-prehistoire-french"
+  },
+  "next": {
+    "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/karstenia",
+  "id": "citation-styles/karstenia",
+  "isDocsHomePage": false,
+  "title": "karstenia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/karstenia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/karstenia",
+  "permalink": "/docs/citation-styles/karstenia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/karstenia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karlstad-universitet--harvard-swedish",
+    "permalink": "/docs/citation-styles/karlstad-universitet--harvard-swedish"
+  },
+  "next": {
+    "title": "keel-ja-kirjandus-estonian",
+    "permalink": "/docs/citation-styles/keel-ja-kirjandus-estonian"
+  }
+}

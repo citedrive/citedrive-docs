@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+  "id": "citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+  "isDocsHomePage": false,
+  "title": "escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+  "description": "---",
+  "source": "@site/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+  "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+    "permalink": "/docs/citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil"
+  },
+  "next": {
+    "title": "escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+    "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico"
+  }
+}

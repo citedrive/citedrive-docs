@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-archaeological-research",
+  "id": "citation-styles/journal-of-archaeological-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-archaeological-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-archaeological-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-archaeological-research",
+  "permalink": "/docs/citation-styles/journal-of-archaeological-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-archaeological-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-applied-polymer-science",
+    "permalink": "/docs/citation-styles/journal-of-applied-polymer-science"
+  },
+  "next": {
+    "title": "journal-of-atrial-fibrillation",
+    "permalink": "/docs/citation-styles/journal-of-atrial-fibrillation"
+  }
+}

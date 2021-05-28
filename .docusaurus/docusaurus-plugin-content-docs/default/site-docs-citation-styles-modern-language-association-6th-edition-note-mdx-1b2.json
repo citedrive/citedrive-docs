@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/modern-language-association-6th-edition-note",
+  "id": "citation-styles/modern-language-association-6th-edition-note",
+  "isDocsHomePage": false,
+  "title": "modern-language-association-6th-edition-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/modern-language-association-6th-edition-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/modern-language-association-6th-edition-note",
+  "permalink": "/docs/citation-styles/modern-language-association-6th-edition-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/modern-language-association-6th-edition-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "modern-humanities-research-association-3rd-edition-note-with-bibliography",
+    "permalink": "/docs/citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography"
+  },
+  "next": {
+    "title": "modern-language-association-7th-edition-underline",
+    "permalink": "/docs/citation-styles/modern-language-association-7th-edition-underline"
+  }
+}

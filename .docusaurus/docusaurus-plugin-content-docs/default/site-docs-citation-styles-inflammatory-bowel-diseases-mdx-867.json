@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/inflammatory-bowel-diseases",
+  "id": "citation-styles/inflammatory-bowel-diseases",
+  "isDocsHomePage": false,
+  "title": "inflammatory-bowel-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/inflammatory-bowel-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/inflammatory-bowel-diseases",
+  "permalink": "/docs/citation-styles/inflammatory-bowel-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/inflammatory-bowel-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infectious-disease-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/infectious-disease-clinics-of-north-america"
+  },
+  "next": {
+    "title": "influenza-and-other-respiratory-viruses",
+    "permalink": "/docs/citation-styles/influenza-and-other-respiratory-viruses"
+  }
+}

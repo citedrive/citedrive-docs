@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/collections-electroniques-de-linha-authordate-french",
+  "id": "citation-styles/collections-electroniques-de-linha-authordate-french",
+  "isDocsHomePage": false,
+  "title": "collections-electroniques-de-linha-authordate-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/collections-electroniques-de-linha-authordate-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/collections-electroniques-de-linha-authordate-french",
+  "permalink": "/docs/citation-styles/collections-electroniques-de-linha-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/collections-electroniques-de-linha-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "collection-du-centre-jeanberard-french",
+    "permalink": "/docs/citation-styles/collection-du-centre-jeanberard-french"
+  },
+  "next": {
+    "title": "collections-electroniques-de-linha-full-note-french",
+    "permalink": "/docs/citation-styles/collections-electroniques-de-linha-full-note-french"
+  }
+}

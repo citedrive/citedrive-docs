@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/les-journees-de-la-recherche-porcine-french",
+  "id": "citation-styles/les-journees-de-la-recherche-porcine-french",
+  "isDocsHomePage": false,
+  "title": "les-journees-de-la-recherche-porcine-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/les-journees-de-la-recherche-porcine-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/les-journees-de-la-recherche-porcine-french",
+  "permalink": "/docs/citation-styles/les-journees-de-la-recherche-porcine-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/les-journees-de-la-recherche-porcine-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "les-journees-de-la-recherche-avicole-french",
+    "permalink": "/docs/citation-styles/les-journees-de-la-recherche-avicole-french"
+  },
+  "next": {
+    "title": "les-nouvelles-de-larcheologie-french",
+    "permalink": "/docs/citation-styles/les-nouvelles-de-larcheologie-french"
+  }
+}

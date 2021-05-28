@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aquatic-living-resources",
+  "id": "citation-styles/aquatic-living-resources",
+  "isDocsHomePage": false,
+  "title": "aquatic-living-resources",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aquatic-living-resources.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aquatic-living-resources",
+  "permalink": "/docs/citation-styles/aquatic-living-resources",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aquatic-living-resources.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquatic-invasions",
+    "permalink": "/docs/citation-styles/aquatic-invasions"
+  },
+  "next": {
+    "title": "aquitania-french",
+    "permalink": "/docs/citation-styles/aquitania-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+  "id": "citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+  "isDocsHomePage": false,
+  "title": "ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+  "permalink": "/docs/citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+    "permalink": "/docs/citation-styles/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria"
+  },
+  "next": {
+    "title": "ow-barth-verlag-german",
+    "permalink": "/docs/citation-styles/ow-barth-verlag-german"
+  }
+}

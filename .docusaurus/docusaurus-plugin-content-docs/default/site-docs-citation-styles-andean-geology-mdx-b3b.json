@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/andean-geology",
+  "id": "citation-styles/andean-geology",
+  "isDocsHomePage": false,
+  "title": "andean-geology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/andean-geology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/andean-geology",
+  "permalink": "/docs/citation-styles/andean-geology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/andean-geology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ancilla-iuris",
+    "permalink": "/docs/citation-styles/ancilla-iuris"
+  },
+  "next": {
+    "title": "anesthesia-and-analgesia",
+    "permalink": "/docs/citation-styles/anesthesia-and-analgesia"
+  }
+}

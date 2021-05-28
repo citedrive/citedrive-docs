@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nuclear-receptor-signaling",
+  "id": "citation-styles/nuclear-receptor-signaling",
+  "isDocsHomePage": false,
+  "title": "nuclear-receptor-signaling",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nuclear-receptor-signaling.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nuclear-receptor-signaling",
+  "permalink": "/docs/citation-styles/nuclear-receptor-signaling",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nuclear-receptor-signaling.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nowa-audiofonologia-polish",
+    "permalink": "/docs/citation-styles/nowa-audiofonologia-polish"
+  },
+  "next": {
+    "title": "nucleic-acids-research--web-server-issue",
+    "permalink": "/docs/citation-styles/nucleic-acids-research--web-server-issue"
+  }
+}

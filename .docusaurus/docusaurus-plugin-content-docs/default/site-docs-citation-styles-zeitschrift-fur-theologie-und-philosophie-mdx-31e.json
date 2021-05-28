@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-theologie-und-philosophie",
+  "id": "citation-styles/zeitschrift-fur-theologie-und-philosophie",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-theologie-und-philosophie",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-theologie-und-philosophie.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-theologie-und-philosophie",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-theologie-und-philosophie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-theologie-und-philosophie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-theologie-und-kirche-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-theologie-und-kirche-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-zahnarztliche-implantologie-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-zahnarztliche-implantologie-german"
+  }
+}

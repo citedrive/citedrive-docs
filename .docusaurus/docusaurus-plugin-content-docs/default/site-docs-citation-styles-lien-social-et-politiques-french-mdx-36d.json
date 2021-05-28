@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lien-social-et-politiques-french",
+  "id": "citation-styles/lien-social-et-politiques-french",
+  "isDocsHomePage": false,
+  "title": "lien-social-et-politiques-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lien-social-et-politiques-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lien-social-et-politiques-french",
+  "permalink": "/docs/citation-styles/lien-social-et-politiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lien-social-et-politiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lhomme--revue-francaise-danthropologie",
+    "permalink": "/docs/citation-styles/lhomme--revue-francaise-danthropologie"
+  },
+  "next": {
+    "title": "limnetica",
+    "permalink": "/docs/citation-styles/limnetica"
+  }
+}

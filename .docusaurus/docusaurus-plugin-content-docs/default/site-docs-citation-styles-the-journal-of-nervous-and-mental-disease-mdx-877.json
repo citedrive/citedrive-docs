@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-nervous-and-mental-disease",
+  "id": "citation-styles/the-journal-of-nervous-and-mental-disease",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-nervous-and-mental-disease",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-nervous-and-mental-disease.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-nervous-and-mental-disease",
+  "permalink": "/docs/citation-styles/the-journal-of-nervous-and-mental-disease",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-nervous-and-mental-disease.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-molecular-diagnostics",
+    "permalink": "/docs/citation-styles/the-journal-of-molecular-diagnostics"
+  },
+  "next": {
+    "title": "the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+    "permalink": "/docs/citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences"
+  }
+}

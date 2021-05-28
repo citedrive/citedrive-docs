@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iso690-numeric-lithuanian",
+  "id": "citation-styles/iso690-numeric-lithuanian",
+  "isDocsHomePage": false,
+  "title": "iso690-numeric-lithuanian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iso690-numeric-lithuanian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iso690-numeric-lithuanian",
+  "permalink": "/docs/citation-styles/iso690-numeric-lithuanian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iso690-numeric-lithuanian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-numeric-french",
+    "permalink": "/docs/citation-styles/iso690-numeric-french"
+  },
+  "next": {
+    "title": "iso690-numeric-parentheses-czech",
+    "permalink": "/docs/citation-styles/iso690-numeric-parentheses-czech"
+  }
+}

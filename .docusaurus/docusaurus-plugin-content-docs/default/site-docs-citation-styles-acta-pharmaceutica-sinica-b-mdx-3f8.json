@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-pharmaceutica-sinica-b",
+  "id": "citation-styles/acta-pharmaceutica-sinica-b",
+  "isDocsHomePage": false,
+  "title": "acta-pharmaceutica-sinica-b",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-pharmaceutica-sinica-b.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-pharmaceutica-sinica-b",
+  "permalink": "/docs/citation-styles/acta-pharmaceutica-sinica-b",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-pharmaceutica-sinica-b.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-palaeontologica-polonica",
+    "permalink": "/docs/citation-styles/acta-palaeontologica-polonica"
+  },
+  "next": {
+    "title": "acta-pharmaceutica",
+    "permalink": "/docs/citation-styles/acta-pharmaceutica"
+  }
+}

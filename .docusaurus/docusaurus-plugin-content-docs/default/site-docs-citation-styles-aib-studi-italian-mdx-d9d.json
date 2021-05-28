@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aib-studi-italian",
+  "id": "citation-styles/aib-studi-italian",
+  "isDocsHomePage": false,
+  "title": "aib-studi-italian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aib-studi-italian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aib-studi-italian",
+  "permalink": "/docs/citation-styles/aib-studi-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aib-studi-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agriculturae-conspectus-scientificus",
+    "permalink": "/docs/citation-styles/agriculturae-conspectus-scientificus"
+  },
+  "next": {
+    "title": "aids",
+    "permalink": "/docs/citation-styles/aids"
+  }
+}

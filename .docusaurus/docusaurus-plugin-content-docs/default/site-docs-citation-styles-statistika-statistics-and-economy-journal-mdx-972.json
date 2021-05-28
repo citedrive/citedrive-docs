@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/statistika-statistics-and-economy-journal",
+  "id": "citation-styles/statistika-statistics-and-economy-journal",
+  "isDocsHomePage": false,
+  "title": "statistika-statistics-and-economy-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/statistika-statistics-and-economy-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/statistika-statistics-and-economy-journal",
+  "permalink": "/docs/citation-styles/statistika-statistics-and-economy-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/statistika-statistics-and-economy-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "staffordshire-university--harvard",
+    "permalink": "/docs/citation-styles/staffordshire-university--harvard"
+  },
+  "next": {
+    "title": "stavebni-obzor-czech",
+    "permalink": "/docs/citation-styles/stavebni-obzor-czech"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/magnetic-resonance-in-medicine",
+  "id": "citation-styles/magnetic-resonance-in-medicine",
+  "isDocsHomePage": false,
+  "title": "magnetic-resonance-in-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/magnetic-resonance-in-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/magnetic-resonance-in-medicine",
+  "permalink": "/docs/citation-styles/magnetic-resonance-in-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/magnetic-resonance-in-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "macromolecular-reaction-engineering",
+    "permalink": "/docs/citation-styles/macromolecular-reaction-engineering"
+  },
+  "next": {
+    "title": "magnetic-resonance-materials-in-physics-biology-and-medicine",
+    "permalink": "/docs/citation-styles/magnetic-resonance-materials-in-physics-biology-and-medicine"
+  }
+}

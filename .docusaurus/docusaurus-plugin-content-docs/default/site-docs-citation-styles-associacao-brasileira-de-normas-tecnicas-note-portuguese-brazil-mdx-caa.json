@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+  "id": "citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+  "permalink": "/docs/citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "assay-and-drug-development-technologies",
+    "permalink": "/docs/citation-styles/assay-and-drug-development-technologies"
+  },
+  "next": {
+    "title": "associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
+    "permalink": "/docs/citation-styles/associacao-brasileira-de-normas-tecnicas-portuguese--brazil"
+  }
+}

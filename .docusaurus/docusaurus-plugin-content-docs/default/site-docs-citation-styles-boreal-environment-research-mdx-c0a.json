@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/boreal-environment-research",
+  "id": "citation-styles/boreal-environment-research",
+  "isDocsHomePage": false,
+  "title": "boreal-environment-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/boreal-environment-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/boreal-environment-research",
+  "permalink": "/docs/citation-styles/boreal-environment-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/boreal-environment-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bollettino-darcheologia-online-italian",
+    "permalink": "/docs/citation-styles/bollettino-darcheologia-online-italian"
+  },
+  "next": {
+    "title": "bourgognefranchecomte-nature-french",
+    "permalink": "/docs/citation-styles/bourgognefranchecomte-nature-french"
+  }
+}

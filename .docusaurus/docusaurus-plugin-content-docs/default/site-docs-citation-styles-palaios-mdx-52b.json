@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/palaios",
+  "id": "citation-styles/palaios",
+  "isDocsHomePage": false,
+  "title": "palaios",
+  "description": "---",
+  "source": "@site/docs/citation-styles/palaios.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/palaios",
+  "permalink": "/docs/citation-styles/palaios",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/palaios.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeovertebrata",
+    "permalink": "/docs/citation-styles/palaeovertebrata"
+  },
+  "next": {
+    "title": "paleobiology",
+    "permalink": "/docs/citation-styles/paleobiology"
+  }
+}

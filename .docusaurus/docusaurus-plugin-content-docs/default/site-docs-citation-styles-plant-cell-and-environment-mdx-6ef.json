@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-cell-and-environment",
+  "id": "citation-styles/plant-cell-and-environment",
+  "isDocsHomePage": false,
+  "title": "plant-cell-and-environment",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-cell-and-environment.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-cell-and-environment",
+  "permalink": "/docs/citation-styles/plant-cell-and-environment",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-cell-and-environment.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-biotechnology-journal",
+    "permalink": "/docs/citation-styles/plant-biotechnology-journal"
+  },
+  "next": {
+    "title": "plant-genetic-resources--characterization-and-utilization",
+    "permalink": "/docs/citation-styles/plant-genetic-resources--characterization-and-utilization"
+  }
+}

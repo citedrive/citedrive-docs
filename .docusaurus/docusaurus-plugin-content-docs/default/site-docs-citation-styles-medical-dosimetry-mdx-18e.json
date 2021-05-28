@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/medical-dosimetry",
+  "id": "citation-styles/medical-dosimetry",
+  "isDocsHomePage": false,
+  "title": "medical-dosimetry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/medical-dosimetry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/medical-dosimetry",
+  "permalink": "/docs/citation-styles/medical-dosimetry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/medical-dosimetry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mediaeval-studies",
+    "permalink": "/docs/citation-styles/mediaeval-studies"
+  },
+  "next": {
+    "title": "medical-history",
+    "permalink": "/docs/citation-styles/medical-history"
+  }
+}

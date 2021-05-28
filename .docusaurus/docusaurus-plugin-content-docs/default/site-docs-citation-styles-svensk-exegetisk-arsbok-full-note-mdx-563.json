@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/svensk-exegetisk-arsbok-full-note",
+  "id": "citation-styles/svensk-exegetisk-arsbok-full-note",
+  "isDocsHomePage": false,
+  "title": "svensk-exegetisk-arsbok-full-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/svensk-exegetisk-arsbok-full-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/svensk-exegetisk-arsbok-full-note",
+  "permalink": "/docs/citation-styles/svensk-exegetisk-arsbok-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/svensk-exegetisk-arsbok-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "surgical-pathology-clinics",
+    "permalink": "/docs/citation-styles/surgical-pathology-clinics"
+  },
+  "next": {
+    "title": "swedish-legal-swedish",
+    "permalink": "/docs/citation-styles/swedish-legal-swedish"
+  }
+}

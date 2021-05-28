@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/archeologia-classica-italian",
+  "id": "citation-styles/archeologia-classica-italian",
+  "isDocsHomePage": false,
+  "title": "archeologia-classica-italian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/archeologia-classica-italian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/archeologia-classica-italian",
+  "permalink": "/docs/citation-styles/archeologia-classica-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/archeologia-classica-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archaeonautica",
+    "permalink": "/docs/citation-styles/archaeonautica"
+  },
+  "next": {
+    "title": "archeologicke-rozhledy",
+    "permalink": "/docs/citation-styles/archeologicke-rozhledy"
+  }
+}

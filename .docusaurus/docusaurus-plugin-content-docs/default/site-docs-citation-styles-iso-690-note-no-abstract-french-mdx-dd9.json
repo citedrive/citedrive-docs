@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iso690-note-no-abstract-french",
+  "id": "citation-styles/iso690-note-no-abstract-french",
+  "isDocsHomePage": false,
+  "title": "iso690-note-no-abstract-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iso690-note-no-abstract-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iso690-note-no-abstract-french",
+  "permalink": "/docs/citation-styles/iso690-note-no-abstract-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iso690-note-no-abstract-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-full-note-slovak",
+    "permalink": "/docs/citation-styles/iso690-full-note-slovak"
+  },
+  "next": {
+    "title": "iso690-note-without-bibliography-czech",
+    "permalink": "/docs/citation-styles/iso690-note-without-bibliography-czech"
+  }
+}

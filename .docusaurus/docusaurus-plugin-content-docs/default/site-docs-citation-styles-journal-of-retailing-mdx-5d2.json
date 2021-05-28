@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-retailing",
+  "id": "citation-styles/journal-of-retailing",
+  "isDocsHomePage": false,
+  "title": "journal-of-retailing",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-retailing.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-retailing",
+  "permalink": "/docs/citation-styles/journal-of-retailing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-retailing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-refugee-studies",
+    "permalink": "/docs/citation-styles/journal-of-refugee-studies"
+  },
+  "next": {
+    "title": "journal-of-rheumatology",
+    "permalink": "/docs/citation-styles/journal-of-rheumatology"
+  }
+}

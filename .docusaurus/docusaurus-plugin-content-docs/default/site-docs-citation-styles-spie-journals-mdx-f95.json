@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/spie-journals",
+  "id": "citation-styles/spie-journals",
+  "isDocsHomePage": false,
+  "title": "spie-journals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/spie-journals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/spie-journals",
+  "permalink": "/docs/citation-styles/spie-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/spie-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spie-conference-proceedings",
+    "permalink": "/docs/citation-styles/spie-conference-proceedings"
+  },
+  "next": {
+    "title": "spine",
+    "permalink": "/docs/citation-styles/spine"
+  }
+}

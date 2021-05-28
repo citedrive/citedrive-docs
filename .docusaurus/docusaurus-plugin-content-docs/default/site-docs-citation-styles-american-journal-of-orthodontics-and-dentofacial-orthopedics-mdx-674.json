@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "id": "citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "permalink": "/docs/citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-neuroradiology",
+    "permalink": "/docs/citation-styles/american-journal-of-neuroradiology"
+  },
+  "next": {
+    "title": "american-journal-of-plant-sciences",
+    "permalink": "/docs/citation-styles/american-journal-of-plant-sciences"
+  }
+}

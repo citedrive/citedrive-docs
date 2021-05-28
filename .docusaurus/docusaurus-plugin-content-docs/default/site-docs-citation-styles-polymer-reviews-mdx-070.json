@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/polymer-reviews",
+  "id": "citation-styles/polymer-reviews",
+  "isDocsHomePage": false,
+  "title": "polymer-reviews",
+  "description": "---",
+  "source": "@site/docs/citation-styles/polymer-reviews.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/polymer-reviews",
+  "permalink": "/docs/citation-styles/polymer-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/polymer-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "politix-french",
+    "permalink": "/docs/citation-styles/politix-french"
+  },
+  "next": {
+    "title": "pontifical-athenaeum-regina-apostolorum",
+    "permalink": "/docs/citation-styles/pontifical-athenaeum-regina-apostolorum"
+  }
+}

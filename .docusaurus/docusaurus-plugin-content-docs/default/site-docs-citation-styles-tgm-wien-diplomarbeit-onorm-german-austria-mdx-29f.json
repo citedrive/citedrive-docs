@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/tgm-wien-diplomarbeit-onorm-german--austria",
+  "id": "citation-styles/tgm-wien-diplomarbeit-onorm-german--austria",
+  "isDocsHomePage": false,
+  "title": "tgm-wien-diplomarbeit-onorm-german--austria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/tgm-wien-diplomarbeit-onorm-german--austria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/tgm-wien-diplomarbeit-onorm-german--austria",
+  "permalink": "/docs/citation-styles/tgm-wien-diplomarbeit-onorm-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/tgm-wien-diplomarbeit-onorm-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tgm-wien-diplomarbeit-german",
+    "permalink": "/docs/citation-styles/tgm-wien-diplomarbeit-german"
+  },
+  "next": {
+    "title": "the-accounting-review",
+    "permalink": "/docs/citation-styles/the-accounting-review"
+  }
+}

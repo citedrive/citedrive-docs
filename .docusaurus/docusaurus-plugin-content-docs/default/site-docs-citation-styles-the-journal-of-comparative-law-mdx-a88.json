@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-comparative-law",
+  "id": "citation-styles/the-journal-of-comparative-law",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-comparative-law",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-comparative-law.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-comparative-law",
+  "permalink": "/docs/citation-styles/the-journal-of-comparative-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-comparative-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-clinical-investigation",
+    "permalink": "/docs/citation-styles/the-journal-of-clinical-investigation"
+  },
+  "next": {
+    "title": "the-journal-of-comparative-neurology",
+    "permalink": "/docs/citation-styles/the-journal-of-comparative-neurology"
+  }
+}

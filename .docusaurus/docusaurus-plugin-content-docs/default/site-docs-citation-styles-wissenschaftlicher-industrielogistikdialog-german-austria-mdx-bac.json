@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria",
+  "id": "citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria",
+  "isDocsHomePage": false,
+  "title": "wissenschaftlicher-industrielogistikdialog-german--austria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria",
+  "permalink": "/docs/citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wirtschaftsuniversitat-wien-authordate",
+    "permalink": "/docs/citation-styles/wirtschaftsuniversitat-wien-authordate"
+  },
+  "next": {
+    "title": "world-applied-sciences-journal",
+    "permalink": "/docs/citation-styles/world-applied-sciences-journal"
+  }
+}

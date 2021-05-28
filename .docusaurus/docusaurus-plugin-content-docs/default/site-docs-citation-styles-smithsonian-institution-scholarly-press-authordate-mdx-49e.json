@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/smithsonian-institution-scholarly-press-authordate",
+  "id": "citation-styles/smithsonian-institution-scholarly-press-authordate",
+  "isDocsHomePage": false,
+  "title": "smithsonian-institution-scholarly-press-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/smithsonian-institution-scholarly-press-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/smithsonian-institution-scholarly-press-authordate",
+  "permalink": "/docs/citation-styles/smithsonian-institution-scholarly-press-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/smithsonian-institution-scholarly-press-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "smithsonian-institution-scholarly-press--botany-authordate",
+    "permalink": "/docs/citation-styles/smithsonian-institution-scholarly-press--botany-authordate"
+  },
+  "next": {
+    "title": "smithsonian-institution-scholarly-press-note",
+    "permalink": "/docs/citation-styles/smithsonian-institution-scholarly-press-note"
+  }
+}

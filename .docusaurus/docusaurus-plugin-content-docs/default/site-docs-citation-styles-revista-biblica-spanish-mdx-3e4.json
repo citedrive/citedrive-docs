@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-biblica-spanish",
+  "id": "citation-styles/revista-biblica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-biblica-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-biblica-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-biblica-spanish",
+  "permalink": "/docs/citation-styles/revista-biblica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-biblica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-argentina-de-antropologia-biologica-spanish",
+    "permalink": "/docs/citation-styles/revista-argentina-de-antropologia-biologica-spanish"
+  },
+  "next": {
+    "title": "revista-brasileira-de-ciencia-do-solo",
+    "permalink": "/docs/citation-styles/revista-brasileira-de-ciencia-do-solo"
+  }
+}

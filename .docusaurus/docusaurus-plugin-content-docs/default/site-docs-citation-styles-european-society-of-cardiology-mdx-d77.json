@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-society-of-cardiology",
+  "id": "citation-styles/european-society-of-cardiology",
+  "isDocsHomePage": false,
+  "title": "european-society-of-cardiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-society-of-cardiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-society-of-cardiology",
+  "permalink": "/docs/citation-styles/european-society-of-cardiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-society-of-cardiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-retail-research",
+    "permalink": "/docs/citation-styles/european-retail-research"
+  },
+  "next": {
+    "title": "european-union--interinstitutional-style-guide-authordate",
+    "permalink": "/docs/citation-styles/european-union--interinstitutional-style-guide-authordate"
+  }
+}

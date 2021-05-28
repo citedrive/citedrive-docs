@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/strategic-entrepreneurship-journal",
+  "id": "citation-styles/strategic-entrepreneurship-journal",
+  "isDocsHomePage": false,
+  "title": "strategic-entrepreneurship-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/strategic-entrepreneurship-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/strategic-entrepreneurship-journal",
+  "permalink": "/docs/citation-styles/strategic-entrepreneurship-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/strategic-entrepreneurship-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strategic-design-research-journal",
+    "permalink": "/docs/citation-styles/strategic-design-research-journal"
+  },
+  "next": {
+    "title": "strategic-management-journal",
+    "permalink": "/docs/citation-styles/strategic-management-journal"
+  }
+}

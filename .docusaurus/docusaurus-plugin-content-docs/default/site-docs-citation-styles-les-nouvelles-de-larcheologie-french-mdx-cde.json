@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/les-nouvelles-de-larcheologie-french",
+  "id": "citation-styles/les-nouvelles-de-larcheologie-french",
+  "isDocsHomePage": false,
+  "title": "les-nouvelles-de-larcheologie-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/les-nouvelles-de-larcheologie-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/les-nouvelles-de-larcheologie-french",
+  "permalink": "/docs/citation-styles/les-nouvelles-de-larcheologie-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/les-nouvelles-de-larcheologie-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "les-journees-de-la-recherche-porcine-french",
+    "permalink": "/docs/citation-styles/les-journees-de-la-recherche-porcine-french"
+  },
+  "next": {
+    "title": "lethaia",
+    "permalink": "/docs/citation-styles/lethaia"
+  }
+}

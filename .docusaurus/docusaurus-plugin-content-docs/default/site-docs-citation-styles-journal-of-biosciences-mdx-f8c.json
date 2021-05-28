@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-biosciences",
+  "id": "citation-styles/journal-of-biosciences",
+  "isDocsHomePage": false,
+  "title": "journal-of-biosciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-biosciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-biosciences",
+  "permalink": "/docs/citation-styles/journal-of-biosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-biosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-biomedical-materials-research-part-a",
+    "permalink": "/docs/citation-styles/journal-of-biomedical-materials-research-part-a"
+  },
+  "next": {
+    "title": "journal-of-bone-and-mineral-research",
+    "permalink": "/docs/citation-styles/journal-of-bone-and-mineral-research"
+  }
+}

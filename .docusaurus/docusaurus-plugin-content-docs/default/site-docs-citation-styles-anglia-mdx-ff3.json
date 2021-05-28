@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/anglia",
+  "id": "citation-styles/anglia",
+  "isDocsHomePage": false,
+  "title": "anglia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/anglia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/anglia",
+  "permalink": "/docs/citation-styles/anglia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/anglia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anglia-ruskin-university--harvard",
+    "permalink": "/docs/citation-styles/anglia-ruskin-university--harvard"
+  },
+  "next": {
+    "title": "animal-conservation",
+    "permalink": "/docs/citation-styles/animal-conservation"
+  }
+}

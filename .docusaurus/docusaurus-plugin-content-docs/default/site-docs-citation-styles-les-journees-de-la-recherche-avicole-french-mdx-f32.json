@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/les-journees-de-la-recherche-avicole-french",
+  "id": "citation-styles/les-journees-de-la-recherche-avicole-french",
+  "isDocsHomePage": false,
+  "title": "les-journees-de-la-recherche-avicole-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/les-journees-de-la-recherche-avicole-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/les-journees-de-la-recherche-avicole-french",
+  "permalink": "/docs/citation-styles/les-journees-de-la-recherche-avicole-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/les-journees-de-la-recherche-avicole-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leonardo",
+    "permalink": "/docs/citation-styles/leonardo"
+  },
+  "next": {
+    "title": "les-journees-de-la-recherche-porcine-french",
+    "permalink": "/docs/citation-styles/les-journees-de-la-recherche-porcine-french"
+  }
+}

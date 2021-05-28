@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-polymer-science-part-a-polymer-chemistry",
+  "id": "citation-styles/journal-of-polymer-science-part-a-polymer-chemistry",
+  "isDocsHomePage": false,
+  "title": "journal-of-polymer-science-part-a-polymer-chemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-polymer-science-part-a-polymer-chemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-polymer-science-part-a-polymer-chemistry",
+  "permalink": "/docs/citation-styles/journal-of-polymer-science-part-a-polymer-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-polymer-science-part-a-polymer-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-pollination-ecology",
+    "permalink": "/docs/citation-styles/journal-of-pollination-ecology"
+  },
+  "next": {
+    "title": "journal-of-porphyrins-and-phthalocyanines",
+    "permalink": "/docs/citation-styles/journal-of-porphyrins-and-phthalocyanines"
+  }
+}

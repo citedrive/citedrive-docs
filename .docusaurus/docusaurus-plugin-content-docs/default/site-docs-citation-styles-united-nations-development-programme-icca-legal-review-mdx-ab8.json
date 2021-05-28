@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/united-nations-development-programme-icca-legal-review",
+  "id": "citation-styles/united-nations-development-programme-icca-legal-review",
+  "isDocsHomePage": false,
+  "title": "united-nations-development-programme-icca-legal-review",
+  "description": "---",
+  "source": "@site/docs/citation-styles/united-nations-development-programme-icca-legal-review.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/united-nations-development-programme-icca-legal-review",
+  "permalink": "/docs/citation-styles/united-nations-development-programme-icca-legal-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/united-nations-development-programme-icca-legal-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "united-nations-conference-on-trade-and-development",
+    "permalink": "/docs/citation-styles/united-nations-conference-on-trade-and-development"
+  },
+  "next": {
+    "title": "united-nations-framework-convention-on-climate-change",
+    "permalink": "/docs/citation-styles/united-nations-framework-convention-on-climate-change"
+  }
+}

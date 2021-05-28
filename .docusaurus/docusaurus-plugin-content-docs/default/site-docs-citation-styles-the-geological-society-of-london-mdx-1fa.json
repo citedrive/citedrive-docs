@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-geological-society-of-london",
+  "id": "citation-styles/the-geological-society-of-london",
+  "isDocsHomePage": false,
+  "title": "the-geological-society-of-london",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-geological-society-of-london.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-geological-society-of-london",
+  "permalink": "/docs/citation-styles/the-geological-society-of-london",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-geological-society-of-london.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-geological-society-of-america",
+    "permalink": "/docs/citation-styles/the-geological-society-of-america"
+  },
+  "next": {
+    "title": "the-hastings-center-report",
+    "permalink": "/docs/citation-styles/the-hastings-center-report"
+  }
+}

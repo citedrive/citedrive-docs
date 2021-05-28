@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/world-journal-of-gastroenterology",
+  "id": "citation-styles/world-journal-of-gastroenterology",
+  "isDocsHomePage": false,
+  "title": "world-journal-of-gastroenterology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/world-journal-of-gastroenterology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/world-journal-of-gastroenterology",
+  "permalink": "/docs/citation-styles/world-journal-of-gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/world-journal-of-gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "world-congress-on-engineering-asset-management-2010",
+    "permalink": "/docs/citation-styles/world-congress-on-engineering-asset-management-2010"
+  },
+  "next": {
+    "title": "world-journal-of-hepatology",
+    "permalink": "/docs/citation-styles/world-journal-of-hepatology"
+  }
+}

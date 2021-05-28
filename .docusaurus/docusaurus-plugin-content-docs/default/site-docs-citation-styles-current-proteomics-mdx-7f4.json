@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/current-proteomics",
+  "id": "citation-styles/current-proteomics",
+  "isDocsHomePage": false,
+  "title": "current-proteomics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/current-proteomics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/current-proteomics",
+  "permalink": "/docs/citation-styles/current-proteomics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/current-proteomics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-pharmaceutical-design",
+    "permalink": "/docs/citation-styles/current-pharmaceutical-design"
+  },
+  "next": {
+    "title": "current-protocols-journals",
+    "permalink": "/docs/citation-styles/current-protocols-journals"
+  }
+}

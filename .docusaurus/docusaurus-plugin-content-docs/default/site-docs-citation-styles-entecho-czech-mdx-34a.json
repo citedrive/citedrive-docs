@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/entecho-czech",
+  "id": "citation-styles/entecho-czech",
+  "isDocsHomePage": false,
+  "title": "entecho-czech",
+  "description": "---",
+  "source": "@site/docs/citation-styles/entecho-czech.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/entecho-czech",
+  "permalink": "/docs/citation-styles/entecho-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/entecho-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "engineering-technology-and-applied-science-research",
+    "permalink": "/docs/citation-styles/engineering-technology-and-applied-science-research"
+  },
+  "next": {
+    "title": "entomologia-experimentalis-et-applicata",
+    "permalink": "/docs/citation-styles/entomologia-experimentalis-et-applicata"
+  }
+}

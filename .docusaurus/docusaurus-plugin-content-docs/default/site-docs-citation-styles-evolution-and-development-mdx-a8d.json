@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/evolution-and-development",
+  "id": "citation-styles/evolution-and-development",
+  "isDocsHomePage": false,
+  "title": "evolution-and-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/evolution-and-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/evolution-and-development",
+  "permalink": "/docs/citation-styles/evolution-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/evolution-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evidencebased-complementary-and-alternative-medicine",
+    "permalink": "/docs/citation-styles/evidencebased-complementary-and-alternative-medicine"
+  },
+  "next": {
+    "title": "evolution",
+    "permalink": "/docs/citation-styles/evolution"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-institute-of-electronics-information-and-communication-engineers-",
+  "id": "citation-styles/the-institute-of-electronics-information-and-communication-engineers-",
+  "isDocsHomePage": false,
+  "title": "the-institute-of-electronics-information-and-communication-engineers-",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-institute-of-electronics-information-and-communication-engineers-.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-institute-of-electronics-information-and-communication-engineers-",
+  "permalink": "/docs/citation-styles/the-institute-of-electronics-information-and-communication-engineers-",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-institute-of-electronics-information-and-communication-engineers-.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-holocene",
+    "permalink": "/docs/citation-styles/the-holocene"
+  },
+  "next": {
+    "title": "the-institution-of-engineering-and-technology",
+    "permalink": "/docs/citation-styles/the-institution-of-engineering-and-technology"
+  }
+}

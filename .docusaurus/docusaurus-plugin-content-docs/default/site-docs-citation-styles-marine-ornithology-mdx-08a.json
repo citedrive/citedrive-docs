@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/marine-ornithology",
+  "id": "citation-styles/marine-ornithology",
+  "isDocsHomePage": false,
+  "title": "marine-ornithology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/marine-ornithology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/marine-ornithology",
+  "permalink": "/docs/citation-styles/marine-ornithology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/marine-ornithology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marine-mammal-science",
+    "permalink": "/docs/citation-styles/marine-mammal-science"
+  },
+  "next": {
+    "title": "marine-turtle-newsletter",
+    "permalink": "/docs/citation-styles/marine-turtle-newsletter"
+  }
+}

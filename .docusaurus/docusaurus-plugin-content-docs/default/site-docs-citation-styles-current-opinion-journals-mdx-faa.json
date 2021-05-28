@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/current-opinion-journals",
+  "id": "citation-styles/current-opinion-journals",
+  "isDocsHomePage": false,
+  "title": "current-opinion-journals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/current-opinion-journals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/current-opinion-journals",
+  "permalink": "/docs/citation-styles/current-opinion-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/current-opinion-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-opinion-in-endocrinology-diabetes-and-obesity",
+    "permalink": "/docs/citation-styles/current-opinion-in-endocrinology-diabetes-and-obesity"
+  },
+  "next": {
+    "title": "current-pharmaceutical-design",
+    "permalink": "/docs/citation-styles/current-pharmaceutical-design"
+  }
+}

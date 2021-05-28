@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/society-for-historical-archaeology",
+  "id": "citation-styles/society-for-historical-archaeology",
+  "isDocsHomePage": false,
+  "title": "society-for-historical-archaeology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/society-for-historical-archaeology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/society-for-historical-archaeology",
+  "permalink": "/docs/citation-styles/society-for-historical-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/society-for-historical-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-for-american-archaeology",
+    "permalink": "/docs/citation-styles/society-for-american-archaeology"
+  },
+  "next": {
+    "title": "society-for-laboratory-automation-and-screening",
+    "permalink": "/docs/citation-styles/society-for-laboratory-automation-and-screening"
+  }
+}

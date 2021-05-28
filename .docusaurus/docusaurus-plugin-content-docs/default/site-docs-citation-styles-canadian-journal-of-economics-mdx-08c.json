@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/canadian-journal-of-economics",
+  "id": "citation-styles/canadian-journal-of-economics",
+  "isDocsHomePage": false,
+  "title": "canadian-journal-of-economics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/canadian-journal-of-economics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/canadian-journal-of-economics",
+  "permalink": "/docs/citation-styles/canadian-journal-of-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/canadian-journal-of-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-earth-sciences",
+    "permalink": "/docs/citation-styles/canadian-journal-of-earth-sciences"
+  },
+  "next": {
+    "title": "canadian-journal-of-fisheries-and-aquatic-sciences",
+    "permalink": "/docs/citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bulletin-of-geosciences",
+  "id": "citation-styles/bulletin-of-geosciences",
+  "isDocsHomePage": false,
+  "title": "bulletin-of-geosciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bulletin-of-geosciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bulletin-of-geosciences",
+  "permalink": "/docs/citation-styles/bulletin-of-geosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bulletin-of-geosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-du-centre-detudes-medievales-dauxerre-french",
+    "permalink": "/docs/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french"
+  },
+  "next": {
+    "title": "bulletin-of-marine-science",
+    "permalink": "/docs/citation-styles/bulletin-of-marine-science"
+  }
+}

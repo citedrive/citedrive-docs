@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/interaction-design-and-architectures",
+  "id": "citation-styles/interaction-design-and-architectures",
+  "isDocsHomePage": false,
+  "title": "interaction-design-and-architectures",
+  "description": "---",
+  "source": "@site/docs/citation-styles/interaction-design-and-architectures.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/interaction-design-and-architectures",
+  "permalink": "/docs/citation-styles/interaction-design-and-architectures",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/interaction-design-and-architectures.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inter-romanian-review-for-theological-and-religious-studies",
+    "permalink": "/docs/citation-styles/inter-romanian-review-for-theological-and-religious-studies"
+  },
+  "next": {
+    "title": "interactive-cardiovascular-and-thoracic-surgery",
+    "permalink": "/docs/citation-styles/interactive-cardiovascular-and-thoracic-surgery"
+  }
+}

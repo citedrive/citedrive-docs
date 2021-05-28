@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "id": "citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "isDocsHomePage": false,
+  "title": "revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "permalink": "/docs/citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-do-instituto-de-medicina-tropical-de-sao-paulo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-de-filologia-espanola-spanish",
+    "permalink": "/docs/citation-styles/revista-de-filologia-espanola-spanish"
+  },
+  "next": {
+    "title": "revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+    "permalink": "/docs/citation-styles/revista-espanola-de-nutricion-humana-y-dietetica-spanish"
+  }
+}

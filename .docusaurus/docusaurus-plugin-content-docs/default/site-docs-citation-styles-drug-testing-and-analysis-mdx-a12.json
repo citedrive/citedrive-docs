@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/drug-testing-and-analysis",
+  "id": "citation-styles/drug-testing-and-analysis",
+  "isDocsHomePage": false,
+  "title": "drug-testing-and-analysis",
+  "description": "---",
+  "source": "@site/docs/citation-styles/drug-testing-and-analysis.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/drug-testing-and-analysis",
+  "permalink": "/docs/citation-styles/drug-testing-and-analysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/drug-testing-and-analysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drug-development-research",
+    "permalink": "/docs/citation-styles/drug-development-research"
+  },
+  "next": {
+    "title": "drugs-of-today",
+    "permalink": "/docs/citation-styles/drugs-of-today"
+  }
+}

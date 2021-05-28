@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/deutsches-arzteblatt",
+  "id": "citation-styles/deutsches-arzteblatt",
+  "isDocsHomePage": false,
+  "title": "deutsches-arzteblatt",
+  "description": "---",
+  "source": "@site/docs/citation-styles/deutsches-arzteblatt.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/deutsches-arzteblatt",
+  "permalink": "/docs/citation-styles/deutsches-arzteblatt",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/deutsches-arzteblatt.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deutsches-archaologisches-institut",
+    "permalink": "/docs/citation-styles/deutsches-archaologisches-institut"
+  },
+  "next": {
+    "title": "developing-world-bioethics",
+    "permalink": "/docs/citation-styles/developing-world-bioethics"
+  }
+}

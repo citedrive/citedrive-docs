@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-university-of-western-australia--harvard",
+  "id": "citation-styles/the-university-of-western-australia--harvard",
+  "isDocsHomePage": false,
+  "title": "the-university-of-western-australia--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-university-of-western-australia--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-university-of-western-australia--harvard",
+  "permalink": "/docs/citation-styles/the-university-of-western-australia--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-university-of-western-australia--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-sheffield--town-and-regional-planning--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard"
+  },
+  "next": {
+    "title": "the-university-of-winchester--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-winchester--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "id": "citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "isDocsHomePage": false,
+  "title": "karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "permalink": "/docs/citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/karabuk-university--graduate-school-of-natural-and-applied-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jyvaskylan-yliopisto--kemian-laitos-finnish",
+    "permalink": "/docs/citation-styles/jyvaskylan-yliopisto--kemian-laitos-finnish"
+  },
+  "next": {
+    "title": "karger-journals-authordate",
+    "permalink": "/docs/citation-styles/karger-journals-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bioinformatics",
+  "id": "citation-styles/bioinformatics",
+  "isDocsHomePage": false,
+  "title": "bioinformatics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bioinformatics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bioinformatics",
+  "permalink": "/docs/citation-styles/bioinformatics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bioinformatics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioelectromagnetics",
+    "permalink": "/docs/citation-styles/bioelectromagnetics"
+  },
+  "next": {
+    "title": "biologia",
+    "permalink": "/docs/citation-styles/biologia"
+  }
+}

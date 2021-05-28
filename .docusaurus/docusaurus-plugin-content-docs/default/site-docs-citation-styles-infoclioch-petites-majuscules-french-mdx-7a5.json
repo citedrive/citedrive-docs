@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/infoclioch-petites-majuscules-french",
+  "id": "citation-styles/infoclioch-petites-majuscules-french",
+  "isDocsHomePage": false,
+  "title": "infoclioch-petites-majuscules-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/infoclioch-petites-majuscules-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/infoclioch-petites-majuscules-french",
+  "permalink": "/docs/citation-styles/infoclioch-petites-majuscules-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/infoclioch-petites-majuscules-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infoclioch-german--switzerland",
+    "permalink": "/docs/citation-styles/infoclioch-german--switzerland"
+  },
+  "next": {
+    "title": "infoclioch-sans-majuscules-french",
+    "permalink": "/docs/citation-styles/infoclioch-sans-majuscules-french"
+  }
+}

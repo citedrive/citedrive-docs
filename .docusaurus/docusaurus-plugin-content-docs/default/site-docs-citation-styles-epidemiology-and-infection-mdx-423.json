@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/epidemiology-and-infection",
+  "id": "citation-styles/epidemiology-and-infection",
+  "isDocsHomePage": false,
+  "title": "epidemiology-and-infection",
+  "description": "---",
+  "source": "@site/docs/citation-styles/epidemiology-and-infection.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/epidemiology-and-infection",
+  "permalink": "/docs/citation-styles/epidemiology-and-infection",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/epidemiology-and-infection.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "epidemiologie-et-sante-animale",
+    "permalink": "/docs/citation-styles/epidemiologie-et-sante-animale"
+  },
+  "next": {
+    "title": "epilepsia",
+    "permalink": "/docs/citation-styles/epilepsia"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/proinflow-note-czech",
+  "id": "citation-styles/proinflow-note-czech",
+  "isDocsHomePage": false,
+  "title": "proinflow-note-czech",
+  "description": "---",
+  "source": "@site/docs/citation-styles/proinflow-note-czech.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/proinflow-note-czech",
+  "permalink": "/docs/citation-styles/proinflow-note-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/proinflow-note-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "processing-and-application-of-ceramics",
+    "permalink": "/docs/citation-styles/processing-and-application-of-ceramics"
+  },
+  "next": {
+    "title": "protein-engineering-design-and-selection",
+    "permalink": "/docs/citation-styles/protein-engineering-design-and-selection"
+  }
+}

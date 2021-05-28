@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+  "id": "citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+  "permalink": "/docs/citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-reviews-sorted-by-order-of-appearance",
+    "permalink": "/docs/citation-styles/annual-reviews-sorted-by-order-of-appearance"
+  },
+  "next": {
+    "title": "antarctic-science",
+    "permalink": "/docs/citation-styles/antarctic-science"
+  }
+}

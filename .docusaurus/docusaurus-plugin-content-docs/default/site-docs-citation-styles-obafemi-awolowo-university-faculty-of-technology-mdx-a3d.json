@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/obafemi-awolowo-university--faculty-of-technology",
+  "id": "citation-styles/obafemi-awolowo-university--faculty-of-technology",
+  "isDocsHomePage": false,
+  "title": "obafemi-awolowo-university--faculty-of-technology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/obafemi-awolowo-university--faculty-of-technology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/obafemi-awolowo-university--faculty-of-technology",
+  "permalink": "/docs/citation-styles/obafemi-awolowo-university--faculty-of-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/obafemi-awolowo-university--faculty-of-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nutrition-research-reviews",
+    "permalink": "/docs/citation-styles/nutrition-research-reviews"
+  },
+  "next": {
+    "title": "obesity",
+    "permalink": "/docs/citation-styles/obesity"
+  }
+}

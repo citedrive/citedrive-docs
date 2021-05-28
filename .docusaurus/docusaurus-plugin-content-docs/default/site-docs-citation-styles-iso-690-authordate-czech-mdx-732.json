@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iso690-authordate-czech",
+  "id": "citation-styles/iso690-authordate-czech",
+  "isDocsHomePage": false,
+  "title": "iso690-authordate-czech",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iso690-authordate-czech.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iso690-authordate-czech",
+  "permalink": "/docs/citation-styles/iso690-authordate-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iso690-authordate-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "isnad-atf-sistemi-2-edisyon-metinici",
+    "permalink": "/docs/citation-styles/isnad-atf-sistemi-2-edisyon-metinici"
+  },
+  "next": {
+    "title": "iso690-authordate-english",
+    "permalink": "/docs/citation-styles/iso690-authordate-english"
+  }
+}

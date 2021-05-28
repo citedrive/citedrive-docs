@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/physiological-and-biochemical-zoology",
+  "id": "citation-styles/physiological-and-biochemical-zoology",
+  "isDocsHomePage": false,
+  "title": "physiological-and-biochemical-zoology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/physiological-and-biochemical-zoology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/physiological-and-biochemical-zoology",
+  "permalink": "/docs/citation-styles/physiological-and-biochemical-zoology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/physiological-and-biochemical-zoology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phyllomedusa",
+    "permalink": "/docs/citation-styles/phyllomedusa"
+  },
+  "next": {
+    "title": "phytopathologia-mediterranea",
+    "permalink": "/docs/citation-styles/phytopathologia-mediterranea"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-historical-journal",
+  "id": "citation-styles/the-historical-journal",
+  "isDocsHomePage": false,
+  "title": "the-historical-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-historical-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-historical-journal",
+  "permalink": "/docs/citation-styles/the-historical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-historical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-hastings-center-report",
+    "permalink": "/docs/citation-styles/the-hastings-center-report"
+  },
+  "next": {
+    "title": "the-holocene",
+    "permalink": "/docs/citation-styles/the-holocene"
+  }
+}

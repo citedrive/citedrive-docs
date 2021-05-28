@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-social-archaeology",
+  "id": "citation-styles/journal-of-social-archaeology",
+  "isDocsHomePage": false,
+  "title": "journal-of-social-archaeology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-social-archaeology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-social-archaeology",
+  "permalink": "/docs/citation-styles/journal-of-social-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-social-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-small-business-management",
+    "permalink": "/docs/citation-styles/journal-of-small-business-management"
+  },
+  "next": {
+    "title": "journal-of-soil-and-water-conservation",
+    "permalink": "/docs/citation-styles/journal-of-soil-and-water-conservation"
+  }
+}

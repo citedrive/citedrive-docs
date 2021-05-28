@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/environmental-values",
+  "id": "citation-styles/environmental-values",
+  "isDocsHomePage": false,
+  "title": "environmental-values",
+  "description": "---",
+  "source": "@site/docs/citation-styles/environmental-values.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/environmental-values",
+  "permalink": "/docs/citation-styles/environmental-values",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/environmental-values.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-microbiology",
+    "permalink": "/docs/citation-styles/environmental-microbiology"
+  },
+  "next": {
+    "title": "environnement-risques-and-sante",
+    "permalink": "/docs/citation-styles/environnement-risques-and-sante"
+  }
+}

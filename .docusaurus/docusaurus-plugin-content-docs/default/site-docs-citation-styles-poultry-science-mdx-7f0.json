@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/poultry-science",
+  "id": "citation-styles/poultry-science",
+  "isDocsHomePage": false,
+  "title": "poultry-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/poultry-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/poultry-science",
+  "permalink": "/docs/citation-styles/poultry-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/poultry-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "postepy-higieny-i-medycyny-doswiadczalnej-polish",
+    "permalink": "/docs/citation-styles/postepy-higieny-i-medycyny-doswiadczalnej-polish"
+  },
+  "next": {
+    "title": "pour-reussir-note-french--canada",
+    "permalink": "/docs/citation-styles/pour-reussir-note-french--canada"
+  }
+}

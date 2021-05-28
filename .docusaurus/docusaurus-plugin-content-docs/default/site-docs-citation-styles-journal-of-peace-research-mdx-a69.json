@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-peace-research",
+  "id": "citation-styles/journal-of-peace-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-peace-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-peace-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-peace-research",
+  "permalink": "/docs/citation-styles/journal-of-peace-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-peace-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-paleontology",
+    "permalink": "/docs/citation-styles/journal-of-paleontology"
+  },
+  "next": {
+    "title": "journal-of-pediatric-gastroenterology-and-nutrition",
+    "permalink": "/docs/citation-styles/journal-of-pediatric-gastroenterology-and-nutrition"
+  }
+}

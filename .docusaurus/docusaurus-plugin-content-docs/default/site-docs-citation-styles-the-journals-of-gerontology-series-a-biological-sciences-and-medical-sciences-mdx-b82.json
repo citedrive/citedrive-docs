@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+  "id": "citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+  "isDocsHomePage": false,
+  "title": "the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+  "permalink": "/docs/citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-wildlife-management",
+    "permalink": "/docs/citation-styles/the-journal-of-wildlife-management"
+  },
+  "next": {
+    "title": "the-korean-journal-of-gastroenterology",
+    "permalink": "/docs/citation-styles/the-korean-journal-of-gastroenterology"
+  }
+}

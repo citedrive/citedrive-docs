@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-philosophica",
+  "id": "citation-styles/acta-philosophica",
+  "isDocsHomePage": false,
+  "title": "acta-philosophica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-philosophica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-philosophica",
+  "permalink": "/docs/citation-styles/acta-philosophica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-philosophica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-pharmaceutica",
+    "permalink": "/docs/citation-styles/acta-pharmaceutica"
+  },
+  "next": {
+    "title": "acta-physiologica",
+    "permalink": "/docs/citation-styles/acta-physiologica"
+  }
+}

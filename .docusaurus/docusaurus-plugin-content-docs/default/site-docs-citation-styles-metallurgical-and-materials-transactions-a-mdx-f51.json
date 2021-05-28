@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/metallurgical-and-materials-transactions-a",
+  "id": "citation-styles/metallurgical-and-materials-transactions-a",
+  "isDocsHomePage": false,
+  "title": "metallurgical-and-materials-transactions-a",
+  "description": "---",
+  "source": "@site/docs/citation-styles/metallurgical-and-materials-transactions-a.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/metallurgical-and-materials-transactions-a",
+  "permalink": "/docs/citation-styles/metallurgical-and-materials-transactions-a",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/metallurgical-and-materials-transactions-a.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mercatus-center",
+    "permalink": "/docs/citation-styles/mercatus-center"
+  },
+  "next": {
+    "title": "metallurgical-and-materials-transactions",
+    "permalink": "/docs/citation-styles/metallurgical-and-materials-transactions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bulletin-of-marine-science",
+  "id": "citation-styles/bulletin-of-marine-science",
+  "isDocsHomePage": false,
+  "title": "bulletin-of-marine-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bulletin-of-marine-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bulletin-of-marine-science",
+  "permalink": "/docs/citation-styles/bulletin-of-marine-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bulletin-of-marine-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-of-geosciences",
+    "permalink": "/docs/citation-styles/bulletin-of-geosciences"
+  },
+  "next": {
+    "title": "bulletin-of-the-american-schools-of-oriental-research",
+    "permalink": "/docs/citation-styles/bulletin-of-the-american-schools-of-oriental-research"
+  }
+}

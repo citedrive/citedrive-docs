@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "id": "citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "permalink": "/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+    "permalink": "/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-note",
+    "permalink": "/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-note"
+  }
+}

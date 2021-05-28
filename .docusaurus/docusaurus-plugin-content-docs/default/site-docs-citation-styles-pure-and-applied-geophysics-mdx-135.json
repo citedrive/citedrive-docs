@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pure-and-applied-geophysics",
+  "id": "citation-styles/pure-and-applied-geophysics",
+  "isDocsHomePage": false,
+  "title": "pure-and-applied-geophysics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pure-and-applied-geophysics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pure-and-applied-geophysics",
+  "permalink": "/docs/citation-styles/pure-and-applied-geophysics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pure-and-applied-geophysics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "public-library-of-science",
+    "permalink": "/docs/citation-styles/public-library-of-science"
+  },
+  "next": {
+    "title": "quaderni-degli-avogadro-colloquia",
+    "permalink": "/docs/citation-styles/quaderni-degli-avogadro-colloquia"
+  }
+}

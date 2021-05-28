@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/new-harts-rules-the-oxford-style-guide",
+  "id": "citation-styles/new-harts-rules-the-oxford-style-guide",
+  "isDocsHomePage": false,
+  "title": "new-harts-rules-the-oxford-style-guide",
+  "description": "---",
+  "source": "@site/docs/citation-styles/new-harts-rules-the-oxford-style-guide.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/new-harts-rules-the-oxford-style-guide",
+  "permalink": "/docs/citation-styles/new-harts-rules-the-oxford-style-guide",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/new-harts-rules-the-oxford-style-guide.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurosurgery-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/neurosurgery-clinics-of-north-america"
+  },
+  "next": {
+    "title": "new-phytologist",
+    "permalink": "/docs/citation-styles/new-phytologist"
+  }
+}

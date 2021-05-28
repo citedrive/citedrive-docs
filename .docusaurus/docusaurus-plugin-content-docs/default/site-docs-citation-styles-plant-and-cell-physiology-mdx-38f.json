@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-and-cell-physiology",
+  "id": "citation-styles/plant-and-cell-physiology",
+  "isDocsHomePage": false,
+  "title": "plant-and-cell-physiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-and-cell-physiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-and-cell-physiology",
+  "permalink": "/docs/citation-styles/plant-and-cell-physiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-and-cell-physiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "planning-practice-and-research",
+    "permalink": "/docs/citation-styles/planning-practice-and-research"
+  },
+  "next": {
+    "title": "plant-biology",
+    "permalink": "/docs/citation-styles/plant-biology"
+  }
+}

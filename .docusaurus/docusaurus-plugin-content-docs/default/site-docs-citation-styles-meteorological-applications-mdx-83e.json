@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/meteorological-applications",
+  "id": "citation-styles/meteorological-applications",
+  "isDocsHomePage": false,
+  "title": "meteorological-applications",
+  "description": "---",
+  "source": "@site/docs/citation-styles/meteorological-applications.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/meteorological-applications",
+  "permalink": "/docs/citation-styles/meteorological-applications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/meteorological-applications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "meteoritics-and-planetary-science",
+    "permalink": "/docs/citation-styles/meteoritics-and-planetary-science"
+  },
+  "next": {
+    "title": "method-and-theory-in-the-study-of-religion",
+    "permalink": "/docs/citation-styles/method-and-theory-in-the-study-of-religion"
+  }
+}

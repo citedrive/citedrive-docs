@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-geophysical-union",
+  "id": "citation-styles/american-geophysical-union",
+  "isDocsHomePage": false,
+  "title": "american-geophysical-union",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-geophysical-union.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-geophysical-union",
+  "permalink": "/docs/citation-styles/american-geophysical-union",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-geophysical-union.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-fisheries-society",
+    "permalink": "/docs/citation-styles/american-fisheries-society"
+  },
+  "next": {
+    "title": "american-heart-association",
+    "permalink": "/docs/citation-styles/american-heart-association"
+  }
+}

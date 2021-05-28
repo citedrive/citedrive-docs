@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--humanities-numeric-brackets",
+  "id": "citation-styles/springer--humanities-numeric-brackets",
+  "isDocsHomePage": false,
+  "title": "springer--humanities-numeric-brackets",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--humanities-numeric-brackets.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--humanities-numeric-brackets",
+  "permalink": "/docs/citation-styles/springer--humanities-numeric-brackets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--humanities-numeric-brackets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--humanities-authordate",
+    "permalink": "/docs/citation-styles/springer--humanities-authordate"
+  },
+  "next": {
+    "title": "springer--imis-series-migrationsgesellschaften",
+    "permalink": "/docs/citation-styles/springer--imis-series-migrationsgesellschaften"
+  }
+}

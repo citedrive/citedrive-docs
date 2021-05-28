@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/prehistoires-mediterraneennes",
+  "id": "citation-styles/prehistoires-mediterraneennes",
+  "isDocsHomePage": false,
+  "title": "prehistoires-mediterraneennes",
+  "description": "---",
+  "source": "@site/docs/citation-styles/prehistoires-mediterraneennes.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/prehistoires-mediterraneennes",
+  "permalink": "/docs/citation-styles/prehistoires-mediterraneennes",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/prehistoires-mediterraneennes.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pravnik-czech",
+    "permalink": "/docs/citation-styles/pravnik-czech"
+  },
+  "next": {
+    "title": "prehospital-emergency-care",
+    "permalink": "/docs/citation-styles/prehospital-emergency-care"
+  }
+}

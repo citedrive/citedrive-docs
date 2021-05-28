@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/neurology",
+  "id": "citation-styles/neurology",
+  "isDocsHomePage": false,
+  "title": "neurology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/neurology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/neurology",
+  "permalink": "/docs/citation-styles/neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurology-india",
+    "permalink": "/docs/citation-styles/neurology-india"
+  },
+  "next": {
+    "title": "neuropsychopharmacology",
+    "permalink": "/docs/citation-styles/neuropsychopharmacology"
+  }
+}

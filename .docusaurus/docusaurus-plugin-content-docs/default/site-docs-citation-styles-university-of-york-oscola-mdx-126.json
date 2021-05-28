@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-york--oscola",
+  "id": "citation-styles/university-of-york--oscola",
+  "isDocsHomePage": false,
+  "title": "university-of-york--oscola",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-york--oscola.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-york--oscola",
+  "permalink": "/docs/citation-styles/university-of-york--oscola",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-york--oscola.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--modern-language-association-8th-edition",
+    "permalink": "/docs/citation-styles/university-of-york--modern-language-association-8th-edition"
+  },
+  "next": {
+    "title": "university-of-york--vancouver",
+    "permalink": "/docs/citation-styles/university-of-york--vancouver"
+  }
+}

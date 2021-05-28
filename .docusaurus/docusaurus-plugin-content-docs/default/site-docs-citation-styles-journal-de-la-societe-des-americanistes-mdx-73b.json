@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-de-la-societe-des-americanistes",
+  "id": "citation-styles/journal-de-la-societe-des-americanistes",
+  "isDocsHomePage": false,
+  "title": "journal-de-la-societe-des-americanistes",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-de-la-societe-des-americanistes.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-de-la-societe-des-americanistes",
+  "permalink": "/docs/citation-styles/journal-de-la-societe-des-americanistes",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-de-la-societe-des-americanistes.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+    "permalink": "/docs/citation-styles/journal-and-proceedings-of-the-royal-society-of-new-south-wales"
+  },
+  "next": {
+    "title": "journal-de-la-societe-des-oceanistes",
+    "permalink": "/docs/citation-styles/journal-de-la-societe-des-oceanistes"
+  }
+}

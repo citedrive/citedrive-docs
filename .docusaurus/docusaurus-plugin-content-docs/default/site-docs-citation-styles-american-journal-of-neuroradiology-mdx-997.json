@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-neuroradiology",
+  "id": "citation-styles/american-journal-of-neuroradiology",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-neuroradiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-neuroradiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-neuroradiology",
+  "permalink": "/docs/citation-styles/american-journal-of-neuroradiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-neuroradiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-medical-genetics",
+    "permalink": "/docs/citation-styles/american-journal-of-medical-genetics"
+  },
+  "next": {
+    "title": "american-journal-of-orthodontics-and-dentofacial-orthopedics",
+    "permalink": "/docs/citation-styles/american-journal-of-orthodontics-and-dentofacial-orthopedics"
+  }
+}

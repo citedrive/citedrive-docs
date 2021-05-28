@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-retail-research",
+  "id": "citation-styles/european-retail-research",
+  "isDocsHomePage": false,
+  "title": "european-retail-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-retail-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-retail-research",
+  "permalink": "/docs/citation-styles/european-retail-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-retail-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-respiratory-journal",
+    "permalink": "/docs/citation-styles/european-respiratory-journal"
+  },
+  "next": {
+    "title": "european-society-of-cardiology",
+    "permalink": "/docs/citation-styles/european-society-of-cardiology"
+  }
+}

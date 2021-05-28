@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+  "id": "citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+  "permalink": "/docs/citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/errata-publicacao-sobre-processos-editoriais-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ergoscience",
+    "permalink": "/docs/citation-styles/ergoscience"
+  },
+  "next": {
+    "title": "escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+    "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico"
+  }
+}

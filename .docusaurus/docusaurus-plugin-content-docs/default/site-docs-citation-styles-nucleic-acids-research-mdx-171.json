@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nucleic-acids-research",
+  "id": "citation-styles/nucleic-acids-research",
+  "isDocsHomePage": false,
+  "title": "nucleic-acids-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nucleic-acids-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nucleic-acids-research",
+  "permalink": "/docs/citation-styles/nucleic-acids-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nucleic-acids-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nucleic-acids-research--web-server-issue",
+    "permalink": "/docs/citation-styles/nucleic-acids-research--web-server-issue"
+  },
+  "next": {
+    "title": "nutrition-research-reviews",
+    "permalink": "/docs/citation-styles/nutrition-research-reviews"
+  }
+}

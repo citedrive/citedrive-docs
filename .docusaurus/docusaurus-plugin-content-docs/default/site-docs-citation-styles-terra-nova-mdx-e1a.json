@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/terra-nova",
+  "id": "citation-styles/terra-nova",
+  "isDocsHomePage": false,
+  "title": "terra-nova",
+  "description": "---",
+  "source": "@site/docs/citation-styles/terra-nova.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/terra-nova",
+  "permalink": "/docs/citation-styles/terra-nova",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/terra-nova.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+    "permalink": "/docs/citation-styles/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology"
+  },
+  "next": {
+    "title": "tetrahedron-letters",
+    "permalink": "/docs/citation-styles/tetrahedron-letters"
+  }
+}

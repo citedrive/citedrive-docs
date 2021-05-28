@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/australian-archaeology",
+  "id": "citation-styles/australian-archaeology",
+  "isDocsHomePage": false,
+  "title": "australian-archaeology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/australian-archaeology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/australian-archaeology",
+  "permalink": "/docs/citation-styles/australian-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/australian-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "austral-entomology",
+    "permalink": "/docs/citation-styles/austral-entomology"
+  },
+  "next": {
+    "title": "australian-critical-care",
+    "permalink": "/docs/citation-styles/australian-critical-care"
+  }
+}

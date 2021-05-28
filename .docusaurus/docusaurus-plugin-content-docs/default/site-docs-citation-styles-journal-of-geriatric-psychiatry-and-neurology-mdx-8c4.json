@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-geriatric-psychiatry-and-neurology",
+  "id": "citation-styles/journal-of-geriatric-psychiatry-and-neurology",
+  "isDocsHomePage": false,
+  "title": "journal-of-geriatric-psychiatry-and-neurology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-geriatric-psychiatry-and-neurology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-geriatric-psychiatry-and-neurology",
+  "permalink": "/docs/citation-styles/journal-of-geriatric-psychiatry-and-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-geriatric-psychiatry-and-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-frailty-and-aging",
+    "permalink": "/docs/citation-styles/journal-of-frailty-and-aging"
+  },
+  "next": {
+    "title": "journal-of-glaciology",
+    "permalink": "/docs/citation-styles/journal-of-glaciology"
+  }
+}

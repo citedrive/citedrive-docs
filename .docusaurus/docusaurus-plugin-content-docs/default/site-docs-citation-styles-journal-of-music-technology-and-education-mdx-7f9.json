@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-music-technology-and-education",
+  "id": "citation-styles/journal-of-music-technology-and-education",
+  "isDocsHomePage": false,
+  "title": "journal-of-music-technology-and-education",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-music-technology-and-education.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-music-technology-and-education",
+  "permalink": "/docs/citation-styles/journal-of-music-technology-and-education",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-music-technology-and-education.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-musculoskeletal-research",
+    "permalink": "/docs/citation-styles/journal-of-musculoskeletal-research"
+  },
+  "next": {
+    "title": "journal-of-nanoscience-and-nanotechnology",
+    "permalink": "/docs/citation-styles/journal-of-nanoscience-and-nanotechnology"
+  }
+}

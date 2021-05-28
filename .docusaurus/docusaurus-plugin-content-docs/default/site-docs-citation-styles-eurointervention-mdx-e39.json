@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/eurointervention",
+  "id": "citation-styles/eurointervention",
+  "isDocsHomePage": false,
+  "title": "eurointervention",
+  "description": "---",
+  "source": "@site/docs/citation-styles/eurointervention.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/eurointervention",
+  "permalink": "/docs/citation-styles/eurointervention",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/eurointervention.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eurasian-journal-of-medicine-and-oncology",
+    "permalink": "/docs/citation-styles/eurasian-journal-of-medicine-and-oncology"
+  },
+  "next": {
+    "title": "europace",
+    "permalink": "/docs/citation-styles/europace"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/science-china-chemistry",
+  "id": "citation-styles/science-china-chemistry",
+  "isDocsHomePage": false,
+  "title": "science-china-chemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/science-china-chemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/science-china-chemistry",
+  "permalink": "/docs/citation-styles/science-china-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/science-china-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-and-technology-for-the-built-environment",
+    "permalink": "/docs/citation-styles/science-and-technology-for-the-built-environment"
+  },
+  "next": {
+    "title": "science-china-earth-sciences",
+    "permalink": "/docs/citation-styles/science-china-earth-sciences"
+  }
+}

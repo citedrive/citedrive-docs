@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/radiology",
+  "id": "citation-styles/radiology",
+  "isDocsHomePage": false,
+  "title": "radiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/radiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/radiology",
+  "permalink": "/docs/citation-styles/radiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/radiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "radiologic-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/radiologic-clinics-of-north-america"
+  },
+  "next": {
+    "title": "radiopaediaorg",
+    "permalink": "/docs/citation-styles/radiopaediaorg"
+  }
+}

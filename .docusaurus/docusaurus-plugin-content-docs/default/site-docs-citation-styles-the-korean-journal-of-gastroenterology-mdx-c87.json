@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-korean-journal-of-gastroenterology",
+  "id": "citation-styles/the-korean-journal-of-gastroenterology",
+  "isDocsHomePage": false,
+  "title": "the-korean-journal-of-gastroenterology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-korean-journal-of-gastroenterology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-korean-journal-of-gastroenterology",
+  "permalink": "/docs/citation-styles/the-korean-journal-of-gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-korean-journal-of-gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+    "permalink": "/docs/citation-styles/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences"
+  },
+  "next": {
+    "title": "the-korean-journal-of-internal-medicine",
+    "permalink": "/docs/citation-styles/the-korean-journal-of-internal-medicine"
+  }
+}

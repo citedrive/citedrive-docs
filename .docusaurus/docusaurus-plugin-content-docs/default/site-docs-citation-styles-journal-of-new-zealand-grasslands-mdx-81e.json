@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-new-zealand-grasslands",
+  "id": "citation-styles/journal-of-new-zealand-grasslands",
+  "isDocsHomePage": false,
+  "title": "journal-of-new-zealand-grasslands",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-new-zealand-grasslands.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-new-zealand-grasslands",
+  "permalink": "/docs/citation-styles/journal-of-new-zealand-grasslands",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-new-zealand-grasslands.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neurotrauma",
+    "permalink": "/docs/citation-styles/journal-of-neurotrauma"
+  },
+  "next": {
+    "title": "journal-of-nutrition",
+    "permalink": "/docs/citation-styles/journal-of-nutrition"
+  }
+}

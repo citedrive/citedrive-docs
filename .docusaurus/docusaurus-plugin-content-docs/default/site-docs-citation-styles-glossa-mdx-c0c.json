@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/glossa",
+  "id": "citation-styles/glossa",
+  "isDocsHomePage": false,
+  "title": "glossa",
+  "description": "---",
+  "source": "@site/docs/citation-styles/glossa.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/glossa",
+  "permalink": "/docs/citation-styles/glossa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/glossa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "global-ecology-and-biogeography",
+    "permalink": "/docs/citation-styles/global-ecology-and-biogeography"
+  },
+  "next": {
+    "title": "government-and-opposition",
+    "permalink": "/docs/citation-styles/government-and-opposition"
+  }
+}

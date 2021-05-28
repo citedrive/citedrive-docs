@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+  "id": "citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+  "isDocsHomePage": false,
+  "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+  "permalink": "/docs/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scientia-iranica",
+    "permalink": "/docs/citation-styles/scientia-iranica"
+  },
+  "next": {
+    "title": "scrinium",
+    "permalink": "/docs/citation-styles/scrinium"
+  }
+}

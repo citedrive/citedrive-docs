@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/organization",
+  "id": "citation-styles/organization",
+  "isDocsHomePage": false,
+  "title": "organization",
+  "description": "---",
+  "source": "@site/docs/citation-styles/organization.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/organization",
+  "permalink": "/docs/citation-styles/organization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/organization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organised-sound",
+    "permalink": "/docs/citation-styles/organised-sound"
+  },
+  "next": {
+    "title": "organon",
+    "permalink": "/docs/citation-styles/organon"
+  }
+}

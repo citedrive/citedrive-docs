@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ornitologia-neotropical",
+  "id": "citation-styles/ornitologia-neotropical",
+  "isDocsHomePage": false,
+  "title": "ornitologia-neotropical",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ornitologia-neotropical.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ornitologia-neotropical",
+  "permalink": "/docs/citation-styles/ornitologia-neotropical",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ornitologia-neotropical.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organon",
+    "permalink": "/docs/citation-styles/organon"
+  },
+  "next": {
+    "title": "orthopedic-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/orthopedic-clinics-of-north-america"
+  }
+}

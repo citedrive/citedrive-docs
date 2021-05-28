@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecological-entomology",
+  "id": "citation-styles/ecological-entomology",
+  "isDocsHomePage": false,
+  "title": "ecological-entomology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecological-entomology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecological-entomology",
+  "permalink": "/docs/citation-styles/ecological-entomology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecological-entomology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
+    "permalink": "/docs/citation-styles/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french"
+  },
+  "next": {
+    "title": "ecological-restoration",
+    "permalink": "/docs/citation-styles/ecological-restoration"
+  }
+}

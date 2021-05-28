@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ithaque-french--canada",
+  "id": "citation-styles/ithaque-french--canada",
+  "isDocsHomePage": false,
+  "title": "ithaque-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ithaque-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ithaque-french--canada",
+  "permalink": "/docs/citation-styles/ithaque-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ithaque-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "italus-hortus",
+    "permalink": "/docs/citation-styles/italus-hortus"
+  },
+  "next": {
+    "title": "iubmb-life",
+    "permalink": "/docs/citation-styles/iubmb-life"
+  }
+}

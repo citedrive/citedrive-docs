@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/water-environment-research",
+  "id": "citation-styles/water-environment-research",
+  "isDocsHomePage": false,
+  "title": "water-environment-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/water-environment-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/water-environment-research",
+  "permalink": "/docs/citation-styles/water-environment-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/water-environment-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "water-alternatives",
+    "permalink": "/docs/citation-styles/water-alternatives"
+  },
+  "next": {
+    "title": "water-sa",
+    "permalink": "/docs/citation-styles/water-sa"
+  }
+}

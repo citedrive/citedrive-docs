@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-journal-of-emergency-medicine",
+  "id": "citation-styles/european-journal-of-emergency-medicine",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-emergency-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-journal-of-emergency-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-journal-of-emergency-medicine",
+  "permalink": "/docs/citation-styles/european-journal-of-emergency-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-journal-of-emergency-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-clinical-microbiology-and-infectious-diseases",
+    "permalink": "/docs/citation-styles/european-journal-of-clinical-microbiology-and-infectious-diseases"
+  },
+  "next": {
+    "title": "european-journal-of-endocrinology",
+    "permalink": "/docs/citation-styles/european-journal-of-endocrinology"
+  }
+}

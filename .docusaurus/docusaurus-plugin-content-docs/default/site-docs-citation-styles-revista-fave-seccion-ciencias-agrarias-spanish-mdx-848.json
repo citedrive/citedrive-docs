@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-fave--seccion-ciencias-agrarias-spanish",
+  "id": "citation-styles/revista-fave--seccion-ciencias-agrarias-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-fave--seccion-ciencias-agrarias-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-fave--seccion-ciencias-agrarias-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-fave--seccion-ciencias-agrarias-spanish",
+  "permalink": "/docs/citation-styles/revista-fave--seccion-ciencias-agrarias-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-fave--seccion-ciencias-agrarias-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+    "permalink": "/docs/citation-styles/revista-espanola-de-nutricion-humana-y-dietetica-spanish"
+  },
+  "next": {
+    "title": "revista-latinoamericana-de-metalurgia-y-materiales",
+    "permalink": "/docs/citation-styles/revista-latinoamericana-de-metalurgia-y-materiales"
+  }
+}

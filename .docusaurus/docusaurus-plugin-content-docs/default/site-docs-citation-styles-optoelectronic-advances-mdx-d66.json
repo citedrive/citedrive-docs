@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/optoelectronic-advances",
+  "id": "citation-styles/optoelectronic-advances",
+  "isDocsHomePage": false,
+  "title": "optoelectronic-advances",
+  "description": "---",
+  "source": "@site/docs/citation-styles/optoelectronic-advances.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/optoelectronic-advances",
+  "permalink": "/docs/citation-styles/optoelectronic-advances",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/optoelectronic-advances.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optics-letters",
+    "permalink": "/docs/citation-styles/optics-letters"
+  },
+  "next": {
+    "title": "optometry-and-vision-science",
+    "permalink": "/docs/citation-styles/optometry-and-vision-science"
+  }
+}

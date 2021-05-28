@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/institute-of-mathematics-and-its-applications",
+  "id": "citation-styles/institute-of-mathematics-and-its-applications",
+  "isDocsHomePage": false,
+  "title": "institute-of-mathematics-and-its-applications",
+  "description": "---",
+  "source": "@site/docs/citation-styles/institute-of-mathematics-and-its-applications.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/institute-of-mathematics-and-its-applications",
+  "permalink": "/docs/citation-styles/institute-of-mathematics-and-its-applications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/institute-of-mathematics-and-its-applications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institute-of-mathematical-statistics-journals",
+    "permalink": "/docs/citation-styles/institute-of-mathematical-statistics-journals"
+  },
+  "next": {
+    "title": "institute-of-physics--harvard",
+    "permalink": "/docs/citation-styles/institute-of-physics--harvard"
+  }
+}

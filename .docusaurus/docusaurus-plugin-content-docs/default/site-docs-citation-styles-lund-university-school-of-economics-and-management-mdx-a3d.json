@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lund-university-school-of-economics-and-management",
+  "id": "citation-styles/lund-university-school-of-economics-and-management",
+  "isDocsHomePage": false,
+  "title": "lund-university-school-of-economics-and-management",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lund-university-school-of-economics-and-management.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lund-university-school-of-economics-and-management",
+  "permalink": "/docs/citation-styles/lund-university-school-of-economics-and-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lund-university-school-of-economics-and-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "london-south-bank-university-numeric",
+    "permalink": "/docs/citation-styles/london-south-bank-university-numeric"
+  },
+  "next": {
+    "title": "macromolecular-reaction-engineering",
+    "permalink": "/docs/citation-styles/macromolecular-reaction-engineering"
+  }
+}

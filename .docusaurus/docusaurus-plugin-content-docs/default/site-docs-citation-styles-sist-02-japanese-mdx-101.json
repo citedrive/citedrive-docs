@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sist02-japanese",
+  "id": "citation-styles/sist02-japanese",
+  "isDocsHomePage": false,
+  "title": "sist02-japanese",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sist02-japanese.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sist02-japanese",
+  "permalink": "/docs/citation-styles/sist02-japanese",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sist02-japanese.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "shock",
+    "permalink": "/docs/citation-styles/shock"
+  },
+  "next": {
+    "title": "skene-journal-of-theatre-and-drama-studies",
+    "permalink": "/docs/citation-styles/skene-journal-of-theatre-and-drama-studies"
+  }
+}

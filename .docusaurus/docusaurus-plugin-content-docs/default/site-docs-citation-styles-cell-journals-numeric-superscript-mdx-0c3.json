@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cell-journals-numeric-superscript",
+  "id": "citation-styles/cell-journals-numeric-superscript",
+  "isDocsHomePage": false,
+  "title": "cell-journals-numeric-superscript",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cell-journals-numeric-superscript.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cell-journals-numeric-superscript",
+  "permalink": "/docs/citation-styles/cell-journals-numeric-superscript",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cell-journals-numeric-superscript.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "catholic-biblical-association-full-note",
+    "permalink": "/docs/citation-styles/catholic-biblical-association-full-note"
+  },
+  "next": {
+    "title": "cell-journals-numeric",
+    "permalink": "/docs/citation-styles/cell-journals-numeric"
+  }
+}

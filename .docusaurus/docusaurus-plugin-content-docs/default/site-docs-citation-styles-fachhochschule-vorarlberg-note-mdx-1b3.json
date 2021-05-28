@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/fachhochschule-vorarlberg-note",
+  "id": "citation-styles/fachhochschule-vorarlberg-note",
+  "isDocsHomePage": false,
+  "title": "fachhochschule-vorarlberg-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/fachhochschule-vorarlberg-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/fachhochschule-vorarlberg-note",
+  "permalink": "/docs/citation-styles/fachhochschule-vorarlberg-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/fachhochschule-vorarlberg-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fachhochschule-vorarlberg-authordate",
+    "permalink": "/docs/citation-styles/fachhochschule-vorarlberg-authordate"
+  },
+  "next": {
+    "title": "facial-plastic-surgery-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/facial-plastic-surgery-clinics-of-north-america"
+  }
+}

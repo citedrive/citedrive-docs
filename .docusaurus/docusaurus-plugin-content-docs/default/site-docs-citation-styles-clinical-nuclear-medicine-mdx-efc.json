@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-nuclear-medicine",
+  "id": "citation-styles/clinical-nuclear-medicine",
+  "isDocsHomePage": false,
+  "title": "clinical-nuclear-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-nuclear-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-nuclear-medicine",
+  "permalink": "/docs/citation-styles/clinical-nuclear-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-nuclear-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-management-issues",
+    "permalink": "/docs/citation-styles/clinical-management-issues"
+  },
+  "next": {
+    "title": "clinical-oral-implants-research",
+    "permalink": "/docs/citation-styles/clinical-oral-implants-research"
+  }
+}

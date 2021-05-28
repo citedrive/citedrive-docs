@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard",
+  "id": "citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard",
+  "isDocsHomePage": false,
+  "title": "the-university-of-sheffield--town-and-regional-planning--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard",
+  "permalink": "/docs/citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-university-of-sheffield--town-and-regional-planning--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-sheffield--school-of-east-asian-studies--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-sheffield--school-of-east-asian-studies--harvard"
+  },
+  "next": {
+    "title": "the-university-of-western-australia--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-western-australia--harvard"
+  }
+}

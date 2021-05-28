@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-chiropterologica",
+  "id": "citation-styles/acta-chiropterologica",
+  "isDocsHomePage": false,
+  "title": "acta-chiropterologica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-chiropterologica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-chiropterologica",
+  "permalink": "/docs/citation-styles/acta-chiropterologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-chiropterologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-botanica-croatica",
+    "permalink": "/docs/citation-styles/acta-botanica-croatica"
+  },
+  "next": {
+    "title": "acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+    "permalink": "/docs/citation-styles/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca"
+  }
+}

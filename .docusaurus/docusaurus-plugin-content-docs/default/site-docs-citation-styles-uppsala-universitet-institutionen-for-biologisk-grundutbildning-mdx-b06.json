@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+  "id": "citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+  "isDocsHomePage": false,
+  "title": "uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+  "description": "---",
+  "source": "@site/docs/citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+  "permalink": "/docs/citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/uppsala-universitet-institutionen-for-biologisk-grundutbildning.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uppsala-universitet--historia",
+    "permalink": "/docs/citation-styles/uppsala-universitet--historia"
+  },
+  "next": {
+    "title": "urban-geography",
+    "permalink": "/docs/citation-styles/urban-geography"
+  }
+}

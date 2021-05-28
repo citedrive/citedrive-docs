@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acm-sig-proceedings-et-al-for-15-authors",
+  "id": "citation-styles/acm-sig-proceedings-et-al-for-15-authors",
+  "isDocsHomePage": false,
+  "title": "acm-sig-proceedings-et-al-for-15-authors",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acm-sig-proceedings-et-al-for-15-authors.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acm-sig-proceedings-et-al-for-15-authors",
+  "permalink": "/docs/citation-styles/acm-sig-proceedings-et-al-for-15-authors",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acm-sig-proceedings-et-al-for-15-authors.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aci-materials-journal",
+    "permalink": "/docs/citation-styles/aci-materials-journal"
+  },
+  "next": {
+    "title": "acm-sig-proceedings-et-al-for-3-authors",
+    "permalink": "/docs/citation-styles/acm-sig-proceedings-et-al-for-3-authors"
+  }
+}

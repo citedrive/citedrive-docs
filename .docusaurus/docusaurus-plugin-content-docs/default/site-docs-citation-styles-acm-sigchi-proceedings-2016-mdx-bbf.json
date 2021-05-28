@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acm-sigchi-proceedings-2016",
+  "id": "citation-styles/acm-sigchi-proceedings-2016",
+  "isDocsHomePage": false,
+  "title": "acm-sigchi-proceedings-2016",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acm-sigchi-proceedings-2016.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acm-sigchi-proceedings-2016",
+  "permalink": "/docs/citation-styles/acm-sigchi-proceedings-2016",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acm-sigchi-proceedings-2016.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acm-sigchi-proceedings--extended-abstract-format",
+    "permalink": "/docs/citation-styles/acm-sigchi-proceedings--extended-abstract-format"
+  },
+  "next": {
+    "title": "acm-siggraph",
+    "permalink": "/docs/citation-styles/acm-siggraph"
+  }
+}

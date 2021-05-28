@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-medical-genetics",
+  "id": "citation-styles/american-journal-of-medical-genetics",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-medical-genetics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-medical-genetics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-medical-genetics",
+  "permalink": "/docs/citation-styles/american-journal-of-medical-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-medical-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-hypertension",
+    "permalink": "/docs/citation-styles/american-journal-of-hypertension"
+  },
+  "next": {
+    "title": "american-journal-of-neuroradiology",
+    "permalink": "/docs/citation-styles/american-journal-of-neuroradiology"
+  }
+}

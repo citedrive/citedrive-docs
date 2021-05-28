@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature",
+  "id": "citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature",
+  "isDocsHomePage": false,
+  "title": "unified-stylesheet-for-linguistics-de-gruyter-literature",
+  "description": "---",
+  "source": "@site/docs/citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature",
+  "permalink": "/docs/citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unified-style-sheet-for-linguistics",
+    "permalink": "/docs/citation-styles/unified-style-sheet-for-linguistics"
+  },
+  "next": {
+    "title": "united-nations-conference-on-trade-and-development",
+    "permalink": "/docs/citation-styles/united-nations-conference-on-trade-and-development"
+  }
+}

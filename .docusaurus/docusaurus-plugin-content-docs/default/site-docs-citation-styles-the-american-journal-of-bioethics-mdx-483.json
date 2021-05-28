@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-american-journal-of-bioethics",
+  "id": "citation-styles/the-american-journal-of-bioethics",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-bioethics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-american-journal-of-bioethics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-american-journal-of-bioethics",
+  "permalink": "/docs/citation-styles/the-american-journal-of-bioethics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-american-journal-of-bioethics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-accounting-review",
+    "permalink": "/docs/citation-styles/the-accounting-review"
+  },
+  "next": {
+    "title": "the-american-journal-of-cardiology",
+    "permalink": "/docs/citation-styles/the-american-journal-of-cardiology"
+  }
+}

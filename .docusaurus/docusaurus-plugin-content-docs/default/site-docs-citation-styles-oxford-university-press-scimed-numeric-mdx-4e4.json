@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oxford-university-press-scimed-numeric",
+  "id": "citation-styles/oxford-university-press-scimed-numeric",
+  "isDocsHomePage": false,
+  "title": "oxford-university-press-scimed-numeric",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oxford-university-press-scimed-numeric.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oxford-university-press-scimed-numeric",
+  "permalink": "/docs/citation-styles/oxford-university-press-scimed-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oxford-university-press-scimed-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-university-press-scimed-authordate",
+    "permalink": "/docs/citation-styles/oxford-university-press-scimed-authordate"
+  },
+  "next": {
+    "title": "oxidation-of-metals",
+    "permalink": "/docs/citation-styles/oxidation-of-metals"
+  }
+}

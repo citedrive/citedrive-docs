@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-for-the-history-of-astronomy",
+  "id": "citation-styles/journal-for-the-history-of-astronomy",
+  "isDocsHomePage": false,
+  "title": "journal-for-the-history-of-astronomy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-for-the-history-of-astronomy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-for-the-history-of-astronomy",
+  "permalink": "/docs/citation-styles/journal-for-the-history-of-astronomy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-for-the-history-of-astronomy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-de-la-societe-des-oceanistes",
+    "permalink": "/docs/citation-styles/journal-de-la-societe-des-oceanistes"
+  },
+  "next": {
+    "title": "journal-for-veterinary-medicine-biotechnology-and-biosafety",
+    "permalink": "/docs/citation-styles/journal-for-veterinary-medicine-biotechnology-and-biosafety"
+  }
+}

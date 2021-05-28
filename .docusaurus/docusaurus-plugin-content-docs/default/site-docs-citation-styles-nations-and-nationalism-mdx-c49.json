@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nations-and-nationalism",
+  "id": "citation-styles/nations-and-nationalism",
+  "isDocsHomePage": false,
+  "title": "nations-and-nationalism",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nations-and-nationalism.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nations-and-nationalism",
+  "permalink": "/docs/citation-styles/nations-and-nationalism",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nations-and-nationalism.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-university-of-singapore--department-of-geography--harvard",
+    "permalink": "/docs/citation-styles/national-university-of-singapore--department-of-geography--harvard"
+  },
+  "next": {
+    "title": "natur-und-landschaft-german",
+    "permalink": "/docs/citation-styles/natur-und-landschaft-german"
+  }
+}

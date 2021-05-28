@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-applied-animal-science",
+  "id": "citation-styles/journal-of-applied-animal-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-applied-animal-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-applied-animal-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-applied-animal-science",
+  "permalink": "/docs/citation-styles/journal-of-applied-animal-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-applied-animal-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-aoac-international",
+    "permalink": "/docs/citation-styles/journal-of-aoac-international"
+  },
+  "next": {
+    "title": "journal-of-applied-clinical-medical-physics",
+    "permalink": "/docs/citation-styles/journal-of-applied-clinical-medical-physics"
+  }
+}

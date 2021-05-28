@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-immunology",
+  "id": "citation-styles/the-journal-of-immunology",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-immunology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-immunology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-immunology",
+  "permalink": "/docs/citation-styles/the-journal-of-immunology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-immunology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-hellenic-studies",
+    "permalink": "/docs/citation-styles/the-journal-of-hellenic-studies"
+  },
+  "next": {
+    "title": "the-journal-of-infection-in-developing-countries",
+    "permalink": "/docs/citation-styles/the-journal-of-infection-in-developing-countries"
+  }
+}

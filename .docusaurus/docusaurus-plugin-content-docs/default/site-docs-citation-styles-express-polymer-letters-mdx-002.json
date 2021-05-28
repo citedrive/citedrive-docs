@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/express-polymer-letters",
+  "id": "citation-styles/express-polymer-letters",
+  "isDocsHomePage": false,
+  "title": "express-polymer-letters",
+  "description": "---",
+  "source": "@site/docs/citation-styles/express-polymer-letters.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/express-polymer-letters",
+  "permalink": "/docs/citation-styles/express-polymer-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/express-polymer-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "experimental-dermatology",
+    "permalink": "/docs/citation-styles/experimental-dermatology"
+  },
+  "next": {
+    "title": "eye",
+    "permalink": "/docs/citation-styles/eye"
+  }
+}

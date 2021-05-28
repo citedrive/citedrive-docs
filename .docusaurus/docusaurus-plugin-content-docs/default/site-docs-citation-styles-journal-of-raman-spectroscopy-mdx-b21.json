@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-raman-spectroscopy",
+  "id": "citation-styles/journal-of-raman-spectroscopy",
+  "isDocsHomePage": false,
+  "title": "journal-of-raman-spectroscopy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-raman-spectroscopy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-raman-spectroscopy",
+  "permalink": "/docs/citation-styles/journal-of-raman-spectroscopy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-raman-spectroscopy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-psychiatry-and-neuroscience",
+    "permalink": "/docs/citation-styles/journal-of-psychiatry-and-neuroscience"
+  },
+  "next": {
+    "title": "journal-of-reconstructive-microsurgery",
+    "permalink": "/docs/citation-styles/journal-of-reconstructive-microsurgery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+  "id": "citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+  "isDocsHomePage": false,
+  "title": "escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+  "description": "---",
+  "source": "@site/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+  "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-completa-spanish--mexico.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico",
+    "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-autorfecha-spanish--mexico"
+  },
+  "next": {
+    "title": "escuela-nacional-de-antropologia-e-historia-nota-corta-spanish--mexico",
+    "permalink": "/docs/citation-styles/escuela-nacional-de-antropologia-e-historia-nota-corta-spanish--mexico"
+  }
+}

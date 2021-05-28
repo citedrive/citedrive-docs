@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/taxon",
+  "id": "citation-styles/taxon",
+  "isDocsHomePage": false,
+  "title": "taxon",
+  "description": "---",
+  "source": "@site/docs/citation-styles/taxon.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/taxon",
+  "permalink": "/docs/citation-styles/taxon",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/taxon.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+    "permalink": "/docs/citation-styles/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis"
+  },
+  "next": {
+    "title": "taylor-and-francis--american-chemical-society",
+    "permalink": "/docs/citation-styles/taylor-and-francis--american-chemical-society"
+  }
+}

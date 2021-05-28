@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/russian-gost-r-7052008-russian",
+  "id": "citation-styles/russian-gost-r-7052008-russian",
+  "isDocsHomePage": false,
+  "title": "russian-gost-r-7052008-russian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/russian-gost-r-7052008-russian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/russian-gost-r-7052008-russian",
+  "permalink": "/docs/citation-styles/russian-gost-r-7052008-russian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/russian-gost-r-7052008-russian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "russian-gost-r-7052008-numeric",
+    "permalink": "/docs/citation-styles/russian-gost-r-7052008-numeric"
+  },
+  "next": {
+    "title": "sage--harvard",
+    "permalink": "/docs/citation-styles/sage--harvard"
+  }
+}

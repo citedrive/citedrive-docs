@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-bone-and-mineral-research",
+  "id": "citation-styles/journal-of-bone-and-mineral-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-bone-and-mineral-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-bone-and-mineral-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-bone-and-mineral-research",
+  "permalink": "/docs/citation-styles/journal-of-bone-and-mineral-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-bone-and-mineral-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-biosciences",
+    "permalink": "/docs/citation-styles/journal-of-biosciences"
+  },
+  "next": {
+    "title": "journal-of-brachial-plexus-and-peripheral-nerve-injury",
+    "permalink": "/docs/citation-styles/journal-of-brachial-plexus-and-peripheral-nerve-injury"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/conservation-biology",
+  "id": "citation-styles/conservation-biology",
+  "isDocsHomePage": false,
+  "title": "conservation-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/conservation-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/conservation-biology",
+  "permalink": "/docs/citation-styles/conservation-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/conservation-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "conservation-and-society",
+    "permalink": "/docs/citation-styles/conservation-and-society"
+  },
+  "next": {
+    "title": "conservation-letters",
+    "permalink": "/docs/citation-styles/conservation-letters"
+  }
+}

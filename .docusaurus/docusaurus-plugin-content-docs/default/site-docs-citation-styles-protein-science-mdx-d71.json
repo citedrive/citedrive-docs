@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/protein-science",
+  "id": "citation-styles/protein-science",
+  "isDocsHomePage": false,
+  "title": "protein-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/protein-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/protein-science",
+  "permalink": "/docs/citation-styles/protein-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/protein-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "protein-engineering-design-and-selection",
+    "permalink": "/docs/citation-styles/protein-engineering-design-and-selection"
+  },
+  "next": {
+    "title": "proteomics",
+    "permalink": "/docs/citation-styles/proteomics"
+  }
+}

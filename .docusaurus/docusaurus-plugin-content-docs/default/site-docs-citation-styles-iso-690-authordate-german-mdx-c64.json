@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iso690-authordate-german",
+  "id": "citation-styles/iso690-authordate-german",
+  "isDocsHomePage": false,
+  "title": "iso690-authordate-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iso690-authordate-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iso690-authordate-german",
+  "permalink": "/docs/citation-styles/iso690-authordate-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iso690-authordate-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-authordate-french",
+    "permalink": "/docs/citation-styles/iso690-authordate-french"
+  },
+  "next": {
+    "title": "iso690-authordate-no-abstract-french",
+    "permalink": "/docs/citation-styles/iso690-authordate-no-abstract-french"
+  }
+}

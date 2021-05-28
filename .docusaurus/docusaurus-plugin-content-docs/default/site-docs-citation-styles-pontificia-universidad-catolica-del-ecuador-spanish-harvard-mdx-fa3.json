@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+  "id": "citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+  "isDocsHomePage": false,
+  "title": "pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+  "permalink": "/docs/citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pontificia-universidad-catolica-del-ecuador-spanish--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pontifical-gregorian-university-italian",
+    "permalink": "/docs/citation-styles/pontifical-gregorian-university-italian"
+  },
+  "next": {
+    "title": "population-french",
+    "permalink": "/docs/citation-styles/population-french"
+  }
+}

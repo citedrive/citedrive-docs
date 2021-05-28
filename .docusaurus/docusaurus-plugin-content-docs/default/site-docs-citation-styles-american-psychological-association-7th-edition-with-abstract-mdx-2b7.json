@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-psychological-association-7th-edition-with-abstract",
+  "id": "citation-styles/american-psychological-association-7th-edition-with-abstract",
+  "isDocsHomePage": false,
+  "title": "american-psychological-association-7th-edition-with-abstract",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-psychological-association-7th-edition-with-abstract.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-psychological-association-7th-edition-with-abstract",
+  "permalink": "/docs/citation-styles/american-psychological-association-7th-edition-with-abstract",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-psychological-association-7th-edition-with-abstract.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-psychological-association-7th-edition-singlespaced-bibliography",
+    "permalink": "/docs/citation-styles/american-psychological-association-7th-edition-singlespaced-bibliography"
+  },
+  "next": {
+    "title": "american-psychological-association-7th-edition",
+    "permalink": "/docs/citation-styles/american-psychological-association-7th-edition"
+  }
+}

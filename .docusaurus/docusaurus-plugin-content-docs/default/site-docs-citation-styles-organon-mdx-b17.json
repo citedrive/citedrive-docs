@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/organon",
+  "id": "citation-styles/organon",
+  "isDocsHomePage": false,
+  "title": "organon",
+  "description": "---",
+  "source": "@site/docs/citation-styles/organon.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/organon",
+  "permalink": "/docs/citation-styles/organon",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/organon.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organization",
+    "permalink": "/docs/citation-styles/organization"
+  },
+  "next": {
+    "title": "ornitologia-neotropical",
+    "permalink": "/docs/citation-styles/ornitologia-neotropical"
+  }
+}

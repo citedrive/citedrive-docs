@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/medical-history",
+  "id": "citation-styles/medical-history",
+  "isDocsHomePage": false,
+  "title": "medical-history",
+  "description": "---",
+  "source": "@site/docs/citation-styles/medical-history.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/medical-history",
+  "permalink": "/docs/citation-styles/medical-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/medical-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medical-dosimetry",
+    "permalink": "/docs/citation-styles/medical-dosimetry"
+  },
+  "next": {
+    "title": "medicina-clinica-spanish",
+    "permalink": "/docs/citation-styles/medicina-clinica-spanish"
+  }
+}

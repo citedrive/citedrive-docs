@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/stem-cells",
+  "id": "citation-styles/stem-cells",
+  "isDocsHomePage": false,
+  "title": "stem-cells",
+  "description": "---",
+  "source": "@site/docs/citation-styles/stem-cells.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/stem-cells",
+  "permalink": "/docs/citation-styles/stem-cells",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/stem-cells.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stem-cells-and-development",
+    "permalink": "/docs/citation-styles/stem-cells-and-development"
+  },
+  "next": {
+    "title": "strategic-design-research-journal",
+    "permalink": "/docs/citation-styles/strategic-design-research-journal"
+  }
+}

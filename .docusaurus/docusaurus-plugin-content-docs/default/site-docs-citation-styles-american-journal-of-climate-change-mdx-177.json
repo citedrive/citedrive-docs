@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-climate-change",
+  "id": "citation-styles/american-journal-of-climate-change",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-climate-change",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-climate-change.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-climate-change",
+  "permalink": "/docs/citation-styles/american-journal-of-climate-change",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-climate-change.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-botany",
+    "permalink": "/docs/citation-styles/american-journal-of-botany"
+  },
+  "next": {
+    "title": "american-journal-of-clinical-pathology",
+    "permalink": "/docs/citation-styles/american-journal-of-clinical-pathology"
+  }
+}

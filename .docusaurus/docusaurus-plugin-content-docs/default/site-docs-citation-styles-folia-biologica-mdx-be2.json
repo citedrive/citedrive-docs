@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/folia-biologica",
+  "id": "citation-styles/folia-biologica",
+  "isDocsHomePage": false,
+  "title": "folia-biologica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/folia-biologica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/folia-biologica",
+  "permalink": "/docs/citation-styles/folia-biologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/folia-biologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "foldandr-fasti-on-line-documents-and-research",
+    "permalink": "/docs/citation-styles/foldandr-fasti-on-line-documents-and-research"
+  },
+  "next": {
+    "title": "folia-morphologia",
+    "permalink": "/docs/citation-styles/folia-morphologia"
+  }
+}

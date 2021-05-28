@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ophthalmology-retina",
+  "id": "citation-styles/ophthalmology-retina",
+  "isDocsHomePage": false,
+  "title": "ophthalmology-retina",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ophthalmology-retina.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ophthalmology-retina",
+  "permalink": "/docs/citation-styles/ophthalmology-retina",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ophthalmology-retina.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmic-genetics",
+    "permalink": "/docs/citation-styles/ophthalmic-genetics"
+  },
+  "next": {
+    "title": "ophthalmology",
+    "permalink": "/docs/citation-styles/ophthalmology"
+  }
+}

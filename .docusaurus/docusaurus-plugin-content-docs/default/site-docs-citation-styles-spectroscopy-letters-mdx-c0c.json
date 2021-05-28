@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/spectroscopy-letters",
+  "id": "citation-styles/spectroscopy-letters",
+  "isDocsHomePage": false,
+  "title": "spectroscopy-letters",
+  "description": "---",
+  "source": "@site/docs/citation-styles/spectroscopy-letters.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/spectroscopy-letters",
+  "permalink": "/docs/citation-styles/spectroscopy-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/spectroscopy-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spanish-legal-spanish",
+    "permalink": "/docs/citation-styles/spanish-legal-spanish"
+  },
+  "next": {
+    "title": "speculum",
+    "permalink": "/docs/citation-styles/speculum"
+  }
+}

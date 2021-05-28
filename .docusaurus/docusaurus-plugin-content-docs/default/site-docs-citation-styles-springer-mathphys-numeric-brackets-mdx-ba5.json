@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--mathphys-numeric-brackets",
+  "id": "citation-styles/springer--mathphys-numeric-brackets",
+  "isDocsHomePage": false,
+  "title": "springer--mathphys-numeric-brackets",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--mathphys-numeric-brackets.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--mathphys-numeric-brackets",
+  "permalink": "/docs/citation-styles/springer--mathphys-numeric-brackets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--mathphys-numeric-brackets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--mathphys-authordate",
+    "permalink": "/docs/citation-styles/springer--mathphys-authordate"
+  },
+  "next": {
+    "title": "springer--physics-authordate",
+    "permalink": "/docs/citation-styles/springer--physics-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/frontiers-of-biogeography",
+  "id": "citation-styles/frontiers-of-biogeography",
+  "isDocsHomePage": false,
+  "title": "frontiers-of-biogeography",
+  "description": "---",
+  "source": "@site/docs/citation-styles/frontiers-of-biogeography.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/frontiers-of-biogeography",
+  "permalink": "/docs/citation-styles/frontiers-of-biogeography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/frontiers-of-biogeography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-medical-journals",
+    "permalink": "/docs/citation-styles/frontiers-medical-journals"
+  },
+  "next": {
+    "title": "future-medicine-journals",
+    "permalink": "/docs/citation-styles/future-medicine-journals"
+  }
+}

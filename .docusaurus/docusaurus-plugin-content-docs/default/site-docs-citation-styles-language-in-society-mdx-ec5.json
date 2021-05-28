@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/language-in-society",
+  "id": "citation-styles/language-in-society",
+  "isDocsHomePage": false,
+  "title": "language-in-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/language-in-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/language-in-society",
+  "permalink": "/docs/citation-styles/language-in-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/language-in-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "landes-bioscience-journals",
+    "permalink": "/docs/citation-styles/landes-bioscience-journals"
+  },
+  "next": {
+    "title": "language",
+    "permalink": "/docs/citation-styles/language"
+  }
+}

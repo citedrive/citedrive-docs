@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/modern-language-association-7th-edition-with-url",
+  "id": "citation-styles/modern-language-association-7th-edition-with-url",
+  "isDocsHomePage": false,
+  "title": "modern-language-association-7th-edition-with-url",
+  "description": "---",
+  "source": "@site/docs/citation-styles/modern-language-association-7th-edition-with-url.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/modern-language-association-7th-edition-with-url",
+  "permalink": "/docs/citation-styles/modern-language-association-7th-edition-with-url",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/modern-language-association-7th-edition-with-url.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "modern-language-association-7th-edition-underline",
+    "permalink": "/docs/citation-styles/modern-language-association-7th-edition-underline"
+  },
+  "next": {
+    "title": "modern-language-association-7th-edition",
+    "permalink": "/docs/citation-styles/modern-language-association-7th-edition"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-journal-of-information-systems",
+  "id": "citation-styles/european-journal-of-information-systems",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-information-systems",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-journal-of-information-systems.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-journal-of-information-systems",
+  "permalink": "/docs/citation-styles/european-journal-of-information-systems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-journal-of-information-systems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-immunology",
+    "permalink": "/docs/citation-styles/european-journal-of-immunology"
+  },
+  "next": {
+    "title": "european-journal-of-international-law",
+    "permalink": "/docs/citation-styles/european-journal-of-international-law"
+  }
+}

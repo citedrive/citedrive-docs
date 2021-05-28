@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biological-psychiatry",
+  "id": "citation-styles/biological-psychiatry",
+  "isDocsHomePage": false,
+  "title": "biological-psychiatry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biological-psychiatry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biological-psychiatry",
+  "permalink": "/docs/citation-styles/biological-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biological-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biological-and-pharmaceutical-bulletin",
+    "permalink": "/docs/citation-styles/biological-and-pharmaceutical-bulletin"
+  },
+  "next": {
+    "title": "biological-reviews",
+    "permalink": "/docs/citation-styles/biological-reviews"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/geochemical-perspectives-letters",
+  "id": "citation-styles/geochemical-perspectives-letters",
+  "isDocsHomePage": false,
+  "title": "geochemical-perspectives-letters",
+  "description": "---",
+  "source": "@site/docs/citation-styles/geochemical-perspectives-letters.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/geochemical-perspectives-letters",
+  "permalink": "/docs/citation-styles/geochemical-perspectives-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/geochemical-perspectives-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geobiology",
+    "permalink": "/docs/citation-styles/geobiology"
+  },
+  "next": {
+    "title": "geochimica-et-cosmochimica-acta",
+    "permalink": "/docs/citation-styles/geochimica-et-cosmochimica-acta"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-hemorheology-and-microcirculation",
+  "id": "citation-styles/clinical-hemorheology-and-microcirculation",
+  "isDocsHomePage": false,
+  "title": "clinical-hemorheology-and-microcirculation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-hemorheology-and-microcirculation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-hemorheology-and-microcirculation",
+  "permalink": "/docs/citation-styles/clinical-hemorheology-and-microcirculation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-hemorheology-and-microcirculation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-gastroenterology-and-hepatology",
+    "permalink": "/docs/citation-styles/clinical-gastroenterology-and-hepatology"
+  },
+  "next": {
+    "title": "clinical-infectious-diseases",
+    "permalink": "/docs/citation-styles/clinical-infectious-diseases"
+  }
+}

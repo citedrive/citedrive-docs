@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-palaeontologica-polonica",
+  "id": "citation-styles/acta-palaeontologica-polonica",
+  "isDocsHomePage": false,
+  "title": "acta-palaeontologica-polonica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-palaeontologica-polonica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-palaeontologica-polonica",
+  "permalink": "/docs/citation-styles/acta-palaeontologica-polonica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-palaeontologica-polonica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-paediatrica",
+    "permalink": "/docs/citation-styles/acta-paediatrica"
+  },
+  "next": {
+    "title": "acta-pharmaceutica-sinica-b",
+    "permalink": "/docs/citation-styles/acta-pharmaceutica-sinica-b"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ib-tauris-note",
+  "id": "citation-styles/ib-tauris-note",
+  "isDocsHomePage": false,
+  "title": "ib-tauris-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ib-tauris-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ib-tauris-note",
+  "permalink": "/docs/citation-styles/ib-tauris-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ib-tauris-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hypotheses-in-the-life-sciences",
+    "permalink": "/docs/citation-styles/hypotheses-in-the-life-sciences"
+  },
+  "next": {
+    "title": "ibis",
+    "permalink": "/docs/citation-styles/ibis"
+  }
+}

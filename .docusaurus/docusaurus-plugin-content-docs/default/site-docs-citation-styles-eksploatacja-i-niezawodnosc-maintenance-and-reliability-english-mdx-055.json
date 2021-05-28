@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+  "id": "citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+  "isDocsHomePage": false,
+  "title": "eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+  "description": "---",
+  "source": "@site/docs/citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+  "permalink": "/docs/citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "einaudi-italian",
+    "permalink": "/docs/citation-styles/einaudi-italian"
+  },
+  "next": {
+    "title": "el-profesional-de-la-informacion-spanish",
+    "permalink": "/docs/citation-styles/el-profesional-de-la-informacion-spanish"
+  }
+}

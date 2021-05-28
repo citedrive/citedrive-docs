@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-american-midland-naturalist",
+  "id": "citation-styles/the-american-midland-naturalist",
+  "isDocsHomePage": false,
+  "title": "the-american-midland-naturalist",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-american-midland-naturalist.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-american-midland-naturalist",
+  "permalink": "/docs/citation-styles/the-american-midland-naturalist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-american-midland-naturalist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-tropical-medicine-and-hygiene",
+    "permalink": "/docs/citation-styles/the-american-journal-of-tropical-medicine-and-hygiene"
+  },
+  "next": {
+    "title": "the-american-naturalist",
+    "permalink": "/docs/citation-styles/the-american-naturalist"
+  }
+}

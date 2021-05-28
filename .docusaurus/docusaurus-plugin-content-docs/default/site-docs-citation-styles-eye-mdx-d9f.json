@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/eye",
+  "id": "citation-styles/eye",
+  "isDocsHomePage": false,
+  "title": "eye",
+  "description": "---",
+  "source": "@site/docs/citation-styles/eye.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/eye",
+  "permalink": "/docs/citation-styles/eye",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/eye.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "express-polymer-letters",
+    "permalink": "/docs/citation-styles/express-polymer-letters"
+  },
+  "next": {
+    "title": "fachhochschule-kiel--fachbereich-medien-german",
+    "permalink": "/docs/citation-styles/fachhochschule-kiel--fachbereich-medien-german"
+  }
+}

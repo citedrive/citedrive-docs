@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-jewish-studies",
+  "id": "citation-styles/journal-of-jewish-studies",
+  "isDocsHomePage": false,
+  "title": "journal-of-jewish-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-jewish-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-jewish-studies",
+  "permalink": "/docs/citation-styles/journal-of-jewish-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-jewish-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-investigative-dermatology",
+    "permalink": "/docs/citation-styles/journal-of-investigative-dermatology"
+  },
+  "next": {
+    "title": "journal-of-korean-neurosurgical-society",
+    "permalink": "/docs/citation-styles/journal-of-korean-neurosurgical-society"
+  }
+}

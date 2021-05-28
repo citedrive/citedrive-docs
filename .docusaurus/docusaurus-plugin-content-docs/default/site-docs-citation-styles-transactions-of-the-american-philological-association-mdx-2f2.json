@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/transactions-of-the-american-philological-association",
+  "id": "citation-styles/transactions-of-the-american-philological-association",
+  "isDocsHomePage": false,
+  "title": "transactions-of-the-american-philological-association",
+  "description": "---",
+  "source": "@site/docs/citation-styles/transactions-of-the-american-philological-association.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/transactions-of-the-american-philological-association",
+  "permalink": "/docs/citation-styles/transactions-of-the-american-philological-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/transactions-of-the-american-philological-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "traffic",
+    "permalink": "/docs/citation-styles/traffic"
+  },
+  "next": {
+    "title": "transactions-of-the-materials-research-society-of-japan",
+    "permalink": "/docs/citation-styles/transactions-of-the-materials-research-society-of-japan"
+  }
+}

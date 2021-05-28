@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/infoclioch-german--switzerland",
+  "id": "citation-styles/infoclioch-german--switzerland",
+  "isDocsHomePage": false,
+  "title": "infoclioch-german--switzerland",
+  "description": "---",
+  "source": "@site/docs/citation-styles/infoclioch-german--switzerland.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/infoclioch-german--switzerland",
+  "permalink": "/docs/citation-styles/infoclioch-german--switzerland",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/infoclioch-german--switzerland.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "influenza-and-other-respiratory-viruses",
+    "permalink": "/docs/citation-styles/influenza-and-other-respiratory-viruses"
+  },
+  "next": {
+    "title": "infoclioch-petites-majuscules-french",
+    "permalink": "/docs/citation-styles/infoclioch-petites-majuscules-french"
+  }
+}

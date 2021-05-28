@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/african-online-scientific-information-systems--harvard",
+  "id": "citation-styles/african-online-scientific-information-systems--harvard",
+  "isDocsHomePage": false,
+  "title": "african-online-scientific-information-systems--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/african-online-scientific-information-systems--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/african-online-scientific-information-systems--harvard",
+  "permalink": "/docs/citation-styles/african-online-scientific-information-systems--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/african-online-scientific-information-systems--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "african-journal-of-marine-science",
+    "permalink": "/docs/citation-styles/african-journal-of-marine-science"
+  },
+  "next": {
+    "title": "african-zoology",
+    "permalink": "/docs/citation-styles/african-zoology"
+  }
+}

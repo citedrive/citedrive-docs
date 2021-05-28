@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/organised-sound",
+  "id": "citation-styles/organised-sound",
+  "isDocsHomePage": false,
+  "title": "organised-sound",
+  "description": "---",
+  "source": "@site/docs/citation-styles/organised-sound.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/organised-sound",
+  "permalink": "/docs/citation-styles/organised-sound",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/organised-sound.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organic-geochemistry",
+    "permalink": "/docs/citation-styles/organic-geochemistry"
+  },
+  "next": {
+    "title": "organization",
+    "permalink": "/docs/citation-styles/organization"
+  }
+}

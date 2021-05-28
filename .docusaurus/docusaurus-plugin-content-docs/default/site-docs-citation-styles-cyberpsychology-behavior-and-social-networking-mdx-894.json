@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cyberpsychology-behavior-and-social-networking",
+  "id": "citation-styles/cyberpsychology-behavior-and-social-networking",
+  "isDocsHomePage": false,
+  "title": "cyberpsychology-behavior-and-social-networking",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cyberpsychology-behavior-and-social-networking.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cyberpsychology-behavior-and-social-networking",
+  "permalink": "/docs/citation-styles/cyberpsychology-behavior-and-social-networking",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cyberpsychology-behavior-and-social-networking.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "currents-in-biblical-research",
+    "permalink": "/docs/citation-styles/currents-in-biblical-research"
+  },
+  "next": {
+    "title": "cybium",
+    "permalink": "/docs/citation-styles/cybium"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oxford-university-press-humsoc",
+  "id": "citation-styles/oxford-university-press-humsoc",
+  "isDocsHomePage": false,
+  "title": "oxford-university-press-humsoc",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oxford-university-press-humsoc.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oxford-university-press-humsoc",
+  "permalink": "/docs/citation-styles/oxford-university-press-humsoc",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oxford-university-press-humsoc.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-studies-on-the-roman-economy",
+    "permalink": "/docs/citation-styles/oxford-studies-on-the-roman-economy"
+  },
+  "next": {
+    "title": "oxford-university-press-note",
+    "permalink": "/docs/citation-styles/oxford-university-press-note"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-geriatric-psychiatry",
+  "id": "citation-styles/international-journal-of-geriatric-psychiatry",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-geriatric-psychiatry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-geriatric-psychiatry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-geriatric-psychiatry",
+  "permalink": "/docs/citation-styles/international-journal-of-geriatric-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-geriatric-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-food-science-and-technology",
+    "permalink": "/docs/citation-styles/international-journal-of-food-science-and-technology"
+  },
+  "next": {
+    "title": "international-journal-of-humanoid-robotics",
+    "permalink": "/docs/citation-styles/international-journal-of-humanoid-robotics"
+  }
+}

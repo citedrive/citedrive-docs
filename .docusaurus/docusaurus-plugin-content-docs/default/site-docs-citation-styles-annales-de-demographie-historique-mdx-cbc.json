@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annales-de-demographie-historique",
+  "id": "citation-styles/annales-de-demographie-historique",
+  "isDocsHomePage": false,
+  "title": "annales-de-demographie-historique",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annales-de-demographie-historique.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annales-de-demographie-historique",
+  "permalink": "/docs/citation-styles/annales-de-demographie-historique",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annales-de-demographie-historique.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annalen-des-naturhistorischen-museums-in-wien",
+    "permalink": "/docs/citation-styles/annalen-des-naturhistorischen-museums-in-wien"
+  },
+  "next": {
+    "title": "annales-histoire-sciences-sociales-french",
+    "permalink": "/docs/citation-styles/annales-histoire-sciences-sociales-french"
+  }
+}

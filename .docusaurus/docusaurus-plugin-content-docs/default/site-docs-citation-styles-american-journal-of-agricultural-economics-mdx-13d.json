@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-agricultural-economics",
+  "id": "citation-styles/american-journal-of-agricultural-economics",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-agricultural-economics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-agricultural-economics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-agricultural-economics",
+  "permalink": "/docs/citation-styles/american-journal-of-agricultural-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-agricultural-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-institute-of-physics",
+    "permalink": "/docs/citation-styles/american-institute-of-physics"
+  },
+  "next": {
+    "title": "american-journal-of-archaeology",
+    "permalink": "/docs/citation-styles/american-journal-of-archaeology"
+  }
+}

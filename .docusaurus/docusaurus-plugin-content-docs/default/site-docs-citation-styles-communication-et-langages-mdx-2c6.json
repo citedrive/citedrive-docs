@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/communication-et-langages",
+  "id": "citation-styles/communication-et-langages",
+  "isDocsHomePage": false,
+  "title": "communication-et-langages",
+  "description": "---",
+  "source": "@site/docs/citation-styles/communication-et-langages.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/communication-et-langages",
+  "permalink": "/docs/citation-styles/communication-et-langages",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/communication-et-langages.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "common-market-law-review",
+    "permalink": "/docs/citation-styles/common-market-law-review"
+  },
+  "next": {
+    "title": "comparative-politics",
+    "permalink": "/docs/citation-styles/comparative-politics"
+  }
+}

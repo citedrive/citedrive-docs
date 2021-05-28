@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-medical-association-11th-edition-no-url",
+  "id": "citation-styles/american-medical-association-11th-edition-no-url",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-11th-edition-no-url",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-medical-association-11th-edition-no-url.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-medical-association-11th-edition-no-url",
+  "permalink": "/docs/citation-styles/american-medical-association-11th-edition-no-url",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-medical-association-11th-edition-no-url.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-11th-edition-no-et-al",
+    "permalink": "/docs/citation-styles/american-medical-association-11th-edition-no-et-al"
+  },
+  "next": {
+    "title": "american-medical-association-11th-edition-sorted-alphabetically",
+    "permalink": "/docs/citation-styles/american-medical-association-11th-edition-sorted-alphabetically"
+  }
+}

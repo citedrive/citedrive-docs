@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+  "id": "citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+  "isDocsHomePage": false,
+  "title": "arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+  "permalink": "/docs/citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arctic",
+    "permalink": "/docs/citation-styles/arctic"
+  },
+  "next": {
+    "title": "art-history",
+    "permalink": "/docs/citation-styles/art-history"
+  }
+}

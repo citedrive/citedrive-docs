@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/seed-science-research",
+  "id": "citation-styles/seed-science-research",
+  "isDocsHomePage": false,
+  "title": "seed-science-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/seed-science-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/seed-science-research",
+  "permalink": "/docs/citation-styles/seed-science-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/seed-science-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seed-science-and-technology",
+    "permalink": "/docs/citation-styles/seed-science-and-technology"
+  },
+  "next": {
+    "title": "seismological-research-letters",
+    "permalink": "/docs/citation-styles/seismological-research-letters"
+  }
+}

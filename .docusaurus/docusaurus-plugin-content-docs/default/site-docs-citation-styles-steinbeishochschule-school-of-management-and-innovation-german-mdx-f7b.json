@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/steinbeishochschule--school-of-management-and-innovation-german",
+  "id": "citation-styles/steinbeishochschule--school-of-management-and-innovation-german",
+  "isDocsHomePage": false,
+  "title": "steinbeishochschule--school-of-management-and-innovation-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/steinbeishochschule--school-of-management-and-innovation-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/steinbeishochschule--school-of-management-and-innovation-german",
+  "permalink": "/docs/citation-styles/steinbeishochschule--school-of-management-and-innovation-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/steinbeishochschule--school-of-management-and-innovation-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stavebni-obzor-czech",
+    "permalink": "/docs/citation-styles/stavebni-obzor-czech"
+  },
+  "next": {
+    "title": "stellenbosch-university--harvard",
+    "permalink": "/docs/citation-styles/stellenbosch-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/embnetjournal",
+  "id": "citation-styles/embnetjournal",
+  "isDocsHomePage": false,
+  "title": "embnetjournal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/embnetjournal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/embnetjournal",
+  "permalink": "/docs/citation-styles/embnetjournal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/embnetjournal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier-numeric-without-titles",
+    "permalink": "/docs/citation-styles/elsevier-numeric-without-titles"
+  },
+  "next": {
+    "title": "embo-press",
+    "permalink": "/docs/citation-styles/embo-press"
+  }
+}

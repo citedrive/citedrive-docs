@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/forensic-science-review",
+  "id": "citation-styles/forensic-science-review",
+  "isDocsHomePage": false,
+  "title": "forensic-science-review",
+  "description": "---",
+  "source": "@site/docs/citation-styles/forensic-science-review.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/forensic-science-review",
+  "permalink": "/docs/citation-styles/forensic-science-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/forensic-science-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forensic-anthropology",
+    "permalink": "/docs/citation-styles/forensic-anthropology"
+  },
+  "next": {
+    "title": "forest-science",
+    "permalink": "/docs/citation-styles/forest-science"
+  }
+}

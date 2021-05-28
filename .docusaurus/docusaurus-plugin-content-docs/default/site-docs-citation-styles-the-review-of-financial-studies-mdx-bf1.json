@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-review-of-financial-studies",
+  "id": "citation-styles/the-review-of-financial-studies",
+  "isDocsHomePage": false,
+  "title": "the-review-of-financial-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-review-of-financial-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-review-of-financial-studies",
+  "permalink": "/docs/citation-styles/the-review-of-financial-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-review-of-financial-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-plant-journal",
+    "permalink": "/docs/citation-styles/the-plant-journal"
+  },
+  "next": {
+    "title": "the-rockefeller-university-press",
+    "permalink": "/docs/citation-styles/the-rockefeller-university-press"
+  }
+}

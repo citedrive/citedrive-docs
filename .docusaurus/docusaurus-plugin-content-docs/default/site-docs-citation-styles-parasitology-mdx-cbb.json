@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/parasitology",
+  "id": "citation-styles/parasitology",
+  "isDocsHomePage": false,
+  "title": "parasitology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/parasitology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/parasitology",
+  "permalink": "/docs/citation-styles/parasitology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/parasitology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "parasite",
+    "permalink": "/docs/citation-styles/parasite"
+  },
+  "next": {
+    "title": "past-and-present",
+    "permalink": "/docs/citation-styles/past-and-present"
+  }
+}

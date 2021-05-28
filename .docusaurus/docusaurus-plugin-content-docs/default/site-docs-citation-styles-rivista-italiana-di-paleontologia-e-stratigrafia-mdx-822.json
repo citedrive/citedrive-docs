@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia",
+  "id": "citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia",
+  "isDocsHomePage": false,
+  "title": "rivista-italiana-di-paleontologia-e-stratigrafia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia",
+  "permalink": "/docs/citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/rivista-italiana-di-paleontologia-e-stratigrafia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "riti-timarit-hugvisindastofnunar-icelandic",
+    "permalink": "/docs/citation-styles/riti-timarit-hugvisindastofnunar-icelandic"
+  },
+  "next": {
+    "title": "rmit-university--harvard",
+    "permalink": "/docs/citation-styles/rmit-university--harvard"
+  }
+}

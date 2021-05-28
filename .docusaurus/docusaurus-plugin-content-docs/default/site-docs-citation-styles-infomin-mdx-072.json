@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/infomin",
+  "id": "citation-styles/infomin",
+  "isDocsHomePage": false,
+  "title": "infomin",
+  "description": "---",
+  "source": "@site/docs/citation-styles/infomin.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/infomin",
+  "permalink": "/docs/citation-styles/infomin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/infomin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infoclioch-sans-majuscules-french",
+    "permalink": "/docs/citation-styles/infoclioch-sans-majuscules-french"
+  },
+  "next": {
+    "title": "informal-logic",
+    "permalink": "/docs/citation-styles/informal-logic"
+  }
+}

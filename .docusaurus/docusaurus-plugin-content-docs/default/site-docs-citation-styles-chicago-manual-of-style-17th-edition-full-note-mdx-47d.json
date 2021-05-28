@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chicago-manual-of-style-17th-edition-full-note",
+  "id": "citation-styles/chicago-manual-of-style-17th-edition-full-note",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-full-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chicago-manual-of-style-17th-edition-full-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chicago-manual-of-style-17th-edition-full-note",
+  "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chicago-manual-of-style-17th-edition-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-full-note-with-ibid",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-full-note-with-ibid"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-library-list",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-library-list"
+  }
+}

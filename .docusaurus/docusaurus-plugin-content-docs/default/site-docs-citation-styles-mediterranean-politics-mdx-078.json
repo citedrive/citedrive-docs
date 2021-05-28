@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mediterranean-politics",
+  "id": "citation-styles/mediterranean-politics",
+  "isDocsHomePage": false,
+  "title": "mediterranean-politics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mediterranean-politics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mediterranean-politics",
+  "permalink": "/docs/citation-styles/mediterranean-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mediterranean-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mediterranean-journal-of-infection-microbes-and-antimicrobials",
+    "permalink": "/docs/citation-styles/mediterranean-journal-of-infection-microbes-and-antimicrobials"
+  },
+  "next": {
+    "title": "melbourne-polytechnic--harvard",
+    "permalink": "/docs/citation-styles/melbourne-polytechnic--harvard"
+  }
+}

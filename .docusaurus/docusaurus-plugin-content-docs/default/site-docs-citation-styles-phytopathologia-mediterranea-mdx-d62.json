@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/phytopathologia-mediterranea",
+  "id": "citation-styles/phytopathologia-mediterranea",
+  "isDocsHomePage": false,
+  "title": "phytopathologia-mediterranea",
+  "description": "---",
+  "source": "@site/docs/citation-styles/phytopathologia-mediterranea.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/phytopathologia-mediterranea",
+  "permalink": "/docs/citation-styles/phytopathologia-mediterranea",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/phytopathologia-mediterranea.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "physiological-and-biochemical-zoology",
+    "permalink": "/docs/citation-styles/physiological-and-biochemical-zoology"
+  },
+  "next": {
+    "title": "phytotaxa",
+    "permalink": "/docs/citation-styles/phytotaxa"
+  }
+}

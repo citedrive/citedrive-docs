@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biology-of-reproduction",
+  "id": "citation-styles/biology-of-reproduction",
+  "isDocsHomePage": false,
+  "title": "biology-of-reproduction",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biology-of-reproduction.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biology-of-reproduction",
+  "permalink": "/docs/citation-styles/biology-of-reproduction",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biology-of-reproduction.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biological-reviews",
+    "permalink": "/docs/citation-styles/biological-reviews"
+  },
+  "next": {
+    "title": "biomed-central",
+    "permalink": "/docs/citation-styles/biomed-central"
+  }
+}

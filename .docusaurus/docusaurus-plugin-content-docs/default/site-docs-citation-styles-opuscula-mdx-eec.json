@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/opuscula",
+  "id": "citation-styles/opuscula",
+  "isDocsHomePage": false,
+  "title": "opuscula",
+  "description": "---",
+  "source": "@site/docs/citation-styles/opuscula.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/opuscula",
+  "permalink": "/docs/citation-styles/opuscula",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/opuscula.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optometry-and-vision-science",
+    "permalink": "/docs/citation-styles/optometry-and-vision-science"
+  },
+  "next": {
+    "title": "oral-diseases",
+    "permalink": "/docs/citation-styles/oral-diseases"
+  }
+}

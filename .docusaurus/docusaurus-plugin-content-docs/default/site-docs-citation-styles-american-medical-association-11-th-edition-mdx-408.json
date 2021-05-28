@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-medical-association-11th-edition",
+  "id": "citation-styles/american-medical-association-11th-edition",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-11th-edition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-medical-association-11th-edition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-medical-association-11th-edition",
+  "permalink": "/docs/citation-styles/american-medical-association-11th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-medical-association-11th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-11th-edition-sorted-alphabetically",
+    "permalink": "/docs/citation-styles/american-medical-association-11th-edition-sorted-alphabetically"
+  },
+  "next": {
+    "title": "american-meteorological-society",
+    "permalink": "/docs/citation-styles/american-meteorological-society"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/seed-science-and-technology",
+  "id": "citation-styles/seed-science-and-technology",
+  "isDocsHomePage": false,
+  "title": "seed-science-and-technology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/seed-science-and-technology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/seed-science-and-technology",
+  "permalink": "/docs/citation-styles/seed-science-and-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/seed-science-and-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sedimentology",
+    "permalink": "/docs/citation-styles/sedimentology"
+  },
+  "next": {
+    "title": "seed-science-research",
+    "permalink": "/docs/citation-styles/seed-science-research"
+  }
+}

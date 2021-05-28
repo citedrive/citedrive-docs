@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universite-de-montreal--faculte-de-musique-french--canada",
+  "id": "citation-styles/universite-de-montreal--faculte-de-musique-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-de-montreal--faculte-de-musique-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universite-de-montreal--faculte-de-musique-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universite-de-montreal--faculte-de-musique-french--canada",
+  "permalink": "/docs/citation-styles/universite-de-montreal--faculte-de-musique-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universite-de-montreal--faculte-de-musique-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-montreal--apa-french--canada",
+    "permalink": "/docs/citation-styles/universite-de-montreal--apa-french--canada"
+  },
+  "next": {
+    "title": "universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+    "permalink": "/docs/citation-styles/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine"
+  }
+}

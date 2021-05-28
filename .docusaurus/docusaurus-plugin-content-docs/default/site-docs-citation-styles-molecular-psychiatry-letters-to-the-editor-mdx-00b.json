@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/molecular-psychiatry-letters-to-the-editor",
+  "id": "citation-styles/molecular-psychiatry-letters-to-the-editor",
+  "isDocsHomePage": false,
+  "title": "molecular-psychiatry-letters-to-the-editor",
+  "description": "---",
+  "source": "@site/docs/citation-styles/molecular-psychiatry-letters-to-the-editor.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/molecular-psychiatry-letters-to-the-editor",
+  "permalink": "/docs/citation-styles/molecular-psychiatry-letters-to-the-editor",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/molecular-psychiatry-letters-to-the-editor.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-plantmicrobe-interactions",
+    "permalink": "/docs/citation-styles/molecular-plantmicrobe-interactions"
+  },
+  "next": {
+    "title": "molecular-psychiatry",
+    "permalink": "/docs/citation-styles/molecular-psychiatry"
+  }
+}

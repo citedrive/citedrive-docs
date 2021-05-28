@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-abertay-dundee--harvard",
+  "id": "citation-styles/university-of-abertay-dundee--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-abertay-dundee--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-abertay-dundee--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-abertay-dundee--harvard",
+  "permalink": "/docs/citation-styles/university-of-abertay-dundee--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-abertay-dundee--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-aberdeen--school-of-education--harvard",
+    "permalink": "/docs/citation-styles/university-of-aberdeen--school-of-education--harvard"
+  },
+  "next": {
+    "title": "university-of-aleppo--faculty-of-medicine",
+    "permalink": "/docs/citation-styles/university-of-aleppo--faculty-of-medicine"
+  }
+}

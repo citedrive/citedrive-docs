@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles",
+  "id": "citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles",
+  "isDocsHomePage": false,
+  "title": "annual-reviews-sorted-by-order-of-appearance-without-titles",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles",
+  "permalink": "/docs/citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annual-reviews-sorted-by-order-of-appearance-without-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-reviews-sorted-alphabetically",
+    "permalink": "/docs/citation-styles/annual-reviews-sorted-alphabetically"
+  },
+  "next": {
+    "title": "annual-reviews-sorted-by-order-of-appearance",
+    "permalink": "/docs/citation-styles/annual-reviews-sorted-by-order-of-appearance"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/begell-house--chicago-manual-of-style",
+  "id": "citation-styles/begell-house--chicago-manual-of-style",
+  "isDocsHomePage": false,
+  "title": "begell-house--chicago-manual-of-style",
+  "description": "---",
+  "source": "@site/docs/citation-styles/begell-house--chicago-manual-of-style.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/begell-house--chicago-manual-of-style",
+  "permalink": "/docs/citation-styles/begell-house--chicago-manual-of-style",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/begell-house--chicago-manual-of-style.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "begell-house--apa",
+    "permalink": "/docs/citation-styles/begell-house--apa"
+  },
+  "next": {
+    "title": "behaviour",
+    "permalink": "/docs/citation-styles/behaviour"
+  }
+}

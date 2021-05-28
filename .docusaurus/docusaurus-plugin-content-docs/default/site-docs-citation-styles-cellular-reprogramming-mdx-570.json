@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cellular-reprogramming",
+  "id": "citation-styles/cellular-reprogramming",
+  "isDocsHomePage": false,
+  "title": "cellular-reprogramming",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cellular-reprogramming.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cellular-reprogramming",
+  "permalink": "/docs/citation-styles/cellular-reprogramming",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cellular-reprogramming.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cellular-and-molecular-gastroenterology-and-hepatology",
+    "permalink": "/docs/citation-styles/cellular-and-molecular-gastroenterology-and-hepatology"
+  },
+  "next": {
+    "title": "centaurus",
+    "permalink": "/docs/citation-styles/centaurus"
+  }
+}

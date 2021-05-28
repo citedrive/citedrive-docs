@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annals-of-oncology",
+  "id": "citation-styles/annals-of-oncology",
+  "isDocsHomePage": false,
+  "title": "annals-of-oncology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annals-of-oncology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annals-of-oncology",
+  "permalink": "/docs/citation-styles/annals-of-oncology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annals-of-oncology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-neurology",
+    "permalink": "/docs/citation-styles/annals-of-neurology"
+  },
+  "next": {
+    "title": "annals-of-surgery",
+    "permalink": "/docs/citation-styles/annals-of-surgery"
+  }
+}

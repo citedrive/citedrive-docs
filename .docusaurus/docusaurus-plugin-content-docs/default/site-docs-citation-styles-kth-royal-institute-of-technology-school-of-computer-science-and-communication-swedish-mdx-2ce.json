@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "id": "citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "isDocsHomePage": false,
+  "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "permalink": "/docs/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ksce-journal-of-civil-engineering",
+    "permalink": "/docs/citation-styles/ksce-journal-of-civil-engineering"
+  },
+  "next": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+    "permalink": "/docs/citation-styles/kth-royal-institute-of-technology--school-of-computer-science-and-communication"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/radiopaediaorg",
+  "id": "citation-styles/radiopaediaorg",
+  "isDocsHomePage": false,
+  "title": "radiopaediaorg",
+  "description": "---",
+  "source": "@site/docs/citation-styles/radiopaediaorg.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/radiopaediaorg",
+  "permalink": "/docs/citation-styles/radiopaediaorg",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/radiopaediaorg.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "radiology",
+    "permalink": "/docs/citation-styles/radiology"
+  },
+  "next": {
+    "title": "raffles-bulletin-of-zoology",
+    "permalink": "/docs/citation-styles/raffles-bulletin-of-zoology"
+  }
+}

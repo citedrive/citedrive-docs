@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-breast-cancer",
+  "id": "citation-styles/journal-of-breast-cancer",
+  "isDocsHomePage": false,
+  "title": "journal-of-breast-cancer",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-breast-cancer.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-breast-cancer",
+  "permalink": "/docs/citation-styles/journal-of-breast-cancer",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-breast-cancer.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-brachial-plexus-and-peripheral-nerve-injury",
+    "permalink": "/docs/citation-styles/journal-of-brachial-plexus-and-peripheral-nerve-injury"
+  },
+  "next": {
+    "title": "journal-of-burn-care-and-research",
+    "permalink": "/docs/citation-styles/journal-of-burn-care-and-research"
+  }
+}

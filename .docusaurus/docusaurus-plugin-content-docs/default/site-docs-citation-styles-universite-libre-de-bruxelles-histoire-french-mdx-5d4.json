@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universite-libre-de-bruxelles--histoire-french",
+  "id": "citation-styles/universite-libre-de-bruxelles--histoire-french",
+  "isDocsHomePage": false,
+  "title": "universite-libre-de-bruxelles--histoire-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universite-libre-de-bruxelles--histoire-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universite-libre-de-bruxelles--histoire-french",
+  "permalink": "/docs/citation-styles/universite-libre-de-bruxelles--histoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universite-libre-de-bruxelles--histoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-laval--faculte-de-theologie-et-de-sciences-religieuses-french--canada",
+    "permalink": "/docs/citation-styles/universite-laval--faculte-de-theologie-et-de-sciences-religieuses-french--canada"
+  },
+  "next": {
+    "title": "universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+    "permalink": "/docs/citation-styles/universite-nangui-abrogoua--sciences-de-la-nature--apa-french"
+  }
+}

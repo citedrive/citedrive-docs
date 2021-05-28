@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chicago-manual-of-style-16th-edition-authordate-basque",
+  "id": "citation-styles/chicago-manual-of-style-16th-edition-authordate-basque",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chicago-manual-of-style-16th-edition-authordate-basque.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chicago-manual-of-style-16th-edition-authordate-basque",
+  "permalink": "/docs/citation-styles/chicago-manual-of-style-16th-edition-authordate-basque",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chicago-manual-of-style-16th-edition-authordate-basque.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chest",
+    "permalink": "/docs/citation-styles/chest"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-16th-edition-authordate-german",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-16th-edition-authordate-german"
+  }
+}

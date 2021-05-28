@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revue-archeologique-french",
+  "id": "citation-styles/revue-archeologique-french",
+  "isDocsHomePage": false,
+  "title": "revue-archeologique-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revue-archeologique-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revue-archeologique-french",
+  "permalink": "/docs/citation-styles/revue-archeologique-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revue-archeologique-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-archeologique-du-centre-de-la-france-french",
+    "permalink": "/docs/citation-styles/revue-archeologique-du-centre-de-la-france-french"
+  },
+  "next": {
+    "title": "revue-de-medecine-veterinaire-french",
+    "permalink": "/docs/citation-styles/revue-de-medecine-veterinaire-french"
+  }
+}

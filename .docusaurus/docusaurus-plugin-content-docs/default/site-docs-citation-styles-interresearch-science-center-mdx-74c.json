@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/interresearch-science-center",
+  "id": "citation-styles/interresearch-science-center",
+  "isDocsHomePage": false,
+  "title": "interresearch-science-center",
+  "description": "---",
+  "source": "@site/docs/citation-styles/interresearch-science-center.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/interresearch-science-center",
+  "permalink": "/docs/citation-styles/interresearch-science-center",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/interresearch-science-center.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-union-of-forest-research-organizations--headquarters",
+    "permalink": "/docs/citation-styles/international-union-of-forest-research-organizations--headquarters"
+  },
+  "next": {
+    "title": "invertebrate-biology",
+    "permalink": "/docs/citation-styles/invertebrate-biology"
+  }
+}

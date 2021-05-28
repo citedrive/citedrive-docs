@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/theologie-und-philosophie-german",
+  "id": "citation-styles/theologie-und-philosophie-german",
+  "isDocsHomePage": false,
+  "title": "theologie-und-philosophie-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/theologie-und-philosophie-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/theologie-und-philosophie-german",
+  "permalink": "/docs/citation-styles/theologie-und-philosophie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/theologie-und-philosophie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-world-journal-of-biological-psychiatry",
+    "permalink": "/docs/citation-styles/the-world-journal-of-biological-psychiatry"
+  },
+  "next": {
+    "title": "theologisches-seminar-adelshofen--harvard-german",
+    "permalink": "/docs/citation-styles/theologisches-seminar-adelshofen--harvard-german"
+  }
+}

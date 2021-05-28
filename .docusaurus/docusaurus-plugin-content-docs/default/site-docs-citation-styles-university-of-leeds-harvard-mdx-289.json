@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-leeds--harvard",
+  "id": "citation-styles/university-of-leeds--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-leeds--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-leeds--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-leeds--harvard",
+  "permalink": "/docs/citation-styles/university-of-leeds--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-leeds--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-kent--harvard",
+    "permalink": "/docs/citation-styles/university-of-kent--harvard"
+  },
+  "next": {
+    "title": "university-of-limerick-cite-it-right--harvard",
+    "permalink": "/docs/citation-styles/university-of-limerick-cite-it-right--harvard"
+  }
+}

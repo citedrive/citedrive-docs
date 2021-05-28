@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-respiratory-journal",
+  "id": "citation-styles/european-respiratory-journal",
+  "isDocsHomePage": false,
+  "title": "european-respiratory-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-respiratory-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-respiratory-journal",
+  "permalink": "/docs/citation-styles/european-respiratory-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-respiratory-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-vascular-and-endovascular-surgery",
+    "permalink": "/docs/citation-styles/european-journal-of-vascular-and-endovascular-surgery"
+  },
+  "next": {
+    "title": "european-retail-research",
+    "permalink": "/docs/citation-styles/european-retail-research"
+  }
+}

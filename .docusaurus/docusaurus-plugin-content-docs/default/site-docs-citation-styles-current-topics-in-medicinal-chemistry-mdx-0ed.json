@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/current-topics-in-medicinal-chemistry",
+  "id": "citation-styles/current-topics-in-medicinal-chemistry",
+  "isDocsHomePage": false,
+  "title": "current-topics-in-medicinal-chemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/current-topics-in-medicinal-chemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/current-topics-in-medicinal-chemistry",
+  "permalink": "/docs/citation-styles/current-topics-in-medicinal-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/current-topics-in-medicinal-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-science",
+    "permalink": "/docs/citation-styles/current-science"
+  },
+  "next": {
+    "title": "currents-in-biblical-research",
+    "permalink": "/docs/citation-styles/currents-in-biblical-research"
+  }
+}

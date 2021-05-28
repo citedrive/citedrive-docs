@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-evolution-and-health",
+  "id": "citation-styles/journal-of-evolution-and-health",
+  "isDocsHomePage": false,
+  "title": "journal-of-evolution-and-health",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-evolution-and-health.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-evolution-and-health",
+  "permalink": "/docs/citation-styles/journal-of-evolution-and-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-evolution-and-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-european-public-policy",
+    "permalink": "/docs/citation-styles/journal-of-european-public-policy"
+  },
+  "next": {
+    "title": "journal-of-evolutionary-biology",
+    "permalink": "/docs/citation-styles/journal-of-evolutionary-biology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/tijdschrift-voor-geneeskunde-dutch",
+  "id": "citation-styles/tijdschrift-voor-geneeskunde-dutch",
+  "isDocsHomePage": false,
+  "title": "tijdschrift-voor-geneeskunde-dutch",
+  "description": "---",
+  "source": "@site/docs/citation-styles/tijdschrift-voor-geneeskunde-dutch.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/tijdschrift-voor-geneeskunde-dutch",
+  "permalink": "/docs/citation-styles/tijdschrift-voor-geneeskunde-dutch",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/tijdschrift-voor-geneeskunde-dutch.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tijdschrift-voor-economische-en-sociale-geografie",
+    "permalink": "/docs/citation-styles/tijdschrift-voor-economische-en-sociale-geografie"
+  },
+  "next": {
+    "title": "tissue-engineering",
+    "permalink": "/docs/citation-styles/tissue-engineering"
+  }
+}

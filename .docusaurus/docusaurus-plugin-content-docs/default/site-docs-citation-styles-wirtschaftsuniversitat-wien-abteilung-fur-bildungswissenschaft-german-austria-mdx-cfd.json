@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+  "id": "citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+  "isDocsHomePage": false,
+  "title": "wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+  "permalink": "/docs/citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wireless-communications-and-mobile-computing",
+    "permalink": "/docs/citation-styles/wireless-communications-and-mobile-computing"
+  },
+  "next": {
+    "title": "wirtschaftsuniversitat-wien--handel-und-marketing-german--austria",
+    "permalink": "/docs/citation-styles/wirtschaftsuniversitat-wien--handel-und-marketing-german--austria"
+  }
+}

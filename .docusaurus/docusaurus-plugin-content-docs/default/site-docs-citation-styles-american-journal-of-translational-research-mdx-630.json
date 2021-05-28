@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-translational-research",
+  "id": "citation-styles/american-journal-of-translational-research",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-translational-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-translational-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-translational-research",
+  "permalink": "/docs/citation-styles/american-journal-of-translational-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-translational-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-surgical-pathology",
+    "permalink": "/docs/citation-styles/american-journal-of-surgical-pathology"
+  },
+  "next": {
+    "title": "american-marketing-association",
+    "permalink": "/docs/citation-styles/american-marketing-association"
+  }
+}

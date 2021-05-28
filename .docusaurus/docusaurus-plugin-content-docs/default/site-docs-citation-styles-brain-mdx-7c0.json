@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/brain",
+  "id": "citation-styles/brain",
+  "isDocsHomePage": false,
+  "title": "brain",
+  "description": "---",
+  "source": "@site/docs/citation-styles/brain.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/brain",
+  "permalink": "/docs/citation-styles/brain",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/brain.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brain-behavior-and-evolution",
+    "permalink": "/docs/citation-styles/brain-behavior-and-evolution"
+  },
+  "next": {
+    "title": "brazilian-journal-of-infectious-diseases",
+    "permalink": "/docs/citation-styles/brazilian-journal-of-infectious-diseases"
+  }
+}

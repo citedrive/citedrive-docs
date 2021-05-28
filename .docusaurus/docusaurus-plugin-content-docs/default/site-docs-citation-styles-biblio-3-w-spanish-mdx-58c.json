@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biblio-3w-spanish",
+  "id": "citation-styles/biblio-3w-spanish",
+  "isDocsHomePage": false,
+  "title": "biblio-3w-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biblio-3w-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biblio-3w-spanish",
+  "permalink": "/docs/citation-styles/biblio-3w-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biblio-3w-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "berlin-school-of-economics-and-law--international-marketing-management",
+    "permalink": "/docs/citation-styles/berlin-school-of-economics-and-law--international-marketing-management"
+  },
+  "next": {
+    "title": "bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+    "permalink": "/docs/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french"
+  }
+}

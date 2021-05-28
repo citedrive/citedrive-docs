@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-warburg-and-courtauld-institutes",
+  "id": "citation-styles/journal-of-the-warburg-and-courtauld-institutes",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-warburg-and-courtauld-institutes",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-warburg-and-courtauld-institutes.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-warburg-and-courtauld-institutes",
+  "permalink": "/docs/citation-styles/journal-of-the-warburg-and-courtauld-institutes",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-warburg-and-courtauld-institutes.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-south-african-veterinary-association",
+    "permalink": "/docs/citation-styles/journal-of-the-south-african-veterinary-association"
+  },
+  "next": {
+    "title": "journal-of-thermal-spray-technology",
+    "permalink": "/docs/citation-styles/journal-of-thermal-spray-technology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mercatus-center",
+  "id": "citation-styles/mercatus-center",
+  "isDocsHomePage": false,
+  "title": "mercatus-center",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mercatus-center.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mercatus-center",
+  "permalink": "/docs/citation-styles/mercatus-center",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mercatus-center.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+    "permalink": "/docs/citation-styles/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german"
+  },
+  "next": {
+    "title": "metallurgical-and-materials-transactions-a",
+    "permalink": "/docs/citation-styles/metallurgical-and-materials-transactions-a"
+  }
+}

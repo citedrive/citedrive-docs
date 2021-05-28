@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/veterinary-microbiology",
+  "id": "citation-styles/veterinary-microbiology",
+  "isDocsHomePage": false,
+  "title": "veterinary-microbiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/veterinary-microbiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/veterinary-microbiology",
+  "permalink": "/docs/citation-styles/veterinary-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/veterinary-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veterinary-medicine-austria-wiener-tierarztliche-monatsschrift",
+    "permalink": "/docs/citation-styles/veterinary-medicine-austria-wiener-tierarztliche-monatsschrift"
+  },
+  "next": {
+    "title": "veterinary-pathology",
+    "permalink": "/docs/citation-styles/veterinary-pathology"
+  }
+}

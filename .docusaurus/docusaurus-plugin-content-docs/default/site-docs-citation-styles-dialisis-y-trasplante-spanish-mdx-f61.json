@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/dialisis-y-trasplante-spanish",
+  "id": "citation-styles/dialisis-y-trasplante-spanish",
+  "isDocsHomePage": false,
+  "title": "dialisis-y-trasplante-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/dialisis-y-trasplante-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/dialisis-y-trasplante-spanish",
+  "permalink": "/docs/citation-styles/dialisis-y-trasplante-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/dialisis-y-trasplante-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diagnostico-prenatal-spanish",
+    "permalink": "/docs/citation-styles/diagnostico-prenatal-spanish"
+  },
+  "next": {
+    "title": "diatom-research",
+    "permalink": "/docs/citation-styles/diatom-research"
+  }
+}

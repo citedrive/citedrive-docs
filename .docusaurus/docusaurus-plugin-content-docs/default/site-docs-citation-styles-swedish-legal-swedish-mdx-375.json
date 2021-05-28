@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/swedish-legal-swedish",
+  "id": "citation-styles/swedish-legal-swedish",
+  "isDocsHomePage": false,
+  "title": "swedish-legal-swedish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/swedish-legal-swedish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/swedish-legal-swedish",
+  "permalink": "/docs/citation-styles/swedish-legal-swedish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/swedish-legal-swedish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "svensk-exegetisk-arsbok-full-note",
+    "permalink": "/docs/citation-styles/svensk-exegetisk-arsbok-full-note"
+  },
+  "next": {
+    "title": "swinburne-university-of-technology--harvard",
+    "permalink": "/docs/citation-styles/swinburne-university-of-technology--harvard"
+  }
+}

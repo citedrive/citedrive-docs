@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-comparative-neurology",
+  "id": "citation-styles/the-journal-of-comparative-neurology",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-comparative-neurology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-comparative-neurology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-comparative-neurology",
+  "permalink": "/docs/citation-styles/the-journal-of-comparative-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-comparative-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-comparative-law",
+    "permalink": "/docs/citation-styles/the-journal-of-comparative-law"
+  },
+  "next": {
+    "title": "the-journal-of-eukaryotic-microbiology",
+    "permalink": "/docs/citation-styles/the-journal-of-eukaryotic-microbiology"
+  }
+}

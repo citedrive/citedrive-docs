@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-leukocyte-biology",
+  "id": "citation-styles/journal-of-leukocyte-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-leukocyte-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-leukocyte-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-leukocyte-biology",
+  "permalink": "/docs/citation-styles/journal-of-leukocyte-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-leukocyte-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-korean-neurosurgical-society",
+    "permalink": "/docs/citation-styles/journal-of-korean-neurosurgical-society"
+  },
+  "next": {
+    "title": "journal-of-limnology",
+    "permalink": "/docs/citation-styles/journal-of-limnology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universiti-kebangsaan-malaysia-malay",
+  "id": "citation-styles/universiti-kebangsaan-malaysia-malay",
+  "isDocsHomePage": false,
+  "title": "universiti-kebangsaan-malaysia-malay",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universiti-kebangsaan-malaysia-malay.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universiti-kebangsaan-malaysia-malay",
+  "permalink": "/docs/citation-styles/universiti-kebangsaan-malaysia-malay",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universiti-kebangsaan-malaysia-malay.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+    "permalink": "/docs/citation-styles/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal"
+  },
+  "next": {
+    "title": "universiti-teknologi-malaysia--harvard",
+    "permalink": "/docs/citation-styles/universiti-teknologi-malaysia--harvard"
+  }
+}

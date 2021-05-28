@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/taylor-and-francis--american-chemical-society",
+  "id": "citation-styles/taylor-and-francis--american-chemical-society",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--american-chemical-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/taylor-and-francis--american-chemical-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/taylor-and-francis--american-chemical-society",
+  "permalink": "/docs/citation-styles/taylor-and-francis--american-chemical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/taylor-and-francis--american-chemical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taxon",
+    "permalink": "/docs/citation-styles/taxon"
+  },
+  "next": {
+    "title": "taylor-and-francis--chicago-f",
+    "permalink": "/docs/citation-styles/taylor-and-francis--chicago-f"
+  }
+}

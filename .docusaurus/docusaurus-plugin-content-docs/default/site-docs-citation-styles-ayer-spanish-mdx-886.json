@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ayer-spanish",
+  "id": "citation-styles/ayer-spanish",
+  "isDocsHomePage": false,
+  "title": "ayer-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ayer-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ayer-spanish",
+  "permalink": "/docs/citation-styles/ayer-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ayer-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aviation-space-and-environmental-medicine",
+    "permalink": "/docs/citation-styles/aviation-space-and-environmental-medicine"
+  },
+  "next": {
+    "title": "azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+    "permalink": "/docs/citation-styles/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria"
+  }
+}

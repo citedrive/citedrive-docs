@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/recherches-en-sciences-de-gestion-french",
+  "id": "citation-styles/recherches-en-sciences-de-gestion-french",
+  "isDocsHomePage": false,
+  "title": "recherches-en-sciences-de-gestion-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/recherches-en-sciences-de-gestion-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/recherches-en-sciences-de-gestion-french",
+  "permalink": "/docs/citation-styles/recherches-en-sciences-de-gestion-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/recherches-en-sciences-de-gestion-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recent-patents-on-drug-delivery-and-formulation",
+    "permalink": "/docs/citation-styles/recent-patents-on-drug-delivery-and-formulation"
+  },
+  "next": {
+    "title": "religion-in-the-roman-empire",
+    "permalink": "/docs/citation-styles/religion-in-the-roman-empire"
+  }
+}

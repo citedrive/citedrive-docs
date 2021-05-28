@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biotechniques",
+  "id": "citation-styles/biotechniques",
+  "isDocsHomePage": false,
+  "title": "biotechniques",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biotechniques.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biotechniques",
+  "permalink": "/docs/citation-styles/biotechniques",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biotechniques.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biota-neotropica",
+    "permalink": "/docs/citation-styles/biota-neotropica"
+  },
+  "next": {
+    "title": "biotechnology-and-bioengineering",
+    "permalink": "/docs/citation-styles/biotechnology-and-bioengineering"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/arts-university-bournemouth",
+  "id": "citation-styles/arts-university-bournemouth",
+  "isDocsHomePage": false,
+  "title": "arts-university-bournemouth",
+  "description": "---",
+  "source": "@site/docs/citation-styles/arts-university-bournemouth.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/arts-university-bournemouth",
+  "permalink": "/docs/citation-styles/arts-university-bournemouth",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/arts-university-bournemouth.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arthritis-and-rheumatism",
+    "permalink": "/docs/citation-styles/arthritis-and-rheumatism"
+  },
+  "next": {
+    "title": "arzneimitteltherapie",
+    "permalink": "/docs/citation-styles/arzneimitteltherapie"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pensoft-journals",
+  "id": "citation-styles/pensoft-journals",
+  "isDocsHomePage": false,
+  "title": "pensoft-journals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pensoft-journals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pensoft-journals",
+  "permalink": "/docs/citation-styles/pensoft-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pensoft-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "peerj",
+    "permalink": "/docs/citation-styles/peerj"
+  },
+  "next": {
+    "title": "periodicum-biologorum",
+    "permalink": "/docs/citation-styles/periodicum-biologorum"
+  }
+}

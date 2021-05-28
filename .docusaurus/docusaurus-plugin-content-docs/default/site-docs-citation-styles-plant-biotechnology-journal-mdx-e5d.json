@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-biotechnology-journal",
+  "id": "citation-styles/plant-biotechnology-journal",
+  "isDocsHomePage": false,
+  "title": "plant-biotechnology-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-biotechnology-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-biotechnology-journal",
+  "permalink": "/docs/citation-styles/plant-biotechnology-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-biotechnology-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-biology",
+    "permalink": "/docs/citation-styles/plant-biology"
+  },
+  "next": {
+    "title": "plant-cell-and-environment",
+    "permalink": "/docs/citation-styles/plant-cell-and-environment"
+  }
+}

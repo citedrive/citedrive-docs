@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/philosophy-and-public-affairs",
+  "id": "citation-styles/philosophy-and-public-affairs",
+  "isDocsHomePage": false,
+  "title": "philosophy-and-public-affairs",
+  "description": "---",
+  "source": "@site/docs/citation-styles/philosophy-and-public-affairs.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/philosophy-and-public-affairs",
+  "permalink": "/docs/citation-styles/philosophy-and-public-affairs",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/philosophy-and-public-affairs.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philosophiques-french",
+    "permalink": "/docs/citation-styles/philosophiques-french"
+  },
+  "next": {
+    "title": "photochemistry-and-photobiology",
+    "permalink": "/docs/citation-styles/photochemistry-and-photobiology"
+  }
+}

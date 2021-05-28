@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/leiden-journal-of-international-law",
+  "id": "citation-styles/leiden-journal-of-international-law",
+  "isDocsHomePage": false,
+  "title": "leiden-journal-of-international-law",
+  "description": "---",
+  "source": "@site/docs/citation-styles/leiden-journal-of-international-law.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/leiden-journal-of-international-law",
+  "permalink": "/docs/citation-styles/leiden-journal-of-international-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/leiden-journal-of-international-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leeds-metropolitan-university--harvard",
+    "permalink": "/docs/citation-styles/leeds-metropolitan-university--harvard"
+  },
+  "next": {
+    "title": "leonardo",
+    "permalink": "/docs/citation-styles/leonardo"
+  }
+}

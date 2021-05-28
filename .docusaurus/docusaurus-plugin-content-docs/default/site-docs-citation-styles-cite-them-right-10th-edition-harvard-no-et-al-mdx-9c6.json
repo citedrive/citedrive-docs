@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cite-them-right-10th-edition--harvard-no-et-al",
+  "id": "citation-styles/cite-them-right-10th-edition--harvard-no-et-al",
+  "isDocsHomePage": false,
+  "title": "cite-them-right-10th-edition--harvard-no-et-al",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cite-them-right-10th-edition--harvard-no-et-al.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cite-them-right-10th-edition--harvard-no-et-al",
+  "permalink": "/docs/citation-styles/cite-them-right-10th-edition--harvard-no-et-al",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cite-them-right-10th-edition--harvard-no-et-al.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "citation-compass-kildekompasset--apa-note",
+    "permalink": "/docs/citation-styles/citation-compass-kildekompasset--apa-note"
+  },
+  "next": {
+    "title": "cite-them-right-10th-edition--harvard",
+    "permalink": "/docs/citation-styles/cite-them-right-10th-edition--harvard"
+  }
+}

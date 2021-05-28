@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/knowledge-and-management-of-aquatic-ecosystems",
+  "id": "citation-styles/knowledge-and-management-of-aquatic-ecosystems",
+  "isDocsHomePage": false,
+  "title": "knowledge-and-management-of-aquatic-ecosystems",
+  "description": "---",
+  "source": "@site/docs/citation-styles/knowledge-and-management-of-aquatic-ecosystems.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/knowledge-and-management-of-aquatic-ecosystems",
+  "permalink": "/docs/citation-styles/knowledge-and-management-of-aquatic-ecosystems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/knowledge-and-management-of-aquatic-ecosystems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "knee-surgery-sports-traumatology-arthroscopy",
+    "permalink": "/docs/citation-styles/knee-surgery-sports-traumatology-arthroscopy"
+  },
+  "next": {
+    "title": "kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german",
+    "permalink": "/docs/citation-styles/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german"
+  }
+}

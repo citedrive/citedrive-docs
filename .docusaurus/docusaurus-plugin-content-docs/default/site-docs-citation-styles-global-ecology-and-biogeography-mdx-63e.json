@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/global-ecology-and-biogeography",
+  "id": "citation-styles/global-ecology-and-biogeography",
+  "isDocsHomePage": false,
+  "title": "global-ecology-and-biogeography",
+  "description": "---",
+  "source": "@site/docs/citation-styles/global-ecology-and-biogeography.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/global-ecology-and-biogeography",
+  "permalink": "/docs/citation-styles/global-ecology-and-biogeography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/global-ecology-and-biogeography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gigascience",
+    "permalink": "/docs/citation-styles/gigascience"
+  },
+  "next": {
+    "title": "glossa",
+    "permalink": "/docs/citation-styles/glossa"
+  }
+}

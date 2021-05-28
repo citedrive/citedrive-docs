@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/society-for-laboratory-automation-and-screening",
+  "id": "citation-styles/society-for-laboratory-automation-and-screening",
+  "isDocsHomePage": false,
+  "title": "society-for-laboratory-automation-and-screening",
+  "description": "---",
+  "source": "@site/docs/citation-styles/society-for-laboratory-automation-and-screening.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/society-for-laboratory-automation-and-screening",
+  "permalink": "/docs/citation-styles/society-for-laboratory-automation-and-screening",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/society-for-laboratory-automation-and-screening.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-for-historical-archaeology",
+    "permalink": "/docs/citation-styles/society-for-historical-archaeology"
+  },
+  "next": {
+    "title": "society-of-automotive-engineers-technical-papers-numeric",
+    "permalink": "/docs/citation-styles/society-of-automotive-engineers-technical-papers-numeric"
+  }
+}

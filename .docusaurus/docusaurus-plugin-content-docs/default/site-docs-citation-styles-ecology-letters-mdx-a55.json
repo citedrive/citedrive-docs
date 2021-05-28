@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecology-letters",
+  "id": "citation-styles/ecology-letters",
+  "isDocsHomePage": false,
+  "title": "ecology-letters",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecology-letters.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecology-letters",
+  "permalink": "/docs/citation-styles/ecology-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecology-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology-and-society",
+    "permalink": "/docs/citation-styles/ecology-and-society"
+  },
+  "next": {
+    "title": "ecology-of-freshwater-fish",
+    "permalink": "/docs/citation-styles/ecology-of-freshwater-fish"
+  }
+}

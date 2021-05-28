@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/first-break",
+  "id": "citation-styles/first-break",
+  "isDocsHomePage": false,
+  "title": "first-break",
+  "description": "---",
+  "source": "@site/docs/citation-styles/first-break.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/first-break",
+  "permalink": "/docs/citation-styles/first-break",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/first-break.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fine-focus",
+    "permalink": "/docs/citation-styles/fine-focus"
+  },
+  "next": {
+    "title": "first-monday",
+    "permalink": "/docs/citation-styles/first-monday"
+  }
+}

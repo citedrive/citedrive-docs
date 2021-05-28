@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/equine-veterinary-journal",
+  "id": "citation-styles/equine-veterinary-journal",
+  "isDocsHomePage": false,
+  "title": "equine-veterinary-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/equine-veterinary-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/equine-veterinary-journal",
+  "permalink": "/docs/citation-styles/equine-veterinary-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/equine-veterinary-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "equine-veterinary-education",
+    "permalink": "/docs/citation-styles/equine-veterinary-education"
+  },
+  "next": {
+    "title": "ergo",
+    "permalink": "/docs/citation-styles/ergo"
+  }
+}

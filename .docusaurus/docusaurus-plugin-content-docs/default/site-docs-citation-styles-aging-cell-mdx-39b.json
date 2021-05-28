@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aging-cell",
+  "id": "citation-styles/aging-cell",
+  "isDocsHomePage": false,
+  "title": "aging-cell",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aging-cell.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aging-cell",
+  "permalink": "/docs/citation-styles/aging-cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aging-cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aging-and-disease",
+    "permalink": "/docs/citation-styles/aging-and-disease"
+  },
+  "next": {
+    "title": "aging",
+    "permalink": "/docs/citation-styles/aging"
+  }
+}

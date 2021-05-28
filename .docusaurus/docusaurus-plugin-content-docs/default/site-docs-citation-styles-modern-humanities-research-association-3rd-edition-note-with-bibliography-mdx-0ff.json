@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography",
+  "id": "citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography",
+  "isDocsHomePage": false,
+  "title": "modern-humanities-research-association-3rd-edition-note-with-bibliography",
+  "description": "---",
+  "source": "@site/docs/citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography",
+  "permalink": "/docs/citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/modern-humanities-research-association-3rd-edition-note-with-bibliography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "modern-humanities-research-association-3rd-edition-authordate",
+    "permalink": "/docs/citation-styles/modern-humanities-research-association-3rd-edition-authordate"
+  },
+  "next": {
+    "title": "modern-language-association-6th-edition-note",
+    "permalink": "/docs/citation-styles/modern-language-association-6th-edition-note"
+  }
+}

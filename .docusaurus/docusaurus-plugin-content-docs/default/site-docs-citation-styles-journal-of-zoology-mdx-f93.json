@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-zoology",
+  "id": "citation-styles/journal-of-zoology",
+  "isDocsHomePage": false,
+  "title": "journal-of-zoology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-zoology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-zoology",
+  "permalink": "/docs/citation-styles/journal-of-zoology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-zoology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-zoo-biology",
+    "permalink": "/docs/citation-styles/journal-of-zoo-biology"
+  },
+  "next": {
+    "title": "journal-on-efficiency-and-responsibility-in-education-and-science",
+    "permalink": "/docs/citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science"
+  }
+}

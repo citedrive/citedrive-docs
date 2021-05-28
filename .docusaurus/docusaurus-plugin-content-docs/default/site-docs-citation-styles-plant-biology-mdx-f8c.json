@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-biology",
+  "id": "citation-styles/plant-biology",
+  "isDocsHomePage": false,
+  "title": "plant-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-biology",
+  "permalink": "/docs/citation-styles/plant-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-and-cell-physiology",
+    "permalink": "/docs/citation-styles/plant-and-cell-physiology"
+  },
+  "next": {
+    "title": "plant-biotechnology-journal",
+    "permalink": "/docs/citation-styles/plant-biotechnology-journal"
+  }
+}

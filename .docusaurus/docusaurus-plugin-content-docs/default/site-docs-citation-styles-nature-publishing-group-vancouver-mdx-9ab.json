@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nature-publishing-group--vancouver",
+  "id": "citation-styles/nature-publishing-group--vancouver",
+  "isDocsHomePage": false,
+  "title": "nature-publishing-group--vancouver",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nature-publishing-group--vancouver.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nature-publishing-group--vancouver",
+  "permalink": "/docs/citation-styles/nature-publishing-group--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nature-publishing-group--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nature-no-superscript",
+    "permalink": "/docs/citation-styles/nature-no-superscript"
+  },
+  "next": {
+    "title": "nature",
+    "permalink": "/docs/citation-styles/nature"
+  }
+}

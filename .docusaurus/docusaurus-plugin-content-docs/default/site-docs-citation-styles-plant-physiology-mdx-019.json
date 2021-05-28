@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-physiology",
+  "id": "citation-styles/plant-physiology",
+  "isDocsHomePage": false,
+  "title": "plant-physiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-physiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-physiology",
+  "permalink": "/docs/citation-styles/plant-physiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-physiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-pathology",
+    "permalink": "/docs/citation-styles/plant-pathology"
+  },
+  "next": {
+    "title": "podzemna-voda-slovak",
+    "permalink": "/docs/citation-styles/podzemna-voda-slovak"
+  }
+}

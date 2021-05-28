@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cladistics",
+  "id": "citation-styles/cladistics",
+  "isDocsHomePage": false,
+  "title": "cladistics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cladistics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cladistics",
+  "permalink": "/docs/citation-styles/cladistics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cladistics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "civilta-italiana-italian",
+    "permalink": "/docs/citation-styles/civilta-italiana-italian"
+  },
+  "next": {
+    "title": "clara-architecturerecherche-french",
+    "permalink": "/docs/citation-styles/clara-architecturerecherche-french"
+  }
+}

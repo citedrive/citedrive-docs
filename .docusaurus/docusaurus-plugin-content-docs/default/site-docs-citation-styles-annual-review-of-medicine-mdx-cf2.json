@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annual-review-of-medicine",
+  "id": "citation-styles/annual-review-of-medicine",
+  "isDocsHomePage": false,
+  "title": "annual-review-of-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annual-review-of-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annual-review-of-medicine",
+  "permalink": "/docs/citation-styles/annual-review-of-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annual-review-of-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-review-of-astronomy-and-astrophysics",
+    "permalink": "/docs/citation-styles/annual-review-of-astronomy-and-astrophysics"
+  },
+  "next": {
+    "title": "annual-review-of-nuclear-and-particle-science",
+    "permalink": "/docs/citation-styles/annual-review-of-nuclear-and-particle-science"
+  }
+}

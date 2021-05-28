@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-american-journal-of-pathology",
+  "id": "citation-styles/the-american-journal-of-pathology",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-pathology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-american-journal-of-pathology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-american-journal-of-pathology",
+  "permalink": "/docs/citation-styles/the-american-journal-of-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-american-journal-of-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-human-genetics",
+    "permalink": "/docs/citation-styles/the-american-journal-of-human-genetics"
+  },
+  "next": {
+    "title": "the-american-journal-of-psychiatry",
+    "permalink": "/docs/citation-styles/the-american-journal-of-psychiatry"
+  }
+}

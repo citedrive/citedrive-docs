@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/peerj",
+  "id": "citation-styles/peerj",
+  "isDocsHomePage": false,
+  "title": "peerj",
+  "description": "---",
+  "source": "@site/docs/citation-styles/peerj.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/peerj",
+  "permalink": "/docs/citation-styles/peerj",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/peerj.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-urology-case-reports",
+    "permalink": "/docs/citation-styles/pediatric-urology-case-reports"
+  },
+  "next": {
+    "title": "pensoft-journals",
+    "permalink": "/docs/citation-styles/pensoft-journals"
+  }
+}

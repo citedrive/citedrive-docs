@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scandinavian-political-studies",
+  "id": "citation-styles/scandinavian-political-studies",
+  "isDocsHomePage": false,
+  "title": "scandinavian-political-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scandinavian-political-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scandinavian-political-studies",
+  "permalink": "/docs/citation-styles/scandinavian-political-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scandinavian-political-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scandinavian-journal-of-work-environment-and-health",
+    "permalink": "/docs/citation-styles/scandinavian-journal-of-work-environment-and-health"
+  },
+  "next": {
+    "title": "science-and-technology-for-the-built-environment",
+    "permalink": "/docs/citation-styles/science-and-technology-for-the-built-environment"
+  }
+}

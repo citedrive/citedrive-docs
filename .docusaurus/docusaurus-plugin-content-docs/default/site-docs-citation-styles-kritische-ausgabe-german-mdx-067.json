@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/kritische-ausgabe-german",
+  "id": "citation-styles/kritische-ausgabe-german",
+  "isDocsHomePage": false,
+  "title": "kritische-ausgabe-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/kritische-ausgabe-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/kritische-ausgabe-german",
+  "permalink": "/docs/citation-styles/kritische-ausgabe-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/kritische-ausgabe-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "korean-journal-of-radiology",
+    "permalink": "/docs/citation-styles/korean-journal-of-radiology"
+  },
+  "next": {
+    "title": "ksce-journal-of-civil-engineering",
+    "permalink": "/docs/citation-styles/ksce-journal-of-civil-engineering"
+  }
+}

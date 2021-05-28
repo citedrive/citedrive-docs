@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/vodohospodarske-technickoekonomicke-informace-czech",
+  "id": "citation-styles/vodohospodarske-technickoekonomicke-informace-czech",
+  "isDocsHomePage": false,
+  "title": "vodohospodarske-technickoekonomicke-informace-czech",
+  "description": "---",
+  "source": "@site/docs/citation-styles/vodohospodarske-technickoekonomicke-informace-czech.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/vodohospodarske-technickoekonomicke-informace-czech",
+  "permalink": "/docs/citation-styles/vodohospodarske-technickoekonomicke-informace-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/vodohospodarske-technickoekonomicke-informace-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vita-latina-french",
+    "permalink": "/docs/citation-styles/vita-latina-french"
+  },
+  "next": {
+    "title": "vodohospodarske-technickoekonomicke-informace-english",
+    "permalink": "/docs/citation-styles/vodohospodarske-technickoekonomicke-informace-english"
+  }
+}

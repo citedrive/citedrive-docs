@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-brasileira-de-ciencia-do-solo",
+  "id": "citation-styles/revista-brasileira-de-ciencia-do-solo",
+  "isDocsHomePage": false,
+  "title": "revista-brasileira-de-ciencia-do-solo",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-brasileira-de-ciencia-do-solo.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-brasileira-de-ciencia-do-solo",
+  "permalink": "/docs/citation-styles/revista-brasileira-de-ciencia-do-solo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-brasileira-de-ciencia-do-solo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-biblica-spanish",
+    "permalink": "/docs/citation-styles/revista-biblica-spanish"
+  },
+  "next": {
+    "title": "revista-chilena-de-derecho-y-tecnologia-spanish--chile",
+    "permalink": "/docs/citation-styles/revista-chilena-de-derecho-y-tecnologia-spanish--chile"
+  }
+}

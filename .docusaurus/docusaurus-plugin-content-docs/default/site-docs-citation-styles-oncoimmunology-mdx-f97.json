@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oncoimmunology",
+  "id": "citation-styles/oncoimmunology",
+  "isDocsHomePage": false,
+  "title": "oncoimmunology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oncoimmunology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oncoimmunology",
+  "permalink": "/docs/citation-styles/oncoimmunology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oncoimmunology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oikos",
+    "permalink": "/docs/citation-styles/oikos"
+  },
+  "next": {
+    "title": "oncotarget",
+    "permalink": "/docs/citation-styles/oncotarget"
+  }
+}

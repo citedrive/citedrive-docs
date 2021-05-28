@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/natbib--plainnat-authordate",
+  "id": "citation-styles/natbib--plainnat-authordate",
+  "isDocsHomePage": false,
+  "title": "natbib--plainnat-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/natbib--plainnat-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/natbib--plainnat-authordate",
+  "permalink": "/docs/citation-styles/natbib--plainnat-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/natbib--plainnat-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nano-biomedicine-and-engineering",
+    "permalink": "/docs/citation-styles/nano-biomedicine-and-engineering"
+  },
+  "next": {
+    "title": "national-archives-of-australia",
+    "permalink": "/docs/citation-styles/national-archives-of-australia"
+  }
+}

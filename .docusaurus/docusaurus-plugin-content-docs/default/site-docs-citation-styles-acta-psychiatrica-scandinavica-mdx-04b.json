@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-psychiatrica-scandinavica",
+  "id": "citation-styles/acta-psychiatrica-scandinavica",
+  "isDocsHomePage": false,
+  "title": "acta-psychiatrica-scandinavica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-psychiatrica-scandinavica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-psychiatrica-scandinavica",
+  "permalink": "/docs/citation-styles/acta-psychiatrica-scandinavica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-psychiatrica-scandinavica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-polytechnica",
+    "permalink": "/docs/citation-styles/acta-polytechnica"
+  },
+  "next": {
+    "title": "acta-radiologica",
+    "permalink": "/docs/citation-styles/acta-radiologica"
+  }
+}

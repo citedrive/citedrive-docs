@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/inter-romanian-review-for-theological-and-religious-studies",
+  "id": "citation-styles/inter-romanian-review-for-theological-and-religious-studies",
+  "isDocsHomePage": false,
+  "title": "inter-romanian-review-for-theological-and-religious-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/inter-romanian-review-for-theological-and-religious-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/inter-romanian-review-for-theological-and-religious-studies",
+  "permalink": "/docs/citation-styles/inter-romanian-review-for-theological-and-religious-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/inter-romanian-review-for-theological-and-religious-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrative-and-comparative-biology",
+    "permalink": "/docs/citation-styles/integrative-and-comparative-biology"
+  },
+  "next": {
+    "title": "interaction-design-and-architectures",
+    "permalink": "/docs/citation-styles/interaction-design-and-architectures"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/obesity",
+  "id": "citation-styles/obesity",
+  "isDocsHomePage": false,
+  "title": "obesity",
+  "description": "---",
+  "source": "@site/docs/citation-styles/obesity.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/obesity",
+  "permalink": "/docs/citation-styles/obesity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/obesity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obafemi-awolowo-university--faculty-of-technology",
+    "permalink": "/docs/citation-styles/obafemi-awolowo-university--faculty-of-technology"
+  },
+  "next": {
+    "title": "obstetrics-and-gynecology-science",
+    "permalink": "/docs/citation-styles/obstetrics-and-gynecology-science"
+  }
+}

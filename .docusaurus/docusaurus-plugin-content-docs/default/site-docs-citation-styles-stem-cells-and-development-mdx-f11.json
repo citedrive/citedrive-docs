@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/stem-cells-and-development",
+  "id": "citation-styles/stem-cells-and-development",
+  "isDocsHomePage": false,
+  "title": "stem-cells-and-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/stem-cells-and-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/stem-cells-and-development",
+  "permalink": "/docs/citation-styles/stem-cells-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/stem-cells-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stellenbosch-university--harvard",
+    "permalink": "/docs/citation-styles/stellenbosch-university--harvard"
+  },
+  "next": {
+    "title": "stem-cells",
+    "permalink": "/docs/citation-styles/stem-cells"
+  }
+}

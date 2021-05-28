@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/economia-y-politica-spanish--chile",
+  "id": "citation-styles/economia-y-politica-spanish--chile",
+  "isDocsHomePage": false,
+  "title": "economia-y-politica-spanish--chile",
+  "description": "---",
+  "source": "@site/docs/citation-styles/economia-y-politica-spanish--chile.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/economia-y-politica-spanish--chile",
+  "permalink": "/docs/citation-styles/economia-y-politica-spanish--chile",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/economia-y-politica-spanish--chile.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "econometrica",
+    "permalink": "/docs/citation-styles/econometrica"
+  },
+  "next": {
+    "title": "economic-commission-for-latin-america-and-the-caribbean",
+    "permalink": "/docs/citation-styles/economic-commission-for-latin-america-and-the-caribbean"
+  }
+}

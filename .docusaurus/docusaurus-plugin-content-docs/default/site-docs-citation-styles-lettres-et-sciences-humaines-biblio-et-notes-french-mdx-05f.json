@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french",
+  "id": "citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french",
+  "isDocsHomePage": false,
+  "title": "lettres-et-sciences-humaines-biblio-et-notes-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french",
+  "permalink": "/docs/citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lettres-et-sciences-humaines-biblio-et-notes-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "letters-in-applied-microbiology",
+    "permalink": "/docs/citation-styles/letters-in-applied-microbiology"
+  },
+  "next": {
+    "title": "leviathan-german",
+    "permalink": "/docs/citation-styles/leviathan-german"
+  }
+}

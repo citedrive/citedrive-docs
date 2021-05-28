@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/archaeologia-austriaca",
+  "id": "citation-styles/archaeologia-austriaca",
+  "isDocsHomePage": false,
+  "title": "archaeologia-austriaca",
+  "description": "---",
+  "source": "@site/docs/citation-styles/archaeologia-austriaca.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/archaeologia-austriaca",
+  "permalink": "/docs/citation-styles/archaeologia-austriaca",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/archaeologia-austriaca.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arachnology",
+    "permalink": "/docs/citation-styles/arachnology"
+  },
+  "next": {
+    "title": "archaeometry",
+    "permalink": "/docs/citation-styles/archaeometry"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/din-15052-numeric-german--standard-superseded-by-iso690",
+  "id": "citation-styles/din-15052-numeric-german--standard-superseded-by-iso690",
+  "isDocsHomePage": false,
+  "title": "din-15052-numeric-german--standard-superseded-by-iso690",
+  "description": "---",
+  "source": "@site/docs/citation-styles/din-15052-numeric-german--standard-superseded-by-iso690.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/din-15052-numeric-german--standard-superseded-by-iso690",
+  "permalink": "/docs/citation-styles/din-15052-numeric-german--standard-superseded-by-iso690",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/din-15052-numeric-german--standard-superseded-by-iso690.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "din-15052-authordate-german--standard-superseded-by-iso690",
+    "permalink": "/docs/citation-styles/din-15052-authordate-german--standard-superseded-by-iso690"
+  },
+  "next": {
+    "title": "din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+    "permalink": "/docs/citation-styles/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690"
+  }
+}

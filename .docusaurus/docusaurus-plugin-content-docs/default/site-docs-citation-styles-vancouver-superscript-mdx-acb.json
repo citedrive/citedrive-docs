@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/vancouver-superscript",
+  "id": "citation-styles/vancouver-superscript",
+  "isDocsHomePage": false,
+  "title": "vancouver-superscript",
+  "description": "---",
+  "source": "@site/docs/citation-styles/vancouver-superscript.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/vancouver-superscript",
+  "permalink": "/docs/citation-styles/vancouver-superscript",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/vancouver-superscript.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-superscript-only-year-in-date-no-issue-numbers",
+    "permalink": "/docs/citation-styles/vancouver-superscript-only-year-in-date-no-issue-numbers"
+  },
+  "next": {
+    "title": "vancouver",
+    "permalink": "/docs/citation-styles/vancouver"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-field-ornithology",
+  "id": "citation-styles/journal-of-field-ornithology",
+  "isDocsHomePage": false,
+  "title": "journal-of-field-ornithology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-field-ornithology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-field-ornithology",
+  "permalink": "/docs/citation-styles/journal-of-field-ornithology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-field-ornithology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-experimental-botany",
+    "permalink": "/docs/citation-styles/journal-of-experimental-botany"
+  },
+  "next": {
+    "title": "journal-of-finance",
+    "permalink": "/docs/citation-styles/journal-of-finance"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-humanoid-robotics",
+  "id": "citation-styles/international-journal-of-humanoid-robotics",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-humanoid-robotics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-humanoid-robotics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-humanoid-robotics",
+  "permalink": "/docs/citation-styles/international-journal-of-humanoid-robotics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-humanoid-robotics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-geriatric-psychiatry",
+    "permalink": "/docs/citation-styles/international-journal-of-geriatric-psychiatry"
+  },
+  "next": {
+    "title": "international-journal-of-language-and-communication-disorders",
+    "permalink": "/docs/citation-styles/international-journal-of-language-and-communication-disorders"
+  }
+}

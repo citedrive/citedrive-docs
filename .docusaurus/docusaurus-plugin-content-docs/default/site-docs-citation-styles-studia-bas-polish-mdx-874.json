@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/studia-bas-polish",
+  "id": "citation-styles/studia-bas-polish",
+  "isDocsHomePage": false,
+  "title": "studia-bas-polish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/studia-bas-polish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/studia-bas-polish",
+  "permalink": "/docs/citation-styles/studia-bas-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/studia-bas-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "studi-e-materiali-di-storia-delle-religioni-italian",
+    "permalink": "/docs/citation-styles/studi-e-materiali-di-storia-delle-religioni-italian"
+  },
+  "next": {
+    "title": "studii-teologice",
+    "permalink": "/docs/citation-styles/studii-teologice"
+  }
+}

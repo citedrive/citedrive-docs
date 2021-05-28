@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-security",
+  "id": "citation-styles/international-security",
+  "isDocsHomePage": false,
+  "title": "international-security",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-security.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-security",
+  "permalink": "/docs/citation-styles/international-security",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-security.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-review-of-the-red-cross",
+    "permalink": "/docs/citation-styles/international-review-of-the-red-cross"
+  },
+  "next": {
+    "title": "international-studies-association",
+    "permalink": "/docs/citation-styles/international-studies-association"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/histoire-and-mesure-french",
+  "id": "citation-styles/histoire-and-mesure-french",
+  "isDocsHomePage": false,
+  "title": "histoire-and-mesure-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/histoire-and-mesure-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/histoire-and-mesure-french",
+  "permalink": "/docs/citation-styles/histoire-and-mesure-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/histoire-and-mesure-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hipertension-y-riesgo-vascular-spanish",
+    "permalink": "/docs/citation-styles/hipertension-y-riesgo-vascular-spanish"
+  },
+  "next": {
+    "title": "histoirepolitique-politique-culture-societe-french",
+    "permalink": "/docs/citation-styles/histoirepolitique-politique-culture-societe-french"
+  }
+}

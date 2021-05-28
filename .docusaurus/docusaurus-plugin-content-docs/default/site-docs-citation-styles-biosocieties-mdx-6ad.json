@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biosocieties",
+  "id": "citation-styles/biosocieties",
+  "isDocsHomePage": false,
+  "title": "biosocieties",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biosocieties.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biosocieties",
+  "permalink": "/docs/citation-styles/biosocieties",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biosocieties.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioscience",
+    "permalink": "/docs/citation-styles/bioscience"
+  },
+  "next": {
+    "title": "biota-neotropica",
+    "permalink": "/docs/citation-styles/biota-neotropica"
+  }
+}

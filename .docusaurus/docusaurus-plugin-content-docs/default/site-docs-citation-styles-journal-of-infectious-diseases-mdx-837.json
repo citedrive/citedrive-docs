@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-infectious-diseases",
+  "id": "citation-styles/journal-of-infectious-diseases",
+  "isDocsHomePage": false,
+  "title": "journal-of-infectious-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-infectious-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-infectious-diseases",
+  "permalink": "/docs/citation-styles/journal-of-infectious-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-infectious-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-infection",
+    "permalink": "/docs/citation-styles/journal-of-infection"
+  },
+  "next": {
+    "title": "journal-of-information-technology",
+    "permalink": "/docs/citation-styles/journal-of-information-technology"
+  }
+}

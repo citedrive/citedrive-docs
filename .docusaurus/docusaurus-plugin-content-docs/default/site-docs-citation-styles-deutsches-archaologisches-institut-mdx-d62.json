@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/deutsches-archaologisches-institut",
+  "id": "citation-styles/deutsches-archaologisches-institut",
+  "isDocsHomePage": false,
+  "title": "deutsches-archaologisches-institut",
+  "description": "---",
+  "source": "@site/docs/citation-styles/deutsches-archaologisches-institut.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/deutsches-archaologisches-institut",
+  "permalink": "/docs/citation-styles/deutsches-archaologisches-institut",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/deutsches-archaologisches-institut.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deutsche-gesellschaft-fur-psychologie-german",
+    "permalink": "/docs/citation-styles/deutsche-gesellschaft-fur-psychologie-german"
+  },
+  "next": {
+    "title": "deutsches-arzteblatt",
+    "permalink": "/docs/citation-styles/deutsches-arzteblatt"
+  }
+}

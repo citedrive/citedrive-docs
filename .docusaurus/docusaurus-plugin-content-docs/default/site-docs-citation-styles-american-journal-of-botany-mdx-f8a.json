@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-botany",
+  "id": "citation-styles/american-journal-of-botany",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-botany",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-botany.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-botany",
+  "permalink": "/docs/citation-styles/american-journal-of-botany",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-botany.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-archaeology",
+    "permalink": "/docs/citation-styles/american-journal-of-archaeology"
+  },
+  "next": {
+    "title": "american-journal-of-climate-change",
+    "permalink": "/docs/citation-styles/american-journal-of-climate-change"
+  }
+}

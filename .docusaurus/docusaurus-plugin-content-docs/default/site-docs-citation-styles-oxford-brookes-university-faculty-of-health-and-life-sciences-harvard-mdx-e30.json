@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+  "id": "citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+  "isDocsHomePage": false,
+  "title": "oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+  "permalink": "/docs/citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-art-journal",
+    "permalink": "/docs/citation-styles/oxford-art-journal"
+  },
+  "next": {
+    "title": "oxford-studies-in-ancient-philosophy",
+    "permalink": "/docs/citation-styles/oxford-studies-in-ancient-philosophy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/demographic-research",
+  "id": "citation-styles/demographic-research",
+  "isDocsHomePage": false,
+  "title": "demographic-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/demographic-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/demographic-research",
+  "permalink": "/docs/citation-styles/demographic-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/demographic-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "decision-sciences",
+    "permalink": "/docs/citation-styles/decision-sciences"
+  },
+  "next": {
+    "title": "der-moderne-staat-german",
+    "permalink": "/docs/citation-styles/der-moderne-staat-german"
+  }
+}

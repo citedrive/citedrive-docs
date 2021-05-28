@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/optics-letters",
+  "id": "citation-styles/optics-letters",
+  "isDocsHomePage": false,
+  "title": "optics-letters",
+  "description": "---",
+  "source": "@site/docs/citation-styles/optics-letters.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/optics-letters",
+  "permalink": "/docs/citation-styles/optics-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/optics-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optics-express",
+    "permalink": "/docs/citation-styles/optics-express"
+  },
+  "next": {
+    "title": "optoelectronic-advances",
+    "permalink": "/docs/citation-styles/optoelectronic-advances"
+  }
+}

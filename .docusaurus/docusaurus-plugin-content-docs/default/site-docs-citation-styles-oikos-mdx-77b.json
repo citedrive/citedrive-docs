@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oikos",
+  "id": "citation-styles/oikos",
+  "isDocsHomePage": false,
+  "title": "oikos",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oikos.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oikos",
+  "permalink": "/docs/citation-styles/oikos",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oikos.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+    "permalink": "/docs/citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie"
+  },
+  "next": {
+    "title": "oncoimmunology",
+    "permalink": "/docs/citation-styles/oncoimmunology"
+  }
+}

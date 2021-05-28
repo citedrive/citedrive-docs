@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/genetics",
+  "id": "citation-styles/genetics",
+  "isDocsHomePage": false,
+  "title": "genetics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/genetics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/genetics",
+  "permalink": "/docs/citation-styles/genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "genetics-and-molecular-biology",
+    "permalink": "/docs/citation-styles/genetics-and-molecular-biology"
+  },
+  "next": {
+    "title": "genome-biology-and-evolution",
+    "permalink": "/docs/citation-styles/genome-biology-and-evolution"
+  }
+}

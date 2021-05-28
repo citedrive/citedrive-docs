@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/future-medicine-journals",
+  "id": "citation-styles/future-medicine-journals",
+  "isDocsHomePage": false,
+  "title": "future-medicine-journals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/future-medicine-journals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/future-medicine-journals",
+  "permalink": "/docs/citation-styles/future-medicine-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/future-medicine-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-of-biogeography",
+    "permalink": "/docs/citation-styles/frontiers-of-biogeography"
+  },
+  "next": {
+    "title": "future-science-group",
+    "permalink": "/docs/citation-styles/future-science-group"
+  }
+}

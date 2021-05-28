@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mis-quarterly",
+  "id": "citation-styles/mis-quarterly",
+  "isDocsHomePage": false,
+  "title": "mis-quarterly",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mis-quarterly.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mis-quarterly",
+  "permalink": "/docs/citation-styles/mis-quarterly",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mis-quarterly.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mineralogical-magazine",
+    "permalink": "/docs/citation-styles/mineralogical-magazine"
+  },
+  "next": {
+    "title": "modern-chinese-literature-and-culture",
+    "permalink": "/docs/citation-styles/modern-chinese-literature-and-culture"
+  }
+}

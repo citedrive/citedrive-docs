@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+  "id": "citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+  "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chicago-manual-of-style-17th-edition-note-annotated-bibliography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-library-list",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-library-list"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-note-with-ibid",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-note-with-ibid"
+  }
+}

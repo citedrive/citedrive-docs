@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universitat-basel--iberoromanistik-spanish",
+  "id": "citation-styles/universitat-basel--iberoromanistik-spanish",
+  "isDocsHomePage": false,
+  "title": "universitat-basel--iberoromanistik-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universitat-basel--iberoromanistik-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universitat-basel--iberoromanistik-spanish",
+  "permalink": "/docs/citation-styles/universitat-basel--iberoromanistik-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universitat-basel--iberoromanistik-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+    "permalink": "/docs/citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian"
+  },
+  "next": {
+    "title": "universitat-bern--institut-fur-musikwissenschaft-note-german",
+    "permalink": "/docs/citation-styles/universitat-bern--institut-fur-musikwissenschaft-note-german"
+  }
+}

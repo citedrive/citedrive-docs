@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/applied-in-vitro-toxicology",
+  "id": "citation-styles/applied-in-vitro-toxicology",
+  "isDocsHomePage": false,
+  "title": "applied-in-vitro-toxicology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/applied-in-vitro-toxicology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/applied-in-vitro-toxicology",
+  "permalink": "/docs/citation-styles/applied-in-vitro-toxicology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/applied-in-vitro-toxicology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applied-clay-science",
+    "permalink": "/docs/citation-styles/applied-clay-science"
+  },
+  "next": {
+    "title": "applied-spectroscopy-reviews",
+    "permalink": "/docs/citation-styles/applied-spectroscopy-reviews"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecole-de-technologie-superieure--apa-french--canada",
+  "id": "citation-styles/ecole-de-technologie-superieure--apa-french--canada",
+  "isDocsHomePage": false,
+  "title": "ecole-de-technologie-superieure--apa-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecole-de-technologie-superieure--apa-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecole-de-technologie-superieure--apa-french--canada",
+  "permalink": "/docs/citation-styles/ecole-de-technologie-superieure--apa-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecole-de-technologie-superieure--apa-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecclesial-practices",
+    "permalink": "/docs/citation-styles/ecclesial-practices"
+  },
+  "next": {
+    "title": "ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
+    "permalink": "/docs/citation-styles/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french"
+  }
+}

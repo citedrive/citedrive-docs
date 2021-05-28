@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/rever--revista-de-estudos-da-religiao",
+  "id": "citation-styles/rever--revista-de-estudos-da-religiao",
+  "isDocsHomePage": false,
+  "title": "rever--revista-de-estudos-da-religiao",
+  "description": "---",
+  "source": "@site/docs/citation-styles/rever--revista-de-estudos-da-religiao.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/rever--revista-de-estudos-da-religiao",
+  "permalink": "/docs/citation-styles/rever--revista-de-estudos-da-religiao",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/rever--revista-de-estudos-da-religiao.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "restoration-ecology",
+    "permalink": "/docs/citation-styles/restoration-ecology"
+  },
+  "next": {
+    "title": "review-of-international-studies",
+    "permalink": "/docs/citation-styles/review-of-international-studies"
+  }
+}

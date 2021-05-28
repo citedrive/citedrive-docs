@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french",
+  "id": "citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french",
+  "isDocsHomePage": false,
+  "title": "bibliotheque-universitaire-de-medecine--vancouver-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french",
+  "permalink": "/docs/citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bibliotheque-universitaire-de-medecine--vancouver-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+    "permalink": "/docs/citation-styles/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french"
+  },
+  "next": {
+    "title": "bibtex-generic-citation-style",
+    "permalink": "/docs/citation-styles/bibtex-generic-citation-style"
+  }
+}

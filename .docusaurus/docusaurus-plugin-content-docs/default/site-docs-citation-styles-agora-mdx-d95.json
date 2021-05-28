@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/agora",
+  "id": "citation-styles/agora",
+  "isDocsHomePage": false,
+  "title": "agora",
+  "description": "---",
+  "source": "@site/docs/citation-styles/agora.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/agora",
+  "permalink": "/docs/citation-styles/agora",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/agora.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aging",
+    "permalink": "/docs/citation-styles/aging"
+  },
+  "next": {
+    "title": "agriculturae-conspectus-scientificus",
+    "permalink": "/docs/citation-styles/agriculturae-conspectus-scientificus"
+  }
+}

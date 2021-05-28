@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-european-research-journal",
+  "id": "citation-styles/the-european-research-journal",
+  "isDocsHomePage": false,
+  "title": "the-european-research-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-european-research-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-european-research-journal",
+  "permalink": "/docs/citation-styles/the-european-research-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-european-research-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-economic-history-review",
+    "permalink": "/docs/citation-styles/the-economic-history-review"
+  },
+  "next": {
+    "title": "the-faseb-journal",
+    "permalink": "/docs/citation-styles/the-faseb-journal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-university-of-northampton--harvard",
+  "id": "citation-styles/the-university-of-northampton--harvard",
+  "isDocsHomePage": false,
+  "title": "the-university-of-northampton--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-university-of-northampton--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-university-of-northampton--harvard",
+  "permalink": "/docs/citation-styles/the-university-of-northampton--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-university-of-northampton--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-new-south-wales--oxford",
+    "permalink": "/docs/citation-styles/the-university-of-new-south-wales--oxford"
+  },
+  "next": {
+    "title": "the-university-of-sheffield--school-of-east-asian-studies--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-sheffield--school-of-east-asian-studies--harvard"
+  }
+}

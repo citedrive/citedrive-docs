@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-international-relations-and-development",
+  "id": "citation-styles/journal-of-international-relations-and-development",
+  "isDocsHomePage": false,
+  "title": "journal-of-international-relations-and-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-international-relations-and-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-international-relations-and-development",
+  "permalink": "/docs/citation-styles/journal-of-international-relations-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-international-relations-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-international-peacekeeping",
+    "permalink": "/docs/citation-styles/journal-of-international-peacekeeping"
+  },
+  "next": {
+    "title": "journal-of-investigative-dermatology",
+    "permalink": "/docs/citation-styles/journal-of-investigative-dermatology"
+  }
+}

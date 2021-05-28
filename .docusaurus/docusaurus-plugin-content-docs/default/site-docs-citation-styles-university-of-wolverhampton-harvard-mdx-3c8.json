@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-wolverhampton--harvard",
+  "id": "citation-styles/university-of-wolverhampton--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-wolverhampton--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-wolverhampton--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-wolverhampton--harvard",
+  "permalink": "/docs/citation-styles/university-of-wolverhampton--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-wolverhampton--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-westminster--harvard",
+    "permalink": "/docs/citation-styles/university-of-westminster--harvard"
+  },
+  "next": {
+    "title": "university-of-worcester--harvard",
+    "permalink": "/docs/citation-styles/university-of-worcester--harvard"
+  }
+}

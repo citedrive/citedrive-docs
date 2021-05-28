@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/electrophoresis",
+  "id": "citation-styles/electrophoresis",
+  "isDocsHomePage": false,
+  "title": "electrophoresis",
+  "description": "---",
+  "source": "@site/docs/citation-styles/electrophoresis.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/electrophoresis",
+  "permalink": "/docs/citation-styles/electrophoresis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/electrophoresis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "el-profesional-de-la-informacion-spanish",
+    "permalink": "/docs/citation-styles/el-profesional-de-la-informacion-spanish"
+  },
+  "next": {
+    "title": "elementa",
+    "permalink": "/docs/citation-styles/elementa"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/midwestern-baptist-theological-seminary",
+  "id": "citation-styles/midwestern-baptist-theological-seminary",
+  "isDocsHomePage": false,
+  "title": "midwestern-baptist-theological-seminary",
+  "description": "---",
+  "source": "@site/docs/citation-styles/midwestern-baptist-theological-seminary.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/midwestern-baptist-theological-seminary",
+  "permalink": "/docs/citation-styles/midwestern-baptist-theological-seminary",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/midwestern-baptist-theological-seminary.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "middle-east-critique",
+    "permalink": "/docs/citation-styles/middle-east-critique"
+  },
+  "next": {
+    "title": "mimbar-hukum",
+    "permalink": "/docs/citation-styles/mimbar-hukum"
+  }
+}

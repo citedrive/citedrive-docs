@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-york--harvard",
+  "id": "citation-styles/university-of-york--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-york--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-york--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-york--harvard",
+  "permalink": "/docs/citation-styles/university-of-york--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-york--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--harvard--environment",
+    "permalink": "/docs/citation-styles/university-of-york--harvard--environment"
+  },
+  "next": {
+    "title": "university-of-york--ieee",
+    "permalink": "/docs/citation-styles/university-of-york--ieee"
+  }
+}

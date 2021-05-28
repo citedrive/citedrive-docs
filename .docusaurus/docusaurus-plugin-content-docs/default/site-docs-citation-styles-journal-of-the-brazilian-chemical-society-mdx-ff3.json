@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-brazilian-chemical-society",
+  "id": "citation-styles/journal-of-the-brazilian-chemical-society",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-brazilian-chemical-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-brazilian-chemical-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-brazilian-chemical-society",
+  "permalink": "/docs/citation-styles/journal-of-the-brazilian-chemical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-brazilian-chemical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-botanical-research-institute-of-texas",
+    "permalink": "/docs/citation-styles/journal-of-the-botanical-research-institute-of-texas"
+  },
+  "next": {
+    "title": "journal-of-the-electrochemical-society",
+    "permalink": "/docs/citation-styles/journal-of-the-electrochemical-society"
+  }
+}

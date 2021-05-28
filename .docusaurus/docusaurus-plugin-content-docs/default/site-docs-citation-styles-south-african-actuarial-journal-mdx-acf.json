@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/south-african-actuarial-journal",
+  "id": "citation-styles/south-african-actuarial-journal",
+  "isDocsHomePage": false,
+  "title": "south-african-actuarial-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/south-african-actuarial-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/south-african-actuarial-journal",
+  "permalink": "/docs/citation-styles/south-african-actuarial-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/south-african-actuarial-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sorbonne-student-law-review--revue-juridique-des-etudiants-de-la-sorbonne",
+    "permalink": "/docs/citation-styles/sorbonne-student-law-review--revue-juridique-des-etudiants-de-la-sorbonne"
+  },
+  "next": {
+    "title": "south-african-journal-of-animal-science",
+    "permalink": "/docs/citation-styles/south-african-journal-of-animal-science"
+  }
+}

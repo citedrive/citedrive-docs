@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sascha-foerster--geisteswissenschaft-german",
+  "id": "citation-styles/sascha-foerster--geisteswissenschaft-german",
+  "isDocsHomePage": false,
+  "title": "sascha-foerster--geisteswissenschaft-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sascha-foerster--geisteswissenschaft-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sascha-foerster--geisteswissenschaft-german",
+  "permalink": "/docs/citation-styles/sascha-foerster--geisteswissenschaft-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sascha-foerster--geisteswissenschaft-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sanamed",
+    "permalink": "/docs/citation-styles/sanamed"
+  },
+  "next": {
+    "title": "scandinavian-journal-of-infectious-diseases",
+    "permalink": "/docs/citation-styles/scandinavian-journal-of-infectious-diseases"
+  }
+}

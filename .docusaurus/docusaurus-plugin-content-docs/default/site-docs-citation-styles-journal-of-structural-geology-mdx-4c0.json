@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-structural-geology",
+  "id": "citation-styles/journal-of-structural-geology",
+  "isDocsHomePage": false,
+  "title": "journal-of-structural-geology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-structural-geology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-structural-geology",
+  "permalink": "/docs/citation-styles/journal-of-structural-geology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-structural-geology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-strength-and-conditioning-research",
+    "permalink": "/docs/citation-styles/journal-of-strength-and-conditioning-research"
+  },
+  "next": {
+    "title": "journal-of-studies-on-alcohol-and-drugs",
+    "permalink": "/docs/citation-styles/journal-of-studies-on-alcohol-and-drugs"
+  }
+}

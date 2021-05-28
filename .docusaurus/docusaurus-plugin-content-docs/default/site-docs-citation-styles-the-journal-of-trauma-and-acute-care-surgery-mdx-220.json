@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-trauma-and-acute-care-surgery",
+  "id": "citation-styles/the-journal-of-trauma-and-acute-care-surgery",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-trauma-and-acute-care-surgery",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-trauma-and-acute-care-surgery.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-trauma-and-acute-care-surgery",
+  "permalink": "/docs/citation-styles/the-journal-of-trauma-and-acute-care-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-trauma-and-acute-care-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-transport-history",
+    "permalink": "/docs/citation-styles/the-journal-of-transport-history"
+  },
+  "next": {
+    "title": "the-journal-of-urology",
+    "permalink": "/docs/citation-styles/the-journal-of-urology"
+  }
+}

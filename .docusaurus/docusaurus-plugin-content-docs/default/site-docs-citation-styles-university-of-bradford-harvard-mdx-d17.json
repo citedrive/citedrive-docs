@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-bradford--harvard",
+  "id": "citation-styles/university-of-bradford--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-bradford--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-bradford--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-bradford--harvard",
+  "permalink": "/docs/citation-styles/university-of-bradford--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-bradford--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+    "permalink": "/docs/citation-styles/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian"
+  },
+  "next": {
+    "title": "university-of-brighton-school-of-environment-and-technology--harvard",
+    "permalink": "/docs/citation-styles/university-of-brighton-school-of-environment-and-technology--harvard"
+  }
+}

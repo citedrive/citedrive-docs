@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cellular-and-molecular-bioengineering",
+  "id": "citation-styles/cellular-and-molecular-bioengineering",
+  "isDocsHomePage": false,
+  "title": "cellular-and-molecular-bioengineering",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cellular-and-molecular-bioengineering.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cellular-and-molecular-bioengineering",
+  "permalink": "/docs/citation-styles/cellular-and-molecular-bioengineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cellular-and-molecular-bioengineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell",
+    "permalink": "/docs/citation-styles/cell"
+  },
+  "next": {
+    "title": "cellular-and-molecular-gastroenterology-and-hepatology",
+    "permalink": "/docs/citation-styles/cellular-and-molecular-gastroenterology-and-hepatology"
+  }
+}

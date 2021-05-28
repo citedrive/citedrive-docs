@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/human-reproduction-update",
+  "id": "citation-styles/human-reproduction-update",
+  "isDocsHomePage": false,
+  "title": "human-reproduction-update",
+  "description": "---",
+  "source": "@site/docs/citation-styles/human-reproduction-update.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/human-reproduction-update",
+  "permalink": "/docs/citation-styles/human-reproduction-update",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/human-reproduction-update.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-mutation",
+    "permalink": "/docs/citation-styles/human-mutation"
+  },
+  "next": {
+    "title": "human-reproduction",
+    "permalink": "/docs/citation-styles/human-reproduction"
+  }
+}

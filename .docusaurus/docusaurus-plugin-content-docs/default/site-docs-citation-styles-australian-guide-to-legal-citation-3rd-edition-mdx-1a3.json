@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/australian-guide-to-legal-citation-3rd-edition",
+  "id": "citation-styles/australian-guide-to-legal-citation-3rd-edition",
+  "isDocsHomePage": false,
+  "title": "australian-guide-to-legal-citation-3rd-edition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/australian-guide-to-legal-citation-3rd-edition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/australian-guide-to-legal-citation-3rd-edition",
+  "permalink": "/docs/citation-styles/australian-guide-to-legal-citation-3rd-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/australian-guide-to-legal-citation-3rd-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-dental-journal",
+    "permalink": "/docs/citation-styles/australian-dental-journal"
+  },
+  "next": {
+    "title": "australian-guide-to-legal-citation-4th-edition",
+    "permalink": "/docs/citation-styles/australian-guide-to-legal-citation-4th-edition"
+  }
+}

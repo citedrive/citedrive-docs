@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-neurochemistry",
+  "id": "citation-styles/journal-of-neurochemistry",
+  "isDocsHomePage": false,
+  "title": "journal-of-neurochemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-neurochemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-neurochemistry",
+  "permalink": "/docs/citation-styles/journal-of-neurochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-neurochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neolithic-archaeology",
+    "permalink": "/docs/citation-styles/journal-of-neolithic-archaeology"
+  },
+  "next": {
+    "title": "journal-of-neuroendocrinology",
+    "permalink": "/docs/citation-styles/journal-of-neuroendocrinology"
+  }
+}

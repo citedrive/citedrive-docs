@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/antioxidants-and-redox-signaling",
+  "id": "citation-styles/antioxidants-and-redox-signaling",
+  "isDocsHomePage": false,
+  "title": "antioxidants-and-redox-signaling",
+  "description": "---",
+  "source": "@site/docs/citation-styles/antioxidants-and-redox-signaling.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/antioxidants-and-redox-signaling",
+  "permalink": "/docs/citation-styles/antioxidants-and-redox-signaling",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/antioxidants-and-redox-signaling.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anticancer-research",
+    "permalink": "/docs/citation-styles/anticancer-research"
+  },
+  "next": {
+    "title": "antipode",
+    "permalink": "/docs/citation-styles/antipode"
+  }
+}

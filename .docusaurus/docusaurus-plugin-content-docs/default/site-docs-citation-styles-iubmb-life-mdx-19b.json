@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iubmb-life",
+  "id": "citation-styles/iubmb-life",
+  "isDocsHomePage": false,
+  "title": "iubmb-life",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iubmb-life.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iubmb-life",
+  "permalink": "/docs/citation-styles/iubmb-life",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iubmb-life.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ithaque-french--canada",
+    "permalink": "/docs/citation-styles/ithaque-french--canada"
+  },
+  "next": {
+    "title": "ius-ecclesiae",
+    "permalink": "/docs/citation-styles/ius-ecclesiae"
+  }
+}

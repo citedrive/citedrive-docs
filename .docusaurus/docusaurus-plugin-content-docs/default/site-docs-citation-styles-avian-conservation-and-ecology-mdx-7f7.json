@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/avian-conservation-and-ecology",
+  "id": "citation-styles/avian-conservation-and-ecology",
+  "isDocsHomePage": false,
+  "title": "avian-conservation-and-ecology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/avian-conservation-and-ecology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/avian-conservation-and-ecology",
+  "permalink": "/docs/citation-styles/avian-conservation-and-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/avian-conservation-and-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "austrian-legal-german--austria",
+    "permalink": "/docs/citation-styles/austrian-legal-german--austria"
+  },
+  "next": {
+    "title": "avian-diseases",
+    "permalink": "/docs/citation-styles/avian-diseases"
+  }
+}

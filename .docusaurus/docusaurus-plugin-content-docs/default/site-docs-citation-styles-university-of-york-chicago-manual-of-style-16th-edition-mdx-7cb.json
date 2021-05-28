@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-york--chicago-manual-of-style-16th-edition",
+  "id": "citation-styles/university-of-york--chicago-manual-of-style-16th-edition",
+  "isDocsHomePage": false,
+  "title": "university-of-york--chicago-manual-of-style-16th-edition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-york--chicago-manual-of-style-16th-edition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-york--chicago-manual-of-style-16th-edition",
+  "permalink": "/docs/citation-styles/university-of-york--chicago-manual-of-style-16th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-york--chicago-manual-of-style-16th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--apa-6th-edition",
+    "permalink": "/docs/citation-styles/university-of-york--apa-6th-edition"
+  },
+  "next": {
+    "title": "university-of-york--harvard--archaeology",
+    "permalink": "/docs/citation-styles/university-of-york--harvard--archaeology"
+  }
+}

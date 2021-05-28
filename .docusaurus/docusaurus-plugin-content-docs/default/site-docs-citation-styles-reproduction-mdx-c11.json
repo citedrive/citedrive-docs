@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/reproduction",
+  "id": "citation-styles/reproduction",
+  "isDocsHomePage": false,
+  "title": "reproduction",
+  "description": "---",
+  "source": "@site/docs/citation-styles/reproduction.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/reproduction",
+  "permalink": "/docs/citation-styles/reproduction",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/reproduction.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reproduction-fertility-and-development",
+    "permalink": "/docs/citation-styles/reproduction-fertility-and-development"
+  },
+  "next": {
+    "title": "research-and-education-promotion-association",
+    "permalink": "/docs/citation-styles/research-and-education-promotion-association"
+  }
+}

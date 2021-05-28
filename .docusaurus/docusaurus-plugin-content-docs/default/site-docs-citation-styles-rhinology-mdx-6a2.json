@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/rhinology",
+  "id": "citation-styles/rhinology",
+  "isDocsHomePage": false,
+  "title": "rhinology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/rhinology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/rhinology",
+  "permalink": "/docs/citation-styles/rhinology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/rhinology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-francaise-de-sociologie-french",
+    "permalink": "/docs/citation-styles/revue-francaise-de-sociologie-french"
+  },
+  "next": {
+    "title": "rhodora",
+    "permalink": "/docs/citation-styles/rhodora"
+  }
+}

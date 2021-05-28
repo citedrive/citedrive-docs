@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-urban-technology",
+  "id": "citation-styles/journal-of-urban-technology",
+  "isDocsHomePage": false,
+  "title": "journal-of-urban-technology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-urban-technology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-urban-technology",
+  "permalink": "/docs/citation-styles/journal-of-urban-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-urban-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-urban-and-environmental-engineering",
+    "permalink": "/docs/citation-styles/journal-of-urban-and-environmental-engineering"
+  },
+  "next": {
+    "title": "journal-of-vegetation-science",
+    "permalink": "/docs/citation-styles/journal-of-vegetation-science"
+  }
+}

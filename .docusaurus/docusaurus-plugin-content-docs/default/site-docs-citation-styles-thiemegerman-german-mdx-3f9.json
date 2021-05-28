@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/thiemegerman-german",
+  "id": "citation-styles/thiemegerman-german",
+  "isDocsHomePage": false,
+  "title": "thiemegerman-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/thiemegerman-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/thiemegerman-german",
+  "permalink": "/docs/citation-styles/thiemegerman-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/thiemegerman-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "theranostics",
+    "permalink": "/docs/citation-styles/theranostics"
+  },
+  "next": {
+    "title": "thomson-reuters--legal-tax-and-accounting-australia",
+    "permalink": "/docs/citation-styles/thomson-reuters--legal-tax-and-accounting-australia"
+  }
+}

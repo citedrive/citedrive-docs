@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/brazilian-journal-of-infectious-diseases",
+  "id": "citation-styles/brazilian-journal-of-infectious-diseases",
+  "isDocsHomePage": false,
+  "title": "brazilian-journal-of-infectious-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/brazilian-journal-of-infectious-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/brazilian-journal-of-infectious-diseases",
+  "permalink": "/docs/citation-styles/brazilian-journal-of-infectious-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/brazilian-journal-of-infectious-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brain",
+    "permalink": "/docs/citation-styles/brain"
+  },
+  "next": {
+    "title": "brazilian-oral-research",
+    "permalink": "/docs/citation-styles/brazilian-oral-research"
+  }
+}

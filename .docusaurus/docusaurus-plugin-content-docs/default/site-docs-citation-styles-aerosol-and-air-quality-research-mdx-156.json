@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aerosol-and-air-quality-research",
+  "id": "citation-styles/aerosol-and-air-quality-research",
+  "isDocsHomePage": false,
+  "title": "aerosol-and-air-quality-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aerosol-and-air-quality-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aerosol-and-air-quality-research",
+  "permalink": "/docs/citation-styles/aerosol-and-air-quality-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aerosol-and-air-quality-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "advances-in-complex-systems",
+    "permalink": "/docs/citation-styles/advances-in-complex-systems"
+  },
+  "next": {
+    "title": "aerosol-science-and-technology",
+    "permalink": "/docs/citation-styles/aerosol-science-and-technology"
+  }
+}

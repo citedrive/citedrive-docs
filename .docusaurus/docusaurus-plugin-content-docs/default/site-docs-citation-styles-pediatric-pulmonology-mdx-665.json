@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pediatric-pulmonology",
+  "id": "citation-styles/pediatric-pulmonology",
+  "isDocsHomePage": false,
+  "title": "pediatric-pulmonology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pediatric-pulmonology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pediatric-pulmonology",
+  "permalink": "/docs/citation-styles/pediatric-pulmonology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pediatric-pulmonology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-practice-and-research",
+    "permalink": "/docs/citation-styles/pediatric-practice-and-research"
+  },
+  "next": {
+    "title": "pediatric-research",
+    "permalink": "/docs/citation-styles/pediatric-research"
+  }
+}

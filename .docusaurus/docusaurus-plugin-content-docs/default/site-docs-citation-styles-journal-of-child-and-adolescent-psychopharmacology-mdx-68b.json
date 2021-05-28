@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-child-and-adolescent-psychopharmacology",
+  "id": "citation-styles/journal-of-child-and-adolescent-psychopharmacology",
+  "isDocsHomePage": false,
+  "title": "journal-of-child-and-adolescent-psychopharmacology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-child-and-adolescent-psychopharmacology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-child-and-adolescent-psychopharmacology",
+  "permalink": "/docs/citation-styles/journal-of-child-and-adolescent-psychopharmacology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-child-and-adolescent-psychopharmacology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-chemometrics",
+    "permalink": "/docs/citation-styles/journal-of-chemometrics"
+  },
+  "next": {
+    "title": "journal-of-clinical-neurology",
+    "permalink": "/docs/citation-styles/journal-of-clinical-neurology"
+  }
+}

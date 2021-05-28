@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-infection-in-developing-countries",
+  "id": "citation-styles/the-journal-of-infection-in-developing-countries",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-infection-in-developing-countries",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-infection-in-developing-countries.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-infection-in-developing-countries",
+  "permalink": "/docs/citation-styles/the-journal-of-infection-in-developing-countries",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-infection-in-developing-countries.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-immunology",
+    "permalink": "/docs/citation-styles/the-journal-of-immunology"
+  },
+  "next": {
+    "title": "the-journal-of-juristic-papyrology",
+    "permalink": "/docs/citation-styles/the-journal-of-juristic-papyrology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/indian-journal-of-physics",
+  "id": "citation-styles/indian-journal-of-physics",
+  "isDocsHomePage": false,
+  "title": "indian-journal-of-physics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/indian-journal-of-physics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/indian-journal-of-physics",
+  "permalink": "/docs/citation-styles/indian-journal-of-physics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/indian-journal-of-physics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indian-journal-of-orthopaedics",
+    "permalink": "/docs/citation-styles/indian-journal-of-orthopaedics"
+  },
+  "next": {
+    "title": "indian-journal-of-traditional-knowledge",
+    "permalink": "/docs/citation-styles/indian-journal-of-traditional-knowledge"
+  }
+}

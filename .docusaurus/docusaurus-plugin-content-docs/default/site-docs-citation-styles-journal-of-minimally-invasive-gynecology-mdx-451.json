@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-minimally-invasive-gynecology",
+  "id": "citation-styles/journal-of-minimally-invasive-gynecology",
+  "isDocsHomePage": false,
+  "title": "journal-of-minimally-invasive-gynecology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-minimally-invasive-gynecology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-minimally-invasive-gynecology",
+  "permalink": "/docs/citation-styles/journal-of-minimally-invasive-gynecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-minimally-invasive-gynecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-medical-internet-research",
+    "permalink": "/docs/citation-styles/journal-of-medical-internet-research"
+  },
+  "next": {
+    "title": "journal-of-molecular-cell-biology",
+    "permalink": "/docs/citation-styles/journal-of-molecular-cell-biology"
+  }
+}

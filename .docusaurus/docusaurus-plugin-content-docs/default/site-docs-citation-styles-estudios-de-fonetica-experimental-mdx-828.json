@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/estudios-de-fonetica-experimental",
+  "id": "citation-styles/estudios-de-fonetica-experimental",
+  "isDocsHomePage": false,
+  "title": "estudios-de-fonetica-experimental",
+  "description": "---",
+  "source": "@site/docs/citation-styles/estudios-de-fonetica-experimental.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/estudios-de-fonetica-experimental",
+  "permalink": "/docs/citation-styles/estudios-de-fonetica-experimental",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/estudios-de-fonetica-experimental.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "estudios-de-cultura-maya-spanish--mexico",
+    "permalink": "/docs/citation-styles/estudios-de-cultura-maya-spanish--mexico"
+  },
+  "next": {
+    "title": "estudios-hispanicos-spanish",
+    "permalink": "/docs/citation-styles/estudios-hispanicos-spanish"
+  }
+}

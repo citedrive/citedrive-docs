@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-international-economic-law",
+  "id": "citation-styles/journal-of-international-economic-law",
+  "isDocsHomePage": false,
+  "title": "journal-of-international-economic-law",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-international-economic-law.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-international-economic-law",
+  "permalink": "/docs/citation-styles/journal-of-international-economic-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-international-economic-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-international-business-studies",
+    "permalink": "/docs/citation-styles/journal-of-international-business-studies"
+  },
+  "next": {
+    "title": "journal-of-international-peacekeeping",
+    "permalink": "/docs/citation-styles/journal-of-international-peacekeeping"
+  }
+}

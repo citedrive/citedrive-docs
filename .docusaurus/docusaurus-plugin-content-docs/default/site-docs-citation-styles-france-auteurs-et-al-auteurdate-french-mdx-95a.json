@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/france-auteurs-et-al-auteurdate-french",
+  "id": "citation-styles/france-auteurs-et-al-auteurdate-french",
+  "isDocsHomePage": false,
+  "title": "france-auteurs-et-al-auteurdate-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/france-auteurs-et-al-auteurdate-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/france-auteurs-et-al-auteurdate-french",
+  "permalink": "/docs/citation-styles/france-auteurs-et-al-auteurdate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/france-auteurs-et-al-auteurdate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forum-qualitative-sozialforschung-german",
+    "permalink": "/docs/citation-styles/forum-qualitative-sozialforschung-german"
+  },
+  "next": {
+    "title": "france-auteurs-et-al-numerotation-french",
+    "permalink": "/docs/citation-styles/france-auteurs-et-al-numerotation-french"
+  }
+}

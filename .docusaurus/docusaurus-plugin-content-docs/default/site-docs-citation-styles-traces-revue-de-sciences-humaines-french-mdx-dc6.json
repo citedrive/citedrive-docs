@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/traces-revue-de-sciences-humaines-french",
+  "id": "citation-styles/traces-revue-de-sciences-humaines-french",
+  "isDocsHomePage": false,
+  "title": "traces-revue-de-sciences-humaines-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/traces-revue-de-sciences-humaines-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/traces-revue-de-sciences-humaines-french",
+  "permalink": "/docs/citation-styles/traces-revue-de-sciences-humaines-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/traces-revue-de-sciences-humaines-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trabajos-de-prehistoria-spanish",
+    "permalink": "/docs/citation-styles/trabajos-de-prehistoria-spanish"
+  },
+  "next": {
+    "title": "traffic-injury-prevention",
+    "permalink": "/docs/citation-styles/traffic-injury-prevention"
+  }
+}

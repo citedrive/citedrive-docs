@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/infectio-spanish",
+  "id": "citation-styles/infectio-spanish",
+  "isDocsHomePage": false,
+  "title": "infectio-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/infectio-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/infectio-spanish",
+  "permalink": "/docs/citation-styles/infectio-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/infectio-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "industrial-relations",
+    "permalink": "/docs/citation-styles/industrial-relations"
+  },
+  "next": {
+    "title": "infectious-disease-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/infectious-disease-clinics-of-north-america"
+  }
+}

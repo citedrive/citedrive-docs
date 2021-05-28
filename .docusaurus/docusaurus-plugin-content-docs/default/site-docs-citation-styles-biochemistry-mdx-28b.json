@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biochemistry",
+  "id": "citation-styles/biochemistry",
+  "isDocsHomePage": false,
+  "title": "biochemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biochemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biochemistry",
+  "permalink": "/docs/citation-styles/biochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochemistry-and-molecular-biology-education",
+    "permalink": "/docs/citation-styles/biochemistry-and-molecular-biology-education"
+  },
+  "next": {
+    "title": "biochimica-et-biophysica-acta",
+    "permalink": "/docs/citation-styles/biochimica-et-biophysica-acta"
+  }
+}

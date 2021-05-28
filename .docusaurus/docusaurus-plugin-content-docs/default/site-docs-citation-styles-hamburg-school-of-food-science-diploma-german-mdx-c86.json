@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hamburg-school-of-food-science-diploma-german",
+  "id": "citation-styles/hamburg-school-of-food-science-diploma-german",
+  "isDocsHomePage": false,
+  "title": "hamburg-school-of-food-science-diploma-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hamburg-school-of-food-science-diploma-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hamburg-school-of-food-science-diploma-german",
+  "permalink": "/docs/citation-styles/hamburg-school-of-food-science-diploma-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hamburg-school-of-food-science-diploma-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hainan-medical-university-journal-publisher",
+    "permalink": "/docs/citation-styles/hainan-medical-university-journal-publisher"
+  },
+  "next": {
+    "title": "hand",
+    "permalink": "/docs/citation-styles/hand"
+  }
+}

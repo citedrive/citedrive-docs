@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cahiers-du-centre-gustaveglotz-french",
+  "id": "citation-styles/cahiers-du-centre-gustaveglotz-french",
+  "isDocsHomePage": false,
+  "title": "cahiers-du-centre-gustaveglotz-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cahiers-du-centre-gustaveglotz-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cahiers-du-centre-gustaveglotz-french",
+  "permalink": "/docs/citation-styles/cahiers-du-centre-gustaveglotz-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cahiers-du-centre-gustaveglotz-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cahiers-dethnomusicologie-french",
+    "permalink": "/docs/citation-styles/cahiers-dethnomusicologie-french"
+  },
+  "next": {
+    "title": "california-agriculture",
+    "permalink": "/docs/citation-styles/california-agriculture"
+  }
+}

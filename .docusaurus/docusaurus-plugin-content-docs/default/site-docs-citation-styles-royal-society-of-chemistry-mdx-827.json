@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/royal-society-of-chemistry",
+  "id": "citation-styles/royal-society-of-chemistry",
+  "isDocsHomePage": false,
+  "title": "royal-society-of-chemistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/royal-society-of-chemistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/royal-society-of-chemistry",
+  "permalink": "/docs/citation-styles/royal-society-of-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/royal-society-of-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "royal-society-of-chemistry-with-titles",
+    "permalink": "/docs/citation-styles/royal-society-of-chemistry-with-titles"
+  },
+  "next": {
+    "title": "rtf-scan",
+    "permalink": "/docs/citation-styles/rtf-scan"
+  }
+}

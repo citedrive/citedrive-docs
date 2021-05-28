@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/psychosomatics",
+  "id": "citation-styles/psychosomatics",
+  "isDocsHomePage": false,
+  "title": "psychosomatics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/psychosomatics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/psychosomatics",
+  "permalink": "/docs/citation-styles/psychosomatics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/psychosomatics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "psychosomatic-medicine",
+    "permalink": "/docs/citation-styles/psychosomatic-medicine"
+  },
+  "next": {
+    "title": "public-health-nutrition",
+    "permalink": "/docs/citation-styles/public-health-nutrition"
+  }
+}

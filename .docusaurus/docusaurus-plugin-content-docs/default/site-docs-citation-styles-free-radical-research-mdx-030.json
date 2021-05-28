@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/free-radical-research",
+  "id": "citation-styles/free-radical-research",
+  "isDocsHomePage": false,
+  "title": "free-radical-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/free-radical-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/free-radical-research",
+  "permalink": "/docs/citation-styles/free-radical-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/free-radical-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "france-tous-les-auteurs-numerotation-french",
+    "permalink": "/docs/citation-styles/france-tous-les-auteurs-numerotation-french"
+  },
+  "next": {
+    "title": "freie-universitat-berlin--geographische-wissenschaften-german",
+    "permalink": "/docs/citation-styles/freie-universitat-berlin--geographische-wissenschaften-german"
+  }
+}

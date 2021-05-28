@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-molecular-diagnostics",
+  "id": "citation-styles/the-journal-of-molecular-diagnostics",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-molecular-diagnostics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-molecular-diagnostics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-molecular-diagnostics",
+  "permalink": "/docs/citation-styles/the-journal-of-molecular-diagnostics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-molecular-diagnostics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-modern-history",
+    "permalink": "/docs/citation-styles/the-journal-of-modern-history"
+  },
+  "next": {
+    "title": "the-journal-of-nervous-and-mental-disease",
+    "permalink": "/docs/citation-styles/the-journal-of-nervous-and-mental-disease"
+  }
+}

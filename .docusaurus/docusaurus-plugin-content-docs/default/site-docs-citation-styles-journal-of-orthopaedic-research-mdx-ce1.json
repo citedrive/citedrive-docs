@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-orthopaedic-research",
+  "id": "citation-styles/journal-of-orthopaedic-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-orthopaedic-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-orthopaedic-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-orthopaedic-research",
+  "permalink": "/docs/citation-styles/journal-of-orthopaedic-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-orthopaedic-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-oral-and-maxillofacial-surgery",
+    "permalink": "/docs/citation-styles/journal-of-oral-and-maxillofacial-surgery"
+  },
+  "next": {
+    "title": "journal-of-orthopaedic-trauma",
+    "permalink": "/docs/citation-styles/journal-of-orthopaedic-trauma"
+  }
+}

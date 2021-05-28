@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecosistemas-spanish",
+  "id": "citation-styles/ecosistemas-spanish",
+  "isDocsHomePage": false,
+  "title": "ecosistemas-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecosistemas-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecosistemas-spanish",
+  "permalink": "/docs/citation-styles/ecosistemas-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecosistemas-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecoscience",
+    "permalink": "/docs/citation-styles/ecoscience"
+  },
+  "next": {
+    "title": "ecosystems",
+    "permalink": "/docs/citation-styles/ecosystems"
+  }
+}

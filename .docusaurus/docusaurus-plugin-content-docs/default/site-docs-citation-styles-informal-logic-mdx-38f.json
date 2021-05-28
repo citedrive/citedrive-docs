@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/informal-logic",
+  "id": "citation-styles/informal-logic",
+  "isDocsHomePage": false,
+  "title": "informal-logic",
+  "description": "---",
+  "source": "@site/docs/citation-styles/informal-logic.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/informal-logic",
+  "permalink": "/docs/citation-styles/informal-logic",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/informal-logic.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infomin",
+    "permalink": "/docs/citation-styles/infomin"
+  },
+  "next": {
+    "title": "ingenieria-agricola-spanish",
+    "permalink": "/docs/citation-styles/ingenieria-agricola-spanish"
+  }
+}

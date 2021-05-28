@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/fachhochschule-salzburg--harvard",
+  "id": "citation-styles/fachhochschule-salzburg--harvard",
+  "isDocsHomePage": false,
+  "title": "fachhochschule-salzburg--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/fachhochschule-salzburg--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/fachhochschule-salzburg--harvard",
+  "permalink": "/docs/citation-styles/fachhochschule-salzburg--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/fachhochschule-salzburg--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fachhochschule-kiel--fachbereich-medien-german",
+    "permalink": "/docs/citation-styles/fachhochschule-kiel--fachbereich-medien-german"
+  },
+  "next": {
+    "title": "fachhochschule-vorarlberg-authordate",
+    "permalink": "/docs/citation-styles/fachhochschule-vorarlberg-authordate"
+  }
+}

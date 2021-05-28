@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-eukaryotic-microbiology",
+  "id": "citation-styles/the-journal-of-eukaryotic-microbiology",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-eukaryotic-microbiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-eukaryotic-microbiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-eukaryotic-microbiology",
+  "permalink": "/docs/citation-styles/the-journal-of-eukaryotic-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-eukaryotic-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-comparative-neurology",
+    "permalink": "/docs/citation-styles/the-journal-of-comparative-neurology"
+  },
+  "next": {
+    "title": "the-journal-of-foot-and-ankle-surgery",
+    "permalink": "/docs/citation-styles/the-journal-of-foot-and-ankle-surgery"
+  }
+}

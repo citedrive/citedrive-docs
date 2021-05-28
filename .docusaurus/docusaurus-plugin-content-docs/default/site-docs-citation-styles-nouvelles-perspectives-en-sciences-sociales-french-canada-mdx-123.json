@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada",
+  "id": "citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada",
+  "isDocsHomePage": false,
+  "title": "nouvelles-perspectives-en-sciences-sociales-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada",
+  "permalink": "/docs/citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nouvelles-perspectives-en-sciences-sociales-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nottingham-trent-university-library--harvard",
+    "permalink": "/docs/citation-styles/nottingham-trent-university-library--harvard"
+  },
+  "next": {
+    "title": "nowa-audiofonologia-polish",
+    "permalink": "/docs/citation-styles/nowa-audiofonologia-polish"
+  }
+}

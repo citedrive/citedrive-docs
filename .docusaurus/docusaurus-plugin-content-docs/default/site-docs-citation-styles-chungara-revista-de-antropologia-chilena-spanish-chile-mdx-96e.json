@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile",
+  "id": "citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile",
+  "isDocsHomePage": false,
+  "title": "chungara-revista-de-antropologia-chilena-spanish--chile",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile",
+  "permalink": "/docs/citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chungara-revista-de-antropologia-chilena-spanish--chile.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chroniques-des-activites-archeologiques-de-lecole-francaise-de-rome",
+    "permalink": "/docs/citation-styles/chroniques-des-activites-archeologiques-de-lecole-francaise-de-rome"
+  },
+  "next": {
+    "title": "circulation-journal",
+    "permalink": "/docs/citation-styles/circulation-journal"
+  }
+}

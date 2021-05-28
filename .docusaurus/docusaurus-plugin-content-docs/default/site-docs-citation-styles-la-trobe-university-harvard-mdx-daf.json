@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/la-trobe-university--harvard",
+  "id": "citation-styles/la-trobe-university--harvard",
+  "isDocsHomePage": false,
+  "title": "la-trobe-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/la-trobe-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/la-trobe-university--harvard",
+  "permalink": "/docs/citation-styles/la-trobe-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/la-trobe-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "la-trobe-university--apa-6th-edition",
+    "permalink": "/docs/citation-styles/la-trobe-university--apa-6th-edition"
+  },
+  "next": {
+    "title": "laboratory-animal-science-professional",
+    "permalink": "/docs/citation-styles/laboratory-animal-science-professional"
+  }
+}

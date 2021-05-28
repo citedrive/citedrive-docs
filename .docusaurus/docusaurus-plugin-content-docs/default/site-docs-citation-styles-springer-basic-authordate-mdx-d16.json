@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--basic-authordate",
+  "id": "citation-styles/springer--basic-authordate",
+  "isDocsHomePage": false,
+  "title": "springer--basic-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--basic-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--basic-authordate",
+  "permalink": "/docs/citation-styles/springer--basic-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--basic-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-authordate-no-et-al",
+    "permalink": "/docs/citation-styles/springer--basic-authordate-no-et-al"
+  },
+  "next": {
+    "title": "springer--basic-note",
+    "permalink": "/docs/citation-styles/springer--basic-note"
+  }
+}

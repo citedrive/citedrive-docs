@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-clinical-ethics",
+  "id": "citation-styles/the-journal-of-clinical-ethics",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-clinical-ethics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-clinical-ethics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-clinical-ethics",
+  "permalink": "/docs/citation-styles/the-journal-of-clinical-ethics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-clinical-ethics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-biological-chemistry",
+    "permalink": "/docs/citation-styles/the-journal-of-biological-chemistry"
+  },
+  "next": {
+    "title": "the-journal-of-clinical-investigation",
+    "permalink": "/docs/citation-styles/the-journal-of-clinical-investigation"
+  }
+}

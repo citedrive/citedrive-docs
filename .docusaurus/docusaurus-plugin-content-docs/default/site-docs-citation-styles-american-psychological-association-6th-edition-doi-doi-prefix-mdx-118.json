@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-psychological-association-6th-edition-doi-doi-prefix",
+  "id": "citation-styles/american-psychological-association-6th-edition-doi-doi-prefix",
+  "isDocsHomePage": false,
+  "title": "american-psychological-association-6th-edition-doi-doi-prefix",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-psychological-association-6th-edition-doi-doi-prefix",
+  "permalink": "/docs/citation-styles/american-psychological-association-6th-edition-doi-doi-prefix",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-psychological-association-5th-edition",
+    "permalink": "/docs/citation-styles/american-psychological-association-5th-edition"
+  },
+  "next": {
+    "title": "american-psychological-association-6th-edition-no-ampersand",
+    "permalink": "/docs/citation-styles/american-psychological-association-6th-edition-no-ampersand"
+  }
+}

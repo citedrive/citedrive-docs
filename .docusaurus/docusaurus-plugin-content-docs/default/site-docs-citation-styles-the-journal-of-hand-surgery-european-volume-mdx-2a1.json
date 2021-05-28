@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-hand-surgery-european-volume",
+  "id": "citation-styles/the-journal-of-hand-surgery-european-volume",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-hand-surgery-european-volume",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-hand-surgery-european-volume.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-hand-surgery-european-volume",
+  "permalink": "/docs/citation-styles/the-journal-of-hand-surgery-european-volume",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-hand-surgery-european-volume.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-hand-surgery-asianpacific-volume",
+    "permalink": "/docs/citation-styles/the-journal-of-hand-surgery-asianpacific-volume"
+  },
+  "next": {
+    "title": "the-journal-of-hellenic-studies",
+    "permalink": "/docs/citation-styles/the-journal-of-hellenic-studies"
+  }
+}

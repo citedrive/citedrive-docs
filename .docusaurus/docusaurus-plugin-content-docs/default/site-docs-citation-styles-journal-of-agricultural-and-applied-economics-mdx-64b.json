@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-agricultural-and-applied-economics",
+  "id": "citation-styles/journal-of-agricultural-and-applied-economics",
+  "isDocsHomePage": false,
+  "title": "journal-of-agricultural-and-applied-economics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-agricultural-and-applied-economics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-agricultural-and-applied-economics",
+  "permalink": "/docs/citation-styles/journal-of-agricultural-and-applied-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-agricultural-and-applied-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-aerosol-medicine-and-pulmonary-drug-delivery",
+    "permalink": "/docs/citation-styles/journal-of-aerosol-medicine-and-pulmonary-drug-delivery"
+  },
+  "next": {
+    "title": "journal-of-agricultural-and-resource-economics",
+    "permalink": "/docs/citation-styles/journal-of-agricultural-and-resource-economics"
+  }
+}

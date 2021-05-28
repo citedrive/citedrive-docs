@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ieee",
+  "id": "citation-styles/ieee",
+  "isDocsHomePage": false,
+  "title": "ieee",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ieee.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ieee",
+  "permalink": "/docs/citation-styles/ieee",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ieee.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-with-url",
+    "permalink": "/docs/citation-styles/ieee-with-url"
+  },
+  "next": {
+    "title": "iforest",
+    "permalink": "/docs/citation-styles/iforest"
+  }
+}

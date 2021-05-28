@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scrinium",
+  "id": "citation-styles/scrinium",
+  "isDocsHomePage": false,
+  "title": "scrinium",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scrinium.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scrinium",
+  "permalink": "/docs/citation-styles/scrinium",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scrinium.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+    "permalink": "/docs/citation-styles/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska"
+  },
+  "next": {
+    "title": "sedimentology",
+    "permalink": "/docs/citation-styles/sedimentology"
+  }
+}

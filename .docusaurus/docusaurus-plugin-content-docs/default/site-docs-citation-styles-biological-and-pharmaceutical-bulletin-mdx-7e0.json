@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biological-and-pharmaceutical-bulletin",
+  "id": "citation-styles/biological-and-pharmaceutical-bulletin",
+  "isDocsHomePage": false,
+  "title": "biological-and-pharmaceutical-bulletin",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biological-and-pharmaceutical-bulletin.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biological-and-pharmaceutical-bulletin",
+  "permalink": "/docs/citation-styles/biological-and-pharmaceutical-bulletin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biological-and-pharmaceutical-bulletin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biologia",
+    "permalink": "/docs/citation-styles/biologia"
+  },
+  "next": {
+    "title": "biological-psychiatry",
+    "permalink": "/docs/citation-styles/biological-psychiatry"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cns-and-neurological-disorders--drug-targets",
+  "id": "citation-styles/cns-and-neurological-disorders--drug-targets",
+  "isDocsHomePage": false,
+  "title": "cns-and-neurological-disorders--drug-targets",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cns-and-neurological-disorders--drug-targets.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cns-and-neurological-disorders--drug-targets",
+  "permalink": "/docs/citation-styles/cns-and-neurological-disorders--drug-targets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cns-and-neurological-disorders--drug-targets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clio-medica",
+    "permalink": "/docs/citation-styles/clio-medica"
+  },
+  "next": {
+    "title": "cold-spring-harbor-laboratory-press",
+    "permalink": "/docs/citation-styles/cold-spring-harbor-laboratory-press"
+  }
+}

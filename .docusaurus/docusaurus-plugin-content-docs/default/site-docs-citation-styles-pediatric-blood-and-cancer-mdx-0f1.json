@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pediatric-blood-and-cancer",
+  "id": "citation-styles/pediatric-blood-and-cancer",
+  "isDocsHomePage": false,
+  "title": "pediatric-blood-and-cancer",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pediatric-blood-and-cancer.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pediatric-blood-and-cancer",
+  "permalink": "/docs/citation-styles/pediatric-blood-and-cancer",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pediatric-blood-and-cancer.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-anesthesia",
+    "permalink": "/docs/citation-styles/pediatric-anesthesia"
+  },
+  "next": {
+    "title": "pediatric-infectious-disease-journal",
+    "permalink": "/docs/citation-styles/pediatric-infectious-disease-journal"
+  }
+}

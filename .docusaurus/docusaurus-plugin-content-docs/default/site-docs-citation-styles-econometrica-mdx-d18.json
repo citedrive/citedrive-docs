@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/econometrica",
+  "id": "citation-styles/econometrica",
+  "isDocsHomePage": false,
+  "title": "econometrica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/econometrica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/econometrica",
+  "permalink": "/docs/citation-styles/econometrica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/econometrica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology",
+    "permalink": "/docs/citation-styles/ecology"
+  },
+  "next": {
+    "title": "economia-y-politica-spanish--chile",
+    "permalink": "/docs/citation-styles/economia-y-politica-spanish--chile"
+  }
+}

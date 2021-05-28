@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-zoologica-academiae-scientiarum-hungaricae",
+  "id": "citation-styles/acta-zoologica-academiae-scientiarum-hungaricae",
+  "isDocsHomePage": false,
+  "title": "acta-zoologica-academiae-scientiarum-hungaricae",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-zoologica-academiae-scientiarum-hungaricae.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-zoologica-academiae-scientiarum-hungaricae",
+  "permalink": "/docs/citation-styles/acta-zoologica-academiae-scientiarum-hungaricae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-zoologica-academiae-scientiarum-hungaricae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+    "permalink": "/docs/citation-styles/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
+  },
+  "next": {
+    "title": "administrative-science-quarterly",
+    "permalink": "/docs/citation-styles/administrative-science-quarterly"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/epilepsia",
+  "id": "citation-styles/epilepsia",
+  "isDocsHomePage": false,
+  "title": "epilepsia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/epilepsia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/epilepsia",
+  "permalink": "/docs/citation-styles/epilepsia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/epilepsia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "epidemiology-and-infection",
+    "permalink": "/docs/citation-styles/epidemiology-and-infection"
+  },
+  "next": {
+    "title": "equine-veterinary-education",
+    "permalink": "/docs/citation-styles/equine-veterinary-education"
+  }
+}

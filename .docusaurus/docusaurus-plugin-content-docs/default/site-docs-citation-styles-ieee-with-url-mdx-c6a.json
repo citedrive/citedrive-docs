@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ieee-with-url",
+  "id": "citation-styles/ieee-with-url",
+  "isDocsHomePage": false,
+  "title": "ieee-with-url",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ieee-with-url.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ieee-with-url",
+  "permalink": "/docs/citation-styles/ieee-with-url",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ieee-with-url.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-transactions-on-medical-imaging",
+    "permalink": "/docs/citation-styles/ieee-transactions-on-medical-imaging"
+  },
+  "next": {
+    "title": "ieee",
+    "permalink": "/docs/citation-styles/ieee"
+  }
+}

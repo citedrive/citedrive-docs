@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ingenieria-agricola-spanish",
+  "id": "citation-styles/ingenieria-agricola-spanish",
+  "isDocsHomePage": false,
+  "title": "ingenieria-agricola-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ingenieria-agricola-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ingenieria-agricola-spanish",
+  "permalink": "/docs/citation-styles/ingenieria-agricola-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ingenieria-agricola-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "informal-logic",
+    "permalink": "/docs/citation-styles/informal-logic"
+  },
+  "next": {
+    "title": "instap-academic-press",
+    "permalink": "/docs/citation-styles/instap-academic-press"
+  }
+}

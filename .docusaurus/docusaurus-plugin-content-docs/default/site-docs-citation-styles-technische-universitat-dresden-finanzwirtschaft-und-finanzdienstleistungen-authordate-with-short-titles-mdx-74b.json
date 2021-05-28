@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+  "id": "citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+  "description": "---",
+  "source": "@site/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+  "permalink": "/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--erziehungswissenschaften-authordate",
+    "permalink": "/docs/citation-styles/technische-universitat-dresden--erziehungswissenschaften-authordate"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+    "permalink": "/docs/citation-styles/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate"
+  }
+}

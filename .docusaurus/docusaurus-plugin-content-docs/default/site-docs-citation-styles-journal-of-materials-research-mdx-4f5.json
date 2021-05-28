@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-materials-research",
+  "id": "citation-styles/journal-of-materials-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-materials-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-materials-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-materials-research",
+  "permalink": "/docs/citation-styles/journal-of-materials-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-materials-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-management",
+    "permalink": "/docs/citation-styles/journal-of-management"
+  },
+  "next": {
+    "title": "journal-of-mechanical-science-and-technology",
+    "permalink": "/docs/citation-styles/journal-of-mechanical-science-and-technology"
+  }
+}

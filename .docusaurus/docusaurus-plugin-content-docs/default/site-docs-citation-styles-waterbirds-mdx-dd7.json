@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/waterbirds",
+  "id": "citation-styles/waterbirds",
+  "isDocsHomePage": false,
+  "title": "waterbirds",
+  "description": "---",
+  "source": "@site/docs/citation-styles/waterbirds.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/waterbirds",
+  "permalink": "/docs/citation-styles/waterbirds",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/waterbirds.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "water-science-and-technology",
+    "permalink": "/docs/citation-styles/water-science-and-technology"
+  },
+  "next": {
+    "title": "weed-research",
+    "permalink": "/docs/citation-styles/weed-research"
+  }
+}

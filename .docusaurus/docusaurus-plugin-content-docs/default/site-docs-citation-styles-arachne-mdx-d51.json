@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/arachne",
+  "id": "citation-styles/arachne",
+  "isDocsHomePage": false,
+  "title": "arachne",
+  "description": "---",
+  "source": "@site/docs/citation-styles/arachne.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/arachne",
+  "permalink": "/docs/citation-styles/arachne",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/arachne.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquitania-french",
+    "permalink": "/docs/citation-styles/aquitania-french"
+  },
+  "next": {
+    "title": "arachnology",
+    "permalink": "/docs/citation-styles/arachnology"
+  }
+}

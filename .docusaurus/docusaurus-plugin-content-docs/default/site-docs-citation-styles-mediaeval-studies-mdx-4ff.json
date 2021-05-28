@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mediaeval-studies",
+  "id": "citation-styles/mediaeval-studies",
+  "isDocsHomePage": false,
+  "title": "mediaeval-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mediaeval-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mediaeval-studies",
+  "permalink": "/docs/citation-styles/mediaeval-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mediaeval-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "media-culture-and-society",
+    "permalink": "/docs/citation-styles/media-culture-and-society"
+  },
+  "next": {
+    "title": "medical-dosimetry",
+    "permalink": "/docs/citation-styles/medical-dosimetry"
+  }
+}

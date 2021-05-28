@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/molecular-plant-pathology",
+  "id": "citation-styles/molecular-plant-pathology",
+  "isDocsHomePage": false,
+  "title": "molecular-plant-pathology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/molecular-plant-pathology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/molecular-plant-pathology",
+  "permalink": "/docs/citation-styles/molecular-plant-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/molecular-plant-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-oncology",
+    "permalink": "/docs/citation-styles/molecular-oncology"
+  },
+  "next": {
+    "title": "molecular-plant",
+    "permalink": "/docs/citation-styles/molecular-plant"
+  }
+}

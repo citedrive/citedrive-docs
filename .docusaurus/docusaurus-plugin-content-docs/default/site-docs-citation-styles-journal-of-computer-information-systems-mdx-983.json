@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-computer-information-systems",
+  "id": "citation-styles/journal-of-computer-information-systems",
+  "isDocsHomePage": false,
+  "title": "journal-of-computer-information-systems",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-computer-information-systems.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-computer-information-systems",
+  "permalink": "/docs/citation-styles/journal-of-computer-information-systems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-computer-information-systems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-computer-applications-in-archaeology",
+    "permalink": "/docs/citation-styles/journal-of-computer-applications-in-archaeology"
+  },
+  "next": {
+    "title": "journal-of-consumer-research",
+    "permalink": "/docs/citation-styles/journal-of-consumer-research"
+  }
+}

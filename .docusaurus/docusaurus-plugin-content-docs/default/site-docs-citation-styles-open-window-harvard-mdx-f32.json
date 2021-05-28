@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/open-window--harvard",
+  "id": "citation-styles/open-window--harvard",
+  "isDocsHomePage": false,
+  "title": "open-window--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/open-window--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/open-window--harvard",
+  "permalink": "/docs/citation-styles/open-window--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/open-window--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "onderstepoort-journal-of-veterinary-research",
+    "permalink": "/docs/citation-styles/onderstepoort-journal-of-veterinary-research"
+  },
+  "next": {
+    "title": "operative-dentistry",
+    "permalink": "/docs/citation-styles/operative-dentistry"
+  }
+}

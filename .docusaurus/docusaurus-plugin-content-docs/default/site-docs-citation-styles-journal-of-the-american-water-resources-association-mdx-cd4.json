@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-american-water-resources-association",
+  "id": "citation-styles/journal-of-the-american-water-resources-association",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-water-resources-association",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-american-water-resources-association.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-american-water-resources-association",
+  "permalink": "/docs/citation-styles/journal-of-the-american-water-resources-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-american-water-resources-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-society-of-nephrology",
+    "permalink": "/docs/citation-styles/journal-of-the-american-society-of-nephrology"
+  },
+  "next": {
+    "title": "journal-of-the-association-for-information-systems",
+    "permalink": "/docs/citation-styles/journal-of-the-association-for-information-systems"
+  }
+}

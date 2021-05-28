@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-religionswissenschaft-note",
+  "id": "citation-styles/zeitschrift-fur-religionswissenschaft-note",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-religionswissenschaft-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-religionswissenschaft-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-religionswissenschaft-note",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-religionswissenschaft-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-religionswissenschaft-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-religionswissenschaft-authordate",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-religionswissenschaft-authordate"
+  },
+  "next": {
+    "title": "zeitschrift-fur-soziologie-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-soziologie-german"
+  }
+}

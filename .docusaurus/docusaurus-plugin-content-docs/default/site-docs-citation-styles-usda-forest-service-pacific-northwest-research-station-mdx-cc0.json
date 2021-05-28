@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/usda-forest-service--pacific-northwest-research-station",
+  "id": "citation-styles/usda-forest-service--pacific-northwest-research-station",
+  "isDocsHomePage": false,
+  "title": "usda-forest-service--pacific-northwest-research-station",
+  "description": "---",
+  "source": "@site/docs/citation-styles/usda-forest-service--pacific-northwest-research-station.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/usda-forest-service--pacific-northwest-research-station",
+  "permalink": "/docs/citation-styles/usda-forest-service--pacific-northwest-research-station",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/usda-forest-service--pacific-northwest-research-station.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "us-geological-survey",
+    "permalink": "/docs/citation-styles/us-geological-survey"
+  },
+  "next": {
+    "title": "user-modeling-and-useradapted-interaction",
+    "permalink": "/docs/citation-styles/user-modeling-and-useradapted-interaction"
+  }
+}

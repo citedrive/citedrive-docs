@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/world-politics",
+  "id": "citation-styles/world-politics",
+  "isDocsHomePage": false,
+  "title": "world-politics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/world-politics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/world-politics",
+  "permalink": "/docs/citation-styles/world-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/world-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "world-organisation-for-animal-health--scientific-and-technical-review",
+    "permalink": "/docs/citation-styles/world-organisation-for-animal-health--scientific-and-technical-review"
+  },
+  "next": {
+    "title": "worlds-poultry-science-journal",
+    "permalink": "/docs/citation-styles/worlds-poultry-science-journal"
+  }
+}

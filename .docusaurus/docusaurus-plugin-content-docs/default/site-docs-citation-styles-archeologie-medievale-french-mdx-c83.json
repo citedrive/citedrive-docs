@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/archeologie-medievale-french",
+  "id": "citation-styles/archeologie-medievale-french",
+  "isDocsHomePage": false,
+  "title": "archeologie-medievale-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/archeologie-medievale-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/archeologie-medievale-french",
+  "permalink": "/docs/citation-styles/archeologie-medievale-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/archeologie-medievale-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeologicke-rozhledy",
+    "permalink": "/docs/citation-styles/archeologicke-rozhledy"
+  },
+  "next": {
+    "title": "archeologies-et-sciences-de-lantiquite-french",
+    "permalink": "/docs/citation-styles/archeologies-et-sciences-de-lantiquite-french"
+  }
+}

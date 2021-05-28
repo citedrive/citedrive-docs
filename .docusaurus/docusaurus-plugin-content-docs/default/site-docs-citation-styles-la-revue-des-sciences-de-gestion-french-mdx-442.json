@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/la-revue-des-sciences-de-gestion-french",
+  "id": "citation-styles/la-revue-des-sciences-de-gestion-french",
+  "isDocsHomePage": false,
+  "title": "la-revue-des-sciences-de-gestion-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/la-revue-des-sciences-de-gestion-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/la-revue-des-sciences-de-gestion-french",
+  "permalink": "/docs/citation-styles/la-revue-des-sciences-de-gestion-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/la-revue-des-sciences-de-gestion-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kunstakademie-munster-german",
+    "permalink": "/docs/citation-styles/kunstakademie-munster-german"
+  },
+  "next": {
+    "title": "la-trobe-university--apa-6th-edition",
+    "permalink": "/docs/citation-styles/la-trobe-university--apa-6th-edition"
+  }
+}

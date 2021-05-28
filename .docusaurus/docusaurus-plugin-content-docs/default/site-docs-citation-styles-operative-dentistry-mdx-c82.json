@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/operative-dentistry",
+  "id": "citation-styles/operative-dentistry",
+  "isDocsHomePage": false,
+  "title": "operative-dentistry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/operative-dentistry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/operative-dentistry",
+  "permalink": "/docs/citation-styles/operative-dentistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/operative-dentistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "open-window--harvard",
+    "permalink": "/docs/citation-styles/open-window--harvard"
+  },
+  "next": {
+    "title": "ophthalmic-genetics",
+    "permalink": "/docs/citation-styles/ophthalmic-genetics"
+  }
+}

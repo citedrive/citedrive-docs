@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-biological-regulators-and-homeostatic-agents",
+  "id": "citation-styles/journal-of-biological-regulators-and-homeostatic-agents",
+  "isDocsHomePage": false,
+  "title": "journal-of-biological-regulators-and-homeostatic-agents",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-biological-regulators-and-homeostatic-agents.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-biological-regulators-and-homeostatic-agents",
+  "permalink": "/docs/citation-styles/journal-of-biological-regulators-and-homeostatic-agents",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-biological-regulators-and-homeostatic-agents.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-basic-microbiology",
+    "permalink": "/docs/citation-styles/journal-of-basic-microbiology"
+  },
+  "next": {
+    "title": "journal-of-biomedical-materials-research-part-a",
+    "permalink": "/docs/citation-styles/journal-of-biomedical-materials-research-part-a"
+  }
+}

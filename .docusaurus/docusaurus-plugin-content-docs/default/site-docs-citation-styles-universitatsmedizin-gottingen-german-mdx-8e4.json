@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universitatsmedizin-gottingen-german",
+  "id": "citation-styles/universitatsmedizin-gottingen-german",
+  "isDocsHomePage": false,
+  "title": "universitatsmedizin-gottingen-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universitatsmedizin-gottingen-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universitatsmedizin-gottingen-german",
+  "permalink": "/docs/citation-styles/universitatsmedizin-gottingen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universitatsmedizin-gottingen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+    "permalink": "/docs/citation-styles/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german"
+  },
+  "next": {
+    "title": "universite-catholique-de-louvain--histoire-french",
+    "permalink": "/docs/citation-styles/universite-catholique-de-louvain--histoire-french"
+  }
+}

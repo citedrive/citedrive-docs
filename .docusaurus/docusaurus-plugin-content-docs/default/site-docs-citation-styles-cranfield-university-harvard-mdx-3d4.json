@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cranfield-university--harvard",
+  "id": "citation-styles/cranfield-university--harvard",
+  "isDocsHomePage": false,
+  "title": "cranfield-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cranfield-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cranfield-university--harvard",
+  "permalink": "/docs/citation-styles/cranfield-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cranfield-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "coventry-university--harvard",
+    "permalink": "/docs/citation-styles/coventry-university--harvard"
+  },
+  "next": {
+    "title": "cranfield-university-numeric",
+    "permalink": "/docs/citation-styles/cranfield-university-numeric"
+  }
+}

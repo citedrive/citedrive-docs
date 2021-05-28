@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/edge-hill-university--harvard",
+  "id": "citation-styles/edge-hill-university--harvard",
+  "isDocsHomePage": false,
+  "title": "edge-hill-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/edge-hill-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/edge-hill-university--harvard",
+  "permalink": "/docs/citation-styles/edge-hill-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/edge-hill-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecosystems",
+    "permalink": "/docs/citation-styles/ecosystems"
+  },
+  "next": {
+    "title": "edward-elgar-publishing--business-and-social-sciences",
+    "permalink": "/docs/citation-styles/edward-elgar-publishing--business-and-social-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cytometry",
+  "id": "citation-styles/cytometry",
+  "isDocsHomePage": false,
+  "title": "cytometry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cytometry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cytometry",
+  "permalink": "/docs/citation-styles/cytometry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cytometry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cybium",
+    "permalink": "/docs/citation-styles/cybium"
+  },
+  "next": {
+    "title": "data-science-journal",
+    "permalink": "/docs/citation-styles/data-science-journal"
+  }
+}

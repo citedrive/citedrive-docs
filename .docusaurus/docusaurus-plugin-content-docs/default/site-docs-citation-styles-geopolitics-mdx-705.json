@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/geopolitics",
+  "id": "citation-styles/geopolitics",
+  "isDocsHomePage": false,
+  "title": "geopolitics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/geopolitics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/geopolitics",
+  "permalink": "/docs/citation-styles/geopolitics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/geopolitics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geophysics",
+    "permalink": "/docs/citation-styles/geophysics"
+  },
+  "next": {
+    "title": "georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+    "permalink": "/docs/citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german"
+  }
+}

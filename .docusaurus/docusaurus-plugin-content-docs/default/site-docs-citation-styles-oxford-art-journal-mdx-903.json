@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oxford-art-journal",
+  "id": "citation-styles/oxford-art-journal",
+  "isDocsHomePage": false,
+  "title": "oxford-art-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oxford-art-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oxford-art-journal",
+  "permalink": "/docs/citation-styles/oxford-art-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oxford-art-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ow-barth-verlag-german",
+    "permalink": "/docs/citation-styles/ow-barth-verlag-german"
+  },
+  "next": {
+    "title": "oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+    "permalink": "/docs/citation-styles/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard"
+  }
+}

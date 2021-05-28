@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/optometry-and-vision-science",
+  "id": "citation-styles/optometry-and-vision-science",
+  "isDocsHomePage": false,
+  "title": "optometry-and-vision-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/optometry-and-vision-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/optometry-and-vision-science",
+  "permalink": "/docs/citation-styles/optometry-and-vision-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/optometry-and-vision-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optoelectronic-advances",
+    "permalink": "/docs/citation-styles/optoelectronic-advances"
+  },
+  "next": {
+    "title": "opuscula",
+    "permalink": "/docs/citation-styles/opuscula"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/falmouth-university--harvard",
+  "id": "citation-styles/falmouth-university--harvard",
+  "isDocsHomePage": false,
+  "title": "falmouth-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/falmouth-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/falmouth-university--harvard",
+  "permalink": "/docs/citation-styles/falmouth-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/falmouth-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+    "permalink": "/docs/citation-styles/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian"
+  },
+  "next": {
+    "title": "family-business-review",
+    "permalink": "/docs/citation-styles/family-business-review"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/serdica-journal-of-computing",
+  "id": "citation-styles/serdica-journal-of-computing",
+  "isDocsHomePage": false,
+  "title": "serdica-journal-of-computing",
+  "description": "---",
+  "source": "@site/docs/citation-styles/serdica-journal-of-computing.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/serdica-journal-of-computing",
+  "permalink": "/docs/citation-styles/serdica-journal-of-computing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/serdica-journal-of-computing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seminars-in-pediatric-neurology",
+    "permalink": "/docs/citation-styles/seminars-in-pediatric-neurology"
+  },
+  "next": {
+    "title": "service-medical-de-lassurance-maladie-french",
+    "permalink": "/docs/citation-styles/service-medical-de-lassurance-maladie-french"
+  }
+}

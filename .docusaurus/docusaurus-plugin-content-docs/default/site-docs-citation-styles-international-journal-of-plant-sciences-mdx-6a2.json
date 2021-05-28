@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-plant-sciences",
+  "id": "citation-styles/international-journal-of-plant-sciences",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-plant-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-plant-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-plant-sciences",
+  "permalink": "/docs/citation-styles/international-journal-of-plant-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-plant-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-osteoarchaeology",
+    "permalink": "/docs/citation-styles/international-journal-of-osteoarchaeology"
+  },
+  "next": {
+    "title": "international-journal-of-polymer-analysis-and-characterization",
+    "permalink": "/docs/citation-styles/international-journal-of-polymer-analysis-and-characterization"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/gesellschaft-fur-popularmusikforschung-german",
+  "id": "citation-styles/gesellschaft-fur-popularmusikforschung-german",
+  "isDocsHomePage": false,
+  "title": "gesellschaft-fur-popularmusikforschung-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/gesellschaft-fur-popularmusikforschung-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/gesellschaft-fur-popularmusikforschung-german",
+  "permalink": "/docs/citation-styles/gesellschaft-fur-popularmusikforschung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/gesellschaft-fur-popularmusikforschung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
+    "permalink": "/docs/citation-styles/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german"
+  },
+  "next": {
+    "title": "gewerblicher-rechtsschutz-und-urheberrecht-german",
+    "permalink": "/docs/citation-styles/gewerblicher-rechtsschutz-und-urheberrecht-german"
+  }
+}

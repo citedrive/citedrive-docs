@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sage--vancouver-brackets",
+  "id": "citation-styles/sage--vancouver-brackets",
+  "isDocsHomePage": false,
+  "title": "sage--vancouver-brackets",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sage--vancouver-brackets.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sage--vancouver-brackets",
+  "permalink": "/docs/citation-styles/sage--vancouver-brackets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sage--vancouver-brackets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sage--harvard",
+    "permalink": "/docs/citation-styles/sage--harvard"
+  },
+  "next": {
+    "title": "sage--vancouver",
+    "permalink": "/docs/citation-styles/sage--vancouver"
+  }
+}

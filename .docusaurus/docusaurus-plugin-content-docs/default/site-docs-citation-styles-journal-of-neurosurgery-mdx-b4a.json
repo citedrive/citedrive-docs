@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-neurosurgery",
+  "id": "citation-styles/journal-of-neurosurgery",
+  "isDocsHomePage": false,
+  "title": "journal-of-neurosurgery",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-neurosurgery.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-neurosurgery",
+  "permalink": "/docs/citation-styles/journal-of-neurosurgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-neurosurgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neuroscience-and-neuroengineering",
+    "permalink": "/docs/citation-styles/journal-of-neuroscience-and-neuroengineering"
+  },
+  "next": {
+    "title": "journal-of-neurotrauma",
+    "permalink": "/docs/citation-styles/journal-of-neurotrauma"
+  }
+}

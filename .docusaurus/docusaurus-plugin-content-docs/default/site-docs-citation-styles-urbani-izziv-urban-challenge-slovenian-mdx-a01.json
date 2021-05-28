@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/urbani-izziv-urban-challenge-slovenian",
+  "id": "citation-styles/urbani-izziv-urban-challenge-slovenian",
+  "isDocsHomePage": false,
+  "title": "urbani-izziv-urban-challenge-slovenian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/urbani-izziv-urban-challenge-slovenian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/urbani-izziv-urban-challenge-slovenian",
+  "permalink": "/docs/citation-styles/urbani-izziv-urban-challenge-slovenian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/urbani-izziv-urban-challenge-slovenian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urbani-izziv-urban-challenge-english",
+    "permalink": "/docs/citation-styles/urbani-izziv-urban-challenge-english"
+  },
+  "next": {
+    "title": "urological-science",
+    "permalink": "/docs/citation-styles/urological-science"
+  }
+}

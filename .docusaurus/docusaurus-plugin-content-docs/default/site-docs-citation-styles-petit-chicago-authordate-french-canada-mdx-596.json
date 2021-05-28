@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/petit-chicago-authordate-french--canada",
+  "id": "citation-styles/petit-chicago-authordate-french--canada",
+  "isDocsHomePage": false,
+  "title": "petit-chicago-authordate-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/petit-chicago-authordate-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/petit-chicago-authordate-french--canada",
+  "permalink": "/docs/citation-styles/petit-chicago-authordate-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/petit-chicago-authordate-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pest-management-science",
+    "permalink": "/docs/citation-styles/pest-management-science"
+  },
+  "next": {
+    "title": "pharmacoepidemiology-and-drug-safety",
+    "permalink": "/docs/citation-styles/pharmacoepidemiology-and-drug-safety"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science",
+  "id": "citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science",
+  "isDocsHomePage": false,
+  "title": "journal-on-efficiency-and-responsibility-in-education-and-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science",
+  "permalink": "/docs/citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-on-efficiency-and-responsibility-in-education-and-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-zoology",
+    "permalink": "/docs/citation-styles/journal-of-zoology"
+  },
+  "next": {
+    "title": "journalistica-danish",
+    "permalink": "/docs/citation-styles/journalistica-danish"
+  }
+}

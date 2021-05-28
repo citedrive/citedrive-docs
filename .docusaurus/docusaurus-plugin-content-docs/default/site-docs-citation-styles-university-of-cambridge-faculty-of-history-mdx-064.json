@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-cambridge--faculty-of-history",
+  "id": "citation-styles/university-of-cambridge--faculty-of-history",
+  "isDocsHomePage": false,
+  "title": "university-of-cambridge--faculty-of-history",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-cambridge--faculty-of-history.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-cambridge--faculty-of-history",
+  "permalink": "/docs/citation-styles/university-of-cambridge--faculty-of-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-cambridge--faculty-of-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-brighton-school-of-environment-and-technology--harvard",
+    "permalink": "/docs/citation-styles/university-of-brighton-school-of-environment-and-technology--harvard"
+  },
+  "next": {
+    "title": "university-of-cape-town--harvard",
+    "permalink": "/docs/citation-styles/university-of-cape-town--harvard"
+  }
+}

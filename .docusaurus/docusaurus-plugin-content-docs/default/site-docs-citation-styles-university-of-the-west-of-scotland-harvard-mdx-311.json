@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-the-west-of-scotland--harvard",
+  "id": "citation-styles/university-of-the-west-of-scotland--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-the-west-of-scotland--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-the-west-of-scotland--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-the-west-of-scotland--harvard",
+  "permalink": "/docs/citation-styles/university-of-the-west-of-scotland--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-the-west-of-scotland--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-the-west-of-england-bristol--harvard",
+    "permalink": "/docs/citation-styles/university-of-the-west-of-england-bristol--harvard"
+  },
+  "next": {
+    "title": "university-of-westminster--harvard",
+    "permalink": "/docs/citation-styles/university-of-westminster--harvard"
+  }
+}

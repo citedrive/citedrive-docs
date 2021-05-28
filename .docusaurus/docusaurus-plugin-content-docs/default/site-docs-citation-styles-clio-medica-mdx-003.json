@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clio-medica",
+  "id": "citation-styles/clio-medica",
+  "isDocsHomePage": false,
+  "title": "clio-medica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clio-medica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clio-medica",
+  "permalink": "/docs/citation-styles/clio-medica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clio-medica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-spine-surgery",
+    "permalink": "/docs/citation-styles/clinical-spine-surgery"
+  },
+  "next": {
+    "title": "cns-and-neurological-disorders--drug-targets",
+    "permalink": "/docs/citation-styles/cns-and-neurological-disorders--drug-targets"
+  }
+}

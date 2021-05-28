@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-refugee-studies",
+  "id": "citation-styles/journal-of-refugee-studies",
+  "isDocsHomePage": false,
+  "title": "journal-of-refugee-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-refugee-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-refugee-studies",
+  "permalink": "/docs/citation-styles/journal-of-refugee-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-refugee-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-reconstructive-microsurgery",
+    "permalink": "/docs/citation-styles/journal-of-reconstructive-microsurgery"
+  },
+  "next": {
+    "title": "journal-of-retailing",
+    "permalink": "/docs/citation-styles/journal-of-retailing"
+  }
+}

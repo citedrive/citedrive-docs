@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bulletin-de-correspondance-hellenique-french",
+  "id": "citation-styles/bulletin-de-correspondance-hellenique-french",
+  "isDocsHomePage": false,
+  "title": "bulletin-de-correspondance-hellenique-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bulletin-de-correspondance-hellenique-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bulletin-de-correspondance-hellenique-french",
+  "permalink": "/docs/citation-styles/bulletin-de-correspondance-hellenique-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bulletin-de-correspondance-hellenique-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "buletin-agrohorti",
+    "permalink": "/docs/citation-styles/buletin-agrohorti"
+  },
+  "next": {
+    "title": "bulletin-du-centre-detudes-medievales-dauxerre-french",
+    "permalink": "/docs/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french"
+  }
+}

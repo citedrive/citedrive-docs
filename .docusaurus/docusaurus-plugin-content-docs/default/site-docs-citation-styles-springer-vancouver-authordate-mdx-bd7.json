@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--vancouver-authordate",
+  "id": "citation-styles/springer--vancouver-authordate",
+  "isDocsHomePage": false,
+  "title": "springer--vancouver-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--vancouver-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--vancouver-authordate",
+  "permalink": "/docs/citation-styles/springer--vancouver-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--vancouver-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--socpsych-numeric-brackets",
+    "permalink": "/docs/citation-styles/springer--socpsych-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--vancouver-brackets",
+    "permalink": "/docs/citation-styles/springer--vancouver-brackets"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/elsevier--vancouver",
+  "id": "citation-styles/elsevier--vancouver",
+  "isDocsHomePage": false,
+  "title": "elsevier--vancouver",
+  "description": "---",
+  "source": "@site/docs/citation-styles/elsevier--vancouver.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/elsevier--vancouver",
+  "permalink": "/docs/citation-styles/elsevier--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/elsevier--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier--vancouver-authordate",
+    "permalink": "/docs/citation-styles/elsevier--vancouver-authordate"
+  },
+  "next": {
+    "title": "elsevier-numeric-with-titles-sorted-alphabetically",
+    "permalink": "/docs/citation-styles/elsevier-numeric-with-titles-sorted-alphabetically"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-radiologica",
+  "id": "citation-styles/acta-radiologica",
+  "isDocsHomePage": false,
+  "title": "acta-radiologica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-radiologica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-radiologica",
+  "permalink": "/docs/citation-styles/acta-radiologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-radiologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-psychiatrica-scandinavica",
+    "permalink": "/docs/citation-styles/acta-psychiatrica-scandinavica"
+  },
+  "next": {
+    "title": "acta-scientiae-veterinariae",
+    "permalink": "/docs/citation-styles/acta-scientiae-veterinariae"
+  }
+}

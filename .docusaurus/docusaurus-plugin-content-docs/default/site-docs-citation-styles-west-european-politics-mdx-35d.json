@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/west-european-politics",
+  "id": "citation-styles/west-european-politics",
+  "isDocsHomePage": false,
+  "title": "west-european-politics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/west-european-politics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/west-european-politics",
+  "permalink": "/docs/citation-styles/west-european-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/west-european-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weed-science-society-of-america",
+    "permalink": "/docs/citation-styles/weed-science-society-of-america"
+  },
+  "next": {
+    "title": "western-journal-of-emergency-medicine",
+    "permalink": "/docs/citation-styles/western-journal-of-emergency-medicine"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names",
+  "id": "citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names",
+  "isDocsHomePage": false,
+  "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names",
+  "permalink": "/docs/citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hiob-ludolf-centre-for-ethiopian-studies-long-names.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "high-altitude-medicine-and-biology",
+    "permalink": "/docs/citation-styles/high-altitude-medicine-and-biology"
+  },
+  "next": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+    "permalink": "/docs/citation-styles/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi"
+  }
+}

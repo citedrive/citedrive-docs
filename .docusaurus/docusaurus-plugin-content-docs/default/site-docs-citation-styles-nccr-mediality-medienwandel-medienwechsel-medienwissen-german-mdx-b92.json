@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+  "id": "citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+  "isDocsHomePage": false,
+  "title": "nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+  "permalink": "/docs/citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nccr-mediality-medienwandel--medienwechsel--medienwissen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "navigation",
+    "permalink": "/docs/citation-styles/navigation"
+  },
+  "next": {
+    "title": "necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish",
+    "permalink": "/docs/citation-styles/necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish"
+  }
+}

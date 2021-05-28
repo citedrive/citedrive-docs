@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/processing-and-application-of-ceramics",
+  "id": "citation-styles/processing-and-application-of-ceramics",
+  "isDocsHomePage": false,
+  "title": "processing-and-application-of-ceramics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/processing-and-application-of-ceramics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/processing-and-application-of-ceramics",
+  "permalink": "/docs/citation-styles/processing-and-application-of-ceramics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/processing-and-application-of-ceramics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "proceedings-of-the-royal-society-b",
+    "permalink": "/docs/citation-styles/proceedings-of-the-royal-society-b"
+  },
+  "next": {
+    "title": "proinflow-note-czech",
+    "permalink": "/docs/citation-styles/proinflow-note-czech"
+  }
+}

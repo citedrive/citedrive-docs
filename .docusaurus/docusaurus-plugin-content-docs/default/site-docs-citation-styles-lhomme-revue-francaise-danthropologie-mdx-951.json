@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lhomme--revue-francaise-danthropologie",
+  "id": "citation-styles/lhomme--revue-francaise-danthropologie",
+  "isDocsHomePage": false,
+  "title": "lhomme--revue-francaise-danthropologie",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lhomme--revue-francaise-danthropologie.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lhomme--revue-francaise-danthropologie",
+  "permalink": "/docs/citation-styles/lhomme--revue-francaise-danthropologie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lhomme--revue-francaise-danthropologie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leviathan-german",
+    "permalink": "/docs/citation-styles/leviathan-german"
+  },
+  "next": {
+    "title": "lien-social-et-politiques-french",
+    "permalink": "/docs/citation-styles/lien-social-et-politiques-french"
+  }
+}

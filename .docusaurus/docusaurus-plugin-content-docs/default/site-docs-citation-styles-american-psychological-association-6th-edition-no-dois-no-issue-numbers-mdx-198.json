@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+  "id": "citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+  "isDocsHomePage": false,
+  "title": "american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+  "permalink": "/docs/citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-psychological-association-6th-edition-no-dois-no-issue-numbers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-psychological-association-6th-edition-no-ampersand",
+    "permalink": "/docs/citation-styles/american-psychological-association-6th-edition-no-ampersand"
+  },
+  "next": {
+    "title": "american-psychological-association-6th-edition-provost-french--canada",
+    "permalink": "/docs/citation-styles/american-psychological-association-6th-edition-provost-french--canada"
+  }
+}

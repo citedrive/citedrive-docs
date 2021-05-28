@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/heredity",
+  "id": "citation-styles/heredity",
+  "isDocsHomePage": false,
+  "title": "heredity",
+  "description": "---",
+  "source": "@site/docs/citation-styles/heredity.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/heredity",
+  "permalink": "/docs/citation-styles/heredity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/heredity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hepatology",
+    "permalink": "/docs/citation-styles/hepatology"
+  },
+  "next": {
+    "title": "herpetologica",
+    "permalink": "/docs/citation-styles/herpetologica"
+  }
+}

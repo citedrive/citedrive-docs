@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "id": "citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "permalink": "/docs/citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-fur-soziale-arbeit-fhnw-german--switzerland",
+    "permalink": "/docs/citation-styles/hochschule-fur-soziale-arbeit-fhnw-german--switzerland"
+  },
+  "next": {
+    "title": "hochschule-hannover--soziale-arbeit-german",
+    "permalink": "/docs/citation-styles/hochschule-hannover--soziale-arbeit-german"
+  }
+}

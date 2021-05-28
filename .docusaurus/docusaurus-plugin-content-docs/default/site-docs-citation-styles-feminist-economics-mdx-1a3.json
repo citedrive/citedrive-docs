@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/feminist-economics",
+  "id": "citation-styles/feminist-economics",
+  "isDocsHomePage": false,
+  "title": "feminist-economics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/feminist-economics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/feminist-economics",
+  "permalink": "/docs/citation-styles/feminist-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/feminist-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
+    "permalink": "/docs/citation-styles/fatigue-and-fracture-of-engineering-materials-and-structures"
+  },
+  "next": {
+    "title": "feminist-theory",
+    "permalink": "/docs/citation-styles/feminist-theory"
+  }
+}

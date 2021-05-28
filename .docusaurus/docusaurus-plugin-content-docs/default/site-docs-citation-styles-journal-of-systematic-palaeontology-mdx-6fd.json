@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-systematic-palaeontology",
+  "id": "citation-styles/journal-of-systematic-palaeontology",
+  "isDocsHomePage": false,
+  "title": "journal-of-systematic-palaeontology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-systematic-palaeontology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-systematic-palaeontology",
+  "permalink": "/docs/citation-styles/journal-of-systematic-palaeontology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-systematic-palaeontology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-surgery-and-medicine",
+    "permalink": "/docs/citation-styles/journal-of-surgery-and-medicine"
+  },
+  "next": {
+    "title": "journal-of-the-air-and-waste-management-association",
+    "permalink": "/docs/citation-styles/journal-of-the-air-and-waste-management-association"
+  }
+}

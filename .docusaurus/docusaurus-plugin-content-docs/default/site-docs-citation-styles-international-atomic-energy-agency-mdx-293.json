@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-atomic-energy-agency",
+  "id": "citation-styles/international-atomic-energy-agency",
+  "isDocsHomePage": false,
+  "title": "international-atomic-energy-agency",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-atomic-energy-agency.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-atomic-energy-agency",
+  "permalink": "/docs/citation-styles/international-atomic-energy-agency",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-atomic-energy-agency.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+    "permalink": "/docs/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german"
+  },
+  "next": {
+    "title": "international-biodeterioration-and-biodegradation",
+    "permalink": "/docs/citation-styles/international-biodeterioration-and-biodegradation"
+  }
+}

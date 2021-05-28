@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/solent-university--harvard",
+  "id": "citation-styles/solent-university--harvard",
+  "isDocsHomePage": false,
+  "title": "solent-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/solent-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/solent-university--harvard",
+  "permalink": "/docs/citation-styles/solent-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/solent-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soil-science-and-plant-nutrition",
+    "permalink": "/docs/citation-styles/soil-science-and-plant-nutrition"
+  },
+  "next": {
+    "title": "solutions",
+    "permalink": "/docs/citation-styles/solutions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chemical-senses",
+  "id": "citation-styles/chemical-senses",
+  "isDocsHomePage": false,
+  "title": "chemical-senses",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chemical-senses.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chemical-senses",
+  "permalink": "/docs/citation-styles/chemical-senses",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chemical-senses.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemical-engineering-progress",
+    "permalink": "/docs/citation-styles/chemical-engineering-progress"
+  },
+  "next": {
+    "title": "chemie-ingenieur-technik",
+    "permalink": "/docs/citation-styles/chemie-ingenieur-technik"
+  }
+}

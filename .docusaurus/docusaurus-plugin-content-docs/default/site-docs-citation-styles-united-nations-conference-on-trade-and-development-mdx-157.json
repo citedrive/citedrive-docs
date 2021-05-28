@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/united-nations-conference-on-trade-and-development",
+  "id": "citation-styles/united-nations-conference-on-trade-and-development",
+  "isDocsHomePage": false,
+  "title": "united-nations-conference-on-trade-and-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/united-nations-conference-on-trade-and-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/united-nations-conference-on-trade-and-development",
+  "permalink": "/docs/citation-styles/united-nations-conference-on-trade-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/united-nations-conference-on-trade-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unified-stylesheet-for-linguistics-de-gruyter-literature",
+    "permalink": "/docs/citation-styles/unified-stylesheet-for-linguistics-de-gruyter-literature"
+  },
+  "next": {
+    "title": "united-nations-development-programme-icca-legal-review",
+    "permalink": "/docs/citation-styles/united-nations-development-programme-icca-legal-review"
+  }
+}

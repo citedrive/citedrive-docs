@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chicago-manual-of-style-17th-edition-note",
+  "id": "citation-styles/chicago-manual-of-style-17th-edition-note",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chicago-manual-of-style-17th-edition-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chicago-manual-of-style-17th-edition-note",
+  "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chicago-manual-of-style-17th-edition-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-note-with-ibid",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-note-with-ibid"
+  },
+  "next": {
+    "title": "chimia",
+    "permalink": "/docs/citation-styles/chimia"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/renewable-agriculture-and-food-systems",
+  "id": "citation-styles/renewable-agriculture-and-food-systems",
+  "isDocsHomePage": false,
+  "title": "renewable-agriculture-and-food-systems",
+  "description": "---",
+  "source": "@site/docs/citation-styles/renewable-agriculture-and-food-systems.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/renewable-agriculture-and-food-systems",
+  "permalink": "/docs/citation-styles/renewable-agriculture-and-food-systems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/renewable-agriculture-and-food-systems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "religion-in-the-roman-empire",
+    "permalink": "/docs/citation-styles/religion-in-the-roman-empire"
+  },
+  "next": {
+    "title": "reports-of-practical-oncology-and-radiotherapy",
+    "permalink": "/docs/citation-styles/reports-of-practical-oncology-and-radiotherapy"
+  }
+}

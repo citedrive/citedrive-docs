@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-international-peacekeeping",
+  "id": "citation-styles/journal-of-international-peacekeeping",
+  "isDocsHomePage": false,
+  "title": "journal-of-international-peacekeeping",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-international-peacekeeping.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-international-peacekeeping",
+  "permalink": "/docs/citation-styles/journal-of-international-peacekeeping",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-international-peacekeeping.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-international-economic-law",
+    "permalink": "/docs/citation-styles/journal-of-international-economic-law"
+  },
+  "next": {
+    "title": "journal-of-international-relations-and-development",
+    "permalink": "/docs/citation-styles/journal-of-international-relations-and-development"
+  }
+}

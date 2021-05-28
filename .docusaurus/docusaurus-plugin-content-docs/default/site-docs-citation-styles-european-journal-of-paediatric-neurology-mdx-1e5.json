@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-journal-of-paediatric-neurology",
+  "id": "citation-styles/european-journal-of-paediatric-neurology",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-paediatric-neurology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-journal-of-paediatric-neurology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-journal-of-paediatric-neurology",
+  "permalink": "/docs/citation-styles/european-journal-of-paediatric-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-journal-of-paediatric-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-ophthalmology",
+    "permalink": "/docs/citation-styles/european-journal-of-ophthalmology"
+  },
+  "next": {
+    "title": "european-journal-of-pain",
+    "permalink": "/docs/citation-styles/european-journal-of-pain"
+  }
+}

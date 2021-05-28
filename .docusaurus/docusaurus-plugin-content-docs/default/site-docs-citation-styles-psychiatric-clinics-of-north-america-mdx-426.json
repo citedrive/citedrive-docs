@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/psychiatric-clinics-of-north-america",
+  "id": "citation-styles/psychiatric-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "psychiatric-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/citation-styles/psychiatric-clinics-of-north-america.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/psychiatric-clinics-of-north-america",
+  "permalink": "/docs/citation-styles/psychiatric-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/psychiatric-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "proteomics",
+    "permalink": "/docs/citation-styles/proteomics"
+  },
+  "next": {
+    "title": "psychiatric-services",
+    "permalink": "/docs/citation-styles/psychiatric-services"
+  }
+}

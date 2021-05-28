@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lcgc",
+  "id": "citation-styles/lcgc",
+  "isDocsHomePage": false,
+  "title": "lcgc",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lcgc.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lcgc",
+  "permalink": "/docs/citation-styles/lcgc",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lcgc.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "law-technology-and-humans",
+    "permalink": "/docs/citation-styles/law-technology-and-humans"
+  },
+  "next": {
+    "title": "le-mouvement-social-french",
+    "permalink": "/docs/citation-styles/le-mouvement-social-french"
+  }
+}

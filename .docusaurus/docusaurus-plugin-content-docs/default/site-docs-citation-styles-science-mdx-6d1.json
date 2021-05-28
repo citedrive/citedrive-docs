@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/science",
+  "id": "citation-styles/science",
+  "isDocsHomePage": false,
+  "title": "science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/science",
+  "permalink": "/docs/citation-styles/science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-without-titles",
+    "permalink": "/docs/citation-styles/science-without-titles"
+  },
+  "next": {
+    "title": "scienceasia",
+    "permalink": "/docs/citation-styles/scienceasia"
+  }
+}

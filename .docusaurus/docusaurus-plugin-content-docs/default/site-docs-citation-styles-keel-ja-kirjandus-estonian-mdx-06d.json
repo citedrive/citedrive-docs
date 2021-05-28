@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/keel-ja-kirjandus-estonian",
+  "id": "citation-styles/keel-ja-kirjandus-estonian",
+  "isDocsHomePage": false,
+  "title": "keel-ja-kirjandus-estonian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/keel-ja-kirjandus-estonian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/keel-ja-kirjandus-estonian",
+  "permalink": "/docs/citation-styles/keel-ja-kirjandus-estonian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/keel-ja-kirjandus-estonian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karstenia",
+    "permalink": "/docs/citation-styles/karstenia"
+  },
+  "next": {
+    "title": "kidney-research-and-clinical-practice",
+    "permalink": "/docs/citation-styles/kidney-research-and-clinical-practice"
+  }
+}

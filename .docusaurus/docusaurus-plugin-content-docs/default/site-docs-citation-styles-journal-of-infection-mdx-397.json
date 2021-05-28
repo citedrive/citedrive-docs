@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-infection",
+  "id": "citation-styles/journal-of-infection",
+  "isDocsHomePage": false,
+  "title": "journal-of-infection",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-infection.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-infection",
+  "permalink": "/docs/citation-styles/journal-of-infection",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-infection.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-industrial-ecology",
+    "permalink": "/docs/citation-styles/journal-of-industrial-ecology"
+  },
+  "next": {
+    "title": "journal-of-infectious-diseases",
+    "permalink": "/docs/citation-styles/journal-of-infectious-diseases"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/environnement-risques-and-sante",
+  "id": "citation-styles/environnement-risques-and-sante",
+  "isDocsHomePage": false,
+  "title": "environnement-risques-and-sante",
+  "description": "---",
+  "source": "@site/docs/citation-styles/environnement-risques-and-sante.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/environnement-risques-and-sante",
+  "permalink": "/docs/citation-styles/environnement-risques-and-sante",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/environnement-risques-and-sante.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-values",
+    "permalink": "/docs/citation-styles/environmental-values"
+  },
+  "next": {
+    "title": "ephemerides-theologicae-lovanienses",
+    "permalink": "/docs/citation-styles/ephemerides-theologicae-lovanienses"
+  }
+}

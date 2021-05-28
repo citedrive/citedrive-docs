@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/kommunikation-und-recht-german",
+  "id": "citation-styles/kommunikation-und-recht-german",
+  "isDocsHomePage": false,
+  "title": "kommunikation-und-recht-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/kommunikation-und-recht-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/kommunikation-und-recht-german",
+  "permalink": "/docs/citation-styles/kommunikation-und-recht-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/kommunikation-und-recht-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german",
+    "permalink": "/docs/citation-styles/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german"
+  },
+  "next": {
+    "title": "kona-powder-and-particle-journal",
+    "permalink": "/docs/citation-styles/kona-powder-and-particle-journal"
+  }
+}

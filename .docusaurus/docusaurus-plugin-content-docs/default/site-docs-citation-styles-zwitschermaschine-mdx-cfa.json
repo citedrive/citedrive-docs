@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zwitschermaschine",
+  "id": "citation-styles/zwitschermaschine",
+  "isDocsHomePage": false,
+  "title": "zwitschermaschine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zwitschermaschine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zwitschermaschine",
+  "permalink": "/docs/citation-styles/zwitschermaschine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zwitschermaschine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zootaxa",
+    "permalink": "/docs/citation-styles/zootaxa"
+  },
+  "next": {
+    "title": "Working with BibTeX",
+    "permalink": "/docs/bibtex"
+  }
+}

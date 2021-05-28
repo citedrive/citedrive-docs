@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/royal-society-of-chemistry-with-titles",
+  "id": "citation-styles/royal-society-of-chemistry-with-titles",
+  "isDocsHomePage": false,
+  "title": "royal-society-of-chemistry-with-titles",
+  "description": "---",
+  "source": "@site/docs/citation-styles/royal-society-of-chemistry-with-titles.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/royal-society-of-chemistry-with-titles",
+  "permalink": "/docs/citation-styles/royal-society-of-chemistry-with-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/royal-society-of-chemistry-with-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "royal-college-of-nursing--harvard",
+    "permalink": "/docs/citation-styles/royal-college-of-nursing--harvard"
+  },
+  "next": {
+    "title": "royal-society-of-chemistry",
+    "permalink": "/docs/citation-styles/royal-society-of-chemistry"
+  }
+}

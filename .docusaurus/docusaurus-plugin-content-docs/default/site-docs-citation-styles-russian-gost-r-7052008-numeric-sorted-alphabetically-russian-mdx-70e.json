@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "id": "citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "isDocsHomePage": false,
+  "title": "russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "permalink": "/docs/citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+    "permalink": "/docs/citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german"
+  },
+  "next": {
+    "title": "russian-gost-r-7052008-numeric",
+    "permalink": "/docs/citation-styles/russian-gost-r-7052008-numeric"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pacific-conservation-biology",
+  "id": "citation-styles/pacific-conservation-biology",
+  "isDocsHomePage": false,
+  "title": "pacific-conservation-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pacific-conservation-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pacific-conservation-biology",
+  "permalink": "/docs/citation-styles/pacific-conservation-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pacific-conservation-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxidation-of-metals",
+    "permalink": "/docs/citation-styles/oxidation-of-metals"
+  },
+  "next": {
+    "title": "pacific-science",
+    "permalink": "/docs/citation-styles/pacific-science"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/world-applied-sciences-journal",
+  "id": "citation-styles/world-applied-sciences-journal",
+  "isDocsHomePage": false,
+  "title": "world-applied-sciences-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/world-applied-sciences-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/world-applied-sciences-journal",
+  "permalink": "/docs/citation-styles/world-applied-sciences-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/world-applied-sciences-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wissenschaftlicher-industrielogistikdialog-german--austria",
+    "permalink": "/docs/citation-styles/wissenschaftlicher-industrielogistikdialog-german--austria"
+  },
+  "next": {
+    "title": "world-congress-on-engineering-asset-management-2010",
+    "permalink": "/docs/citation-styles/world-congress-on-engineering-asset-management-2010"
+  }
+}

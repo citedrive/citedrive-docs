@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ucl-university-college--harvard-danish",
+  "id": "citation-styles/ucl-university-college--harvard-danish",
+  "isDocsHomePage": false,
+  "title": "ucl-university-college--harvard-danish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ucl-university-college--harvard-danish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ucl-university-college--harvard-danish",
+  "permalink": "/docs/citation-styles/ucl-university-college--harvard-danish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ucl-university-college--harvard-danish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "u-schyku-starozytnosci-polish",
+    "permalink": "/docs/citation-styles/u-schyku-starozytnosci-polish"
+  },
+  "next": {
+    "title": "ucl-university-college--vancouver-english",
+    "permalink": "/docs/citation-styles/ucl-university-college--vancouver-english"
+  }
+}

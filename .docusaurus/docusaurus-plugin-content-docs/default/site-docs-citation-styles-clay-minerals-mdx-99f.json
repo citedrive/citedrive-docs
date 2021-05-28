@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clay-minerals",
+  "id": "citation-styles/clay-minerals",
+  "isDocsHomePage": false,
+  "title": "clay-minerals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clay-minerals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clay-minerals",
+  "permalink": "/docs/citation-styles/clay-minerals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clay-minerals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clara-architecturerecherche-french",
+    "permalink": "/docs/citation-styles/clara-architecturerecherche-french"
+  },
+  "next": {
+    "title": "clays-and-clay-minerals",
+    "permalink": "/docs/citation-styles/clays-and-clay-minerals"
+  }
+}

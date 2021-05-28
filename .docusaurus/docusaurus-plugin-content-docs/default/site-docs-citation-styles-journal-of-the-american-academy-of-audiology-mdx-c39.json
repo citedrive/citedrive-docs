@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-american-academy-of-audiology",
+  "id": "citation-styles/journal-of-the-american-academy-of-audiology",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-academy-of-audiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-american-academy-of-audiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-american-academy-of-audiology",
+  "permalink": "/docs/citation-styles/journal-of-the-american-academy-of-audiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-american-academy-of-audiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-air-and-waste-management-association",
+    "permalink": "/docs/citation-styles/journal-of-the-air-and-waste-management-association"
+  },
+  "next": {
+    "title": "journal-of-the-american-academy-of-orthopaedic-surgeons",
+    "permalink": "/docs/citation-styles/journal-of-the-american-academy-of-orthopaedic-surgeons"
+  }
+}

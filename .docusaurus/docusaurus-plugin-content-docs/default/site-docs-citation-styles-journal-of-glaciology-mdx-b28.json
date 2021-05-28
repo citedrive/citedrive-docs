@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-glaciology",
+  "id": "citation-styles/journal-of-glaciology",
+  "isDocsHomePage": false,
+  "title": "journal-of-glaciology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-glaciology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-glaciology",
+  "permalink": "/docs/citation-styles/journal-of-glaciology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-glaciology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-geriatric-psychiatry-and-neurology",
+    "permalink": "/docs/citation-styles/journal-of-geriatric-psychiatry-and-neurology"
+  },
+  "next": {
+    "title": "journal-of-hearing-science",
+    "permalink": "/docs/citation-styles/journal-of-hearing-science"
+  }
+}

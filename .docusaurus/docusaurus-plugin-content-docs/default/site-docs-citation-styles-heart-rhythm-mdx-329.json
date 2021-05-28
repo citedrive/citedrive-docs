@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/heart-rhythm",
+  "id": "citation-styles/heart-rhythm",
+  "isDocsHomePage": false,
+  "title": "heart-rhythm",
+  "description": "---",
+  "source": "@site/docs/citation-styles/heart-rhythm.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/heart-rhythm",
+  "permalink": "/docs/citation-styles/heart-rhythm",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/heart-rhythm.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "heart-failure-clinics",
+    "permalink": "/docs/citation-styles/heart-failure-clinics"
+  },
+  "next": {
+    "title": "heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+    "permalink": "/docs/citation-styles/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg"
+  }
+}

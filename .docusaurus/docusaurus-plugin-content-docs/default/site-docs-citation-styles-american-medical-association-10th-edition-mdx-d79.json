@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-medical-association-10th-edition",
+  "id": "citation-styles/american-medical-association-10th-edition",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-10th-edition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-medical-association-10th-edition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-medical-association-10th-edition",
+  "permalink": "/docs/citation-styles/american-medical-association-10th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-medical-association-10th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-marketing-association",
+    "permalink": "/docs/citation-styles/american-marketing-association"
+  },
+  "next": {
+    "title": "american-medical-association-11th-edition-no-et-al",
+    "permalink": "/docs/citation-styles/american-medical-association-11th-edition-no-et-al"
+  }
+}

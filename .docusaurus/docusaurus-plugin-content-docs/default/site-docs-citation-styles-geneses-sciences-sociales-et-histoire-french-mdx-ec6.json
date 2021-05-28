@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/geneses-sciences-sociales-et-histoire-french",
+  "id": "citation-styles/geneses-sciences-sociales-et-histoire-french",
+  "isDocsHomePage": false,
+  "title": "geneses-sciences-sociales-et-histoire-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/geneses-sciences-sociales-et-histoire-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/geneses-sciences-sociales-et-histoire-french",
+  "permalink": "/docs/citation-styles/geneses-sciences-sociales-et-histoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/geneses-sciences-sociales-et-histoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "genes-to-cells",
+    "permalink": "/docs/citation-styles/genes-to-cells"
+  },
+  "next": {
+    "title": "genetics-and-molecular-biology",
+    "permalink": "/docs/citation-styles/genetics-and-molecular-biology"
+  }
+}

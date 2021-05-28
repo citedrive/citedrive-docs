@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-journal-of-sonography",
+  "id": "citation-styles/american-journal-of-sonography",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-sonography",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-journal-of-sonography.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-journal-of-sonography",
+  "permalink": "/docs/citation-styles/american-journal-of-sonography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-journal-of-sonography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-science",
+    "permalink": "/docs/citation-styles/american-journal-of-science"
+  },
+  "next": {
+    "title": "american-journal-of-surgical-pathology",
+    "permalink": "/docs/citation-styles/american-journal-of-surgical-pathology"
+  }
+}

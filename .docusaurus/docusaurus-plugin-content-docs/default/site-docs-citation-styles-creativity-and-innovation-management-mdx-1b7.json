@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/creativity-and-innovation-management",
+  "id": "citation-styles/creativity-and-innovation-management",
+  "isDocsHomePage": false,
+  "title": "creativity-and-innovation-management",
+  "description": "---",
+  "source": "@site/docs/citation-styles/creativity-and-innovation-management.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/creativity-and-innovation-management",
+  "permalink": "/docs/citation-styles/creativity-and-innovation-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/creativity-and-innovation-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cranfield-university-numeric",
+    "permalink": "/docs/citation-styles/cranfield-university-numeric"
+  },
+  "next": {
+    "title": "critical-care-medicine",
+    "permalink": "/docs/citation-styles/critical-care-medicine"
+  }
+}

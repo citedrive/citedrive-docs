@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/council-of-science-editors-citationsequence-numeric",
+  "id": "citation-styles/council-of-science-editors-citationsequence-numeric",
+  "isDocsHomePage": false,
+  "title": "council-of-science-editors-citationsequence-numeric",
+  "description": "---",
+  "source": "@site/docs/citation-styles/council-of-science-editors-citationsequence-numeric.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/council-of-science-editors-citationsequence-numeric",
+  "permalink": "/docs/citation-styles/council-of-science-editors-citationsequence-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/council-of-science-editors-citationsequence-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "council-of-science-editors-citationname-numeric-sorted-alphabetically",
+    "permalink": "/docs/citation-styles/council-of-science-editors-citationname-numeric-sorted-alphabetically"
+  },
+  "next": {
+    "title": "council-of-science-editors-nameyear-authordate",
+    "permalink": "/docs/citation-styles/council-of-science-editors-nameyear-authordate"
+  }
+}

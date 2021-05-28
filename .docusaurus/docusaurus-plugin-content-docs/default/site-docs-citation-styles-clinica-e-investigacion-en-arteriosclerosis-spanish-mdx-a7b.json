@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "id": "citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "isDocsHomePage": false,
+  "title": "clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "permalink": "/docs/citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinica-e-investigacion-en-arteriosclerosis-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "climate-change-economics",
+    "permalink": "/docs/citation-styles/climate-change-economics"
+  },
+  "next": {
+    "title": "clinical-anatomy",
+    "permalink": "/docs/citation-styles/clinical-anatomy"
+  }
+}

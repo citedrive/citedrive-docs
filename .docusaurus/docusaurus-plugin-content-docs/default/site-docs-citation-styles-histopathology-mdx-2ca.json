@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/histopathology",
+  "id": "citation-styles/histopathology",
+  "isDocsHomePage": false,
+  "title": "histopathology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/histopathology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/histopathology",
+  "permalink": "/docs/citation-styles/histopathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/histopathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "histoirepolitique-politique-culture-societe-french",
+    "permalink": "/docs/citation-styles/histoirepolitique-politique-culture-societe-french"
+  },
+  "next": {
+    "title": "historiascribere-german",
+    "permalink": "/docs/citation-styles/historiascribere-german"
+  }
+}

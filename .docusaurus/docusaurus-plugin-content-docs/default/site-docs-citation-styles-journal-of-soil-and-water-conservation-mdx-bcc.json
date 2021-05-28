@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-soil-and-water-conservation",
+  "id": "citation-styles/journal-of-soil-and-water-conservation",
+  "isDocsHomePage": false,
+  "title": "journal-of-soil-and-water-conservation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-soil-and-water-conservation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-soil-and-water-conservation",
+  "permalink": "/docs/citation-styles/journal-of-soil-and-water-conservation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-soil-and-water-conservation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-social-archaeology",
+    "permalink": "/docs/citation-styles/journal-of-social-archaeology"
+  },
+  "next": {
+    "title": "journal-of-soil-science-and-plant-nutrition",
+    "permalink": "/docs/citation-styles/journal-of-soil-science-and-plant-nutrition"
+  }
+}

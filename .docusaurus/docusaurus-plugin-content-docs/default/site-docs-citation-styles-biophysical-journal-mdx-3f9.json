@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biophysical-journal",
+  "id": "citation-styles/biophysical-journal",
+  "isDocsHomePage": false,
+  "title": "biophysical-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biophysical-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biophysical-journal",
+  "permalink": "/docs/citation-styles/biophysical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biophysical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biometrics",
+    "permalink": "/docs/citation-styles/biometrics"
+  },
+  "next": {
+    "title": "biopolymers",
+    "permalink": "/docs/citation-styles/biopolymers"
+  }
+}

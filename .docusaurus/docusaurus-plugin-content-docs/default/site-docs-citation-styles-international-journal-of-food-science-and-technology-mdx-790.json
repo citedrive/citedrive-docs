@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-food-science-and-technology",
+  "id": "citation-styles/international-journal-of-food-science-and-technology",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-food-science-and-technology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-food-science-and-technology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-food-science-and-technology",
+  "permalink": "/docs/citation-styles/international-journal-of-food-science-and-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-food-science-and-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-exercise-science",
+    "permalink": "/docs/citation-styles/international-journal-of-exercise-science"
+  },
+  "next": {
+    "title": "international-journal-of-geriatric-psychiatry",
+    "permalink": "/docs/citation-styles/international-journal-of-geriatric-psychiatry"
+  }
+}

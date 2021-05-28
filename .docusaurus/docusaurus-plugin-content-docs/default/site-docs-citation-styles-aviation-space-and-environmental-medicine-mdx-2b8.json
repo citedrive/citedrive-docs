@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aviation-space-and-environmental-medicine",
+  "id": "citation-styles/aviation-space-and-environmental-medicine",
+  "isDocsHomePage": false,
+  "title": "aviation-space-and-environmental-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aviation-space-and-environmental-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aviation-space-and-environmental-medicine",
+  "permalink": "/docs/citation-styles/aviation-space-and-environmental-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aviation-space-and-environmental-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "avian-pathology",
+    "permalink": "/docs/citation-styles/avian-pathology"
+  },
+  "next": {
+    "title": "ayer-spanish",
+    "permalink": "/docs/citation-styles/ayer-spanish"
+  }
+}

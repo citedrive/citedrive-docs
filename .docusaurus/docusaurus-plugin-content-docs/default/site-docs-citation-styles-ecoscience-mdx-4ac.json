@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecoscience",
+  "id": "citation-styles/ecoscience",
+  "isDocsHomePage": false,
+  "title": "ecoscience",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecoscience.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecoscience",
+  "permalink": "/docs/citation-styles/ecoscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecoscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "economie-et-statistique-french",
+    "permalink": "/docs/citation-styles/economie-et-statistique-french"
+  },
+  "next": {
+    "title": "ecosistemas-spanish",
+    "permalink": "/docs/citation-styles/ecosistemas-spanish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universita-pontificia-salesiana-italian",
+  "id": "citation-styles/universita-pontificia-salesiana-italian",
+  "isDocsHomePage": false,
+  "title": "universita-pontificia-salesiana-italian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universita-pontificia-salesiana-italian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universita-pontificia-salesiana-italian",
+  "permalink": "/docs/citation-styles/universita-pontificia-salesiana-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universita-pontificia-salesiana-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universita-cattolica-del-sacro-cuore-note-italian",
+    "permalink": "/docs/citation-styles/universita-cattolica-del-sacro-cuore-note-italian"
+  },
+  "next": {
+    "title": "universita-pontificia-salesiana",
+    "permalink": "/docs/citation-styles/universita-pontificia-salesiana"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/history-australia",
+  "id": "citation-styles/history-australia",
+  "isDocsHomePage": false,
+  "title": "history-australia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/history-australia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/history-australia",
+  "permalink": "/docs/citation-styles/history-australia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/history-australia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "history-and-theory",
+    "permalink": "/docs/citation-styles/history-and-theory"
+  },
+  "next": {
+    "title": "history-of-the-human-sciences",
+    "permalink": "/docs/citation-styles/history-of-the-human-sciences"
+  }
+}

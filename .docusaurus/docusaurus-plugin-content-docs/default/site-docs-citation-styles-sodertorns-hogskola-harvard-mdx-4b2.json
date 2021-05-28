@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sodertorns-hogskola--harvard",
+  "id": "citation-styles/sodertorns-hogskola--harvard",
+  "isDocsHomePage": false,
+  "title": "sodertorns-hogskola--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sodertorns-hogskola--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sodertorns-hogskola--harvard",
+  "permalink": "/docs/citation-styles/sodertorns-hogskola--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sodertorns-hogskola--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sodertorns-hogskola--harvard-with-ibid",
+    "permalink": "/docs/citation-styles/sodertorns-hogskola--harvard-with-ibid"
+  },
+  "next": {
+    "title": "soft-robotics",
+    "permalink": "/docs/citation-styles/soft-robotics"
+  }
+}

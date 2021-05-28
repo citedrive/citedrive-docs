@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-university-of-new-south-wales--oxford",
+  "id": "citation-styles/the-university-of-new-south-wales--oxford",
+  "isDocsHomePage": false,
+  "title": "the-university-of-new-south-wales--oxford",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-university-of-new-south-wales--oxford.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-university-of-new-south-wales--oxford",
+  "permalink": "/docs/citation-styles/the-university-of-new-south-wales--oxford",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-university-of-new-south-wales--oxford.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-melbourne--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-melbourne--harvard"
+  },
+  "next": {
+    "title": "the-university-of-northampton--harvard",
+    "permalink": "/docs/citation-styles/the-university-of-northampton--harvard"
+  }
+}

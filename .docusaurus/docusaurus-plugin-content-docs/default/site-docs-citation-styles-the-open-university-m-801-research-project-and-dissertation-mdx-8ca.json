@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-open-university--m801--research-project-and-dissertation",
+  "id": "citation-styles/the-open-university--m801--research-project-and-dissertation",
+  "isDocsHomePage": false,
+  "title": "the-open-university--m801--research-project-and-dissertation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-open-university--m801--research-project-and-dissertation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-open-university--m801--research-project-and-dissertation",
+  "permalink": "/docs/citation-styles/the-open-university--m801--research-project-and-dissertation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-open-university--m801--research-project-and-dissertation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-open-university--harvard",
+    "permalink": "/docs/citation-styles/the-open-university--harvard"
+  },
+  "next": {
+    "title": "the-open-university--s390",
+    "permalink": "/docs/citation-styles/the-open-university--s390"
+  }
+}

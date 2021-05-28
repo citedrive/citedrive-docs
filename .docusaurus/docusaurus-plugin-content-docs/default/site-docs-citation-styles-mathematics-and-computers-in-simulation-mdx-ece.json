@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mathematics-and-computers-in-simulation",
+  "id": "citation-styles/mathematics-and-computers-in-simulation",
+  "isDocsHomePage": false,
+  "title": "mathematics-and-computers-in-simulation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mathematics-and-computers-in-simulation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mathematics-and-computers-in-simulation",
+  "permalink": "/docs/citation-styles/mathematics-and-computers-in-simulation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mathematics-and-computers-in-simulation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mathematical-geosciences",
+    "permalink": "/docs/citation-styles/mathematical-geosciences"
+  },
+  "next": {
+    "title": "mcdonald-institute-monographs",
+    "permalink": "/docs/citation-styles/mcdonald-institute-monographs"
+  }
+}

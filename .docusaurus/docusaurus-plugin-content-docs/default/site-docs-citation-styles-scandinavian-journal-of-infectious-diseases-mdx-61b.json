@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/scandinavian-journal-of-infectious-diseases",
+  "id": "citation-styles/scandinavian-journal-of-infectious-diseases",
+  "isDocsHomePage": false,
+  "title": "scandinavian-journal-of-infectious-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/scandinavian-journal-of-infectious-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/scandinavian-journal-of-infectious-diseases",
+  "permalink": "/docs/citation-styles/scandinavian-journal-of-infectious-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/scandinavian-journal-of-infectious-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sascha-foerster--geisteswissenschaft-german",
+    "permalink": "/docs/citation-styles/sascha-foerster--geisteswissenschaft-german"
+  },
+  "next": {
+    "title": "scandinavian-journal-of-medicine-and-science-in-sports",
+    "permalink": "/docs/citation-styles/scandinavian-journal-of-medicine-and-science-in-sports"
+  }
+}

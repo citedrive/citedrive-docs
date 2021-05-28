@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-societatis-botanicorum-poloniae",
+  "id": "citation-styles/acta-societatis-botanicorum-poloniae",
+  "isDocsHomePage": false,
+  "title": "acta-societatis-botanicorum-poloniae",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-societatis-botanicorum-poloniae.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-societatis-botanicorum-poloniae",
+  "permalink": "/docs/citation-styles/acta-societatis-botanicorum-poloniae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-societatis-botanicorum-poloniae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-scientiae-veterinariae",
+    "permalink": "/docs/citation-styles/acta-scientiae-veterinariae"
+  },
+  "next": {
+    "title": "acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+    "permalink": "/docs/citation-styles/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+  }
+}

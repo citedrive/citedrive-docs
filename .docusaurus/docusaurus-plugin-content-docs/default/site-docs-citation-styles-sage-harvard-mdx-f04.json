@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sage--harvard",
+  "id": "citation-styles/sage--harvard",
+  "isDocsHomePage": false,
+  "title": "sage--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sage--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sage--harvard",
+  "permalink": "/docs/citation-styles/sage--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sage--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "russian-gost-r-7052008-russian",
+    "permalink": "/docs/citation-styles/russian-gost-r-7052008-russian"
+  },
+  "next": {
+    "title": "sage--vancouver-brackets",
+    "permalink": "/docs/citation-styles/sage--vancouver-brackets"
+  }
+}

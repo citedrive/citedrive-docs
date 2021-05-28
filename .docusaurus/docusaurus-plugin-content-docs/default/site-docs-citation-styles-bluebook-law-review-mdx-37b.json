@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bluebook-law-review",
+  "id": "citation-styles/bluebook-law-review",
+  "isDocsHomePage": false,
+  "title": "bluebook-law-review",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bluebook-law-review.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bluebook-law-review",
+  "permalink": "/docs/citation-styles/bluebook-law-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bluebook-law-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bluebook-law-review-2",
+    "permalink": "/docs/citation-styles/bluebook-law-review-2"
+  },
+  "next": {
+    "title": "bmj",
+    "permalink": "/docs/citation-styles/bmj"
+  }
+}

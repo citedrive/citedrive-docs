@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/management-of-biological-invasions",
+  "id": "citation-styles/management-of-biological-invasions",
+  "isDocsHomePage": false,
+  "title": "management-of-biological-invasions",
+  "description": "---",
+  "source": "@site/docs/citation-styles/management-of-biological-invasions.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/management-of-biological-invasions",
+  "permalink": "/docs/citation-styles/management-of-biological-invasions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/management-of-biological-invasions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "management-international",
+    "permalink": "/docs/citation-styles/management-international"
+  },
+  "next": {
+    "title": "manchester-business-school--harvard",
+    "permalink": "/docs/citation-styles/manchester-business-school--harvard"
+  }
+}

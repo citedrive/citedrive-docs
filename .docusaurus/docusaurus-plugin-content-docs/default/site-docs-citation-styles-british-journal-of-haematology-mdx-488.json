@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/british-journal-of-haematology",
+  "id": "citation-styles/british-journal-of-haematology",
+  "isDocsHomePage": false,
+  "title": "british-journal-of-haematology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/british-journal-of-haematology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/british-journal-of-haematology",
+  "permalink": "/docs/citation-styles/british-journal-of-haematology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/british-journal-of-haematology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "british-journal-of-dermatology",
+    "permalink": "/docs/citation-styles/british-journal-of-dermatology"
+  },
+  "next": {
+    "title": "british-journal-of-industrial-relations",
+    "permalink": "/docs/citation-styles/british-journal-of-industrial-relations"
+  }
+}

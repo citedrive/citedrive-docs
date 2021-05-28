@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/diabetes-technology-and-therapeutics",
+  "id": "citation-styles/diabetes-technology-and-therapeutics",
+  "isDocsHomePage": false,
+  "title": "diabetes-technology-and-therapeutics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/diabetes-technology-and-therapeutics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/diabetes-technology-and-therapeutics",
+  "permalink": "/docs/citation-styles/diabetes-technology-and-therapeutics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/diabetes-technology-and-therapeutics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "developmental-neurobiology",
+    "permalink": "/docs/citation-styles/developmental-neurobiology"
+  },
+  "next": {
+    "title": "diabetologia",
+    "permalink": "/docs/citation-styles/diabetologia"
+  }
+}

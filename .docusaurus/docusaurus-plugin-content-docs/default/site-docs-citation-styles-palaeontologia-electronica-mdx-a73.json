@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/palaeontologia-electronica",
+  "id": "citation-styles/palaeontologia-electronica",
+  "isDocsHomePage": false,
+  "title": "palaeontologia-electronica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/palaeontologia-electronica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/palaeontologia-electronica",
+  "permalink": "/docs/citation-styles/palaeontologia-electronica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/palaeontologia-electronica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+    "permalink": "/docs/citation-styles/palaeontographica-abteilung-b-palaeobotany--palaeophytology"
+  },
+  "next": {
+    "title": "palaeontology",
+    "permalink": "/docs/citation-styles/palaeontology"
+  }
+}

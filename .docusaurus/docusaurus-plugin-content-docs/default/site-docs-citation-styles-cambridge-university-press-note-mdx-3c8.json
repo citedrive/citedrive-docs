@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cambridge-university-press-note",
+  "id": "citation-styles/cambridge-university-press-note",
+  "isDocsHomePage": false,
+  "title": "cambridge-university-press-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cambridge-university-press-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cambridge-university-press-note",
+  "permalink": "/docs/citation-styles/cambridge-university-press-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cambridge-university-press-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cambridge-university-press-authordate",
+    "permalink": "/docs/citation-styles/cambridge-university-press-authordate"
+  },
+  "next": {
+    "title": "cambridge-university-press-numeric",
+    "permalink": "/docs/citation-styles/cambridge-university-press-numeric"
+  }
+}

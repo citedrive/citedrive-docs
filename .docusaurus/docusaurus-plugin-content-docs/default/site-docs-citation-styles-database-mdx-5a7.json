@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/database",
+  "id": "citation-styles/database",
+  "isDocsHomePage": false,
+  "title": "database",
+  "description": "---",
+  "source": "@site/docs/citation-styles/database.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/database",
+  "permalink": "/docs/citation-styles/database",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/database.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "data-science-journal",
+    "permalink": "/docs/citation-styles/data-science-journal"
+  },
+  "next": {
+    "title": "de-montfort-university--harvard",
+    "permalink": "/docs/citation-styles/de-montfort-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/norsk-apamanual--apa-7th-edition-note",
+  "id": "citation-styles/norsk-apamanual--apa-7th-edition-note",
+  "isDocsHomePage": false,
+  "title": "norsk-apamanual--apa-7th-edition-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/norsk-apamanual--apa-7th-edition-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/norsk-apamanual--apa-7th-edition-note",
+  "permalink": "/docs/citation-styles/norsk-apamanual--apa-7th-edition-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/norsk-apamanual--apa-7th-edition-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "norsk-apamanual--apa-7th-edition-authordate",
+    "permalink": "/docs/citation-styles/norsk-apamanual--apa-7th-edition-authordate"
+  },
+  "next": {
+    "title": "northeastern-naturalist",
+    "permalink": "/docs/citation-styles/northeastern-naturalist"
+  }
+}

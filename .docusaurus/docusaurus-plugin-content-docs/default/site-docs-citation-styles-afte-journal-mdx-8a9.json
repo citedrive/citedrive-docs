@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/afte-journal",
+  "id": "citation-styles/afte-journal",
+  "isDocsHomePage": false,
+  "title": "afte-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/afte-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/afte-journal",
+  "permalink": "/docs/citation-styles/afte-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/afte-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "afroasia-portuguese--brazil",
+    "permalink": "/docs/citation-styles/afroasia-portuguese--brazil"
+  },
+  "next": {
+    "title": "age-and-ageing",
+    "permalink": "/docs/citation-styles/age-and-ageing"
+  }
+}

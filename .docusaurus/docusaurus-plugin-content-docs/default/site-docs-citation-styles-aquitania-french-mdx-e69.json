@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aquitania-french",
+  "id": "citation-styles/aquitania-french",
+  "isDocsHomePage": false,
+  "title": "aquitania-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aquitania-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aquitania-french",
+  "permalink": "/docs/citation-styles/aquitania-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aquitania-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquatic-living-resources",
+    "permalink": "/docs/citation-styles/aquatic-living-resources"
+  },
+  "next": {
+    "title": "arachne",
+    "permalink": "/docs/citation-styles/arachne"
+  }
+}

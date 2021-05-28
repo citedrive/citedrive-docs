@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chinese-medical-journal",
+  "id": "citation-styles/chinese-medical-journal",
+  "isDocsHomePage": false,
+  "title": "chinese-medical-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chinese-medical-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chinese-medical-journal",
+  "permalink": "/docs/citation-styles/chinese-medical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chinese-medical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chinese-journal-of-aeronautics",
+    "permalink": "/docs/citation-styles/chinese-journal-of-aeronautics"
+  },
+  "next": {
+    "title": "chroniques-des-activites-archeologiques-de-lecole-francaise-de-rome",
+    "permalink": "/docs/citation-styles/chroniques-des-activites-archeologiques-de-lecole-francaise-de-rome"
+  }
+}

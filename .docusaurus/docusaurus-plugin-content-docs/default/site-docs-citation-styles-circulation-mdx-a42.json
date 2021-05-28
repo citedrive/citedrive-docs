@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/circulation",
+  "id": "citation-styles/circulation",
+  "isDocsHomePage": false,
+  "title": "circulation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/circulation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/circulation",
+  "permalink": "/docs/citation-styles/circulation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/circulation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "circulation-journal",
+    "permalink": "/docs/citation-styles/circulation-journal"
+  },
+  "next": {
+    "title": "cirugia-cardiovascular-spanish",
+    "permalink": "/docs/citation-styles/cirugia-cardiovascular-spanish"
+  }
+}

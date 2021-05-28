@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cardiff-university--vancouver",
+  "id": "citation-styles/cardiff-university--vancouver",
+  "isDocsHomePage": false,
+  "title": "cardiff-university--vancouver",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cardiff-university--vancouver.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cardiff-university--vancouver",
+  "permalink": "/docs/citation-styles/cardiff-university--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cardiff-university--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardiff-university--harvard",
+    "permalink": "/docs/citation-styles/cardiff-university--harvard"
+  },
+  "next": {
+    "title": "cardiff-university-biosi-and-carbs--harvard",
+    "permalink": "/docs/citation-styles/cardiff-university-biosi-and-carbs--harvard"
+  }
+}

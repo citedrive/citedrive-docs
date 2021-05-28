@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-portuguesa-de-arqueologia",
+  "id": "citation-styles/revista-portuguesa-de-arqueologia",
+  "isDocsHomePage": false,
+  "title": "revista-portuguesa-de-arqueologia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-portuguesa-de-arqueologia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-portuguesa-de-arqueologia",
+  "permalink": "/docs/citation-styles/revista-portuguesa-de-arqueologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-portuguesa-de-arqueologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+    "permalink": "/docs/citation-styles/revista-peruana-de-medicina-experimental-y-salud-publica-spanish"
+  },
+  "next": {
+    "title": "revista-virtual-de-quimica-portuguese--brazil",
+    "permalink": "/docs/citation-styles/revista-virtual-de-quimica-portuguese--brazil"
+  }
+}

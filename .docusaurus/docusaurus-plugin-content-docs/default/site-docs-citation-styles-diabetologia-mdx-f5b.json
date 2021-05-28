@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/diabetologia",
+  "id": "citation-styles/diabetologia",
+  "isDocsHomePage": false,
+  "title": "diabetologia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/diabetologia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/diabetologia",
+  "permalink": "/docs/citation-styles/diabetologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/diabetologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diabetes-technology-and-therapeutics",
+    "permalink": "/docs/citation-styles/diabetes-technology-and-therapeutics"
+  },
+  "next": {
+    "title": "diagnostico-prenatal-spanish",
+    "permalink": "/docs/citation-styles/diagnostico-prenatal-spanish"
+  }
+}

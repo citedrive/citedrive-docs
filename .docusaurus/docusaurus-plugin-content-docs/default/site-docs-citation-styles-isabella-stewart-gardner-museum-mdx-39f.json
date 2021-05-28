@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/isabella-stewart-gardner-museum",
+  "id": "citation-styles/isabella-stewart-gardner-museum",
+  "isDocsHomePage": false,
+  "title": "isabella-stewart-gardner-museum",
+  "description": "---",
+  "source": "@site/docs/citation-styles/isabella-stewart-gardner-museum.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/isabella-stewart-gardner-museum",
+  "permalink": "/docs/citation-styles/isabella-stewart-gardner-museum",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/isabella-stewart-gardner-museum.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "irish-historical-studies",
+    "permalink": "/docs/citation-styles/irish-historical-studies"
+  },
+  "next": {
+    "title": "isnad-atf-sistemi-1-edisyon-dipnotlu",
+    "permalink": "/docs/citation-styles/isnad-atf-sistemi-1-edisyon-dipnotlu"
+  }
+}

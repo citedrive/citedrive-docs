@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+  "id": "citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+  "isDocsHomePage": false,
+  "title": "offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+  "description": "---",
+  "source": "@site/docs/citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+  "permalink": "/docs/citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oecologia-australis",
+    "permalink": "/docs/citation-styles/oecologia-australis"
+  },
+  "next": {
+    "title": "oikos",
+    "permalink": "/docs/citation-styles/oikos"
+  }
+}

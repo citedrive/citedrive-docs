@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities",
+  "id": "citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities",
+  "isDocsHomePage": false,
+  "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities",
+  "permalink": "/docs/citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid",
+    "permalink": "/docs/citation-styles/oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid"
+  },
+  "next": {
+    "title": "osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+    "permalink": "/docs/citation-styles/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria"
+  }
+}

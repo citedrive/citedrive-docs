@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-orthopaedics-and-related-research",
+  "id": "citation-styles/clinical-orthopaedics-and-related-research",
+  "isDocsHomePage": false,
+  "title": "clinical-orthopaedics-and-related-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-orthopaedics-and-related-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-orthopaedics-and-related-research",
+  "permalink": "/docs/citation-styles/clinical-orthopaedics-and-related-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-orthopaedics-and-related-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-oral-implants-research",
+    "permalink": "/docs/citation-styles/clinical-oral-implants-research"
+  },
+  "next": {
+    "title": "clinical-otolaryngology",
+    "permalink": "/docs/citation-styles/clinical-otolaryngology"
+  }
+}

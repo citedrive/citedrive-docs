@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-south-australia-2013--harvard",
+  "id": "citation-styles/university-of-south-australia-2013--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-south-australia-2013--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-south-australia-2013--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-south-australia-2013--harvard",
+  "permalink": "/docs/citation-styles/university-of-south-australia-2013--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-south-australia-2013--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-south-australia-2011--harvard",
+    "permalink": "/docs/citation-styles/university-of-south-australia-2011--harvard"
+  },
+  "next": {
+    "title": "university-of-south-australia-2017--harvard",
+    "permalink": "/docs/citation-styles/university-of-south-australia-2017--harvard"
+  }
+}

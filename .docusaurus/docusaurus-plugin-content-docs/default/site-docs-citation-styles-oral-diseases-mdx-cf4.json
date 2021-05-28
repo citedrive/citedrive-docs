@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oral-diseases",
+  "id": "citation-styles/oral-diseases",
+  "isDocsHomePage": false,
+  "title": "oral-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oral-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oral-diseases",
+  "permalink": "/docs/citation-styles/oral-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oral-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "opuscula",
+    "permalink": "/docs/citation-styles/opuscula"
+  },
+  "next": {
+    "title": "organic-geochemistry",
+    "permalink": "/docs/citation-styles/organic-geochemistry"
+  }
+}

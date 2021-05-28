@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-zoo-and-wildlife-medicine",
+  "id": "citation-styles/journal-of-zoo-and-wildlife-medicine",
+  "isDocsHomePage": false,
+  "title": "journal-of-zoo-and-wildlife-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-zoo-and-wildlife-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-zoo-and-wildlife-medicine",
+  "permalink": "/docs/citation-styles/journal-of-zoo-and-wildlife-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-zoo-and-wildlife-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-wildlife-diseases",
+    "permalink": "/docs/citation-styles/journal-of-wildlife-diseases"
+  },
+  "next": {
+    "title": "journal-of-zoo-biology",
+    "permalink": "/docs/citation-styles/journal-of-zoo-biology"
+  }
+}

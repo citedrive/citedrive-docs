@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-marketing-association",
+  "id": "citation-styles/american-marketing-association",
+  "isDocsHomePage": false,
+  "title": "american-marketing-association",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-marketing-association.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-marketing-association",
+  "permalink": "/docs/citation-styles/american-marketing-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-marketing-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-translational-research",
+    "permalink": "/docs/citation-styles/american-journal-of-translational-research"
+  },
+  "next": {
+    "title": "american-medical-association-10th-edition",
+    "permalink": "/docs/citation-styles/american-medical-association-10th-edition"
+  }
+}

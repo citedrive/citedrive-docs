@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/influenza-and-other-respiratory-viruses",
+  "id": "citation-styles/influenza-and-other-respiratory-viruses",
+  "isDocsHomePage": false,
+  "title": "influenza-and-other-respiratory-viruses",
+  "description": "---",
+  "source": "@site/docs/citation-styles/influenza-and-other-respiratory-viruses.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/influenza-and-other-respiratory-viruses",
+  "permalink": "/docs/citation-styles/influenza-and-other-respiratory-viruses",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/influenza-and-other-respiratory-viruses.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inflammatory-bowel-diseases",
+    "permalink": "/docs/citation-styles/inflammatory-bowel-diseases"
+  },
+  "next": {
+    "title": "infoclioch-german--switzerland",
+    "permalink": "/docs/citation-styles/infoclioch-german--switzerland"
+  }
+}

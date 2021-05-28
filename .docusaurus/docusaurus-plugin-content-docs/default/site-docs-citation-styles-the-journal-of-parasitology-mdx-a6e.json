@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-parasitology",
+  "id": "citation-styles/the-journal-of-parasitology",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-parasitology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-parasitology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-parasitology",
+  "permalink": "/docs/citation-styles/the-journal-of-parasitology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-parasitology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-pain",
+    "permalink": "/docs/citation-styles/the-journal-of-pain"
+  },
+  "next": {
+    "title": "the-journal-of-pathology",
+    "permalink": "/docs/citation-styles/the-journal-of-pathology"
+  }
+}

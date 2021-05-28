@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/united-nations-framework-convention-on-climate-change",
+  "id": "citation-styles/united-nations-framework-convention-on-climate-change",
+  "isDocsHomePage": false,
+  "title": "united-nations-framework-convention-on-climate-change",
+  "description": "---",
+  "source": "@site/docs/citation-styles/united-nations-framework-convention-on-climate-change.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/united-nations-framework-convention-on-climate-change",
+  "permalink": "/docs/citation-styles/united-nations-framework-convention-on-climate-change",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/united-nations-framework-convention-on-climate-change.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "united-nations-development-programme-icca-legal-review",
+    "permalink": "/docs/citation-styles/united-nations-development-programme-icca-legal-review"
+  },
+  "next": {
+    "title": "universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+    "permalink": "/docs/citation-styles/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico"
+  }
+}

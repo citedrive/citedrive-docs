@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/development-and-change",
+  "id": "citation-styles/development-and-change",
+  "isDocsHomePage": false,
+  "title": "development-and-change",
+  "description": "---",
+  "source": "@site/docs/citation-styles/development-and-change.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/development-and-change",
+  "permalink": "/docs/citation-styles/development-and-change",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/development-and-change.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "developing-world-bioethics",
+    "permalink": "/docs/citation-styles/developing-world-bioethics"
+  },
+  "next": {
+    "title": "development-policy-review",
+    "permalink": "/docs/citation-styles/development-policy-review"
+  }
+}

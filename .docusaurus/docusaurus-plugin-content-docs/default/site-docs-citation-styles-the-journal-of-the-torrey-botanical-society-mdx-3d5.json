@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-the-torrey-botanical-society",
+  "id": "citation-styles/the-journal-of-the-torrey-botanical-society",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-the-torrey-botanical-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-the-torrey-botanical-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-the-torrey-botanical-society",
+  "permalink": "/docs/citation-styles/the-journal-of-the-torrey-botanical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-the-torrey-botanical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-the-acoustical-society-of-america",
+    "permalink": "/docs/citation-styles/the-journal-of-the-acoustical-society-of-america"
+  },
+  "next": {
+    "title": "the-journal-of-transport-history",
+    "permalink": "/docs/citation-styles/the-journal-of-transport-history"
+  }
+}

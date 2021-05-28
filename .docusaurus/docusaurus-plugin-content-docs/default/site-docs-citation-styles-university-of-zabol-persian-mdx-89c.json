@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-zabol-persian",
+  "id": "citation-styles/university-of-zabol-persian",
+  "isDocsHomePage": false,
+  "title": "university-of-zabol-persian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-zabol-persian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-zabol-persian",
+  "permalink": "/docs/citation-styles/university-of-zabol-persian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-zabol-persian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-zabol-english",
+    "permalink": "/docs/citation-styles/university-of-zabol-english"
+  },
+  "next": {
+    "title": "univerza-na-primorskem--fakulteta-za-vede-o-zdravju--apa-slovenian",
+    "permalink": "/docs/citation-styles/univerza-na-primorskem--fakulteta-za-vede-o-zdravju--apa-slovenian"
+  }
+}

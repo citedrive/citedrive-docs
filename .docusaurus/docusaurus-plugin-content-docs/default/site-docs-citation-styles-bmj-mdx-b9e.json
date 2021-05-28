@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bmj",
+  "id": "citation-styles/bmj",
+  "isDocsHomePage": false,
+  "title": "bmj",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bmj.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bmj",
+  "permalink": "/docs/citation-styles/bmj",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bmj.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bluebook-law-review",
+    "permalink": "/docs/citation-styles/bluebook-law-review"
+  },
+  "next": {
+    "title": "body-and-society",
+    "permalink": "/docs/citation-styles/body-and-society"
+  }
+}

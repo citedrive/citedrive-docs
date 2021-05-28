@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+  "id": "citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+  "isDocsHomePage": false,
+  "title": "ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+  "permalink": "/docs/citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering",
+    "permalink": "/docs/citation-styles/ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering"
+  },
+  "next": {
+    "title": "russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+    "permalink": "/docs/citation-styles/russian-gost-r-7052008-numeric-sorted-alphabetically-russian"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hainan-medical-university-journal-publisher",
+  "id": "citation-styles/hainan-medical-university-journal-publisher",
+  "isDocsHomePage": false,
+  "title": "hainan-medical-university-journal-publisher",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hainan-medical-university-journal-publisher.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hainan-medical-university-journal-publisher",
+  "permalink": "/docs/citation-styles/hainan-medical-university-journal-publisher",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hainan-medical-university-journal-publisher.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "haemophilia",
+    "permalink": "/docs/citation-styles/haemophilia"
+  },
+  "next": {
+    "title": "hamburg-school-of-food-science-diploma-german",
+    "permalink": "/docs/citation-styles/hamburg-school-of-food-science-diploma-german"
+  }
+}

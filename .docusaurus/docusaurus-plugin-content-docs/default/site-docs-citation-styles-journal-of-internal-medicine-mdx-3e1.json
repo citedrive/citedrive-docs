@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-internal-medicine",
+  "id": "citation-styles/journal-of-internal-medicine",
+  "isDocsHomePage": false,
+  "title": "journal-of-internal-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-internal-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-internal-medicine",
+  "permalink": "/docs/citation-styles/journal-of-internal-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-internal-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-interactive-marketing",
+    "permalink": "/docs/citation-styles/journal-of-interactive-marketing"
+  },
+  "next": {
+    "title": "journal-of-international-business-studies",
+    "permalink": "/docs/citation-styles/journal-of-international-business-studies"
+  }
+}

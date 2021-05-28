@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cultural-geographies",
+  "id": "citation-styles/cultural-geographies",
+  "isDocsHomePage": false,
+  "title": "cultural-geographies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cultural-geographies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cultural-geographies",
+  "permalink": "/docs/citation-styles/cultural-geographies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cultural-geographies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cultivos-tropicales-spanish",
+    "permalink": "/docs/citation-styles/cultivos-tropicales-spanish"
+  },
+  "next": {
+    "title": "cultural-studies-of-science-education",
+    "permalink": "/docs/citation-styles/cultural-studies-of-science-education"
+  }
+}

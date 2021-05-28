@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/indian-dermatology-online-journal",
+  "id": "citation-styles/indian-dermatology-online-journal",
+  "isDocsHomePage": false,
+  "title": "indian-dermatology-online-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/indian-dermatology-online-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/indian-dermatology-online-journal",
+  "permalink": "/docs/citation-styles/indian-dermatology-online-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/indian-dermatology-online-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "imperial-college-london--vancouver",
+    "permalink": "/docs/citation-styles/imperial-college-london--vancouver"
+  },
+  "next": {
+    "title": "indian-journal-of-medical-research",
+    "permalink": "/docs/citation-styles/indian-journal-of-medical-research"
+  }
+}

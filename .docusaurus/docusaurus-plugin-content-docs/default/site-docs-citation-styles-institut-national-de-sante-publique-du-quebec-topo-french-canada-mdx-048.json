@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada",
+  "id": "citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada",
+  "isDocsHomePage": false,
+  "title": "institut-national-de-sante-publique-du-quebec--topo-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada",
+  "permalink": "/docs/citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/institut-national-de-sante-publique-du-quebec--topo-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-national-de-sante-publique-du-quebec--napp-french--canada",
+    "permalink": "/docs/citation-styles/institut-national-de-sante-publique-du-quebec--napp-french--canada"
+  },
+  "next": {
+    "title": "institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+    "permalink": "/docs/citation-styles/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian"
+  }
+}

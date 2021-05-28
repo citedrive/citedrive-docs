@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aci-materials-journal",
+  "id": "citation-styles/aci-materials-journal",
+  "isDocsHomePage": false,
+  "title": "aci-materials-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aci-materials-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aci-materials-journal",
+  "permalink": "/docs/citation-styles/aci-materials-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aci-materials-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "accident-analysis-and-prevention",
+    "permalink": "/docs/citation-styles/accident-analysis-and-prevention"
+  },
+  "next": {
+    "title": "acm-sig-proceedings-et-al-for-15-authors",
+    "permalink": "/docs/citation-styles/acm-sig-proceedings-et-al-for-15-authors"
+  }
+}

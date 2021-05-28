@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aids",
+  "id": "citation-styles/aids",
+  "isDocsHomePage": false,
+  "title": "aids",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aids.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aids",
+  "permalink": "/docs/citation-styles/aids",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aids.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aib-studi-italian",
+    "permalink": "/docs/citation-styles/aib-studi-italian"
+  },
+  "next": {
+    "title": "aims-press",
+    "permalink": "/docs/citation-styles/aims-press"
+  }
+}

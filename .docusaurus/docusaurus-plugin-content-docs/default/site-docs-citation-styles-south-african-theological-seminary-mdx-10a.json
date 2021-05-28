@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/south-african-theological-seminary",
+  "id": "citation-styles/south-african-theological-seminary",
+  "isDocsHomePage": false,
+  "title": "south-african-theological-seminary",
+  "description": "---",
+  "source": "@site/docs/citation-styles/south-african-theological-seminary.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/south-african-theological-seminary",
+  "permalink": "/docs/citation-styles/south-african-theological-seminary",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/south-african-theological-seminary.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "south-african-journal-of-geology",
+    "permalink": "/docs/citation-styles/south-african-journal-of-geology"
+  },
+  "next": {
+    "title": "southeastern-geographer",
+    "permalink": "/docs/citation-styles/southeastern-geographer"
+  }
+}

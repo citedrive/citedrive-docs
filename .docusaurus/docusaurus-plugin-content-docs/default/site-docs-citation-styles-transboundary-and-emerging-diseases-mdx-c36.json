@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/transboundary-and-emerging-diseases",
+  "id": "citation-styles/transboundary-and-emerging-diseases",
+  "isDocsHomePage": false,
+  "title": "transboundary-and-emerging-diseases",
+  "description": "---",
+  "source": "@site/docs/citation-styles/transboundary-and-emerging-diseases.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/transboundary-and-emerging-diseases",
+  "permalink": "/docs/citation-styles/transboundary-and-emerging-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/transboundary-and-emerging-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transactions-of-the-materials-research-society-of-japan",
+    "permalink": "/docs/citation-styles/transactions-of-the-materials-research-society-of-japan"
+  },
+  "next": {
+    "title": "transnational-environmental-law",
+    "permalink": "/docs/citation-styles/transnational-environmental-law"
+  }
+}

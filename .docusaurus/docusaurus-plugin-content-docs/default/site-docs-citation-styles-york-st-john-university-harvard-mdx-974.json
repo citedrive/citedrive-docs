@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/york-st-john-university--harvard",
+  "id": "citation-styles/york-st-john-university--harvard",
+  "isDocsHomePage": false,
+  "title": "york-st-john-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/york-st-john-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/york-st-john-university--harvard",
+  "permalink": "/docs/citation-styles/york-st-john-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/york-st-john-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "yeast",
+    "permalink": "/docs/citation-styles/yeast"
+  },
+  "next": {
+    "title": "yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+    "permalink": "/docs/citation-styles/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-animal-physiology-and-animal-nutrition",
+  "id": "citation-styles/journal-of-animal-physiology-and-animal-nutrition",
+  "isDocsHomePage": false,
+  "title": "journal-of-animal-physiology-and-animal-nutrition",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-animal-physiology-and-animal-nutrition.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-animal-physiology-and-animal-nutrition",
+  "permalink": "/docs/citation-styles/journal-of-animal-physiology-and-animal-nutrition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-animal-physiology-and-animal-nutrition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-analytical-toxicology",
+    "permalink": "/docs/citation-styles/journal-of-analytical-toxicology"
+  },
+  "next": {
+    "title": "journal-of-animal-science",
+    "permalink": "/docs/citation-styles/journal-of-animal-science"
+  }
+}

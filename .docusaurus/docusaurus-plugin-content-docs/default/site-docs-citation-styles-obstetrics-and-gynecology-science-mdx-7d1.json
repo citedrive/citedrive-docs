@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/obstetrics-and-gynecology-science",
+  "id": "citation-styles/obstetrics-and-gynecology-science",
+  "isDocsHomePage": false,
+  "title": "obstetrics-and-gynecology-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/obstetrics-and-gynecology-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/obstetrics-and-gynecology-science",
+  "permalink": "/docs/citation-styles/obstetrics-and-gynecology-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/obstetrics-and-gynecology-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obesity",
+    "permalink": "/docs/citation-styles/obesity"
+  },
+  "next": {
+    "title": "occupational-medicine",
+    "permalink": "/docs/citation-styles/occupational-medicine"
+  }
+}

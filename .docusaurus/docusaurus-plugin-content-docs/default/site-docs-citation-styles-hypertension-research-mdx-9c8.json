@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hypertension-research",
+  "id": "citation-styles/hypertension-research",
+  "isDocsHomePage": false,
+  "title": "hypertension-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hypertension-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hypertension-research",
+  "permalink": "/docs/citation-styles/hypertension-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hypertension-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hydrological-sciences-journal",
+    "permalink": "/docs/citation-styles/hydrological-sciences-journal"
+  },
+  "next": {
+    "title": "hypotheses-in-the-life-sciences",
+    "permalink": "/docs/citation-styles/hypotheses-in-the-life-sciences"
+  }
+}

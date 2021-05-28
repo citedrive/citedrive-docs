@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bluebook-inline",
+  "id": "citation-styles/bluebook-inline",
+  "isDocsHomePage": false,
+  "title": "bluebook-inline",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bluebook-inline.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bluebook-inline",
+  "permalink": "/docs/citation-styles/bluebook-inline",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bluebook-inline.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "blood",
+    "permalink": "/docs/citation-styles/blood"
+  },
+  "next": {
+    "title": "bluebook-law-review-2",
+    "permalink": "/docs/citation-styles/bluebook-law-review-2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/asia-pacific-journal-of-human-resources",
+  "id": "citation-styles/asia-pacific-journal-of-human-resources",
+  "isDocsHomePage": false,
+  "title": "asia-pacific-journal-of-human-resources",
+  "description": "---",
+  "source": "@site/docs/citation-styles/asia-pacific-journal-of-human-resources.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/asia-pacific-journal-of-human-resources",
+  "permalink": "/docs/citation-styles/asia-pacific-journal-of-human-resources",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/asia-pacific-journal-of-human-resources.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asia-and-the-pacific-policy-studies",
+    "permalink": "/docs/citation-styles/asia-and-the-pacific-policy-studies"
+  },
+  "next": {
+    "title": "asian-journal-of-neurosurgery",
+    "permalink": "/docs/citation-styles/asian-journal-of-neurosurgery"
+  }
+}

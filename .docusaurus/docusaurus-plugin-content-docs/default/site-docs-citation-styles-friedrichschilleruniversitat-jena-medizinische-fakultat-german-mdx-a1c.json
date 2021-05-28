@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+  "id": "citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+  "isDocsHomePage": false,
+  "title": "friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+  "permalink": "/docs/citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "freshwater-science",
+    "permalink": "/docs/citation-styles/freshwater-science"
+  },
+  "next": {
+    "title": "frontiers-in-bioscience",
+    "permalink": "/docs/citation-styles/frontiers-in-bioscience"
+  }
+}

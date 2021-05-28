@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/oxidation-of-metals",
+  "id": "citation-styles/oxidation-of-metals",
+  "isDocsHomePage": false,
+  "title": "oxidation-of-metals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/oxidation-of-metals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/oxidation-of-metals",
+  "permalink": "/docs/citation-styles/oxidation-of-metals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/oxidation-of-metals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-university-press-scimed-numeric",
+    "permalink": "/docs/citation-styles/oxford-university-press-scimed-numeric"
+  },
+  "next": {
+    "title": "pacific-conservation-biology",
+    "permalink": "/docs/citation-styles/pacific-conservation-biology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sexual-development",
+  "id": "citation-styles/sexual-development",
+  "isDocsHomePage": false,
+  "title": "sexual-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sexual-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sexual-development",
+  "permalink": "/docs/citation-styles/sexual-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sexual-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "service-medical-de-lassurance-maladie-french",
+    "permalink": "/docs/citation-styles/service-medical-de-lassurance-maladie-french"
+  },
+  "next": {
+    "title": "sexual-health",
+    "permalink": "/docs/citation-styles/sexual-health"
+  }
+}

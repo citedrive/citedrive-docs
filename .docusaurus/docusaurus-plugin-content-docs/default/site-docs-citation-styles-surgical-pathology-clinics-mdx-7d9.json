@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/surgical-pathology-clinics",
+  "id": "citation-styles/surgical-pathology-clinics",
+  "isDocsHomePage": false,
+  "title": "surgical-pathology-clinics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/surgical-pathology-clinics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/surgical-pathology-clinics",
+  "permalink": "/docs/citation-styles/surgical-pathology-clinics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/surgical-pathology-clinics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "surgical-neurology-international",
+    "permalink": "/docs/citation-styles/surgical-neurology-international"
+  },
+  "next": {
+    "title": "svensk-exegetisk-arsbok-full-note",
+    "permalink": "/docs/citation-styles/svensk-exegetisk-arsbok-full-note"
+  }
+}

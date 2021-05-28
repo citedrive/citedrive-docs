@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/u-schyku-starozytnosci-polish",
+  "id": "citation-styles/u-schyku-starozytnosci-polish",
+  "isDocsHomePage": false,
+  "title": "u-schyku-starozytnosci-polish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/u-schyku-starozytnosci-polish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/u-schyku-starozytnosci-polish",
+  "permalink": "/docs/citation-styles/u-schyku-starozytnosci-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/u-schyku-starozytnosci-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "twentiethcentury-music",
+    "permalink": "/docs/citation-styles/twentiethcentury-music"
+  },
+  "next": {
+    "title": "ucl-university-college--harvard-danish",
+    "permalink": "/docs/citation-styles/ucl-university-college--harvard-danish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-institute-of-aeronautics-and-astronautics",
+  "id": "citation-styles/american-institute-of-aeronautics-and-astronautics",
+  "isDocsHomePage": false,
+  "title": "american-institute-of-aeronautics-and-astronautics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-institute-of-aeronautics-and-astronautics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-institute-of-aeronautics-and-astronautics",
+  "permalink": "/docs/citation-styles/american-institute-of-aeronautics-and-astronautics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-institute-of-aeronautics-and-astronautics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-heart-association",
+    "permalink": "/docs/citation-styles/american-heart-association"
+  },
+  "next": {
+    "title": "american-institute-of-physics",
+    "permalink": "/docs/citation-styles/american-institute-of-physics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/health-and-social-care-in-the-community",
+  "id": "citation-styles/health-and-social-care-in-the-community",
+  "isDocsHomePage": false,
+  "title": "health-and-social-care-in-the-community",
+  "description": "---",
+  "source": "@site/docs/citation-styles/health-and-social-care-in-the-community.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/health-and-social-care-in-the-community",
+  "permalink": "/docs/citation-styles/health-and-social-care-in-the-community",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/health-and-social-care-in-the-community.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-and-human-rights-journal",
+    "permalink": "/docs/citation-styles/health-and-human-rights-journal"
+  },
+  "next": {
+    "title": "health-economics-policy-and-law",
+    "permalink": "/docs/citation-styles/health-economics-policy-and-law"
+  }
+}

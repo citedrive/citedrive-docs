@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/multimed-spanish",
+  "id": "citation-styles/multimed-spanish",
+  "isDocsHomePage": false,
+  "title": "multimed-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/multimed-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/multimed-spanish",
+  "permalink": "/docs/citation-styles/multimed-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/multimed-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multidisciplinary-digital-publishing-institute",
+    "permalink": "/docs/citation-styles/multidisciplinary-digital-publishing-institute"
+  },
+  "next": {
+    "title": "multiple-sclerosis-journal",
+    "permalink": "/docs/citation-styles/multiple-sclerosis-journal"
+  }
+}

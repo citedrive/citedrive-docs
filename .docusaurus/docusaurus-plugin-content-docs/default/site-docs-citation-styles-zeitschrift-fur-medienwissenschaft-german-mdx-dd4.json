@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-medienwissenschaft-german",
+  "id": "citation-styles/zeitschrift-fur-medienwissenschaft-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-medienwissenschaft-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-medienwissenschaft-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-medienwissenschaft-german",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-medienwissenschaft-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-medienwissenschaft-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-medien-und-kulturforschung-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-ostmitteleuropaforschung-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-ostmitteleuropaforschung-german"
+  }
+}

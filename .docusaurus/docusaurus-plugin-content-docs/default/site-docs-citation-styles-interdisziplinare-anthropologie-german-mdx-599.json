@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/interdisziplinare-anthropologie-german",
+  "id": "citation-styles/interdisziplinare-anthropologie-german",
+  "isDocsHomePage": false,
+  "title": "interdisziplinare-anthropologie-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/interdisziplinare-anthropologie-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/interdisziplinare-anthropologie-german",
+  "permalink": "/docs/citation-styles/interdisziplinare-anthropologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/interdisziplinare-anthropologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interactive-cardiovascular-and-thoracic-surgery",
+    "permalink": "/docs/citation-styles/interactive-cardiovascular-and-thoracic-surgery"
+  },
+  "next": {
+    "title": "interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+    "permalink": "/docs/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german"
+  }
+}

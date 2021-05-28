@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/occupational-medicine",
+  "id": "citation-styles/occupational-medicine",
+  "isDocsHomePage": false,
+  "title": "occupational-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/occupational-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/occupational-medicine",
+  "permalink": "/docs/citation-styles/occupational-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/occupational-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obstetrics-and-gynecology-science",
+    "permalink": "/docs/citation-styles/obstetrics-and-gynecology-science"
+  },
+  "next": {
+    "title": "oceanography",
+    "permalink": "/docs/citation-styles/oceanography"
+  }
+}

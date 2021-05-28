@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+  "id": "citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+  "permalink": "/docs/citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-polymer-analysis-and-characterization",
+    "permalink": "/docs/citation-styles/international-journal-of-polymer-analysis-and-characterization"
+  },
+  "next": {
+    "title": "international-journal-of-population-data-science",
+    "permalink": "/docs/citation-styles/international-journal-of-population-data-science"
+  }
+}

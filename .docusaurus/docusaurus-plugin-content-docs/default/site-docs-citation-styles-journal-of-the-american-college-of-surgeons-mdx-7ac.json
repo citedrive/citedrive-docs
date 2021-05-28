@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-american-college-of-surgeons",
+  "id": "citation-styles/journal-of-the-american-college-of-surgeons",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-college-of-surgeons",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-american-college-of-surgeons.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-american-college-of-surgeons",
+  "permalink": "/docs/citation-styles/journal-of-the-american-college-of-surgeons",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-american-college-of-surgeons.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-college-of-cardiology",
+    "permalink": "/docs/citation-styles/journal-of-the-american-college-of-cardiology"
+  },
+  "next": {
+    "title": "journal-of-the-american-heart-association",
+    "permalink": "/docs/citation-styles/journal-of-the-american-heart-association"
+  }
+}

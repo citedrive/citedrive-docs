@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german",
+  "id": "citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--wirtschaftswissenschaften-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german",
+  "permalink": "/docs/citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/technische-universitat-dresden--wirtschaftswissenschaften-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--medizin",
+    "permalink": "/docs/citation-styles/technische-universitat-dresden--medizin"
+  },
+  "next": {
+    "title": "technische-universitat-munchen--controlling-german",
+    "permalink": "/docs/citation-styles/technische-universitat-munchen--controlling-german"
+  }
+}

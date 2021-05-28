@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--fachzeitschriften-medizin-psychologie-german",
+  "id": "citation-styles/springer--fachzeitschriften-medizin-psychologie-german",
+  "isDocsHomePage": false,
+  "title": "springer--fachzeitschriften-medizin-psychologie-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--fachzeitschriften-medizin-psychologie-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--fachzeitschriften-medizin-psychologie-german",
+  "permalink": "/docs/citation-styles/springer--fachzeitschriften-medizin-psychologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--fachzeitschriften-medizin-psychologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-numeric-brackets",
+    "permalink": "/docs/citation-styles/springer--basic-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--humanities-authordate",
+    "permalink": "/docs/citation-styles/springer--humanities-authordate"
+  }
+}

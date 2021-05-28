@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/fachhochschule-vorarlberg-authordate",
+  "id": "citation-styles/fachhochschule-vorarlberg-authordate",
+  "isDocsHomePage": false,
+  "title": "fachhochschule-vorarlberg-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/fachhochschule-vorarlberg-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/fachhochschule-vorarlberg-authordate",
+  "permalink": "/docs/citation-styles/fachhochschule-vorarlberg-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/fachhochschule-vorarlberg-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fachhochschule-salzburg--harvard",
+    "permalink": "/docs/citation-styles/fachhochschule-salzburg--harvard"
+  },
+  "next": {
+    "title": "fachhochschule-vorarlberg-note",
+    "permalink": "/docs/citation-styles/fachhochschule-vorarlberg-note"
+  }
+}

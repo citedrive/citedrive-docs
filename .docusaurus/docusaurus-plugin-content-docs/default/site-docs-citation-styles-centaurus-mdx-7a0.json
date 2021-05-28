@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/centaurus",
+  "id": "citation-styles/centaurus",
+  "isDocsHomePage": false,
+  "title": "centaurus",
+  "description": "---",
+  "source": "@site/docs/citation-styles/centaurus.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/centaurus",
+  "permalink": "/docs/citation-styles/centaurus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/centaurus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cellular-reprogramming",
+    "permalink": "/docs/citation-styles/cellular-reprogramming"
+  },
+  "next": {
+    "title": "centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french",
+    "permalink": "/docs/citation-styles/centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french"
+  }
+}

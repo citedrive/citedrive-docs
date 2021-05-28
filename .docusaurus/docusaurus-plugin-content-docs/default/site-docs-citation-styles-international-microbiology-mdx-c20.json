@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-microbiology",
+  "id": "citation-styles/international-microbiology",
+  "isDocsHomePage": false,
+  "title": "international-microbiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-microbiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-microbiology",
+  "permalink": "/docs/citation-styles/international-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-wildland-fire",
+    "permalink": "/docs/citation-styles/international-journal-of-wildland-fire"
+  },
+  "next": {
+    "title": "international-organization",
+    "permalink": "/docs/citation-styles/international-organization"
+  }
+}

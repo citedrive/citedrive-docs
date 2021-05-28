@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/agriculturae-conspectus-scientificus",
+  "id": "citation-styles/agriculturae-conspectus-scientificus",
+  "isDocsHomePage": false,
+  "title": "agriculturae-conspectus-scientificus",
+  "description": "---",
+  "source": "@site/docs/citation-styles/agriculturae-conspectus-scientificus.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/agriculturae-conspectus-scientificus",
+  "permalink": "/docs/citation-styles/agriculturae-conspectus-scientificus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/agriculturae-conspectus-scientificus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agora",
+    "permalink": "/docs/citation-styles/agora"
+  },
+  "next": {
+    "title": "aib-studi-italian",
+    "permalink": "/docs/citation-styles/aib-studi-italian"
+  }
+}

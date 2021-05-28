@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/integrative-and-comparative-biology",
+  "id": "citation-styles/integrative-and-comparative-biology",
+  "isDocsHomePage": false,
+  "title": "integrative-and-comparative-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/integrative-and-comparative-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/integrative-and-comparative-biology",
+  "permalink": "/docs/citation-styles/integrative-and-comparative-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/integrative-and-comparative-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrated-science-publishing-journals",
+    "permalink": "/docs/citation-styles/integrated-science-publishing-journals"
+  },
+  "next": {
+    "title": "inter-romanian-review-for-theological-and-religious-studies",
+    "permalink": "/docs/citation-styles/inter-romanian-review-for-theological-and-religious-studies"
+  }
+}

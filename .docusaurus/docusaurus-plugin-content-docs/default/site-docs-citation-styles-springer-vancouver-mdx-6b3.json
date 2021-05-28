@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--vancouver",
+  "id": "citation-styles/springer--vancouver",
+  "isDocsHomePage": false,
+  "title": "springer--vancouver",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--vancouver.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--vancouver",
+  "permalink": "/docs/citation-styles/springer--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--vancouver-brackets",
+    "permalink": "/docs/citation-styles/springer--vancouver-brackets"
+  },
+  "next": {
+    "title": "springer-vs-authordate-german",
+    "permalink": "/docs/citation-styles/springer-vs-authordate-german"
+  }
+}

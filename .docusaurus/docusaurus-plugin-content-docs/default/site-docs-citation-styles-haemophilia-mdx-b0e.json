@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/haemophilia",
+  "id": "citation-styles/haemophilia",
+  "isDocsHomePage": false,
+  "title": "haemophilia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/haemophilia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/haemophilia",
+  "permalink": "/docs/citation-styles/haemophilia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/haemophilia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "haematologica",
+    "permalink": "/docs/citation-styles/haematologica"
+  },
+  "next": {
+    "title": "hainan-medical-university-journal-publisher",
+    "permalink": "/docs/citation-styles/hainan-medical-university-journal-publisher"
+  }
+}

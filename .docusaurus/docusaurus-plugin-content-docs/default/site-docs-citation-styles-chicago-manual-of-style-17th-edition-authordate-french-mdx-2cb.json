@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/chicago-manual-of-style-17th-edition-authordate-french",
+  "id": "citation-styles/chicago-manual-of-style-17th-edition-authordate-french",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-authordate-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/chicago-manual-of-style-17th-edition-authordate-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/chicago-manual-of-style-17th-edition-authordate-french",
+  "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/chicago-manual-of-style-17th-edition-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-16th-edition-note",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-16th-edition-note"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-authordate",
+    "permalink": "/docs/citation-styles/chicago-manual-of-style-17th-edition-authordate"
+  }
+}

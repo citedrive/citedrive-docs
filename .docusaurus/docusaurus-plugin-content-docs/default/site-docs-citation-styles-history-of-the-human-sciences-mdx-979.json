@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/history-of-the-human-sciences",
+  "id": "citation-styles/history-of-the-human-sciences",
+  "isDocsHomePage": false,
+  "title": "history-of-the-human-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/history-of-the-human-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/history-of-the-human-sciences",
+  "permalink": "/docs/citation-styles/history-of-the-human-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/history-of-the-human-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "history-australia",
+    "permalink": "/docs/citation-styles/history-australia"
+  },
+  "next": {
+    "title": "hochschule-bonnrheinsieg-german",
+    "permalink": "/docs/citation-styles/hochschule-bonnrheinsieg-german"
+  }
+}

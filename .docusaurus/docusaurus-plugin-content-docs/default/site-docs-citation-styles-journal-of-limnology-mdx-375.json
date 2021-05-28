@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-limnology",
+  "id": "citation-styles/journal-of-limnology",
+  "isDocsHomePage": false,
+  "title": "journal-of-limnology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-limnology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-limnology",
+  "permalink": "/docs/citation-styles/journal-of-limnology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-limnology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-leukocyte-biology",
+    "permalink": "/docs/citation-styles/journal-of-leukocyte-biology"
+  },
+  "next": {
+    "title": "journal-of-linguistics",
+    "permalink": "/docs/citation-styles/journal-of-linguistics"
+  }
+}

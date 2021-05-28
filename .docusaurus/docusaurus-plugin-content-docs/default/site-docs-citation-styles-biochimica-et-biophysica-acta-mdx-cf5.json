@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biochimica-et-biophysica-acta",
+  "id": "citation-styles/biochimica-et-biophysica-acta",
+  "isDocsHomePage": false,
+  "title": "biochimica-et-biophysica-acta",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biochimica-et-biophysica-acta.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biochimica-et-biophysica-acta",
+  "permalink": "/docs/citation-styles/biochimica-et-biophysica-acta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biochimica-et-biophysica-acta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochemistry",
+    "permalink": "/docs/citation-styles/biochemistry"
+  },
+  "next": {
+    "title": "bioelectromagnetics",
+    "permalink": "/docs/citation-styles/bioelectromagnetics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-saudi-journal-for-dental-research",
+  "id": "citation-styles/the-saudi-journal-for-dental-research",
+  "isDocsHomePage": false,
+  "title": "the-saudi-journal-for-dental-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-saudi-journal-for-dental-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-saudi-journal-for-dental-research",
+  "permalink": "/docs/citation-styles/the-saudi-journal-for-dental-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-saudi-journal-for-dental-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-rockefeller-university-press",
+    "permalink": "/docs/citation-styles/the-rockefeller-university-press"
+  },
+  "next": {
+    "title": "the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+    "permalink": "/docs/citation-styles/the-scandinavian-journal-of-clinical-and-laboratory-investigation"
+  }
+}

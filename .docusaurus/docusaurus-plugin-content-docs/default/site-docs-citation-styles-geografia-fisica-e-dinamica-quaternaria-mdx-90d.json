@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/geografia-fisica-e-dinamica-quaternaria",
+  "id": "citation-styles/geografia-fisica-e-dinamica-quaternaria",
+  "isDocsHomePage": false,
+  "title": "geografia-fisica-e-dinamica-quaternaria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/geografia-fisica-e-dinamica-quaternaria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/geografia-fisica-e-dinamica-quaternaria",
+  "permalink": "/docs/citation-styles/geografia-fisica-e-dinamica-quaternaria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/geografia-fisica-e-dinamica-quaternaria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geochronometria",
+    "permalink": "/docs/citation-styles/geochronometria"
+  },
+  "next": {
+    "title": "geografie-sbornik-cgs",
+    "permalink": "/docs/citation-styles/geografie-sbornik-cgs"
+  }
+}

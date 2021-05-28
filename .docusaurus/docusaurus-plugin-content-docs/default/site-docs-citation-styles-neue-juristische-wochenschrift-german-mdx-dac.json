@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/neue-juristische-wochenschrift-german",
+  "id": "citation-styles/neue-juristische-wochenschrift-german",
+  "isDocsHomePage": false,
+  "title": "neue-juristische-wochenschrift-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/neue-juristische-wochenschrift-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/neue-juristische-wochenschrift-german",
+  "permalink": "/docs/citation-styles/neue-juristische-wochenschrift-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/neue-juristische-wochenschrift-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nephrology-dialysis-transplantation",
+    "permalink": "/docs/citation-styles/nephrology-dialysis-transplantation"
+  },
+  "next": {
+    "title": "neural-plasticity",
+    "permalink": "/docs/citation-styles/neural-plasticity"
+  }
+}

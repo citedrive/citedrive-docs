@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hochschule-hannover--soziale-arbeit-german",
+  "id": "citation-styles/hochschule-hannover--soziale-arbeit-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-hannover--soziale-arbeit-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hochschule-hannover--soziale-arbeit-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hochschule-hannover--soziale-arbeit-german",
+  "permalink": "/docs/citation-styles/hochschule-hannover--soziale-arbeit-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hochschule-hannover--soziale-arbeit-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-fur-wirtschaft-und-recht-berlin-german",
+    "permalink": "/docs/citation-styles/hochschule-fur-wirtschaft-und-recht-berlin-german"
+  },
+  "next": {
+    "title": "hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german",
+    "permalink": "/docs/citation-styles/hochschule-munchen--fakultat-fur-angewandte-sozialwissenschaften-german"
+  }
+}

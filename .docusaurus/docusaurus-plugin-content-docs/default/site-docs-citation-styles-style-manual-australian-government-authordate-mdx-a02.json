@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/style-manual--australian-government-authordate",
+  "id": "citation-styles/style-manual--australian-government-authordate",
+  "isDocsHomePage": false,
+  "title": "style-manual--australian-government-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/style-manual--australian-government-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/style-manual--australian-government-authordate",
+  "permalink": "/docs/citation-styles/style-manual--australian-government-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/style-manual--australian-government-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "studii-teologice",
+    "permalink": "/docs/citation-styles/studii-teologice"
+  },
+  "next": {
+    "title": "style-manual--australian-government-note",
+    "permalink": "/docs/citation-styles/style-manual--australian-government-note"
+  }
+}

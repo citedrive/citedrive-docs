@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/antarctic-science",
+  "id": "citation-styles/antarctic-science",
+  "isDocsHomePage": false,
+  "title": "antarctic-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/antarctic-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/antarctic-science",
+  "permalink": "/docs/citation-styles/antarctic-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/antarctic-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+    "permalink": "/docs/citation-styles/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil"
+  },
+  "next": {
+    "title": "anthropologie-et-societes-french",
+    "permalink": "/docs/citation-styles/anthropologie-et-societes-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-american-journal-of-gastroenterology",
+  "id": "citation-styles/the-american-journal-of-gastroenterology",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-gastroenterology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-american-journal-of-gastroenterology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-american-journal-of-gastroenterology",
+  "permalink": "/docs/citation-styles/the-american-journal-of-gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-american-journal-of-gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-cardiology",
+    "permalink": "/docs/citation-styles/the-american-journal-of-cardiology"
+  },
+  "next": {
+    "title": "the-american-journal-of-geriatric-psychiatry",
+    "permalink": "/docs/citation-styles/the-american-journal-of-geriatric-psychiatry"
+  }
+}

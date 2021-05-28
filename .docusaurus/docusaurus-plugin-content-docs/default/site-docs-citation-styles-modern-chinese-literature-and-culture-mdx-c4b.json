@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/modern-chinese-literature-and-culture",
+  "id": "citation-styles/modern-chinese-literature-and-culture",
+  "isDocsHomePage": false,
+  "title": "modern-chinese-literature-and-culture",
+  "description": "---",
+  "source": "@site/docs/citation-styles/modern-chinese-literature-and-culture.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/modern-chinese-literature-and-culture",
+  "permalink": "/docs/citation-styles/modern-chinese-literature-and-culture",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/modern-chinese-literature-and-culture.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mis-quarterly",
+    "permalink": "/docs/citation-styles/mis-quarterly"
+  },
+  "next": {
+    "title": "modern-humanities-research-association-3rd-edition-authordate",
+    "permalink": "/docs/citation-styles/modern-humanities-research-association-3rd-edition-authordate"
+  }
+}

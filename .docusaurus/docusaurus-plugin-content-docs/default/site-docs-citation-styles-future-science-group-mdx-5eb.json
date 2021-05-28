@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/future-science-group",
+  "id": "citation-styles/future-science-group",
+  "isDocsHomePage": false,
+  "title": "future-science-group",
+  "description": "---",
+  "source": "@site/docs/citation-styles/future-science-group.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/future-science-group",
+  "permalink": "/docs/citation-styles/future-science-group",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/future-science-group.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "future-medicine-journals",
+    "permalink": "/docs/citation-styles/future-medicine-journals"
+  },
+  "next": {
+    "title": "g-giappichelli-editore-italian",
+    "permalink": "/docs/citation-styles/g-giappichelli-editore-italian"
+  }
+}

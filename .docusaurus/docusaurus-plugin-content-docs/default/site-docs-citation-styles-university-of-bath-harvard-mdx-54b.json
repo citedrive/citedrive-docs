@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/university-of-bath--harvard",
+  "id": "citation-styles/university-of-bath--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-bath--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/university-of-bath--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/university-of-bath--harvard",
+  "permalink": "/docs/citation-styles/university-of-bath--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/university-of-bath--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-auckland--history",
+    "permalink": "/docs/citation-styles/university-of-auckland--history"
+  },
+  "next": {
+    "title": "university-of-birmingham--harvard",
+    "permalink": "/docs/citation-styles/university-of-birmingham--harvard"
+  }
+}

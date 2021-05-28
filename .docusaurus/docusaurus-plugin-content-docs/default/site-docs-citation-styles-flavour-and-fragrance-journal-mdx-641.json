@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/flavour-and-fragrance-journal",
+  "id": "citation-styles/flavour-and-fragrance-journal",
+  "isDocsHomePage": false,
+  "title": "flavour-and-fragrance-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/flavour-and-fragrance-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/flavour-and-fragrance-journal",
+  "permalink": "/docs/citation-styles/flavour-and-fragrance-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/flavour-and-fragrance-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fishery-bulletin",
+    "permalink": "/docs/citation-styles/fishery-bulletin"
+  },
+  "next": {
+    "title": "florida-entomologist",
+    "permalink": "/docs/citation-styles/florida-entomologist"
+  }
+}

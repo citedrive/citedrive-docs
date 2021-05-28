@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/transport",
+  "id": "citation-styles/transport",
+  "isDocsHomePage": false,
+  "title": "transport",
+  "description": "---",
+  "source": "@site/docs/citation-styles/transport.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/transport",
+  "permalink": "/docs/citation-styles/transport",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/transport.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transplantation",
+    "permalink": "/docs/citation-styles/transplantation"
+  },
+  "next": {
+    "title": "transportation-research-record-journal-of-the-transportation-research-board",
+    "permalink": "/docs/citation-styles/transportation-research-record-journal-of-the-transportation-research-board"
+  }
+}

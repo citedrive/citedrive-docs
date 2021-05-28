@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "id": "citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "isDocsHomePage": false,
+  "title": "georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "permalink": "/docs/citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geopolitics",
+    "permalink": "/docs/citation-styles/geopolitics"
+  },
+  "next": {
+    "title": "geriatrics-and-gerontology-international",
+    "permalink": "/docs/citation-styles/geriatrics-and-gerontology-international"
+  }
+}

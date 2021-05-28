@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+  "id": "citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+  "permalink": "/docs/citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universite-du-quebec-a-montreal--departement-dhistoire-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-sherbrooke--faculte-deducation-french--canada",
+    "permalink": "/docs/citation-styles/universite-de-sherbrooke--faculte-deducation-french--canada"
+  },
+  "next": {
+    "title": "universite-du-quebec-a-montreal--etudes-litteraires-et-semiologie-french--canada",
+    "permalink": "/docs/citation-styles/universite-du-quebec-a-montreal--etudes-litteraires-et-semiologie-french--canada"
+  }
+}

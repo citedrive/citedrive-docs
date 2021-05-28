@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revue-francaise-de-gestion-french",
+  "id": "citation-styles/revue-francaise-de-gestion-french",
+  "isDocsHomePage": false,
+  "title": "revue-francaise-de-gestion-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revue-francaise-de-gestion-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revue-francaise-de-gestion-french",
+  "permalink": "/docs/citation-styles/revue-francaise-de-gestion-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revue-francaise-de-gestion-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-francaise-dadministration-publique-french",
+    "permalink": "/docs/citation-styles/revue-francaise-dadministration-publique-french"
+  },
+  "next": {
+    "title": "revue-francaise-de-sociologie-french",
+    "permalink": "/docs/citation-styles/revue-francaise-de-sociologie-french"
+  }
+}

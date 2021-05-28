@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biochemistry-and-molecular-biology-education",
+  "id": "citation-styles/biochemistry-and-molecular-biology-education",
+  "isDocsHomePage": false,
+  "title": "biochemistry-and-molecular-biology-education",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biochemistry-and-molecular-biology-education.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biochemistry-and-molecular-biology-education",
+  "permalink": "/docs/citation-styles/biochemistry-and-molecular-biology-education",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biochemistry-and-molecular-biology-education.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochemical-society-transactions",
+    "permalink": "/docs/citation-styles/biochemical-society-transactions"
+  },
+  "next": {
+    "title": "biochemistry",
+    "permalink": "/docs/citation-styles/biochemistry"
+  }
+}

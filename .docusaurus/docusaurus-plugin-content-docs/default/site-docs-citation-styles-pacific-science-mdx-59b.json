@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pacific-science",
+  "id": "citation-styles/pacific-science",
+  "isDocsHomePage": false,
+  "title": "pacific-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pacific-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pacific-science",
+  "permalink": "/docs/citation-styles/pacific-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pacific-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pacific-conservation-biology",
+    "permalink": "/docs/citation-styles/pacific-conservation-biology"
+  },
+  "next": {
+    "title": "padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+    "permalink": "/docs/citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe"
+  }
+}

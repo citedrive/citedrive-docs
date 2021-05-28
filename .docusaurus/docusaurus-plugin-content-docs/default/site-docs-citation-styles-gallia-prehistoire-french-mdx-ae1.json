@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/gallia-prehistoire-french",
+  "id": "citation-styles/gallia-prehistoire-french",
+  "isDocsHomePage": false,
+  "title": "gallia-prehistoire-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/gallia-prehistoire-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/gallia-prehistoire-french",
+  "permalink": "/docs/citation-styles/gallia-prehistoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/gallia-prehistoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gallia-french",
+    "permalink": "/docs/citation-styles/gallia-french"
+  },
+  "next": {
+    "title": "gastroenterology",
+    "permalink": "/docs/citation-styles/gastroenterology"
+  }
+}

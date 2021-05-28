@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-molecular-cell-biology",
+  "id": "citation-styles/journal-of-molecular-cell-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-molecular-cell-biology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-molecular-cell-biology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-molecular-cell-biology",
+  "permalink": "/docs/citation-styles/journal-of-molecular-cell-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-molecular-cell-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-minimally-invasive-gynecology",
+    "permalink": "/docs/citation-styles/journal-of-minimally-invasive-gynecology"
+  },
+  "next": {
+    "title": "journal-of-molecular-endocrinology",
+    "permalink": "/docs/citation-styles/journal-of-molecular-endocrinology"
+  }
+}

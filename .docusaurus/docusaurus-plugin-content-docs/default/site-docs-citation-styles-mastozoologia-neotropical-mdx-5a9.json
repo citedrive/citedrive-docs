@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mastozoologia-neotropical",
+  "id": "citation-styles/mastozoologia-neotropical",
+  "isDocsHomePage": false,
+  "title": "mastozoologia-neotropical",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mastozoologia-neotropical.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mastozoologia-neotropical",
+  "permalink": "/docs/citation-styles/mastozoologia-neotropical",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mastozoologia-neotropical.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+    "permalink": "/docs/citation-styles/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish"
+  },
+  "next": {
+    "title": "materials-express",
+    "permalink": "/docs/citation-styles/materials-express"
+  }
+}

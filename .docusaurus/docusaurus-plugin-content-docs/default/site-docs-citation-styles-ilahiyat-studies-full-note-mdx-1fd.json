@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ilahiyat-studies-full-note",
+  "id": "citation-styles/ilahiyat-studies-full-note",
+  "isDocsHomePage": false,
+  "title": "ilahiyat-studies-full-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ilahiyat-studies-full-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ilahiyat-studies-full-note",
+  "permalink": "/docs/citation-styles/ilahiyat-studies-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ilahiyat-studies-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iicacatie-spanish",
+    "permalink": "/docs/citation-styles/iicacatie-spanish"
+  },
+  "next": {
+    "title": "im-gesprach--hefte-der-martin-bubergesellschaft-german",
+    "permalink": "/docs/citation-styles/im-gesprach--hefte-der-martin-bubergesellschaft-german"
+  }
+}

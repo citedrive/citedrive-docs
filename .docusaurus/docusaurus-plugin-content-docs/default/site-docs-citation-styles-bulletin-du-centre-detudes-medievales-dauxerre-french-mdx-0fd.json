@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french",
+  "id": "citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french",
+  "isDocsHomePage": false,
+  "title": "bulletin-du-centre-detudes-medievales-dauxerre-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french",
+  "permalink": "/docs/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/bulletin-du-centre-detudes-medievales-dauxerre-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-de-correspondance-hellenique-french",
+    "permalink": "/docs/citation-styles/bulletin-de-correspondance-hellenique-french"
+  },
+  "next": {
+    "title": "bulletin-of-geosciences",
+    "permalink": "/docs/citation-styles/bulletin-of-geosciences"
+  }
+}

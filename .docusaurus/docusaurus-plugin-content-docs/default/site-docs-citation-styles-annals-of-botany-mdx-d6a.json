@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annals-of-botany",
+  "id": "citation-styles/annals-of-botany",
+  "isDocsHomePage": false,
+  "title": "annals-of-botany",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annals-of-botany.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annals-of-botany",
+  "permalink": "/docs/citation-styles/annals-of-botany",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annals-of-botany.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-biomedical-engineering",
+    "permalink": "/docs/citation-styles/annals-of-biomedical-engineering"
+  },
+  "next": {
+    "title": "annals-of-joint",
+    "permalink": "/docs/citation-styles/annals-of-joint"
+  }
+}

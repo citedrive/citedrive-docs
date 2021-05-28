@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/antiquity",
+  "id": "citation-styles/antiquity",
+  "isDocsHomePage": false,
+  "title": "antiquity",
+  "description": "---",
+  "source": "@site/docs/citation-styles/antiquity.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/antiquity",
+  "permalink": "/docs/citation-styles/antiquity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/antiquity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antiquites-africaines",
+    "permalink": "/docs/citation-styles/antiquites-africaines"
+  },
+  "next": {
+    "title": "aporia-the-nursing-journal",
+    "permalink": "/docs/citation-styles/aporia-the-nursing-journal"
+  }
+}

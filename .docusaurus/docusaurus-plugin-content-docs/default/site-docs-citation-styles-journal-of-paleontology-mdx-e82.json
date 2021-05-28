@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-paleontology",
+  "id": "citation-styles/journal-of-paleontology",
+  "isDocsHomePage": false,
+  "title": "journal-of-paleontology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-paleontology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-paleontology",
+  "permalink": "/docs/citation-styles/journal-of-paleontology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-paleontology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-orthopaedics-trauma-and-rehabilitation",
+    "permalink": "/docs/citation-styles/journal-of-orthopaedics-trauma-and-rehabilitation"
+  },
+  "next": {
+    "title": "journal-of-peace-research",
+    "permalink": "/docs/citation-styles/journal-of-peace-research"
+  }
+}

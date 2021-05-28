@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/finanzarchiv--public-finance-analysis",
+  "id": "citation-styles/finanzarchiv--public-finance-analysis",
+  "isDocsHomePage": false,
+  "title": "finanzarchiv--public-finance-analysis",
+  "description": "---",
+  "source": "@site/docs/citation-styles/finanzarchiv--public-finance-analysis.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/finanzarchiv--public-finance-analysis",
+  "permalink": "/docs/citation-styles/finanzarchiv--public-finance-analysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/finanzarchiv--public-finance-analysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finance-and-society",
+    "permalink": "/docs/citation-styles/finance-and-society"
+  },
+  "next": {
+    "title": "fine-focus",
+    "permalink": "/docs/citation-styles/fine-focus"
+  }
+}

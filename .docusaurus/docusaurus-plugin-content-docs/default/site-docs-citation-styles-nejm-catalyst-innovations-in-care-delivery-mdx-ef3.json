@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/nejm-catalyst-innovations-in-care-delivery",
+  "id": "citation-styles/nejm-catalyst-innovations-in-care-delivery",
+  "isDocsHomePage": false,
+  "title": "nejm-catalyst-innovations-in-care-delivery",
+  "description": "---",
+  "source": "@site/docs/citation-styles/nejm-catalyst-innovations-in-care-delivery.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/nejm-catalyst-innovations-in-care-delivery",
+  "permalink": "/docs/citation-styles/nejm-catalyst-innovations-in-care-delivery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/nejm-catalyst-innovations-in-care-delivery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nehet-french",
+    "permalink": "/docs/citation-styles/nehet-french"
+  },
+  "next": {
+    "title": "nephrology-dialysis-transplantation",
+    "permalink": "/docs/citation-styles/nephrology-dialysis-transplantation"
+  }
+}

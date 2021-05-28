@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+  "id": "citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+  "isDocsHomePage": false,
+  "title": "canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+  "description": "---",
+  "source": "@site/docs/citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+  "permalink": "/docs/citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-geotechnical-journal",
+    "permalink": "/docs/citation-styles/canadian-geotechnical-journal"
+  },
+  "next": {
+    "title": "canadian-journal-of-chemistry",
+    "permalink": "/docs/citation-styles/canadian-journal-of-chemistry"
+  }
+}

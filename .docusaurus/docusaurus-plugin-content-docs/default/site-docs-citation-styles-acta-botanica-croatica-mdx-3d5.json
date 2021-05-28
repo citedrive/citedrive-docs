@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acta-botanica-croatica",
+  "id": "citation-styles/acta-botanica-croatica",
+  "isDocsHomePage": false,
+  "title": "acta-botanica-croatica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acta-botanica-croatica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acta-botanica-croatica",
+  "permalink": "/docs/citation-styles/acta-botanica-croatica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acta-botanica-croatica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-anaesthesiologica-taiwanica",
+    "permalink": "/docs/citation-styles/acta-anaesthesiologica-taiwanica"
+  },
+  "next": {
+    "title": "acta-chiropterologica",
+    "permalink": "/docs/citation-styles/acta-chiropterologica"
+  }
+}

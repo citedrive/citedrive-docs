@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ecological-restoration",
+  "id": "citation-styles/ecological-restoration",
+  "isDocsHomePage": false,
+  "title": "ecological-restoration",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ecological-restoration.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ecological-restoration",
+  "permalink": "/docs/citation-styles/ecological-restoration",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ecological-restoration.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecological-entomology",
+    "permalink": "/docs/citation-styles/ecological-entomology"
+  },
+  "next": {
+    "title": "ecology-and-society",
+    "permalink": "/docs/citation-styles/ecology-and-society"
+  }
+}

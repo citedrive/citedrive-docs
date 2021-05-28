@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/australian-critical-care",
+  "id": "citation-styles/australian-critical-care",
+  "isDocsHomePage": false,
+  "title": "australian-critical-care",
+  "description": "---",
+  "source": "@site/docs/citation-styles/australian-critical-care.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/australian-critical-care",
+  "permalink": "/docs/citation-styles/australian-critical-care",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/australian-critical-care.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-archaeology",
+    "permalink": "/docs/citation-styles/australian-archaeology"
+  },
+  "next": {
+    "title": "australian-dental-journal",
+    "permalink": "/docs/citation-styles/australian-dental-journal"
+  }
+}

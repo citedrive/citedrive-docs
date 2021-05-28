@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-society-of-civil-engineers",
+  "id": "citation-styles/american-society-of-civil-engineers",
+  "isDocsHomePage": false,
+  "title": "american-society-of-civil-engineers",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-society-of-civil-engineers.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-society-of-civil-engineers",
+  "permalink": "/docs/citation-styles/american-society-of-civil-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-society-of-civil-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america",
+    "permalink": "/docs/citation-styles/american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america"
+  },
+  "next": {
+    "title": "american-society-of-mechanical-engineers",
+    "permalink": "/docs/citation-styles/american-society-of-mechanical-engineers"
+  }
+}

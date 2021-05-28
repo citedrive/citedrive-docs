@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/laser-and-photonics-reviews",
+  "id": "citation-styles/laser-and-photonics-reviews",
+  "isDocsHomePage": false,
+  "title": "laser-and-photonics-reviews",
+  "description": "---",
+  "source": "@site/docs/citation-styles/laser-and-photonics-reviews.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/laser-and-photonics-reviews",
+  "permalink": "/docs/citation-styles/laser-and-photonics-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/laser-and-photonics-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lannee-sociologique-french",
+    "permalink": "/docs/citation-styles/lannee-sociologique-french"
+  },
+  "next": {
+    "title": "latin-american-perspectives",
+    "permalink": "/docs/citation-styles/latin-american-perspectives"
+  }
+}

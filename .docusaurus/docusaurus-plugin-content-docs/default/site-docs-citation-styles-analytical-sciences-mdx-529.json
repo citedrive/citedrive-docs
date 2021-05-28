@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/analytical-sciences",
+  "id": "citation-styles/analytical-sciences",
+  "isDocsHomePage": false,
+  "title": "analytical-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/analytical-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/analytical-sciences",
+  "permalink": "/docs/citation-styles/analytical-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/analytical-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anaesthesia",
+    "permalink": "/docs/citation-styles/anaesthesia"
+  },
+  "next": {
+    "title": "anatomical-sciences-education",
+    "permalink": "/docs/citation-styles/anatomical-sciences-education"
+  }
+}

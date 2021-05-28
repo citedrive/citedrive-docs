@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/british-journal-of-dermatology",
+  "id": "citation-styles/british-journal-of-dermatology",
+  "isDocsHomePage": false,
+  "title": "british-journal-of-dermatology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/british-journal-of-dermatology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/british-journal-of-dermatology",
+  "permalink": "/docs/citation-styles/british-journal-of-dermatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/british-journal-of-dermatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "british-journal-of-clinical-pharmacology",
+    "permalink": "/docs/citation-styles/british-journal-of-clinical-pharmacology"
+  },
+  "next": {
+    "title": "british-journal-of-haematology",
+    "permalink": "/docs/citation-styles/british-journal-of-haematology"
+  }
+}

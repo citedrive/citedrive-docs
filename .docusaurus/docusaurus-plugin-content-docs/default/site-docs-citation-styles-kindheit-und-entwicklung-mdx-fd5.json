@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/kindheit-und-entwicklung",
+  "id": "citation-styles/kindheit-und-entwicklung",
+  "isDocsHomePage": false,
+  "title": "kindheit-und-entwicklung",
+  "description": "---",
+  "source": "@site/docs/citation-styles/kindheit-und-entwicklung.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/kindheit-und-entwicklung",
+  "permalink": "/docs/citation-styles/kindheit-und-entwicklung",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/kindheit-und-entwicklung.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kidney-research-and-clinical-practice",
+    "permalink": "/docs/citation-styles/kidney-research-and-clinical-practice"
+  },
+  "next": {
+    "title": "kings-college-london--harvard",
+    "permalink": "/docs/citation-styles/kings-college-london--harvard"
+  }
+}

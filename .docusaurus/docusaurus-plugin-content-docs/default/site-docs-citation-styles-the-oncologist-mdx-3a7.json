@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-oncologist",
+  "id": "citation-styles/the-oncologist",
+  "isDocsHomePage": false,
+  "title": "the-oncologist",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-oncologist.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-oncologist",
+  "permalink": "/docs/citation-styles/the-oncologist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-oncologist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-new-england-journal-of-medicine",
+    "permalink": "/docs/citation-styles/the-new-england-journal-of-medicine"
+  },
+  "next": {
+    "title": "the-open-university--a251--arts-course",
+    "permalink": "/docs/citation-styles/the-open-university--a251--arts-course"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/australian-veterinary-journal",
+  "id": "citation-styles/australian-veterinary-journal",
+  "isDocsHomePage": false,
+  "title": "australian-veterinary-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/australian-veterinary-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/australian-veterinary-journal",
+  "permalink": "/docs/citation-styles/australian-veterinary-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/australian-veterinary-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-journal-of-grape-and-wine-research",
+    "permalink": "/docs/citation-styles/australian-journal-of-grape-and-wine-research"
+  },
+  "next": {
+    "title": "austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+    "permalink": "/docs/citation-styles/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik"
+  }
+}

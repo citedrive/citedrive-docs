@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revue-des-nouvelles-technologies-de-linformation-french",
+  "id": "citation-styles/revue-des-nouvelles-technologies-de-linformation-french",
+  "isDocsHomePage": false,
+  "title": "revue-des-nouvelles-technologies-de-linformation-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revue-des-nouvelles-technologies-de-linformation-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revue-des-nouvelles-technologies-de-linformation-french",
+  "permalink": "/docs/citation-styles/revue-des-nouvelles-technologies-de-linformation-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revue-des-nouvelles-technologies-de-linformation-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-des-etudes-byzantines",
+    "permalink": "/docs/citation-styles/revue-des-etudes-byzantines"
+  },
+  "next": {
+    "title": "revue-dhistoire-des-sciences-humaines-french",
+    "permalink": "/docs/citation-styles/revue-dhistoire-des-sciences-humaines-french"
+  }
+}

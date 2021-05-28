@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/arzneimitteltherapie",
+  "id": "citation-styles/arzneimitteltherapie",
+  "isDocsHomePage": false,
+  "title": "arzneimitteltherapie",
+  "description": "---",
+  "source": "@site/docs/citation-styles/arzneimitteltherapie.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/arzneimitteltherapie",
+  "permalink": "/docs/citation-styles/arzneimitteltherapie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/arzneimitteltherapie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arts-university-bournemouth",
+    "permalink": "/docs/citation-styles/arts-university-bournemouth"
+  },
+  "next": {
+    "title": "asaio-journal-american-society-for-artificial-internal-organs",
+    "permalink": "/docs/citation-styles/asaio-journal-american-society-for-artificial-internal-organs"
+  }
+}

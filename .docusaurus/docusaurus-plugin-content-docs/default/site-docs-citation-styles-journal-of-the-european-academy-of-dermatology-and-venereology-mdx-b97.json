@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology",
+  "id": "citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-european-academy-of-dermatology-and-venereology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology",
+  "permalink": "/docs/citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-european-academy-of-dermatology-and-venereology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-electrochemical-society",
+    "permalink": "/docs/citation-styles/journal-of-the-electrochemical-society"
+  },
+  "next": {
+    "title": "journal-of-the-indian-law-institute",
+    "permalink": "/docs/citation-styles/journal-of-the-indian-law-institute"
+  }
+}

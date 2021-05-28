@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/society-of-biblical-literature-2nd-edition-authordate",
+  "id": "citation-styles/society-of-biblical-literature-2nd-edition-authordate",
+  "isDocsHomePage": false,
+  "title": "society-of-biblical-literature-2nd-edition-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/society-of-biblical-literature-2nd-edition-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/society-of-biblical-literature-2nd-edition-authordate",
+  "permalink": "/docs/citation-styles/society-of-biblical-literature-2nd-edition-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/society-of-biblical-literature-2nd-edition-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-of-automotive-engineers-technical-papers-numeric",
+    "permalink": "/docs/citation-styles/society-of-automotive-engineers-technical-papers-numeric"
+  },
+  "next": {
+    "title": "society-of-biblical-literature-2nd-edition-full-note",
+    "permalink": "/docs/citation-styles/society-of-biblical-literature-2nd-edition-full-note"
+  }
+}

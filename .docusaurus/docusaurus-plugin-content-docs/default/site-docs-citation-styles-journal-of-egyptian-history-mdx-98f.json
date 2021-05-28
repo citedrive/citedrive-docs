@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-egyptian-history",
+  "id": "citation-styles/journal-of-egyptian-history",
+  "isDocsHomePage": false,
+  "title": "journal-of-egyptian-history",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-egyptian-history.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-egyptian-history",
+  "permalink": "/docs/citation-styles/journal-of-egyptian-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-egyptian-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-early-christian-studies",
+    "permalink": "/docs/citation-styles/journal-of-early-christian-studies"
+  },
+  "next": {
+    "title": "journal-of-elections-public-opinion-and-parties",
+    "permalink": "/docs/citation-styles/journal-of-elections-public-opinion-and-parties"
+  }
+}

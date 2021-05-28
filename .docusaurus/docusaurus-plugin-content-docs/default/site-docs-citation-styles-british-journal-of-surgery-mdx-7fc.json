@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/british-journal-of-surgery",
+  "id": "citation-styles/british-journal-of-surgery",
+  "isDocsHomePage": false,
+  "title": "british-journal-of-surgery",
+  "description": "---",
+  "source": "@site/docs/citation-styles/british-journal-of-surgery.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/british-journal-of-surgery",
+  "permalink": "/docs/citation-styles/british-journal-of-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/british-journal-of-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "british-journal-of-political-science",
+    "permalink": "/docs/citation-styles/british-journal-of-political-science"
+  },
+  "next": {
+    "title": "budownictwo-i-architektura",
+    "permalink": "/docs/citation-styles/budownictwo-i-architektura"
+  }
+}

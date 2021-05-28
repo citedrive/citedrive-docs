@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-medien-und-kulturforschung-german",
+  "id": "citation-styles/zeitschrift-fur-medien-und-kulturforschung-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-medien-und-kulturforschung-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-medien-und-kulturforschung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-kunstgeschichte",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-kunstgeschichte"
+  },
+  "next": {
+    "title": "zeitschrift-fur-medienwissenschaft-german",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-medienwissenschaft-german"
+  }
+}

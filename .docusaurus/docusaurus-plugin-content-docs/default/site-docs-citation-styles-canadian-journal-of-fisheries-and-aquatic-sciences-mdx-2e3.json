@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "id": "citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "isDocsHomePage": false,
+  "title": "canadian-journal-of-fisheries-and-aquatic-sciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "permalink": "/docs/citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-economics",
+    "permalink": "/docs/citation-styles/canadian-journal-of-economics"
+  },
+  "next": {
+    "title": "canadian-journal-of-physics",
+    "permalink": "/docs/citation-styles/canadian-journal-of-physics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-neurophysiology",
+  "id": "citation-styles/journal-of-neurophysiology",
+  "isDocsHomePage": false,
+  "title": "journal-of-neurophysiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-neurophysiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-neurophysiology",
+  "permalink": "/docs/citation-styles/journal-of-neurophysiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-neurophysiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neurological-disorders",
+    "permalink": "/docs/citation-styles/journal-of-neurological-disorders"
+  },
+  "next": {
+    "title": "journal-of-neuroscience-and-neuroengineering",
+    "permalink": "/docs/citation-styles/journal-of-neuroscience-and-neuroengineering"
+  }
+}

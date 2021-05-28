@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revue-dhistoire-des-sciences-humaines-french",
+  "id": "citation-styles/revue-dhistoire-des-sciences-humaines-french",
+  "isDocsHomePage": false,
+  "title": "revue-dhistoire-des-sciences-humaines-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revue-dhistoire-des-sciences-humaines-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revue-dhistoire-des-sciences-humaines-french",
+  "permalink": "/docs/citation-styles/revue-dhistoire-des-sciences-humaines-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revue-dhistoire-des-sciences-humaines-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-des-nouvelles-technologies-de-linformation-french",
+    "permalink": "/docs/citation-styles/revue-des-nouvelles-technologies-de-linformation-french"
+  },
+  "next": {
+    "title": "revue-dhistoire-moderne-et-contemporaine-french",
+    "permalink": "/docs/citation-styles/revue-dhistoire-moderne-et-contemporaine-french"
+  }
+}

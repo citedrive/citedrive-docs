@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/allergy",
+  "id": "citation-styles/allergy",
+  "isDocsHomePage": false,
+  "title": "allergy",
+  "description": "---",
+  "source": "@site/docs/citation-styles/allergy.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/allergy",
+  "permalink": "/docs/citation-styles/allergy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/allergy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "allergology-international",
+    "permalink": "/docs/citation-styles/allergology-international"
+  },
+  "next": {
+    "title": "alternatives-to-animal-experimentation",
+    "permalink": "/docs/citation-styles/alternatives-to-animal-experimentation"
+  }
+}

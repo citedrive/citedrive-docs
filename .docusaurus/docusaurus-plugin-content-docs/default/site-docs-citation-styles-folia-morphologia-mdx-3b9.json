@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/folia-morphologia",
+  "id": "citation-styles/folia-morphologia",
+  "isDocsHomePage": false,
+  "title": "folia-morphologia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/folia-morphologia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/folia-morphologia",
+  "permalink": "/docs/citation-styles/folia-morphologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/folia-morphologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "folia-biologica",
+    "permalink": "/docs/citation-styles/folia-biologica"
+  },
+  "next": {
+    "title": "food-and-agriculture-organization-of-the-united-nations",
+    "permalink": "/docs/citation-styles/food-and-agriculture-organization-of-the-united-nations"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/current-protocols-journals",
+  "id": "citation-styles/current-protocols-journals",
+  "isDocsHomePage": false,
+  "title": "current-protocols-journals",
+  "description": "---",
+  "source": "@site/docs/citation-styles/current-protocols-journals.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/current-protocols-journals",
+  "permalink": "/docs/citation-styles/current-protocols-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/current-protocols-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-proteomics",
+    "permalink": "/docs/citation-styles/current-proteomics"
+  },
+  "next": {
+    "title": "current-science",
+    "permalink": "/docs/citation-styles/current-science"
+  }
+}

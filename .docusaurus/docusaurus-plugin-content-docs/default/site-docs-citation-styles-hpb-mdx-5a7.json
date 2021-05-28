@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hpb",
+  "id": "citation-styles/hpb",
+  "isDocsHomePage": false,
+  "title": "hpb",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hpb.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hpb",
+  "permalink": "/docs/citation-styles/hpb",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hpb.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "housing-studies",
+    "permalink": "/docs/citation-styles/housing-studies"
+  },
+  "next": {
+    "title": "human-brain-mapping",
+    "permalink": "/docs/citation-styles/human-brain-mapping"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/animal-conservation",
+  "id": "citation-styles/animal-conservation",
+  "isDocsHomePage": false,
+  "title": "animal-conservation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/animal-conservation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/animal-conservation",
+  "permalink": "/docs/citation-styles/animal-conservation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/animal-conservation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anglia",
+    "permalink": "/docs/citation-styles/anglia"
+  },
+  "next": {
+    "title": "animal-migration",
+    "permalink": "/docs/citation-styles/animal-migration"
+  }
+}

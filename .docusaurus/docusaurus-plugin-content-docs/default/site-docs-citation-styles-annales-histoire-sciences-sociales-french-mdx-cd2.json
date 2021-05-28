@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annales-histoire-sciences-sociales-french",
+  "id": "citation-styles/annales-histoire-sciences-sociales-french",
+  "isDocsHomePage": false,
+  "title": "annales-histoire-sciences-sociales-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annales-histoire-sciences-sociales-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annales-histoire-sciences-sociales-french",
+  "permalink": "/docs/citation-styles/annales-histoire-sciences-sociales-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annales-histoire-sciences-sociales-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annales-de-demographie-historique",
+    "permalink": "/docs/citation-styles/annales-de-demographie-historique"
+  },
+  "next": {
+    "title": "annals-of-applied-biology",
+    "permalink": "/docs/citation-styles/annals-of-applied-biology"
+  }
+}

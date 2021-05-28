@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/health-education-research",
+  "id": "citation-styles/health-education-research",
+  "isDocsHomePage": false,
+  "title": "health-education-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/health-education-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/health-education-research",
+  "permalink": "/docs/citation-styles/health-education-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/health-education-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-economics",
+    "permalink": "/docs/citation-styles/health-economics"
+  },
+  "next": {
+    "title": "health-policy-and-planning",
+    "permalink": "/docs/citation-styles/health-policy-and-planning"
+  }
+}

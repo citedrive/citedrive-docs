@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/acme-an-international-journal-for-critical-geographies",
+  "id": "citation-styles/acme-an-international-journal-for-critical-geographies",
+  "isDocsHomePage": false,
+  "title": "acme-an-international-journal-for-critical-geographies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/acme-an-international-journal-for-critical-geographies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/acme-an-international-journal-for-critical-geographies",
+  "permalink": "/docs/citation-styles/acme-an-international-journal-for-critical-geographies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/acme-an-international-journal-for-critical-geographies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acm-siggraph",
+    "permalink": "/docs/citation-styles/acm-siggraph"
+  },
+  "next": {
+    "title": "acta-amazonica",
+    "permalink": "/docs/citation-styles/acta-amazonica"
+  }
+}

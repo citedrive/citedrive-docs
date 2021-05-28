@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/perspectives-on-sexual-and-reproductive-health",
+  "id": "citation-styles/perspectives-on-sexual-and-reproductive-health",
+  "isDocsHomePage": false,
+  "title": "perspectives-on-sexual-and-reproductive-health",
+  "description": "---",
+  "source": "@site/docs/citation-styles/perspectives-on-sexual-and-reproductive-health.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/perspectives-on-sexual-and-reproductive-health",
+  "permalink": "/docs/citation-styles/perspectives-on-sexual-and-reproductive-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/perspectives-on-sexual-and-reproductive-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "permafrost-and-periglacial-processes",
+    "permalink": "/docs/citation-styles/permafrost-and-periglacial-processes"
+  },
+  "next": {
+    "title": "pest-management-science",
+    "permalink": "/docs/citation-styles/pest-management-science"
+  }
+}

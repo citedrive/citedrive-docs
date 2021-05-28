@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-human-evolution",
+  "id": "citation-styles/journal-of-human-evolution",
+  "isDocsHomePage": false,
+  "title": "journal-of-human-evolution",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-human-evolution.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-human-evolution",
+  "permalink": "/docs/citation-styles/journal-of-human-evolution",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-human-evolution.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-hearing-science",
+    "permalink": "/docs/citation-styles/journal-of-hearing-science"
+  },
+  "next": {
+    "title": "journal-of-hypertension",
+    "permalink": "/docs/citation-styles/journal-of-hypertension"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cold-spring-harbor-laboratory-press",
+  "id": "citation-styles/cold-spring-harbor-laboratory-press",
+  "isDocsHomePage": false,
+  "title": "cold-spring-harbor-laboratory-press",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cold-spring-harbor-laboratory-press.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cold-spring-harbor-laboratory-press",
+  "permalink": "/docs/citation-styles/cold-spring-harbor-laboratory-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cold-spring-harbor-laboratory-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cns-and-neurological-disorders--drug-targets",
+    "permalink": "/docs/citation-styles/cns-and-neurological-disorders--drug-targets"
+  },
+  "next": {
+    "title": "collection-de-lecole-francaise-de-rome-full-note-french",
+    "permalink": "/docs/citation-styles/collection-de-lecole-francaise-de-rome-full-note-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/korean-journal-of-anesthesiology",
+  "id": "citation-styles/korean-journal-of-anesthesiology",
+  "isDocsHomePage": false,
+  "title": "korean-journal-of-anesthesiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/korean-journal-of-anesthesiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/korean-journal-of-anesthesiology",
+  "permalink": "/docs/citation-styles/korean-journal-of-anesthesiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/korean-journal-of-anesthesiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kona-powder-and-particle-journal",
+    "permalink": "/docs/citation-styles/kona-powder-and-particle-journal"
+  },
+  "next": {
+    "title": "korean-journal-of-radiology",
+    "permalink": "/docs/citation-styles/korean-journal-of-radiology"
+  }
+}

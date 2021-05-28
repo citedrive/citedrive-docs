@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cell-transplantation",
+  "id": "citation-styles/cell-transplantation",
+  "isDocsHomePage": false,
+  "title": "cell-transplantation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cell-transplantation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cell-transplantation",
+  "permalink": "/docs/citation-styles/cell-transplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cell-transplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell-structure-and-function",
+    "permalink": "/docs/citation-styles/cell-structure-and-function"
+  },
+  "next": {
+    "title": "cell",
+    "permalink": "/docs/citation-styles/cell"
+  }
+}

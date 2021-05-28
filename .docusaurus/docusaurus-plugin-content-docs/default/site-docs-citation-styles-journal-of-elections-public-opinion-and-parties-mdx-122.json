@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-elections-public-opinion-and-parties",
+  "id": "citation-styles/journal-of-elections-public-opinion-and-parties",
+  "isDocsHomePage": false,
+  "title": "journal-of-elections-public-opinion-and-parties",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-elections-public-opinion-and-parties.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-elections-public-opinion-and-parties",
+  "permalink": "/docs/citation-styles/journal-of-elections-public-opinion-and-parties",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-elections-public-opinion-and-parties.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-egyptian-history",
+    "permalink": "/docs/citation-styles/journal-of-egyptian-history"
+  },
+  "next": {
+    "title": "journal-of-endodontics",
+    "permalink": "/docs/citation-styles/journal-of-endodontics"
+  }
+}

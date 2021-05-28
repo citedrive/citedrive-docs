@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/industrial-relations",
+  "id": "citation-styles/industrial-relations",
+  "isDocsHomePage": false,
+  "title": "industrial-relations",
+  "description": "---",
+  "source": "@site/docs/citation-styles/industrial-relations.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/industrial-relations",
+  "permalink": "/docs/citation-styles/industrial-relations",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/industrial-relations.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indoor-air",
+    "permalink": "/docs/citation-styles/indoor-air"
+  },
+  "next": {
+    "title": "infectio-spanish",
+    "permalink": "/docs/citation-styles/infectio-spanish"
+  }
+}

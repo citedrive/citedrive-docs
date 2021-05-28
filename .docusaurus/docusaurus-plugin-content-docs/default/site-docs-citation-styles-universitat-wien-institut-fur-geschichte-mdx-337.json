@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universitat-wien--institut-fur-geschichte",
+  "id": "citation-styles/universitat-wien--institut-fur-geschichte",
+  "isDocsHomePage": false,
+  "title": "universitat-wien--institut-fur-geschichte",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universitat-wien--institut-fur-geschichte.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universitat-wien--institut-fur-geschichte",
+  "permalink": "/docs/citation-styles/universitat-wien--institut-fur-geschichte",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universitat-wien--institut-fur-geschichte.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-stuttgart--planung-und-partizipation-german",
+    "permalink": "/docs/citation-styles/universitat-stuttgart--planung-und-partizipation-german"
+  },
+  "next": {
+    "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+    "permalink": "/docs/citation-styles/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german"
+  }
+}

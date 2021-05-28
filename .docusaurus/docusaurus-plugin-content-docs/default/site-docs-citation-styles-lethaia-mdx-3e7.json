@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/lethaia",
+  "id": "citation-styles/lethaia",
+  "isDocsHomePage": false,
+  "title": "lethaia",
+  "description": "---",
+  "source": "@site/docs/citation-styles/lethaia.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/lethaia",
+  "permalink": "/docs/citation-styles/lethaia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/lethaia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "les-nouvelles-de-larcheologie-french",
+    "permalink": "/docs/citation-styles/les-nouvelles-de-larcheologie-french"
+  },
+  "next": {
+    "title": "letters-in-applied-microbiology",
+    "permalink": "/docs/citation-styles/letters-in-applied-microbiology"
+  }
+}

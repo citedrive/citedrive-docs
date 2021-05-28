@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/rhodora",
+  "id": "citation-styles/rhodora",
+  "isDocsHomePage": false,
+  "title": "rhodora",
+  "description": "---",
+  "source": "@site/docs/citation-styles/rhodora.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/rhodora",
+  "permalink": "/docs/citation-styles/rhodora",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/rhodora.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rhinology",
+    "permalink": "/docs/citation-styles/rhinology"
+  },
+  "next": {
+    "title": "risk-analysis",
+    "permalink": "/docs/citation-styles/risk-analysis"
+  }
+}

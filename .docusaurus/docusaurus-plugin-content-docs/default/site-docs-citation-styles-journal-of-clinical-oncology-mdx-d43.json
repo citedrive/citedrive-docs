@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-clinical-oncology",
+  "id": "citation-styles/journal-of-clinical-oncology",
+  "isDocsHomePage": false,
+  "title": "journal-of-clinical-oncology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-clinical-oncology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-clinical-oncology",
+  "permalink": "/docs/citation-styles/journal-of-clinical-oncology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-clinical-oncology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-clinical-neurophysiology",
+    "permalink": "/docs/citation-styles/journal-of-clinical-neurophysiology"
+  },
+  "next": {
+    "title": "journal-of-clinical-rheumatology",
+    "permalink": "/docs/citation-styles/journal-of-clinical-rheumatology"
+  }
+}

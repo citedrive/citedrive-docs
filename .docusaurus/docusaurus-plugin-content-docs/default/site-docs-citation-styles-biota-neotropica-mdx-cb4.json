@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/biota-neotropica",
+  "id": "citation-styles/biota-neotropica",
+  "isDocsHomePage": false,
+  "title": "biota-neotropica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/biota-neotropica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/biota-neotropica",
+  "permalink": "/docs/citation-styles/biota-neotropica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/biota-neotropica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biosocieties",
+    "permalink": "/docs/citation-styles/biosocieties"
+  },
+  "next": {
+    "title": "biotechniques",
+    "permalink": "/docs/citation-styles/biotechniques"
+  }
+}

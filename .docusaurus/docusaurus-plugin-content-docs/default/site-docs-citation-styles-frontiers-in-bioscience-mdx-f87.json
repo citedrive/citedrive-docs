@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/frontiers-in-bioscience",
+  "id": "citation-styles/frontiers-in-bioscience",
+  "isDocsHomePage": false,
+  "title": "frontiers-in-bioscience",
+  "description": "---",
+  "source": "@site/docs/citation-styles/frontiers-in-bioscience.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/frontiers-in-bioscience",
+  "permalink": "/docs/citation-styles/frontiers-in-bioscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/frontiers-in-bioscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+    "permalink": "/docs/citation-styles/friedrichschilleruniversitat-jena--medizinische-fakultat-german"
+  },
+  "next": {
+    "title": "frontiers-in-ecology-and-the-environment",
+    "permalink": "/docs/citation-styles/frontiers-in-ecology-and-the-environment"
+  }
+}

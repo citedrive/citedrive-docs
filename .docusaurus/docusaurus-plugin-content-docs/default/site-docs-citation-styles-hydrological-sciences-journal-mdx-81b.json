@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/hydrological-sciences-journal",
+  "id": "citation-styles/hydrological-sciences-journal",
+  "isDocsHomePage": false,
+  "title": "hydrological-sciences-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/hydrological-sciences-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/hydrological-sciences-journal",
+  "permalink": "/docs/citation-styles/hydrological-sciences-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/hydrological-sciences-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hydrological-processes",
+    "permalink": "/docs/citation-styles/hydrological-processes"
+  },
+  "next": {
+    "title": "hypertension-research",
+    "permalink": "/docs/citation-styles/hypertension-research"
+  }
+}

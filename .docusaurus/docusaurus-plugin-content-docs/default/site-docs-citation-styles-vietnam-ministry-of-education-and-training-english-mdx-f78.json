@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/vietnam-ministry-of-education-and-training-english",
+  "id": "citation-styles/vietnam-ministry-of-education-and-training-english",
+  "isDocsHomePage": false,
+  "title": "vietnam-ministry-of-education-and-training-english",
+  "description": "---",
+  "source": "@site/docs/citation-styles/vietnam-ministry-of-education-and-training-english.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/vietnam-ministry-of-education-and-training-english",
+  "permalink": "/docs/citation-styles/vietnam-ministry-of-education-and-training-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/vietnam-ministry-of-education-and-training-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vienna-legal",
+    "permalink": "/docs/citation-styles/vienna-legal"
+  },
+  "next": {
+    "title": "vietnam-ministry-of-education-and-training-vietnamese",
+    "permalink": "/docs/citation-styles/vietnam-ministry-of-education-and-training-vietnamese"
+  }
+}

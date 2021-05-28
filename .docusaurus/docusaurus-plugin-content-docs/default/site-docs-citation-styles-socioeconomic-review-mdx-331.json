@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/socioeconomic-review",
+  "id": "citation-styles/socioeconomic-review",
+  "isDocsHomePage": false,
+  "title": "socioeconomic-review",
+  "description": "---",
+  "source": "@site/docs/citation-styles/socioeconomic-review.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/socioeconomic-review",
+  "permalink": "/docs/citation-styles/socioeconomic-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/socioeconomic-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-of-biblical-literature-2nd-edition-full-note",
+    "permalink": "/docs/citation-styles/society-of-biblical-literature-2nd-edition-full-note"
+  },
+  "next": {
+    "title": "sociology-of-health-and-illness",
+    "permalink": "/docs/citation-styles/sociology-of-health-and-illness"
+  }
+}

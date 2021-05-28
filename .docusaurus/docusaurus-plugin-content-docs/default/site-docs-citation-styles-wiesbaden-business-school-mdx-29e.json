@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/wiesbaden-business-school",
+  "id": "citation-styles/wiesbaden-business-school",
+  "isDocsHomePage": false,
+  "title": "wiesbaden-business-school",
+  "description": "---",
+  "source": "@site/docs/citation-styles/wiesbaden-business-school.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/wiesbaden-business-school",
+  "permalink": "/docs/citation-styles/wiesbaden-business-school",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/wiesbaden-business-school.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "who-regional-office-for-europe-numeric",
+    "permalink": "/docs/citation-styles/who-regional-office-for-europe-numeric"
+  },
+  "next": {
+    "title": "wireless-communications-and-mobile-computing",
+    "permalink": "/docs/citation-styles/wireless-communications-and-mobile-computing"
+  }
+}

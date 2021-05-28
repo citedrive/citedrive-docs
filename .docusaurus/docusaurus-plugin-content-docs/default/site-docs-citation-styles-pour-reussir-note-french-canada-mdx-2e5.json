@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/pour-reussir-note-french--canada",
+  "id": "citation-styles/pour-reussir-note-french--canada",
+  "isDocsHomePage": false,
+  "title": "pour-reussir-note-french--canada",
+  "description": "---",
+  "source": "@site/docs/citation-styles/pour-reussir-note-french--canada.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/pour-reussir-note-french--canada",
+  "permalink": "/docs/citation-styles/pour-reussir-note-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/pour-reussir-note-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "poultry-science",
+    "permalink": "/docs/citation-styles/poultry-science"
+  },
+  "next": {
+    "title": "pravnik-czech",
+    "permalink": "/docs/citation-styles/pravnik-czech"
+  }
+}

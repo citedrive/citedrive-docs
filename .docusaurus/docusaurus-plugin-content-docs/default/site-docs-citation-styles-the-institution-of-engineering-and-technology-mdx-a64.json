@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-institution-of-engineering-and-technology",
+  "id": "citation-styles/the-institution-of-engineering-and-technology",
+  "isDocsHomePage": false,
+  "title": "the-institution-of-engineering-and-technology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-institution-of-engineering-and-technology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-institution-of-engineering-and-technology",
+  "permalink": "/docs/citation-styles/the-institution-of-engineering-and-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-institution-of-engineering-and-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-institute-of-electronics-information-and-communication-engineers-",
+    "permalink": "/docs/citation-styles/the-institute-of-electronics-information-and-communication-engineers-"
+  },
+  "next": {
+    "title": "the-international-journal-of-developmental-biology",
+    "permalink": "/docs/citation-styles/the-international-journal-of-developmental-biology"
+  }
+}

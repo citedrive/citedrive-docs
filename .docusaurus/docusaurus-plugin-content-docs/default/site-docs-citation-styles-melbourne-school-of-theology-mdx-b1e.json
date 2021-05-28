@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/melbourne-school-of-theology",
+  "id": "citation-styles/melbourne-school-of-theology",
+  "isDocsHomePage": false,
+  "title": "melbourne-school-of-theology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/melbourne-school-of-theology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/melbourne-school-of-theology",
+  "permalink": "/docs/citation-styles/melbourne-school-of-theology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/melbourne-school-of-theology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "melbourne-polytechnic--harvard",
+    "permalink": "/docs/citation-styles/melbourne-polytechnic--harvard"
+  },
+  "next": {
+    "title": "memorias-do-instituto-oswaldo-cruz",
+    "permalink": "/docs/citation-styles/memorias-do-instituto-oswaldo-cruz"
+  }
+}

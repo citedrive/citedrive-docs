@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+  "id": "citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+  "isDocsHomePage": false,
+  "title": "universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+  "permalink": "/docs/citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/universitas-negeri-yogyakarta--program-pascasarjana-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitas-negeri-semarang--fakultas-matematika-dan-ilmu-pengetahuan-alam-indonesian",
+    "permalink": "/docs/citation-styles/universitas-negeri-semarang--fakultas-matematika-dan-ilmu-pengetahuan-alam-indonesian"
+  },
+  "next": {
+    "title": "universitat-basel--iberoromanistik-spanish",
+    "permalink": "/docs/citation-styles/universitat-basel--iberoromanistik-spanish"
+  }
+}

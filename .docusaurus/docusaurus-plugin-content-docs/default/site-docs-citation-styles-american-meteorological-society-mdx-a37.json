@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-meteorological-society",
+  "id": "citation-styles/american-meteorological-society",
+  "isDocsHomePage": false,
+  "title": "american-meteorological-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-meteorological-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-meteorological-society",
+  "permalink": "/docs/citation-styles/american-meteorological-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-meteorological-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-11th-edition",
+    "permalink": "/docs/citation-styles/american-medical-association-11th-edition"
+  },
+  "next": {
+    "title": "american-mineralogist",
+    "permalink": "/docs/citation-styles/american-mineralogist"
+  }
+}

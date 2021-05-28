@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-neurotrauma",
+  "id": "citation-styles/journal-of-neurotrauma",
+  "isDocsHomePage": false,
+  "title": "journal-of-neurotrauma",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-neurotrauma.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-neurotrauma",
+  "permalink": "/docs/citation-styles/journal-of-neurotrauma",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-neurotrauma.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neurosurgery",
+    "permalink": "/docs/citation-styles/journal-of-neurosurgery"
+  },
+  "next": {
+    "title": "journal-of-new-zealand-grasslands",
+    "permalink": "/docs/citation-styles/journal-of-new-zealand-grasslands"
+  }
+}

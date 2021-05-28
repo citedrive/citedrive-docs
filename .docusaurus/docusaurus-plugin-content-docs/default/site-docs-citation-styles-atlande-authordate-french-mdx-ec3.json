@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/atlande-authordate-french",
+  "id": "citation-styles/atlande-authordate-french",
+  "isDocsHomePage": false,
+  "title": "atlande-authordate-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/atlande-authordate-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/atlande-authordate-french",
+  "permalink": "/docs/citation-styles/atlande-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/atlande-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "association-for-computing-machinery",
+    "permalink": "/docs/citation-styles/association-for-computing-machinery"
+  },
+  "next": {
+    "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+    "permalink": "/docs/citation-styles/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology"
+  }
+}

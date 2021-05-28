@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/family-business-review",
+  "id": "citation-styles/family-business-review",
+  "isDocsHomePage": false,
+  "title": "family-business-review",
+  "description": "---",
+  "source": "@site/docs/citation-styles/family-business-review.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/family-business-review",
+  "permalink": "/docs/citation-styles/family-business-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/family-business-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "falmouth-university--harvard",
+    "permalink": "/docs/citation-styles/falmouth-university--harvard"
+  },
+  "next": {
+    "title": "farmeconomia-health-economics-and-therapeutic-pathways",
+    "permalink": "/docs/citation-styles/farmeconomia-health-economics-and-therapeutic-pathways"
+  }
+}

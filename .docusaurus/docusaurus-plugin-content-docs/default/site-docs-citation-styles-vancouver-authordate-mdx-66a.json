@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/vancouver-authordate",
+  "id": "citation-styles/vancouver-authordate",
+  "isDocsHomePage": false,
+  "title": "vancouver-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/vancouver-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/vancouver-authordate",
+  "permalink": "/docs/citation-styles/vancouver-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/vancouver-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "utah-geological-survey",
+    "permalink": "/docs/citation-styles/utah-geological-survey"
+  },
+  "next": {
+    "title": "vancouver-brackets-no-et-al",
+    "permalink": "/docs/citation-styles/vancouver-brackets-no-et-al"
+  }
+}

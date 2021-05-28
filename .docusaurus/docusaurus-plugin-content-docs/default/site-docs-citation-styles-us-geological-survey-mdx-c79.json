@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/us-geological-survey",
+  "id": "citation-styles/us-geological-survey",
+  "isDocsHomePage": false,
+  "title": "us-geological-survey",
+  "description": "---",
+  "source": "@site/docs/citation-styles/us-geological-survey.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/us-geological-survey",
+  "permalink": "/docs/citation-styles/us-geological-survey",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/us-geological-survey.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urological-science",
+    "permalink": "/docs/citation-styles/urological-science"
+  },
+  "next": {
+    "title": "usda-forest-service--pacific-northwest-research-station",
+    "permalink": "/docs/citation-styles/usda-forest-service--pacific-northwest-research-station"
+  }
+}

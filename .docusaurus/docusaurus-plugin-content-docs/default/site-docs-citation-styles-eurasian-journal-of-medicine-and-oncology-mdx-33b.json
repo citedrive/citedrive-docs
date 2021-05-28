@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/eurasian-journal-of-medicine-and-oncology",
+  "id": "citation-styles/eurasian-journal-of-medicine-and-oncology",
+  "isDocsHomePage": false,
+  "title": "eurasian-journal-of-medicine-and-oncology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/eurasian-journal-of-medicine-and-oncology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/eurasian-journal-of-medicine-and-oncology",
+  "permalink": "/docs/citation-styles/eurasian-journal-of-medicine-and-oncology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/eurasian-journal-of-medicine-and-oncology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eurasian-journal-of-medical-investigation",
+    "permalink": "/docs/citation-styles/eurasian-journal-of-medical-investigation"
+  },
+  "next": {
+    "title": "eurointervention",
+    "permalink": "/docs/citation-styles/eurointervention"
+  }
+}

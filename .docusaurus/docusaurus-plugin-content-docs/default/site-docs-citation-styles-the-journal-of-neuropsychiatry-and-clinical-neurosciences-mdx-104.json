@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+  "id": "citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+  "permalink": "/docs/citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-journal-of-neuropsychiatry-and-clinical-neurosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-nervous-and-mental-disease",
+    "permalink": "/docs/citation-styles/the-journal-of-nervous-and-mental-disease"
+  },
+  "next": {
+    "title": "the-journal-of-neuroscience",
+    "permalink": "/docs/citation-styles/the-journal-of-neuroscience"
+  }
+}

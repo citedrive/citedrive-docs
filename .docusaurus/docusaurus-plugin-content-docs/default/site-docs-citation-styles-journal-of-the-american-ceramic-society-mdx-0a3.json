@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-the-american-ceramic-society",
+  "id": "citation-styles/journal-of-the-american-ceramic-society",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-ceramic-society",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-the-american-ceramic-society.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-the-american-ceramic-society",
+  "permalink": "/docs/citation-styles/journal-of-the-american-ceramic-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-the-american-ceramic-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-association-of-laboratory-animal-science",
+    "permalink": "/docs/citation-styles/journal-of-the-american-association-of-laboratory-animal-science"
+  },
+  "next": {
+    "title": "journal-of-the-american-college-of-cardiology",
+    "permalink": "/docs/citation-styles/journal-of-the-american-college-of-cardiology"
+  }
+}

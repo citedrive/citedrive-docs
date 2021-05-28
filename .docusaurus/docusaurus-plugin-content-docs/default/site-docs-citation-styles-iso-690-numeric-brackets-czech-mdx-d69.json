@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/iso690-numeric-brackets-czech",
+  "id": "citation-styles/iso690-numeric-brackets-czech",
+  "isDocsHomePage": false,
+  "title": "iso690-numeric-brackets-czech",
+  "description": "---",
+  "source": "@site/docs/citation-styles/iso690-numeric-brackets-czech.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/iso690-numeric-brackets-czech",
+  "permalink": "/docs/citation-styles/iso690-numeric-brackets-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/iso690-numeric-brackets-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-note-without-bibliography-czech",
+    "permalink": "/docs/citation-styles/iso690-note-without-bibliography-czech"
+  },
+  "next": {
+    "title": "iso690-numeric-english",
+    "permalink": "/docs/citation-styles/iso690-numeric-english"
+  }
+}

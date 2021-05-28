@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+  "id": "citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+  "isDocsHomePage": false,
+  "title": "padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+  "description": "---",
+  "source": "@site/docs/citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+  "permalink": "/docs/citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pacific-science",
+    "permalink": "/docs/citation-styles/pacific-science"
+  },
+  "next": {
+    "title": "padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland",
+    "permalink": "/docs/citation-styles/padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland"
+  }
+}

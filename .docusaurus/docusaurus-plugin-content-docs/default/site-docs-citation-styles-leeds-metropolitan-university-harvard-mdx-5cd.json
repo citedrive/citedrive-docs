@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/leeds-metropolitan-university--harvard",
+  "id": "citation-styles/leeds-metropolitan-university--harvard",
+  "isDocsHomePage": false,
+  "title": "leeds-metropolitan-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/leeds-metropolitan-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/leeds-metropolitan-university--harvard",
+  "permalink": "/docs/citation-styles/leeds-metropolitan-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/leeds-metropolitan-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leeds-beckett-university--harvard",
+    "permalink": "/docs/citation-styles/leeds-beckett-university--harvard"
+  },
+  "next": {
+    "title": "leiden-journal-of-international-law",
+    "permalink": "/docs/citation-styles/leiden-journal-of-international-law"
+  }
+}

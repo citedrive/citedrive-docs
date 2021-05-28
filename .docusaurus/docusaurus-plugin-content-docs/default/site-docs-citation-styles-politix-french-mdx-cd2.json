@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/politix-french",
+  "id": "citation-styles/politix-french",
+  "isDocsHomePage": false,
+  "title": "politix-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/politix-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/politix-french",
+  "permalink": "/docs/citation-styles/politix-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/politix-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "politische-vierteljahresschrift-german",
+    "permalink": "/docs/citation-styles/politische-vierteljahresschrift-german"
+  },
+  "next": {
+    "title": "polymer-reviews",
+    "permalink": "/docs/citation-styles/polymer-reviews"
+  }
+}

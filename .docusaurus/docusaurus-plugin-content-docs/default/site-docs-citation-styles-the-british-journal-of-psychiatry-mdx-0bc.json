@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-british-journal-of-psychiatry",
+  "id": "citation-styles/the-british-journal-of-psychiatry",
+  "isDocsHomePage": false,
+  "title": "the-british-journal-of-psychiatry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-british-journal-of-psychiatry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-british-journal-of-psychiatry",
+  "permalink": "/docs/citation-styles/the-british-journal-of-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-british-journal-of-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-british-journal-of-criminology",
+    "permalink": "/docs/citation-styles/the-british-journal-of-criminology"
+  },
+  "next": {
+    "title": "the-british-journal-of-sociology",
+    "permalink": "/docs/citation-styles/the-british-journal-of-sociology"
+  }
+}

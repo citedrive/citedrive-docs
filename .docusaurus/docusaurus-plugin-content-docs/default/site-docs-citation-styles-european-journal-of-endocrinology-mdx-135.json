@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/european-journal-of-endocrinology",
+  "id": "citation-styles/european-journal-of-endocrinology",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-endocrinology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/european-journal-of-endocrinology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/european-journal-of-endocrinology",
+  "permalink": "/docs/citation-styles/european-journal-of-endocrinology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/european-journal-of-endocrinology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-emergency-medicine",
+    "permalink": "/docs/citation-styles/european-journal-of-emergency-medicine"
+  },
+  "next": {
+    "title": "european-journal-of-entomology",
+    "permalink": "/docs/citation-styles/european-journal-of-entomology"
+  }
+}

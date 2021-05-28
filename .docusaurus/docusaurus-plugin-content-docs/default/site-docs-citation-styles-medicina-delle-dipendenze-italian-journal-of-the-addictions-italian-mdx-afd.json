@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+  "id": "citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+  "isDocsHomePage": false,
+  "title": "medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+  "description": "---",
+  "source": "@site/docs/citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+  "permalink": "/docs/citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medicina-clinica-spanish",
+    "permalink": "/docs/citation-styles/medicina-clinica-spanish"
+  },
+  "next": {
+    "title": "medicinal-research-reviews",
+    "permalink": "/docs/citation-styles/medicinal-research-reviews"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/archaeometry",
+  "id": "citation-styles/archaeometry",
+  "isDocsHomePage": false,
+  "title": "archaeometry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/archaeometry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/archaeometry",
+  "permalink": "/docs/citation-styles/archaeometry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/archaeometry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archaeologia-austriaca",
+    "permalink": "/docs/citation-styles/archaeologia-austriaca"
+  },
+  "next": {
+    "title": "archaeonautica",
+    "permalink": "/docs/citation-styles/archaeonautica"
+  }
+}

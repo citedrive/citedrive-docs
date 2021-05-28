@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/strategic-management-journal",
+  "id": "citation-styles/strategic-management-journal",
+  "isDocsHomePage": false,
+  "title": "strategic-management-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/strategic-management-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/strategic-management-journal",
+  "permalink": "/docs/citation-styles/strategic-management-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/strategic-management-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strategic-entrepreneurship-journal",
+    "permalink": "/docs/citation-styles/strategic-entrepreneurship-journal"
+  },
+  "next": {
+    "title": "stroke",
+    "permalink": "/docs/citation-styles/stroke"
+  }
+}

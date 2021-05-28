@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-water-sanitation-and-hygiene-for-development",
+  "id": "citation-styles/journal-of-water-sanitation-and-hygiene-for-development",
+  "isDocsHomePage": false,
+  "title": "journal-of-water-sanitation-and-hygiene-for-development",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-water-sanitation-and-hygiene-for-development.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-water-sanitation-and-hygiene-for-development",
+  "permalink": "/docs/citation-styles/journal-of-water-sanitation-and-hygiene-for-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-water-sanitation-and-hygiene-for-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-visualized-experiments",
+    "permalink": "/docs/citation-styles/journal-of-visualized-experiments"
+  },
+  "next": {
+    "title": "journal-of-wildlife-diseases",
+    "permalink": "/docs/citation-styles/journal-of-wildlife-diseases"
+  }
+}

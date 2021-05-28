@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/zeitschrift-fur-allgemeinmedizin",
+  "id": "citation-styles/zeitschrift-fur-allgemeinmedizin",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-allgemeinmedizin",
+  "description": "---",
+  "source": "@site/docs/citation-styles/zeitschrift-fur-allgemeinmedizin.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/zeitschrift-fur-allgemeinmedizin",
+  "permalink": "/docs/citation-styles/zeitschrift-fur-allgemeinmedizin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/zeitschrift-fur-allgemeinmedizin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitgeschichte-german",
+    "permalink": "/docs/citation-styles/zeitgeschichte-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+    "permalink": "/docs/citation-styles/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english"
+  }
+}

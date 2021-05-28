@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/wireless-communications-and-mobile-computing",
+  "id": "citation-styles/wireless-communications-and-mobile-computing",
+  "isDocsHomePage": false,
+  "title": "wireless-communications-and-mobile-computing",
+  "description": "---",
+  "source": "@site/docs/citation-styles/wireless-communications-and-mobile-computing.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/wireless-communications-and-mobile-computing",
+  "permalink": "/docs/citation-styles/wireless-communications-and-mobile-computing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/wireless-communications-and-mobile-computing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wiesbaden-business-school",
+    "permalink": "/docs/citation-styles/wiesbaden-business-school"
+  },
+  "next": {
+    "title": "wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria",
+    "permalink": "/docs/citation-styles/wirtschaftsuniversitat-wien--abteilung-fur-bildungswissenschaft-german--austria"
+  }
+}

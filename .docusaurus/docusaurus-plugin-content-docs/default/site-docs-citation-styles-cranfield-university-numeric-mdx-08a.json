@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cranfield-university-numeric",
+  "id": "citation-styles/cranfield-university-numeric",
+  "isDocsHomePage": false,
+  "title": "cranfield-university-numeric",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cranfield-university-numeric.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cranfield-university-numeric",
+  "permalink": "/docs/citation-styles/cranfield-university-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cranfield-university-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cranfield-university--harvard",
+    "permalink": "/docs/citation-styles/cranfield-university--harvard"
+  },
+  "next": {
+    "title": "creativity-and-innovation-management",
+    "permalink": "/docs/citation-styles/creativity-and-innovation-management"
+  }
+}

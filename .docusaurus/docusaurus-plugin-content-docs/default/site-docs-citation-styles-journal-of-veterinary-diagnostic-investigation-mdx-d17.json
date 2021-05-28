@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-veterinary-diagnostic-investigation",
+  "id": "citation-styles/journal-of-veterinary-diagnostic-investigation",
+  "isDocsHomePage": false,
+  "title": "journal-of-veterinary-diagnostic-investigation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-veterinary-diagnostic-investigation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-veterinary-diagnostic-investigation",
+  "permalink": "/docs/citation-styles/journal-of-veterinary-diagnostic-investigation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-veterinary-diagnostic-investigation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-vertebrate-paleontology",
+    "permalink": "/docs/citation-styles/journal-of-vertebrate-paleontology"
+  },
+  "next": {
+    "title": "journal-of-visualized-experiments",
+    "permalink": "/docs/citation-styles/journal-of-visualized-experiments"
+  }
+}

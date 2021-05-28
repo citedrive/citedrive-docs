@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/annals-of-behavioral-medicine",
+  "id": "citation-styles/annals-of-behavioral-medicine",
+  "isDocsHomePage": false,
+  "title": "annals-of-behavioral-medicine",
+  "description": "---",
+  "source": "@site/docs/citation-styles/annals-of-behavioral-medicine.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/annals-of-behavioral-medicine",
+  "permalink": "/docs/citation-styles/annals-of-behavioral-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/annals-of-behavioral-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-applied-biology",
+    "permalink": "/docs/citation-styles/annals-of-applied-biology"
+  },
+  "next": {
+    "title": "annals-of-biomedical-engineering",
+    "permalink": "/docs/citation-styles/annals-of-biomedical-engineering"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/plant-genetic-resources--characterization-and-utilization",
+  "id": "citation-styles/plant-genetic-resources--characterization-and-utilization",
+  "isDocsHomePage": false,
+  "title": "plant-genetic-resources--characterization-and-utilization",
+  "description": "---",
+  "source": "@site/docs/citation-styles/plant-genetic-resources--characterization-and-utilization.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/plant-genetic-resources--characterization-and-utilization",
+  "permalink": "/docs/citation-styles/plant-genetic-resources--characterization-and-utilization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/plant-genetic-resources--characterization-and-utilization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-cell-and-environment",
+    "permalink": "/docs/citation-styles/plant-cell-and-environment"
+  },
+  "next": {
+    "title": "plant-pathology",
+    "permalink": "/docs/citation-styles/plant-pathology"
+  }
+}

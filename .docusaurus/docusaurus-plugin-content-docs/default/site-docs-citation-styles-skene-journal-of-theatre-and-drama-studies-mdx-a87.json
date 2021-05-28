@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/skene-journal-of-theatre-and-drama-studies",
+  "id": "citation-styles/skene-journal-of-theatre-and-drama-studies",
+  "isDocsHomePage": false,
+  "title": "skene-journal-of-theatre-and-drama-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/skene-journal-of-theatre-and-drama-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/skene-journal-of-theatre-and-drama-studies",
+  "permalink": "/docs/citation-styles/skene-journal-of-theatre-and-drama-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/skene-journal-of-theatre-and-drama-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sist02-japanese",
+    "permalink": "/docs/citation-styles/sist02-japanese"
+  },
+  "next": {
+    "title": "small",
+    "permalink": "/docs/citation-styles/small"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-spatial-data-infrastructures-research",
+  "id": "citation-styles/international-journal-of-spatial-data-infrastructures-research",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-spatial-data-infrastructures-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-spatial-data-infrastructures-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-spatial-data-infrastructures-research",
+  "permalink": "/docs/citation-styles/international-journal-of-spatial-data-infrastructures-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-spatial-data-infrastructures-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-simulation-modelling",
+    "permalink": "/docs/citation-styles/international-journal-of-simulation-modelling"
+  },
+  "next": {
+    "title": "international-journal-of-sport-medicine",
+    "permalink": "/docs/citation-styles/international-journal-of-sport-medicine"
+  }
+}

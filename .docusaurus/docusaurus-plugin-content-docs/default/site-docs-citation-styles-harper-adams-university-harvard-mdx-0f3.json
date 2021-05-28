@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/harper-adams-university--harvard",
+  "id": "citation-styles/harper-adams-university--harvard",
+  "isDocsHomePage": false,
+  "title": "harper-adams-university--harvard",
+  "description": "---",
+  "source": "@site/docs/citation-styles/harper-adams-university--harvard.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/harper-adams-university--harvard",
+  "permalink": "/docs/citation-styles/harper-adams-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/harper-adams-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "handbook-of-clinical-neurology",
+    "permalink": "/docs/citation-styles/handbook-of-clinical-neurology"
+  },
+  "next": {
+    "title": "haute-ecole-de-gestion-de-geneve--iso690-english",
+    "permalink": "/docs/citation-styles/haute-ecole-de-gestion-de-geneve--iso690-english"
+  }
+}

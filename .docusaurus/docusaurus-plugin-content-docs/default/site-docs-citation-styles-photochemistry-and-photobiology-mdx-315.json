@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/photochemistry-and-photobiology",
+  "id": "citation-styles/photochemistry-and-photobiology",
+  "isDocsHomePage": false,
+  "title": "photochemistry-and-photobiology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/photochemistry-and-photobiology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/photochemistry-and-photobiology",
+  "permalink": "/docs/citation-styles/photochemistry-and-photobiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/photochemistry-and-photobiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philosophy-and-public-affairs",
+    "permalink": "/docs/citation-styles/philosophy-and-public-affairs"
+  },
+  "next": {
+    "title": "photosynthetica",
+    "permalink": "/docs/citation-styles/photosynthetica"
+  }
+}

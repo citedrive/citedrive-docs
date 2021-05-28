@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/national-institute-of-technology-karnataka",
+  "id": "citation-styles/national-institute-of-technology-karnataka",
+  "isDocsHomePage": false,
+  "title": "national-institute-of-technology-karnataka",
+  "description": "---",
+  "source": "@site/docs/citation-styles/national-institute-of-technology-karnataka.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/national-institute-of-technology-karnataka",
+  "permalink": "/docs/citation-styles/national-institute-of-technology-karnataka",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/national-institute-of-technology-karnataka.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-institute-of-organisation-dynamics-australia--harvard",
+    "permalink": "/docs/citation-styles/national-institute-of-organisation-dynamics-australia--harvard"
+  },
+  "next": {
+    "title": "national-institute-of-technology-tiruchirappalli",
+    "permalink": "/docs/citation-styles/national-institute-of-technology-tiruchirappalli"
+  }
+}

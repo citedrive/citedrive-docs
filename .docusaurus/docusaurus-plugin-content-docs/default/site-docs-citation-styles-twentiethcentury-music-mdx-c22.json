@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/twentiethcentury-music",
+  "id": "citation-styles/twentiethcentury-music",
+  "isDocsHomePage": false,
+  "title": "twentiethcentury-music",
+  "description": "---",
+  "source": "@site/docs/citation-styles/twentiethcentury-music.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/twentiethcentury-music",
+  "permalink": "/docs/citation-styles/twentiethcentury-music",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/twentiethcentury-music.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "turabian-9th-edition-authordate",
+    "permalink": "/docs/citation-styles/turabian-9th-edition-authordate"
+  },
+  "next": {
+    "title": "u-schyku-starozytnosci-polish",
+    "permalink": "/docs/citation-styles/u-schyku-starozytnosci-polish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cultivos-tropicales-spanish",
+  "id": "citation-styles/cultivos-tropicales-spanish",
+  "isDocsHomePage": false,
+  "title": "cultivos-tropicales-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cultivos-tropicales-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cultivos-tropicales-spanish",
+  "permalink": "/docs/citation-styles/cultivos-tropicales-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cultivos-tropicales-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+    "permalink": "/docs/citation-styles/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish"
+  },
+  "next": {
+    "title": "cultural-geographies",
+    "permalink": "/docs/citation-styles/cultural-geographies"
+  }
+}

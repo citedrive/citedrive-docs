@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-plant-journal",
+  "id": "citation-styles/the-plant-journal",
+  "isDocsHomePage": false,
+  "title": "the-plant-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-plant-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-plant-journal",
+  "permalink": "/docs/citation-styles/the-plant-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-plant-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-plant-genome",
+    "permalink": "/docs/citation-styles/the-plant-genome"
+  },
+  "next": {
+    "title": "the-review-of-financial-studies",
+    "permalink": "/docs/citation-styles/the-review-of-financial-studies"
+  }
+}

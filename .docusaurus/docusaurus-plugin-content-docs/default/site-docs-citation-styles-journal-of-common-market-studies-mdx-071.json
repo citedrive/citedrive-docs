@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-common-market-studies",
+  "id": "citation-styles/journal-of-common-market-studies",
+  "isDocsHomePage": false,
+  "title": "journal-of-common-market-studies",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-common-market-studies.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-common-market-studies",
+  "permalink": "/docs/citation-styles/journal-of-common-market-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-common-market-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-combinatorics",
+    "permalink": "/docs/citation-styles/journal-of-combinatorics"
+  },
+  "next": {
+    "title": "journal-of-comparative-pathology",
+    "permalink": "/docs/citation-styles/journal-of-comparative-pathology"
+  }
+}

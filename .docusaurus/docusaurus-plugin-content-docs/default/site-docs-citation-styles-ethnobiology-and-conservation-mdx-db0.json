@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ethnobiology-and-conservation",
+  "id": "citation-styles/ethnobiology-and-conservation",
+  "isDocsHomePage": false,
+  "title": "ethnobiology-and-conservation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ethnobiology-and-conservation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ethnobiology-and-conservation",
+  "permalink": "/docs/citation-styles/ethnobiology-and-conservation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ethnobiology-and-conservation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethics-for-book-reviews",
+    "permalink": "/docs/citation-styles/ethics-for-book-reviews"
+  },
+  "next": {
+    "title": "ethnologie-francaise-french",
+    "permalink": "/docs/citation-styles/ethnologie-francaise-french"
+  }
+}

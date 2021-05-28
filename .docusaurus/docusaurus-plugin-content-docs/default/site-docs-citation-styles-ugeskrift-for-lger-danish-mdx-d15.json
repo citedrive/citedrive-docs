@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/ugeskrift-for-lger-danish",
+  "id": "citation-styles/ugeskrift-for-lger-danish",
+  "isDocsHomePage": false,
+  "title": "ugeskrift-for-lger-danish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/ugeskrift-for-lger-danish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/ugeskrift-for-lger-danish",
+  "permalink": "/docs/citation-styles/ugeskrift-for-lger-danish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/ugeskrift-for-lger-danish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+    "permalink": "/docs/citation-styles/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french"
+  },
+  "next": {
+    "title": "ultrasound-in-medicine-and-biology",
+    "permalink": "/docs/citation-styles/ultrasound-in-medicine-and-biology"
+  }
+}

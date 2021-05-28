@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "id": "citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "isDocsHomePage": false,
+  "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "permalink": "/docs/citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+    "permalink": "/docs/citation-styles/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french"
+  },
+  "next": {
+    "title": "leeds-beckett-university--harvard",
+    "permalink": "/docs/citation-styles/leeds-beckett-university--harvard"
+  }
+}

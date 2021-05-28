@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer-vs-authordate-german",
+  "id": "citation-styles/springer-vs-authordate-german",
+  "isDocsHomePage": false,
+  "title": "springer-vs-authordate-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer-vs-authordate-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer-vs-authordate-german",
+  "permalink": "/docs/citation-styles/springer-vs-authordate-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer-vs-authordate-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--vancouver",
+    "permalink": "/docs/citation-styles/springer--vancouver"
+  },
+  "next": {
+    "title": "springerprotocols",
+    "permalink": "/docs/citation-styles/springerprotocols"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-plankton-research",
+  "id": "citation-styles/journal-of-plankton-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-plankton-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-plankton-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-plankton-research",
+  "permalink": "/docs/citation-styles/journal-of-plankton-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-plankton-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-physical-therapy-science",
+    "permalink": "/docs/citation-styles/journal-of-physical-therapy-science"
+  },
+  "next": {
+    "title": "journal-of-plant-ecology",
+    "permalink": "/docs/citation-styles/journal-of-plant-ecology"
+  }
+}

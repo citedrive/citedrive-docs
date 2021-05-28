@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-british-journal-of-criminology",
+  "id": "citation-styles/the-british-journal-of-criminology",
+  "isDocsHomePage": false,
+  "title": "the-british-journal-of-criminology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-british-journal-of-criminology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-british-journal-of-criminology",
+  "permalink": "/docs/citation-styles/the-british-journal-of-criminology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-british-journal-of-criminology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-british-journal-of-cardiology",
+    "permalink": "/docs/citation-styles/the-british-journal-of-cardiology"
+  },
+  "next": {
+    "title": "the-british-journal-of-psychiatry",
+    "permalink": "/docs/citation-styles/the-british-journal-of-psychiatry"
+  }
+}

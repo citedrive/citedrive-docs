@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/medecinesciences",
+  "id": "citation-styles/medecinesciences",
+  "isDocsHomePage": false,
+  "title": "medecinesciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/medecinesciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/medecinesciences",
+  "permalink": "/docs/citation-styles/medecinesciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/medecinesciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medecine-intensive-reanimation",
+    "permalink": "/docs/citation-styles/medecine-intensive-reanimation"
+  },
+  "next": {
+    "title": "media-culture-and-society",
+    "permalink": "/docs/citation-styles/media-culture-and-society"
+  }
+}

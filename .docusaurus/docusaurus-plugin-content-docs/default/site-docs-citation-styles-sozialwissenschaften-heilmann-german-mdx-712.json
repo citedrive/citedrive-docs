@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/sozialwissenschaften-heilmann-german",
+  "id": "citation-styles/sozialwissenschaften-heilmann-german",
+  "isDocsHomePage": false,
+  "title": "sozialwissenschaften-heilmann-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/sozialwissenschaften-heilmann-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/sozialwissenschaften-heilmann-german",
+  "permalink": "/docs/citation-styles/sozialwissenschaften-heilmann-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/sozialwissenschaften-heilmann-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "southern-african-journal-of-critical-care",
+    "permalink": "/docs/citation-styles/southern-african-journal-of-critical-care"
+  },
+  "next": {
+    "title": "soziologie-german",
+    "permalink": "/docs/citation-styles/soziologie-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/textual-cultures",
+  "id": "citation-styles/textual-cultures",
+  "isDocsHomePage": false,
+  "title": "textual-cultures",
+  "description": "---",
+  "source": "@site/docs/citation-styles/textual-cultures.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/textual-cultures",
+  "permalink": "/docs/citation-styles/textual-cultures",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/textual-cultures.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tetrahedron-letters",
+    "permalink": "/docs/citation-styles/tetrahedron-letters"
+  },
+  "next": {
+    "title": "textual-practice",
+    "permalink": "/docs/citation-styles/textual-practice"
+  }
+}

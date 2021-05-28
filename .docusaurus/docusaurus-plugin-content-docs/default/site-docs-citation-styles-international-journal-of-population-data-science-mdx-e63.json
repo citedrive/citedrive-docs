@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/international-journal-of-population-data-science",
+  "id": "citation-styles/international-journal-of-population-data-science",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-population-data-science",
+  "description": "---",
+  "source": "@site/docs/citation-styles/international-journal-of-population-data-science.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/international-journal-of-population-data-science",
+  "permalink": "/docs/citation-styles/international-journal-of-population-data-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/international-journal-of-population-data-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-polymeric-materials-and-polymeric-biomaterials",
+    "permalink": "/docs/citation-styles/international-journal-of-polymeric-materials-and-polymeric-biomaterials"
+  },
+  "next": {
+    "title": "international-journal-of-quantum-chemistry",
+    "permalink": "/docs/citation-styles/international-journal-of-quantum-chemistry"
+  }
+}

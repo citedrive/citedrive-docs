@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/health-and-human-rights-journal",
+  "id": "citation-styles/health-and-human-rights-journal",
+  "isDocsHomePage": false,
+  "title": "health-and-human-rights-journal",
+  "description": "---",
+  "source": "@site/docs/citation-styles/health-and-human-rights-journal.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/health-and-human-rights-journal",
+  "permalink": "/docs/citation-styles/health-and-human-rights-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/health-and-human-rights-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hawaii-international-conference-on-system-sciences-proceedings",
+    "permalink": "/docs/citation-styles/hawaii-international-conference-on-system-sciences-proceedings"
+  },
+  "next": {
+    "title": "health-and-social-care-in-the-community",
+    "permalink": "/docs/citation-styles/health-and-social-care-in-the-community"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-atrial-fibrillation",
+  "id": "citation-styles/journal-of-atrial-fibrillation",
+  "isDocsHomePage": false,
+  "title": "journal-of-atrial-fibrillation",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-atrial-fibrillation.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-atrial-fibrillation",
+  "permalink": "/docs/citation-styles/journal-of-atrial-fibrillation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-atrial-fibrillation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-archaeological-research",
+    "permalink": "/docs/citation-styles/journal-of-archaeological-research"
+  },
+  "next": {
+    "title": "journal-of-australian-strength-and-conditioning",
+    "permalink": "/docs/citation-styles/journal-of-australian-strength-and-conditioning"
+  }
+}

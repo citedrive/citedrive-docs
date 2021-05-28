@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/gastrointestinal-intervention",
+  "id": "citation-styles/gastrointestinal-intervention",
+  "isDocsHomePage": false,
+  "title": "gastrointestinal-intervention",
+  "description": "---",
+  "source": "@site/docs/citation-styles/gastrointestinal-intervention.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/gastrointestinal-intervention",
+  "permalink": "/docs/citation-styles/gastrointestinal-intervention",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/gastrointestinal-intervention.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+    "permalink": "/docs/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america"
+  },
+  "next": {
+    "title": "gazeta-medica",
+    "permalink": "/docs/citation-styles/gazeta-medica"
+  }
+}

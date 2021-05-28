@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/philosophia-scienti",
+  "id": "citation-styles/philosophia-scienti",
+  "isDocsHomePage": false,
+  "title": "philosophia-scienti",
+  "description": "---",
+  "source": "@site/docs/citation-styles/philosophia-scienti.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/philosophia-scienti",
+  "permalink": "/docs/citation-styles/philosophia-scienti",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/philosophia-scienti.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+    "permalink": "/docs/citation-styles/philippsuniversitat-marburg--erziehungswissenschaften-note-german"
+  },
+  "next": {
+    "title": "philosophiques-french",
+    "permalink": "/docs/citation-styles/philosophiques-french"
+  }
+}

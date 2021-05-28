@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-canadian-journal-of-psychiatry",
+  "id": "citation-styles/the-canadian-journal-of-psychiatry",
+  "isDocsHomePage": false,
+  "title": "the-canadian-journal-of-psychiatry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-canadian-journal-of-psychiatry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-canadian-journal-of-psychiatry",
+  "permalink": "/docs/citation-styles/the-canadian-journal-of-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-canadian-journal-of-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-canadian-journal-of-chemical-engineering",
+    "permalink": "/docs/citation-styles/the-canadian-journal-of-chemical-engineering"
+  },
+  "next": {
+    "title": "the-cancer-journal",
+    "permalink": "/docs/citation-styles/the-cancer-journal"
+  }
+}

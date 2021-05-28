@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/clinical-otolaryngology",
+  "id": "citation-styles/clinical-otolaryngology",
+  "isDocsHomePage": false,
+  "title": "clinical-otolaryngology",
+  "description": "---",
+  "source": "@site/docs/citation-styles/clinical-otolaryngology.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/clinical-otolaryngology",
+  "permalink": "/docs/citation-styles/clinical-otolaryngology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/clinical-otolaryngology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-orthopaedics-and-related-research",
+    "permalink": "/docs/citation-styles/clinical-orthopaedics-and-related-research"
+  },
+  "next": {
+    "title": "clinical-pharmacology-and-therapeutics",
+    "permalink": "/docs/citation-styles/clinical-pharmacology-and-therapeutics"
+  }
+}

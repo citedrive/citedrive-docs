@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+  "id": "citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+  "isDocsHomePage": false,
+  "title": "interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+  "permalink": "/docs/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interdisziplinare-anthropologie-german",
+    "permalink": "/docs/citation-styles/interdisziplinare-anthropologie-german"
+  },
+  "next": {
+    "title": "international-atomic-energy-agency",
+    "permalink": "/docs/citation-styles/international-atomic-energy-agency"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-applied-pharmaceutical-research",
+  "id": "citation-styles/journal-of-applied-pharmaceutical-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-applied-pharmaceutical-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-applied-pharmaceutical-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-applied-pharmaceutical-research",
+  "permalink": "/docs/citation-styles/journal-of-applied-pharmaceutical-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-applied-pharmaceutical-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-applied-entomology",
+    "permalink": "/docs/citation-styles/journal-of-applied-entomology"
+  },
+  "next": {
+    "title": "journal-of-applied-philosophy",
+    "permalink": "/docs/citation-styles/journal-of-applied-philosophy"
+  }
+}

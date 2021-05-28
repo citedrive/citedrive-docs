@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/journal-of-periodontal-research",
+  "id": "citation-styles/journal-of-periodontal-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-periodontal-research",
+  "description": "---",
+  "source": "@site/docs/citation-styles/journal-of-periodontal-research.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/journal-of-periodontal-research",
+  "permalink": "/docs/citation-styles/journal-of-periodontal-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/journal-of-periodontal-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-perinatal-medicine",
+    "permalink": "/docs/citation-styles/journal-of-perinatal-medicine"
+  },
+  "next": {
+    "title": "journal-of-petrology",
+    "permalink": "/docs/citation-styles/journal-of-petrology"
+  }
+}

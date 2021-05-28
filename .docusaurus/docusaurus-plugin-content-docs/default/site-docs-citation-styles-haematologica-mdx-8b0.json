@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/haematologica",
+  "id": "citation-styles/haematologica",
+  "isDocsHomePage": false,
+  "title": "haematologica",
+  "description": "---",
+  "source": "@site/docs/citation-styles/haematologica.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/haematologica",
+  "permalink": "/docs/citation-styles/haematologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/haematologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+    "permalink": "/docs/citation-styles/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french"
+  },
+  "next": {
+    "title": "haemophilia",
+    "permalink": "/docs/citation-styles/haemophilia"
+  }
+}

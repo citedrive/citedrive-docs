@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "id": "citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "isDocsHomePage": false,
+  "title": "aquatic-conservation-marine-and-freshwater-ecosystems",
+  "description": "---",
+  "source": "@site/docs/citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "permalink": "/docs/citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/aquatic-conservation-marine-and-freshwater-ecosystems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applied-spectroscopy",
+    "permalink": "/docs/citation-styles/applied-spectroscopy"
+  },
+  "next": {
+    "title": "aquatic-invasions",
+    "permalink": "/docs/citation-styles/aquatic-invasions"
+  }
+}

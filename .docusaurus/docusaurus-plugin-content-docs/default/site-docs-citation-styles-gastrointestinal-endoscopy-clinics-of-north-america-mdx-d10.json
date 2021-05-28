@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/gastrointestinal-endoscopy-clinics-of-north-america",
+  "id": "citation-styles/gastrointestinal-endoscopy-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america",
+  "permalink": "/docs/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/gastrointestinal-endoscopy-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gastroenterology",
+    "permalink": "/docs/citation-styles/gastroenterology"
+  },
+  "next": {
+    "title": "gastrointestinal-intervention",
+    "permalink": "/docs/citation-styles/gastrointestinal-intervention"
+  }
+}

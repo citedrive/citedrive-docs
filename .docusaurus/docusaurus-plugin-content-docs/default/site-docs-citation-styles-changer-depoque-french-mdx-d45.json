@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/changer-depoque-french",
+  "id": "citation-styles/changer-depoque-french",
+  "isDocsHomePage": false,
+  "title": "changer-depoque-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/changer-depoque-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/changer-depoque-french",
+  "permalink": "/docs/citation-styles/changer-depoque-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/changer-depoque-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
+    "permalink": "/docs/citation-styles/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju"
+  },
+  "next": {
+    "title": "chemical-and-pharmaceutical-bulletin",
+    "permalink": "/docs/citation-styles/chemical-and-pharmaceutical-bulletin"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-latinoamericana-de-recursos-naturales",
+  "id": "citation-styles/revista-latinoamericana-de-recursos-naturales",
+  "isDocsHomePage": false,
+  "title": "revista-latinoamericana-de-recursos-naturales",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-latinoamericana-de-recursos-naturales.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-latinoamericana-de-recursos-naturales",
+  "permalink": "/docs/citation-styles/revista-latinoamericana-de-recursos-naturales",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-latinoamericana-de-recursos-naturales.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-latinoamericana-de-metalurgia-y-materiales",
+    "permalink": "/docs/citation-styles/revista-latinoamericana-de-metalurgia-y-materiales"
+  },
+  "next": {
+    "title": "revista-materia",
+    "permalink": "/docs/citation-styles/revista-materia"
+  }
+}

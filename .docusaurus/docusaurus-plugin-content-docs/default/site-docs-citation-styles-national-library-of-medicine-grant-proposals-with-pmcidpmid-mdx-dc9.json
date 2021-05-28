@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid",
+  "id": "citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid",
+  "isDocsHomePage": false,
+  "title": "national-library-of-medicine-grant-proposals-with-pmcidpmid",
+  "description": "---",
+  "source": "@site/docs/citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid",
+  "permalink": "/docs/citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/national-library-of-medicine-grant-proposals-with-pmcidpmid.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-institute-of-technology-tiruchirappalli",
+    "permalink": "/docs/citation-styles/national-institute-of-technology-tiruchirappalli"
+  },
+  "next": {
+    "title": "national-marine-fisheries-service--national-environmental-policy-act",
+    "permalink": "/docs/citation-styles/national-marine-fisheries-service--national-environmental-policy-act"
+  }
+}

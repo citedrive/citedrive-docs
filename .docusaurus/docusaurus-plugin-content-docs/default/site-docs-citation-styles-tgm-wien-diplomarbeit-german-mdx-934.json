@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/tgm-wien-diplomarbeit-german",
+  "id": "citation-styles/tgm-wien-diplomarbeit-german",
+  "isDocsHomePage": false,
+  "title": "tgm-wien-diplomarbeit-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/tgm-wien-diplomarbeit-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/tgm-wien-diplomarbeit-german",
+  "permalink": "/docs/citation-styles/tgm-wien-diplomarbeit-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/tgm-wien-diplomarbeit-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "textual-practice",
+    "permalink": "/docs/citation-styles/textual-practice"
+  },
+  "next": {
+    "title": "tgm-wien-diplomarbeit-onorm-german--austria",
+    "permalink": "/docs/citation-styles/tgm-wien-diplomarbeit-onorm-german--austria"
+  }
+}

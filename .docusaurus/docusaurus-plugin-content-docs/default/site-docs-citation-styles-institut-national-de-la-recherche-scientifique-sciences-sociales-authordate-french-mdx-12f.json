@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "id": "citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "isDocsHomePage": false,
+  "title": "institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "description": "---",
+  "source": "@site/docs/citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "permalink": "/docs/citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+    "permalink": "/docs/citation-styles/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german"
+  },
+  "next": {
+    "title": "institut-national-de-recherches-archeologiques-preventives-french",
+    "permalink": "/docs/citation-styles/institut-national-de-recherches-archeologiques-preventives-french"
+  }
+}

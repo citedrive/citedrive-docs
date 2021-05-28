@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/revista-argentina-de-antropologia-biologica-spanish",
+  "id": "citation-styles/revista-argentina-de-antropologia-biologica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-argentina-de-antropologia-biologica-spanish",
+  "description": "---",
+  "source": "@site/docs/citation-styles/revista-argentina-de-antropologia-biologica-spanish.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/revista-argentina-de-antropologia-biologica-spanish",
+  "permalink": "/docs/citation-styles/revista-argentina-de-antropologia-biologica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/revista-argentina-de-antropologia-biologica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reviews-of-modern-physics-with-titles",
+    "permalink": "/docs/citation-styles/reviews-of-modern-physics-with-titles"
+  },
+  "next": {
+    "title": "revista-biblica-spanish",
+    "permalink": "/docs/citation-styles/revista-biblica-spanish"
+  }
+}

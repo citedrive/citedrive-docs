@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/cybium",
+  "id": "citation-styles/cybium",
+  "isDocsHomePage": false,
+  "title": "cybium",
+  "description": "---",
+  "source": "@site/docs/citation-styles/cybium.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/cybium",
+  "permalink": "/docs/citation-styles/cybium",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/cybium.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cyberpsychology-behavior-and-social-networking",
+    "permalink": "/docs/citation-styles/cyberpsychology-behavior-and-social-networking"
+  },
+  "next": {
+    "title": "cytometry",
+    "permalink": "/docs/citation-styles/cytometry"
+  }
+}

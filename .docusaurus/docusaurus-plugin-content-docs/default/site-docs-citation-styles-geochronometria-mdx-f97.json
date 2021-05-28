@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/geochronometria",
+  "id": "citation-styles/geochronometria",
+  "isDocsHomePage": false,
+  "title": "geochronometria",
+  "description": "---",
+  "source": "@site/docs/citation-styles/geochronometria.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/geochronometria",
+  "permalink": "/docs/citation-styles/geochronometria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/geochronometria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geochimica-et-cosmochimica-acta",
+    "permalink": "/docs/citation-styles/geochimica-et-cosmochimica-acta"
+  },
+  "next": {
+    "title": "geografia-fisica-e-dinamica-quaternaria",
+    "permalink": "/docs/citation-styles/geografia-fisica-e-dinamica-quaternaria"
+  }
+}

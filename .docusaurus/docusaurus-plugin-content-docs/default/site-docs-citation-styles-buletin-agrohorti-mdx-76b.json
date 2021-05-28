@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/buletin-agrohorti",
+  "id": "citation-styles/buletin-agrohorti",
+  "isDocsHomePage": false,
+  "title": "buletin-agrohorti",
+  "description": "---",
+  "source": "@site/docs/citation-styles/buletin-agrohorti.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/buletin-agrohorti",
+  "permalink": "/docs/citation-styles/buletin-agrohorti",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/buletin-agrohorti.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "building-structure-chinese",
+    "permalink": "/docs/citation-styles/building-structure-chinese"
+  },
+  "next": {
+    "title": "bulletin-de-correspondance-hellenique-french",
+    "permalink": "/docs/citation-styles/bulletin-de-correspondance-hellenique-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/middle-east-critique",
+  "id": "citation-styles/middle-east-critique",
+  "isDocsHomePage": false,
+  "title": "middle-east-critique",
+  "description": "---",
+  "source": "@site/docs/citation-styles/middle-east-critique.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/middle-east-critique",
+  "permalink": "/docs/citation-styles/middle-east-critique",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/middle-east-critique.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microscopy-and-microanalysis",
+    "permalink": "/docs/citation-styles/microscopy-and-microanalysis"
+  },
+  "next": {
+    "title": "midwestern-baptist-theological-seminary",
+    "permalink": "/docs/citation-styles/midwestern-baptist-theological-seminary"
+  }
+}

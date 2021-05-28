@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/manchester-university-press-monographs-note",
+  "id": "citation-styles/manchester-university-press-monographs-note",
+  "isDocsHomePage": false,
+  "title": "manchester-university-press-monographs-note",
+  "description": "---",
+  "source": "@site/docs/citation-styles/manchester-university-press-monographs-note.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/manchester-university-press-monographs-note",
+  "permalink": "/docs/citation-styles/manchester-university-press-monographs-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/manchester-university-press-monographs-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "manchester-university-press-monographs-authordate",
+    "permalink": "/docs/citation-styles/manchester-university-press-monographs-authordate"
+  },
+  "next": {
+    "title": "manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+    "permalink": "/docs/citation-styles/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada"
+  }
+}

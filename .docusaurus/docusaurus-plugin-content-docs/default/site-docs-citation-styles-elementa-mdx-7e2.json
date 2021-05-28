@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/elementa",
+  "id": "citation-styles/elementa",
+  "isDocsHomePage": false,
+  "title": "elementa",
+  "description": "---",
+  "source": "@site/docs/citation-styles/elementa.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/elementa",
+  "permalink": "/docs/citation-styles/elementa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/elementa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "electrophoresis",
+    "permalink": "/docs/citation-styles/electrophoresis"
+  },
+  "next": {
+    "title": "elife",
+    "permalink": "/docs/citation-styles/elife"
+  }
+}

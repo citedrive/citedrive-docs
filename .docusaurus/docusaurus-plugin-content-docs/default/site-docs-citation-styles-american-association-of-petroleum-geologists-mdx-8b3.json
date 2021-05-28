@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/american-association-of-petroleum-geologists",
+  "id": "citation-styles/american-association-of-petroleum-geologists",
+  "isDocsHomePage": false,
+  "title": "american-association-of-petroleum-geologists",
+  "description": "---",
+  "source": "@site/docs/citation-styles/american-association-of-petroleum-geologists.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/american-association-of-petroleum-geologists",
+  "permalink": "/docs/citation-styles/american-association-of-petroleum-geologists",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/american-association-of-petroleum-geologists.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-association-for-cancer-research",
+    "permalink": "/docs/citation-styles/american-association-for-cancer-research"
+  },
+  "next": {
+    "title": "american-chemical-society",
+    "permalink": "/docs/citation-styles/american-chemical-society"
+  }
+}

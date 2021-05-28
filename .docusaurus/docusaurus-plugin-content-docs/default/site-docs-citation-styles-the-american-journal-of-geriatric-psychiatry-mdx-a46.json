@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/the-american-journal-of-geriatric-psychiatry",
+  "id": "citation-styles/the-american-journal-of-geriatric-psychiatry",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-geriatric-psychiatry",
+  "description": "---",
+  "source": "@site/docs/citation-styles/the-american-journal-of-geriatric-psychiatry.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/the-american-journal-of-geriatric-psychiatry",
+  "permalink": "/docs/citation-styles/the-american-journal-of-geriatric-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/the-american-journal-of-geriatric-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-gastroenterology",
+    "permalink": "/docs/citation-styles/the-american-journal-of-gastroenterology"
+  },
+  "next": {
+    "title": "the-american-journal-of-human-genetics",
+    "permalink": "/docs/citation-styles/the-american-journal-of-human-genetics"
+  }
+}

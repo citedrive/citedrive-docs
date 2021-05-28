@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/theologisches-seminar-adelshofen--harvard-german",
+  "id": "citation-styles/theologisches-seminar-adelshofen--harvard-german",
+  "isDocsHomePage": false,
+  "title": "theologisches-seminar-adelshofen--harvard-german",
+  "description": "---",
+  "source": "@site/docs/citation-styles/theologisches-seminar-adelshofen--harvard-german.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/theologisches-seminar-adelshofen--harvard-german",
+  "permalink": "/docs/citation-styles/theologisches-seminar-adelshofen--harvard-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/theologisches-seminar-adelshofen--harvard-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "theologie-und-philosophie-german",
+    "permalink": "/docs/citation-styles/theologie-und-philosophie-german"
+  },
+  "next": {
+    "title": "theory-culture-and-society",
+    "permalink": "/docs/citation-styles/theory-culture-and-society"
+  }
+}

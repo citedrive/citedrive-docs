@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/instap-academic-press",
+  "id": "citation-styles/instap-academic-press",
+  "isDocsHomePage": false,
+  "title": "instap-academic-press",
+  "description": "---",
+  "source": "@site/docs/citation-styles/instap-academic-press.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/instap-academic-press",
+  "permalink": "/docs/citation-styles/instap-academic-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/instap-academic-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ingenieria-agricola-spanish",
+    "permalink": "/docs/citation-styles/ingenieria-agricola-spanish"
+  },
+  "next": {
+    "title": "institut-francais-darcheologie-orientale-english",
+    "permalink": "/docs/citation-styles/institut-francais-darcheologie-orientale-english"
+  }
+}

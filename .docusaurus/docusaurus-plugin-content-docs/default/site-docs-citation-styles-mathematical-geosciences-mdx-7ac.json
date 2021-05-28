@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/mathematical-geosciences",
+  "id": "citation-styles/mathematical-geosciences",
+  "isDocsHomePage": false,
+  "title": "mathematical-geosciences",
+  "description": "---",
+  "source": "@site/docs/citation-styles/mathematical-geosciences.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/mathematical-geosciences",
+  "permalink": "/docs/citation-styles/mathematical-geosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/mathematical-geosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "materials-express",
+    "permalink": "/docs/citation-styles/materials-express"
+  },
+  "next": {
+    "title": "mathematics-and-computers-in-simulation",
+    "permalink": "/docs/citation-styles/mathematics-and-computers-in-simulation"
+  }
+}

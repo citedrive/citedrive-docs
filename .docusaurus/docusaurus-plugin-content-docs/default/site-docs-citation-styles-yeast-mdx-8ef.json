@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/yeast",
+  "id": "citation-styles/yeast",
+  "isDocsHomePage": false,
+  "title": "yeast",
+  "description": "---",
+  "source": "@site/docs/citation-styles/yeast.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/yeast",
+  "permalink": "/docs/citation-styles/yeast",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/yeast.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xenotransplantation",
+    "permalink": "/docs/citation-styles/xenotransplantation"
+  },
+  "next": {
+    "title": "york-st-john-university--harvard",
+    "permalink": "/docs/citation-styles/york-st-john-university--harvard"
+  }
+}

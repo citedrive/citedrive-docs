@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/springer--socpsych-authordate",
+  "id": "citation-styles/springer--socpsych-authordate",
+  "isDocsHomePage": false,
+  "title": "springer--socpsych-authordate",
+  "description": "---",
+  "source": "@site/docs/citation-styles/springer--socpsych-authordate.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/springer--socpsych-authordate",
+  "permalink": "/docs/citation-styles/springer--socpsych-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/springer--socpsych-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--physics-numeric-brackets",
+    "permalink": "/docs/citation-styles/springer--physics-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--socpsych-numeric-brackets",
+    "permalink": "/docs/citation-styles/springer--socpsych-numeric-brackets"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/eneuro",
+  "id": "citation-styles/eneuro",
+  "isDocsHomePage": false,
+  "title": "eneuro",
+  "description": "---",
+  "source": "@site/docs/citation-styles/eneuro.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/eneuro",
+  "permalink": "/docs/citation-styles/eneuro",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/eneuro.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "endoscopia-spanish",
+    "permalink": "/docs/citation-styles/endoscopia-spanish"
+  },
+  "next": {
+    "title": "enfermeria-clinica-spanish",
+    "permalink": "/docs/citation-styles/enfermeria-clinica-spanish"
+  }
+}

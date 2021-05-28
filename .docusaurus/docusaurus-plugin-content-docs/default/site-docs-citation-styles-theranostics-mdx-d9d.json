@@ -1,0 +1,23 @@
+{
+  "unversionedId": "citation-styles/theranostics",
+  "id": "citation-styles/theranostics",
+  "isDocsHomePage": false,
+  "title": "theranostics",
+  "description": "---",
+  "source": "@site/docs/citation-styles/theranostics.mdx",
+  "sourceDirName": "citation-styles",
+  "slug": "/citation-styles/theranostics",
+  "permalink": "/docs/citation-styles/theranostics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/citation-styles/theranostics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "theory-culture-and-society",
+    "permalink": "/docs/citation-styles/theory-culture-and-society"
+  },
+  "next": {
+    "title": "thiemegerman-german",
+    "permalink": "/docs/citation-styles/thiemegerman-german"
+  }
+}
