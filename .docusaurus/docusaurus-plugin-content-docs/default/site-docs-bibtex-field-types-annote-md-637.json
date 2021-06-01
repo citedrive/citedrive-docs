@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/annote",
+  "id": "bibtex/field-types/annote",
+  "isDocsHomePage": false,
+  "title": "Annote",
+  "description": "BibTeX Field type",
+  "source": "@site/docs/bibtex/field-types/annote.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/annote",
+  "permalink": "/docs/bibtex/field-types/annote",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/annote.md",
+  "version": "current",
+  "sidebar_label": "Annote",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "sidebar_label": "Annote"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: Address",
+    "permalink": "/docs/bibtex/field-types/address"
+  },
+  "next": {
+    "title": "Author",
+    "permalink": "/docs/bibtex/field-types/author"
+  }
+}

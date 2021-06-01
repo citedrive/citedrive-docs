@@ -1,0 +1,22 @@
+{
+  "unversionedId": "bibtex/field-types/toast",
+  "id": "bibtex/field-types/toast",
+  "isDocsHomePage": false,
+  "title": "toast Style",
+  "description": "the toast styles",
+  "source": "@site/docs/bibtex/field-types/toast.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/r-markdown/bibliography-and-citation-styles/toast",
+  "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/toast.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "toast Style",
+    "slug": "/r-markdown/bibliography-and-citation-styles/toast"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to BibTeX",
+    "permalink": "/docs/bibtex/intro"
+  }
+}

@@ -18,5 +18,9 @@
   "previous": {
     "title": "Working with any word processor",
     "permalink": "/docs/word-processor"
+  },
+  "next": {
+    "title": "Introduction to BibTeX",
+    "permalink": "/docs/bibtex/intro"
   }
 }

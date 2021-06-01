@@ -1,0 +1,22 @@
+{
+  "unversionedId": "bibtex/export",
+  "id": "bibtex/export",
+  "isDocsHomePage": false,
+  "title": "Export data",
+  "description": "",
+  "source": "@site/docs/bibtex/export.md",
+  "sourceDirName": "bibtex",
+  "slug": "/bibtex/export",
+  "permalink": "/docs/bibtex/export",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/export.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "toast Style",
+    "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast"
+  }
+}

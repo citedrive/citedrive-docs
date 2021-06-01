@@ -34,6 +34,7 @@ const features = [
       </>
     ),
   },
+  
 ];
 
 function Feature({imageUrl, title, description}) {
@@ -50,7 +51,7 @@ function Feature({imageUrl, title, description}) {
     </div>
   );
 }
-
+//FFFFFD
 export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
@@ -58,11 +59,9 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="A short introduction on how to get started with CiteDrive - Citation Guidelines - BibTeX - Academic Publishing">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+              <header className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#9119B3", color: "rgb(31 215 96)", }}>  
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-         
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 style={{fontSize: "156px"}} className="hero__title">Nothing but a <br />Referencing Tool</h1>
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -73,9 +72,26 @@ export default function Home() {
               Get Started
             </Link>
           </div>
+
         </div>
       </header>
       <main>
+      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#393838" }}>
+        <div className="container">
+
+          <p className="hero__subtitle">With CiteDrive, the focus is on a simple and equally appealing user experience.
+
+From the beginning, we wanted the app to be beautiful but distraction-free, with simply a few and yet the most essential functions and minimal fuss.
+
+We want to offer you a techno-stress-free experience while working on your paper. No intrusive social network nonsense, ads, and features that no one asks for. In the end, CiteDrive is and will always be “nothing” but a reference manager, with precisely the functions you need!</p>
+  
+        </div>
+      </section>
+              
+
+      
+        {/* 
+      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#B7F7F7" , height: "1020px"}}>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
@@ -87,6 +103,7 @@ export default function Home() {
             </div>
           </section>
         )}
+         </section>*/}
       </main>
     </Layout>
   );

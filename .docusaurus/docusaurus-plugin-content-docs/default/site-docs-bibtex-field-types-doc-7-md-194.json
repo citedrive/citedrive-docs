@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/doc7",
+  "id": "bibtex/field-types/doc7",
+  "isDocsHomePage": false,
+  "title": "doc7",
+  "description": "In the `author`-field, you can specify all contributors to the work you want to cite. BibTeX has several ways of specifying author names but expects in all cases a consistent and exact arrangement so that inaccurate information could lead to the unwanted output of the author's name.",
+  "source": "@site/docs/bibtex/field-types/doc7.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/doc7",
+  "permalink": "/docs/bibtex/field-types/doc7",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/doc7.md",
+  "version": "current",
+  "sidebar_label": "Author",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "sidebar_label": "Author"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Annote",
+    "permalink": "/docs/bibtex/field-types/annote"
+  },
+  "next": {
+    "title": "doc9",
+    "permalink": "/docs/bibtex/field-types/doc9"
+  }
+}

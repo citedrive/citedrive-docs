@@ -1,0 +1,22 @@
+{
+  "unversionedId": "bibtex/bibliography-and-citation-styles/toast",
+  "id": "bibtex/bibliography-and-citation-styles/toast",
+  "isDocsHomePage": false,
+  "title": "toast Style",
+  "description": "the toast styles",
+  "source": "@site/docs/bibtex/bibliography-and-citation-styles/toast.md",
+  "sourceDirName": "bibtex/bibliography-and-citation-styles",
+  "slug": "/r-markdown/bibliography-and-citation-styles/toast",
+  "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/bibliography-and-citation-styles/toast.md",
+  "version": "current",
+  "frontMatter": {
+    "title": "toast Style",
+    "slug": "/r-markdown/bibliography-and-citation-styles/toast"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction to BibTeX",
+    "permalink": "/docs/bibtex/intro"
+  }
+}

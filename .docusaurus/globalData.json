@@ -11,6 +11,61 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "bibtex/field-types/address",
+              "path": "/docs/bibtex/field-types/address",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/annote",
+              "path": "/docs/bibtex/field-types/annote",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/author",
+              "path": "/docs/bibtex/field-types/author",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/booktitle",
+              "path": "/docs/bibtex/field-types/booktitle",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/chapter",
+              "path": "/docs/bibtex/field-types/chapter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/doi",
+              "path": "/docs/bibtex/field-types/doi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/edition",
+              "path": "/docs/bibtex/field-types/edition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/email",
+              "path": "/docs/bibtex/field-types/email",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/howpublished",
+              "path": "/docs/bibtex/field-types/howpublished",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/institution",
+              "path": "/docs/bibtex/field-types/institution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/intro",
+              "path": "/docs/bibtex/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "export",
               "path": "/docs/export",
               "sidebar": "tutorialSidebar"

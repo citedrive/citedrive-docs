@@ -1,0 +1,24 @@
+{
+  "unversionedId": "bibtex/field-types/doc1003",
+  "id": "bibtex/field-types/doc1003",
+  "isDocsHomePage": false,
+  "title": "institution",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/doc1003.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/doc1003",
+  "permalink": "/docs/bibtex/field-types/doc1003",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/doc1003.md",
+  "version": "current",
+  "sidebar_label": "institution",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "institution"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "howpublished",
+    "permalink": "/docs/bibtex/field-types/howpublished"
+  }
+}

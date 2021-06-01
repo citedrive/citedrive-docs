@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/howpublished",
+  "id": "bibtex/field-types/howpublished",
+  "isDocsHomePage": false,
+  "title": "howpublished",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/howpublished.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/howpublished",
+  "permalink": "/docs/bibtex/field-types/howpublished",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/howpublished.md",
+  "version": "current",
+  "sidebar_label": "howpublished",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "howpublished"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edition",
+    "permalink": "/docs/bibtex/field-types/edition"
+  },
+  "next": {
+    "title": "institution",
+    "permalink": "/docs/bibtex/field-types/institution"
+  }
+}

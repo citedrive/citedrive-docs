@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/doc1002",
+  "id": "bibtex/field-types/doc1002",
+  "isDocsHomePage": false,
+  "title": "doc1002",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/doc1002.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/doc1002",
+  "permalink": "/docs/bibtex/field-types/doc1002",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/doc1002.md",
+  "version": "current",
+  "sidebar_label": "howpublished",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "sidebar_label": "howpublished"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edition",
+    "permalink": "/docs/bibtex/field-types/edition"
+  },
+  "next": {
+    "title": "doc1003",
+    "permalink": "/docs/bibtex/field-types/doc1003"
+  }
+}
