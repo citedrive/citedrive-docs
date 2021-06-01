@@ -223,15 +223,8 @@
                 "label": "Overleaf",
                 "items": [
                   {
-                    "type": "category",
-                    "label": "Bibliography and Citation Styles for Overleaf",
-                    "items": [
-                      {
-                        "type": "doc",
-                        "id": "overleaf/bibliography-and-citation-styles/toast"
-                      }
-                    ],
-                    "collapsed": true
+                    "type": "doc",
+                    "id": "overleaf/intro"
                   }
                 ],
                 "collapsed": true
@@ -268,6 +261,7 @@
             "/docs/bibtex/intro": "tutorialSidebar",
             "/docs/export": "tutorialSidebar",
             "/docs/intro": "tutorialSidebar",
+            "/docs/overleaf/intro": "tutorialSidebar",
             "/docs/r-markdown/bibliography-and-citation-styles/toast": "tutorialSidebar",
             "/docs/share-project": "tutorialSidebar",
             "/docs/bibtex": "tutorialSidebar",
@@ -1000,8 +994,8 @@
                 "permalink": "/docs/bibtex/field-types/volume"
               },
               "next": {
-                "title": "toast Style",
-                "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast"
+                "title": "About Overleaf",
+                "permalink": "/docs/overleaf/intro"
               }
             },
             {
@@ -1081,21 +1075,18 @@
               }
             },
             {
-              "unversionedId": "overleaf/bibliography-and-citation-styles/toast",
-              "id": "overleaf/bibliography-and-citation-styles/toast",
+              "unversionedId": "overleaf/intro",
+              "id": "overleaf/intro",
               "isDocsHomePage": false,
-              "title": "toast Style",
-              "description": "the toast styles",
-              "source": "@site/docs/overleaf/bibliography-and-citation-styles/toast.md",
-              "sourceDirName": "overleaf/bibliography-and-citation-styles",
-              "slug": "/r-markdown/bibliography-and-citation-styles/toast",
-              "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
-              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/toast.md",
+              "title": "About Overleaf",
+              "description": "Overleaf is a collaborative cloud-based editor used to write and edit  LaTeX-documents. It can also be described as the \"Google Docs\" for LaTeX users.",
+              "source": "@site/docs/overleaf/intro.md",
+              "sourceDirName": "overleaf",
+              "slug": "/overleaf/intro",
+              "permalink": "/docs/overleaf/intro",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/intro.md",
               "version": "current",
-              "frontMatter": {
-                "title": "toast Style",
-                "slug": "/r-markdown/bibliography-and-citation-styles/toast"
-              },
+              "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "BibTeX Field types: year",

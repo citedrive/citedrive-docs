@@ -156,8 +156,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "overleaf/bibliography-and-citation-styles/toast",
-              "path": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+              "id": "overleaf/intro",
+              "path": "/docs/overleaf/intro",
               "sidebar": "tutorialSidebar"
             },
             {

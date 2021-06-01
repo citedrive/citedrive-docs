@@ -69,7 +69,7 @@
     "component": "component---theme-mdx-page-1-f-3-b90",
     "content": "content---markdown-page-393-028"
   },
-  "/docs-b4e": {
+  "/docs-2de": {
     "component": "component---theme-doc-page-1-be-9be",
     "versionMetadata": "versionMetadata---docs-935-398"
   },
@@ -197,13 +197,13 @@
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-overleaf-099-637"
   },
+  "/docs/overleaf/intro-301": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-overleaf-intro-12-f-608"
+  },
   "/docs/r-markdown-533": {
     "component": "component---theme-doc-item-178-a40",
     "content": "content---docs-r-markdown-966-479"
-  },
-  "/docs/r-markdown/bibliography-and-citation-styles/toast-cbb": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---docs-r-markdown-bibliography-and-citation-styles-toast-432-536"
   },
   "/docs/r-markdown/bibliography-and-citation-styles/toast-47a": {
     "component": "component---theme-doc-item-178-a40",

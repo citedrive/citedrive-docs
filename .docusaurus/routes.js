@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','b4e'),
+  component: ComponentCreator('/docs','2de'),
   
   routes: [
 {
@@ -233,13 +233,13 @@ export default [
   exact: true,
 },
 {
-  path: '/docs/r-markdown',
-  component: ComponentCreator('/docs/r-markdown','533'),
+  path: '/docs/overleaf/intro',
+  component: ComponentCreator('/docs/overleaf/intro','301'),
   exact: true,
 },
 {
-  path: '/docs/r-markdown/bibliography-and-citation-styles/toast',
-  component: ComponentCreator('/docs/r-markdown/bibliography-and-citation-styles/toast','cbb'),
+  path: '/docs/r-markdown',
+  component: ComponentCreator('/docs/r-markdown','533'),
   exact: true,
 },
 {

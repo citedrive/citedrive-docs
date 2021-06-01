@@ -1,0 +1,19 @@
+{
+  "unversionedId": "overleaf/intro",
+  "id": "overleaf/intro",
+  "isDocsHomePage": false,
+  "title": "About Overleaf",
+  "description": "Overleaf is a collaborative cloud-based editor used to write and edit  LaTeX-documents. It can also be described as the \"Google Docs\" for LaTeX users.",
+  "source": "@site/docs/overleaf/intro.md",
+  "sourceDirName": "overleaf",
+  "slug": "/overleaf/intro",
+  "permalink": "/docs/overleaf/intro",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/intro.md",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: year",
+    "permalink": "/docs/bibtex/field-types/year"
+  }
+}

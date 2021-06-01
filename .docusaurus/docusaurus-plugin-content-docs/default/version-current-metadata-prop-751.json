@@ -220,16 +220,9 @@
         "label": "Overleaf",
         "items": [
           {
-            "type": "category",
-            "label": "Bibliography and Citation Styles for Overleaf",
-            "items": [
-              {
-                "type": "link",
-                "label": "toast Style",
-                "href": "/docs/r-markdown/bibliography-and-citation-styles/toast"
-              }
-            ],
-            "collapsed": true
+            "type": "link",
+            "label": "About Overleaf",
+            "href": "/docs/overleaf/intro"
           }
         ],
         "collapsed": true
@@ -266,6 +259,7 @@
     "/docs/bibtex/intro": "tutorialSidebar",
     "/docs/export": "tutorialSidebar",
     "/docs/intro": "tutorialSidebar",
+    "/docs/overleaf/intro": "tutorialSidebar",
     "/docs/r-markdown/bibliography-and-citation-styles/toast": "tutorialSidebar",
     "/docs/share-project": "tutorialSidebar",
     "/docs/bibtex": "tutorialSidebar",
