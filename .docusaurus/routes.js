@@ -8,6 +8,41 @@ export default [
   exact: true,
 },
 {
+  path: '/__docusaurus/debug',
+  component: ComponentCreator('/__docusaurus/debug','3d6'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/config',
+  component: ComponentCreator('/__docusaurus/debug/config','914'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/content',
+  component: ComponentCreator('/__docusaurus/debug/content','c28'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/globalData',
+  component: ComponentCreator('/__docusaurus/debug/globalData','3cf'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/metadata',
+  component: ComponentCreator('/__docusaurus/debug/metadata','31b'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/registry',
+  component: ComponentCreator('/__docusaurus/debug/registry','0da'),
+  exact: true,
+},
+{
+  path: '/__docusaurus/debug/routes',
+  component: ComponentCreator('/__docusaurus/debug/routes','244'),
+  exact: true,
+},
+{
   path: '/blog',
   component: ComponentCreator('/blog','b64'),
   exact: true,
@@ -33,18 +68,13 @@ export default [
   exact: true,
 },
 {
-  path: '/hi',
-  component: ComponentCreator('/hi','6dc'),
-  exact: true,
-},
-{
   path: '/markdown-page',
   component: ComponentCreator('/markdown-page','be1'),
   exact: true,
 },
 {
   path: '/docs',
-  component: ComponentCreator('/docs','e11'),
+  component: ComponentCreator('/docs','b4e'),
   
   routes: [
 {
@@ -78,6 +108,11 @@ export default [
   exact: true,
 },
 {
+  path: '/docs/bibtex/field-types/crossref',
+  component: ComponentCreator('/docs/bibtex/field-types/crossref','565'),
+  exact: true,
+},
+{
   path: '/docs/bibtex/field-types/doi',
   component: ComponentCreator('/docs/bibtex/field-types/doi','c5f'),
   exact: true,
@@ -85,6 +120,11 @@ export default [
 {
   path: '/docs/bibtex/field-types/edition',
   component: ComponentCreator('/docs/bibtex/field-types/edition','f39'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/editor',
+  component: ComponentCreator('/docs/bibtex/field-types/editor','5f7'),
   exact: true,
 },
 {
@@ -100,6 +140,76 @@ export default [
 {
   path: '/docs/bibtex/field-types/institution',
   component: ComponentCreator('/docs/bibtex/field-types/institution','11d'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/journal',
+  component: ComponentCreator('/docs/bibtex/field-types/journal','137'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/key',
+  component: ComponentCreator('/docs/bibtex/field-types/key','f01'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/month',
+  component: ComponentCreator('/docs/bibtex/field-types/month','015'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/note',
+  component: ComponentCreator('/docs/bibtex/field-types/note','301'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/number',
+  component: ComponentCreator('/docs/bibtex/field-types/number','445'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/organization',
+  component: ComponentCreator('/docs/bibtex/field-types/organization','b10'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/pages',
+  component: ComponentCreator('/docs/bibtex/field-types/pages','e64'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/publisher',
+  component: ComponentCreator('/docs/bibtex/field-types/publisher','8d6'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/school',
+  component: ComponentCreator('/docs/bibtex/field-types/school','92f'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/series',
+  component: ComponentCreator('/docs/bibtex/field-types/series','10b'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/title',
+  component: ComponentCreator('/docs/bibtex/field-types/title','e08'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/type',
+  component: ComponentCreator('/docs/bibtex/field-types/type','d0a'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/volume',
+  component: ComponentCreator('/docs/bibtex/field-types/volume','f69'),
+  exact: true,
+},
+{
+  path: '/docs/bibtex/field-types/year',
+  component: ComponentCreator('/docs/bibtex/field-types/year','855'),
   exact: true,
 },
 {
@@ -125,6 +235,11 @@ export default [
 {
   path: '/docs/r-markdown',
   component: ComponentCreator('/docs/r-markdown','533'),
+  exact: true,
+},
+{
+  path: '/docs/r-markdown/bibliography-and-citation-styles/toast',
+  component: ComponentCreator('/docs/r-markdown/bibliography-and-citation-styles/toast','cbb'),
   exact: true,
 },
 {

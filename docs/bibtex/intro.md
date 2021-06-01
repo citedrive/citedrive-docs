@@ -5,6 +5,11 @@ sidebar_label: Introduction
 
 # Introduction to BibTeX
 
+BibTeX, by [Oren Patashnik](https://en.wikipedia.org/wiki/Oren_Patashnik) and [Leslie Lamport ](http://lamport.org/)(1985),  is a reference management software for collecting and formatting references and is commonly used in conjunction with LaTeX.
+
+## CiteDrive
+!!! CiteDrive provides native support for BibTeX, with all reference types and fields. Try it out right now - for free! 
+
 ## Format
 
 Each literature source (book, paper, etc.) can be stored with the information attributes needed for citation and for inclusion in the bibliography in the following way:
@@ -93,3 +98,7 @@ The bibliographic database is a simple text file ('bib-file') in which all bibli
 }
 
 ```
+
+## How to cite a source 
+
+## Entry types

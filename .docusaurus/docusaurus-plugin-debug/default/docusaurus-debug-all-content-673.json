@@ -85,17 +85,17 @@
                       {
                         "type": "doc",
                         "id": "bibtex/field-types/address",
-                        "label": "Address"
+                        "label": "address"
                       },
                       {
                         "type": "doc",
                         "id": "bibtex/field-types/annote",
-                        "label": "Annote"
+                        "label": "annote"
                       },
                       {
                         "type": "doc",
                         "id": "bibtex/field-types/author",
-                        "label": "Author"
+                        "label": "author"
                       },
                       {
                         "type": "doc",
@@ -114,6 +114,11 @@
                       },
                       {
                         "type": "doc",
+                        "id": "bibtex/field-types/crossref",
+                        "label": "crossref"
+                      },
+                      {
+                        "type": "doc",
                         "id": "bibtex/field-types/doi",
                         "label": "doi"
                       },
@@ -124,6 +129,11 @@
                       },
                       {
                         "type": "doc",
+                        "id": "bibtex/field-types/editor",
+                        "label": "editor"
+                      },
+                      {
+                        "type": "doc",
                         "id": "bibtex/field-types/howpublished",
                         "label": "howpublished"
                       },
@@ -131,6 +141,94 @@
                         "type": "doc",
                         "id": "bibtex/field-types/institution",
                         "label": "institution"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/journal",
+                        "label": "journal"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/key",
+                        "label": "key"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/month",
+                        "label": "month"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/note",
+                        "label": "note"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/number",
+                        "label": "number"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/organization",
+                        "label": "organization"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/pages",
+                        "label": "pages"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/publisher",
+                        "label": "publisher"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/school",
+                        "label": "school"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/series",
+                        "label": "series"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/title",
+                        "label": "title"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/type",
+                        "label": "type"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/volume",
+                        "label": "volume"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "bibtex/field-types/year",
+                        "label": "year"
+                      }
+                    ],
+                    "collapsed": true
+                  }
+                ],
+                "collapsed": true
+              },
+              {
+                "type": "category",
+                "label": "Overleaf",
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Bibliography and Citation Styles for Overleaf",
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "overleaf/bibliography-and-citation-styles/toast"
                       }
                     ],
                     "collapsed": true
@@ -146,11 +244,27 @@
             "/docs/bibtex/field-types/author": "tutorialSidebar",
             "/docs/bibtex/field-types/booktitle": "tutorialSidebar",
             "/docs/bibtex/field-types/chapter": "tutorialSidebar",
+            "/docs/bibtex/field-types/crossref": "tutorialSidebar",
             "/docs/bibtex/field-types/doi": "tutorialSidebar",
             "/docs/bibtex/field-types/edition": "tutorialSidebar",
+            "/docs/bibtex/field-types/editor": "tutorialSidebar",
             "/docs/bibtex/field-types/email": "tutorialSidebar",
             "/docs/bibtex/field-types/howpublished": "tutorialSidebar",
             "/docs/bibtex/field-types/institution": "tutorialSidebar",
+            "/docs/bibtex/field-types/journal": "tutorialSidebar",
+            "/docs/bibtex/field-types/key": "tutorialSidebar",
+            "/docs/bibtex/field-types/month": "tutorialSidebar",
+            "/docs/bibtex/field-types/note": "tutorialSidebar",
+            "/docs/bibtex/field-types/number": "tutorialSidebar",
+            "/docs/bibtex/field-types/organization": "tutorialSidebar",
+            "/docs/bibtex/field-types/pages": "tutorialSidebar",
+            "/docs/bibtex/field-types/publisher": "tutorialSidebar",
+            "/docs/bibtex/field-types/school": "tutorialSidebar",
+            "/docs/bibtex/field-types/series": "tutorialSidebar",
+            "/docs/bibtex/field-types/title": "tutorialSidebar",
+            "/docs/bibtex/field-types/type": "tutorialSidebar",
+            "/docs/bibtex/field-types/volume": "tutorialSidebar",
+            "/docs/bibtex/field-types/year": "tutorialSidebar",
             "/docs/bibtex/intro": "tutorialSidebar",
             "/docs/export": "tutorialSidebar",
             "/docs/intro": "tutorialSidebar",
@@ -174,11 +288,11 @@
               "permalink": "/docs/bibtex/field-types/address",
               "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/address.md",
               "version": "current",
-              "sidebar_label": "Address",
+              "sidebar_label": "address",
               "sidebarPosition": 1,
               "frontMatter": {
                 "sidebar_position": 1,
-                "sidebar_label": "Address"
+                "sidebar_label": "address"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -202,11 +316,11 @@
               "permalink": "/docs/bibtex/field-types/annote",
               "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/annote.md",
               "version": "current",
-              "sidebar_label": "Annote",
+              "sidebar_label": "annote",
               "sidebarPosition": 2,
               "frontMatter": {
                 "sidebar_position": 2,
-                "sidebar_label": "Annote"
+                "sidebar_label": "annote"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -230,11 +344,11 @@
               "permalink": "/docs/bibtex/field-types/author",
               "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/author.md",
               "version": "current",
-              "sidebar_label": "Author",
+              "sidebar_label": "author",
               "sidebarPosition": 3,
               "frontMatter": {
                 "sidebar_position": 3,
-                "sidebar_label": "Author"
+                "sidebar_label": "author"
               },
               "sidebar": "tutorialSidebar",
               "previous": {
@@ -298,6 +412,34 @@
                 "permalink": "/docs/bibtex/field-types/email"
               },
               "next": {
+                "title": "BibTeX Field types: crossref",
+                "permalink": "/docs/bibtex/field-types/crossref"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/crossref",
+              "id": "bibtex/field-types/crossref",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: crossref",
+              "description": "If several items from your database refer to a specific one, its ID can be entered in \"crossref\" of the respective entries.",
+              "source": "@site/docs/bibtex/field-types/crossref.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/crossref",
+              "permalink": "/docs/bibtex/field-types/crossref",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/crossref.md",
+              "version": "current",
+              "sidebar_label": "crossref",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "sidebar_label": "crossref"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "chapter",
+                "permalink": "/docs/bibtex/field-types/chapter"
+              },
+              "next": {
                 "title": "doi",
                 "permalink": "/docs/bibtex/field-types/doi"
               }
@@ -322,11 +464,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "chapter",
-                "permalink": "/docs/bibtex/field-types/chapter"
+                "title": "BibTeX Field types: crossref",
+                "permalink": "/docs/bibtex/field-types/crossref"
               },
               "next": {
-                "title": "edition",
+                "title": "BibTeX Field types: edition",
                 "permalink": "/docs/bibtex/field-types/edition"
               }
             },
@@ -334,8 +476,8 @@
               "unversionedId": "bibtex/field-types/edition",
               "id": "bibtex/field-types/edition",
               "isDocsHomePage": false,
-              "title": "edition",
-              "description": "...",
+              "title": "BibTeX Field types: edition",
+              "description": "Edition of a publication is stored in the field `edition`. An example for the \"second edition\":",
               "source": "@site/docs/bibtex/field-types/edition.md",
               "sourceDirName": "bibtex/field-types",
               "slug": "/bibtex/field-types/edition",
@@ -354,7 +496,35 @@
                 "permalink": "/docs/bibtex/field-types/doi"
               },
               "next": {
-                "title": "howpublished",
+                "title": "BibTeX Field types: editor",
+                "permalink": "/docs/bibtex/field-types/editor"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/editor",
+              "id": "bibtex/field-types/editor",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: editor",
+              "description": "In the `editor`-field, you can specify all contributors to the work you want to cite. BibTeX has several ways of specifying author names but expects in all cases a consistent and exact arrangement so that inaccurate information could lead to the unwanted output of the author's name.",
+              "source": "@site/docs/bibtex/field-types/editor.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/editor",
+              "permalink": "/docs/bibtex/field-types/editor",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/editor.md",
+              "version": "current",
+              "sidebar_label": "editor",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8,
+                "sidebar_label": "editor"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: edition",
+                "permalink": "/docs/bibtex/field-types/edition"
+              },
+              "next": {
+                "title": "BibTeX Field types: howpublished",
                 "permalink": "/docs/bibtex/field-types/howpublished"
               }
             },
@@ -390,7 +560,7 @@
               "unversionedId": "bibtex/field-types/howpublished",
               "id": "bibtex/field-types/howpublished",
               "isDocsHomePage": false,
-              "title": "howpublished",
+              "title": "BibTeX Field types: howpublished",
               "description": "...",
               "source": "@site/docs/bibtex/field-types/howpublished.md",
               "sourceDirName": "bibtex/field-types",
@@ -406,11 +576,11 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "edition",
-                "permalink": "/docs/bibtex/field-types/edition"
+                "title": "BibTeX Field types: editor",
+                "permalink": "/docs/bibtex/field-types/editor"
               },
               "next": {
-                "title": "institution",
+                "title": "BibTeX Field types: institution",
                 "permalink": "/docs/bibtex/field-types/institution"
               }
             },
@@ -418,7 +588,7 @@
               "unversionedId": "bibtex/field-types/institution",
               "id": "bibtex/field-types/institution",
               "isDocsHomePage": false,
-              "title": "institution",
+              "title": "BibTeX Field types: institution",
               "description": "...",
               "source": "@site/docs/bibtex/field-types/institution.md",
               "sourceDirName": "bibtex/field-types",
@@ -434,8 +604,404 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "howpublished",
+                "title": "BibTeX Field types: howpublished",
                 "permalink": "/docs/bibtex/field-types/howpublished"
+              },
+              "next": {
+                "title": "BibTeX Field types: journal",
+                "permalink": "/docs/bibtex/field-types/journal"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/journal",
+              "id": "bibtex/field-types/journal",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: journal",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/journal.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/journal",
+              "permalink": "/docs/bibtex/field-types/journal",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/journal.md",
+              "version": "current",
+              "sidebar_label": "journal",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "journal"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: institution",
+                "permalink": "/docs/bibtex/field-types/institution"
+              },
+              "next": {
+                "title": "BibTeX Field types: key",
+                "permalink": "/docs/bibtex/field-types/key"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/key",
+              "id": "bibtex/field-types/key",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: key",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/key.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/key",
+              "permalink": "/docs/bibtex/field-types/key",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/key.md",
+              "version": "current",
+              "sidebar_label": "key",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "key"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: journal",
+                "permalink": "/docs/bibtex/field-types/journal"
+              },
+              "next": {
+                "title": "BibTeX Field types: month",
+                "permalink": "/docs/bibtex/field-types/month"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/month",
+              "id": "bibtex/field-types/month",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: month",
+              "description": "To indicate the month the work was published (or written, if the work is unpublished), the month field is used. The exact date can be indicated in conjunction with the fields \"year\", \"day\".",
+              "source": "@site/docs/bibtex/field-types/month.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/month",
+              "permalink": "/docs/bibtex/field-types/month",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/month.md",
+              "version": "current",
+              "sidebar_label": "month",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "month"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: key",
+                "permalink": "/docs/bibtex/field-types/key"
+              },
+              "next": {
+                "title": "BibTeX Field types: note",
+                "permalink": "/docs/bibtex/field-types/note"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/note",
+              "id": "bibtex/field-types/note",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: note",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/note.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/note",
+              "permalink": "/docs/bibtex/field-types/note",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/note.md",
+              "version": "current",
+              "sidebar_label": "note",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "note"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: month",
+                "permalink": "/docs/bibtex/field-types/month"
+              },
+              "next": {
+                "title": "BibTeX Field types: number",
+                "permalink": "/docs/bibtex/field-types/number"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/number",
+              "id": "bibtex/field-types/number",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: number",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/number.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/number",
+              "permalink": "/docs/bibtex/field-types/number",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/number.md",
+              "version": "current",
+              "sidebar_label": "number",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "number"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: note",
+                "permalink": "/docs/bibtex/field-types/note"
+              },
+              "next": {
+                "title": "BibTeX Field types: organization",
+                "permalink": "/docs/bibtex/field-types/organization"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/organization",
+              "id": "bibtex/field-types/organization",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: organization",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/organization.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/organization",
+              "permalink": "/docs/bibtex/field-types/organization",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/organization.md",
+              "version": "current",
+              "sidebar_label": "organization",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "organization"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: number",
+                "permalink": "/docs/bibtex/field-types/number"
+              },
+              "next": {
+                "title": "BibTeX Field types: pages",
+                "permalink": "/docs/bibtex/field-types/pages"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/pages",
+              "id": "bibtex/field-types/pages",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: pages",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/pages.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/pages",
+              "permalink": "/docs/bibtex/field-types/pages",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/pages.md",
+              "version": "current",
+              "sidebar_label": "pages",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "pages"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: organization",
+                "permalink": "/docs/bibtex/field-types/organization"
+              },
+              "next": {
+                "title": "BibTeX Field types: publisher",
+                "permalink": "/docs/bibtex/field-types/publisher"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/publisher",
+              "id": "bibtex/field-types/publisher",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: publisher",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/publisher.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/publisher",
+              "permalink": "/docs/bibtex/field-types/publisher",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/publisher.md",
+              "version": "current",
+              "sidebar_label": "publisher",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "publisher"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: pages",
+                "permalink": "/docs/bibtex/field-types/pages"
+              },
+              "next": {
+                "title": "BibTeX Field types: school",
+                "permalink": "/docs/bibtex/field-types/school"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/school",
+              "id": "bibtex/field-types/school",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: school",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/school.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/school",
+              "permalink": "/docs/bibtex/field-types/school",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/school.md",
+              "version": "current",
+              "sidebar_label": "school",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "school"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: publisher",
+                "permalink": "/docs/bibtex/field-types/publisher"
+              },
+              "next": {
+                "title": "BibTeX Field types: series",
+                "permalink": "/docs/bibtex/field-types/series"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/series",
+              "id": "bibtex/field-types/series",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: series",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/series.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/series",
+              "permalink": "/docs/bibtex/field-types/series",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/series.md",
+              "version": "current",
+              "sidebar_label": "series",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "series"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: school",
+                "permalink": "/docs/bibtex/field-types/school"
+              },
+              "next": {
+                "title": "BibTeX Field types: title",
+                "permalink": "/docs/bibtex/field-types/title"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/title",
+              "id": "bibtex/field-types/title",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: title",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/title.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/title",
+              "permalink": "/docs/bibtex/field-types/title",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/title.md",
+              "version": "current",
+              "sidebar_label": "title",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "title"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: series",
+                "permalink": "/docs/bibtex/field-types/series"
+              },
+              "next": {
+                "title": "BibTeX Field types: type",
+                "permalink": "/docs/bibtex/field-types/type"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/type",
+              "id": "bibtex/field-types/type",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: type",
+              "description": "",
+              "source": "@site/docs/bibtex/field-types/type.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/type",
+              "permalink": "/docs/bibtex/field-types/type",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/type.md",
+              "version": "current",
+              "sidebar_label": "type",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "type"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: title",
+                "permalink": "/docs/bibtex/field-types/title"
+              },
+              "next": {
+                "title": "BibTeX Field types: volume",
+                "permalink": "/docs/bibtex/field-types/volume"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/volume",
+              "id": "bibtex/field-types/volume",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: volume",
+              "description": "...",
+              "source": "@site/docs/bibtex/field-types/volume.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/volume",
+              "permalink": "/docs/bibtex/field-types/volume",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/volume.md",
+              "version": "current",
+              "sidebar_label": "volume",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "volume"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: type",
+                "permalink": "/docs/bibtex/field-types/type"
+              },
+              "next": {
+                "title": "BibTeX Field types: year",
+                "permalink": "/docs/bibtex/field-types/year"
+              }
+            },
+            {
+              "unversionedId": "bibtex/field-types/year",
+              "id": "bibtex/field-types/year",
+              "isDocsHomePage": false,
+              "title": "BibTeX Field types: year",
+              "description": "To indicate the year the work was published (or written, if the work is unpublished), the year field is used. The exact date can be indicated in conjunction with the fields \"month\", \"day\".",
+              "source": "@site/docs/bibtex/field-types/year.md",
+              "sourceDirName": "bibtex/field-types",
+              "slug": "/bibtex/field-types/year",
+              "permalink": "/docs/bibtex/field-types/year",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/year.md",
+              "version": "current",
+              "sidebar_label": "year",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10,
+                "sidebar_label": "year"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: volume",
+                "permalink": "/docs/bibtex/field-types/volume"
+              },
+              "next": {
+                "title": "toast Style",
+                "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast"
               }
             },
             {
@@ -443,7 +1009,7 @@
               "id": "bibtex/intro",
               "isDocsHomePage": false,
               "title": "Introduction to BibTeX",
-              "description": "Format",
+              "description": "BibTeX, by Oren Patashnik and Leslie Lamport (1985),  is a reference management software for collecting and formatting references and is commonly used in conjunction with LaTeX.",
               "source": "@site/docs/bibtex/intro.md",
               "sourceDirName": "bibtex",
               "slug": "/bibtex/intro",
@@ -512,6 +1078,28 @@
               "next": {
                 "title": "Share project",
                 "permalink": "/docs/share-project"
+              }
+            },
+            {
+              "unversionedId": "overleaf/bibliography-and-citation-styles/toast",
+              "id": "overleaf/bibliography-and-citation-styles/toast",
+              "isDocsHomePage": false,
+              "title": "toast Style",
+              "description": "the toast styles",
+              "source": "@site/docs/overleaf/bibliography-and-citation-styles/toast.md",
+              "sourceDirName": "overleaf/bibliography-and-citation-styles",
+              "slug": "/r-markdown/bibliography-and-citation-styles/toast",
+              "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/toast.md",
+              "version": "current",
+              "frontMatter": {
+                "title": "toast Style",
+                "slug": "/r-markdown/bibliography-and-citation-styles/toast"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "BibTeX Field types: year",
+                "permalink": "/docs/bibtex/field-types/year"
               }
             },
             {
@@ -742,11 +1330,6 @@
   },
   "docusaurus-plugin-content-pages": {
     "default": [
-      {
-        "type": "jsx",
-        "permalink": "/hi",
-        "source": "@site/src/pages/hi.js"
-      },
       {
         "type": "jsx",
         "permalink": "/",

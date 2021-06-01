@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/series",
+  "id": "bibtex/field-types/series",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: series",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/series.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/series",
+  "permalink": "/docs/bibtex/field-types/series",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/series.md",
+  "version": "current",
+  "sidebar_label": "series",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "series"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: school",
+    "permalink": "/docs/bibtex/field-types/school"
+  },
+  "next": {
+    "title": "BibTeX Field types: title",
+    "permalink": "/docs/bibtex/field-types/title"
+  }
+}

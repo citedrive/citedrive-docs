@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/pages",
+  "id": "bibtex/field-types/pages",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: pages",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/pages.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/pages",
+  "permalink": "/docs/bibtex/field-types/pages",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/pages.md",
+  "version": "current",
+  "sidebar_label": "pages",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "pages"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: organization",
+    "permalink": "/docs/bibtex/field-types/organization"
+  },
+  "next": {
+    "title": "BibTeX Field types: publisher",
+    "permalink": "/docs/bibtex/field-types/publisher"
+  }
+}

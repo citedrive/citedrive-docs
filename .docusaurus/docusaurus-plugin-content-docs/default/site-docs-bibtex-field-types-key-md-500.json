@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/key",
+  "id": "bibtex/field-types/key",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: key",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/key.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/key",
+  "permalink": "/docs/bibtex/field-types/key",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/key.md",
+  "version": "current",
+  "sidebar_label": "key",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "key"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: journal",
+    "permalink": "/docs/bibtex/field-types/journal"
+  },
+  "next": {
+    "title": "BibTeX Field types: month",
+    "permalink": "/docs/bibtex/field-types/month"
+  }
+}

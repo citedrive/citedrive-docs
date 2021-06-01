@@ -10,11 +10,11 @@
   "permalink": "/docs/bibtex/field-types/author",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/author.md",
   "version": "current",
-  "sidebar_label": "Author",
+  "sidebar_label": "author",
   "sidebarPosition": 3,
   "frontMatter": {
     "sidebar_position": 3,
-    "sidebar_label": "Author"
+    "sidebar_label": "author"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

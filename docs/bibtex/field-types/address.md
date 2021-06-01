@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: Address
+sidebar_label: address
 ---
 # BibTeX Field types: Address
 The address-field contains the publisher's (or any other institution) address.

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-sidebar_label: Author
+sidebar_label: author
 ---
 
 # Author

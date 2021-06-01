@@ -10,11 +10,11 @@
   "permalink": "/docs/bibtex/field-types/address",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/address.md",
   "version": "current",
-  "sidebar_label": "Address",
+  "sidebar_label": "address",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1,
-    "sidebar_label": "Address"
+    "sidebar_label": "address"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

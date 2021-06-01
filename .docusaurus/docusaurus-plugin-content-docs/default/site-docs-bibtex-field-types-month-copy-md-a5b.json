@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/month copy",
+  "id": "bibtex/field-types/month copy",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: month",
+  "description": "To indicate the month the work was published (or written, if the work is unpublished), the month field is used. The exact date can be indicated in conjunction with the fields \"year\", \"day\".",
+  "source": "@site/docs/bibtex/field-types/month copy.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/month copy",
+  "permalink": "/docs/bibtex/field-types/month copy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/month copy.md",
+  "version": "current",
+  "sidebar_label": "month",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "month"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: key",
+    "permalink": "/docs/bibtex/field-types/key"
+  },
+  "next": {
+    "title": "BibTeX Field types: month",
+    "permalink": "/docs/bibtex/field-types/month"
+  }
+}

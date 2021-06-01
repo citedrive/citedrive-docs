@@ -22,7 +22,7 @@
     "permalink": "/docs/bibtex/field-types/email"
   },
   "next": {
-    "title": "doi",
-    "permalink": "/docs/bibtex/field-types/doi"
+    "title": "BibTeX Field types: crossref",
+    "permalink": "/docs/bibtex/field-types/crossref"
   }
 }

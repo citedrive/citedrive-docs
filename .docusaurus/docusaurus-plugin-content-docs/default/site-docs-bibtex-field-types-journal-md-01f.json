@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/journal",
+  "id": "bibtex/field-types/journal",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: journal",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/journal.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/journal",
+  "permalink": "/docs/bibtex/field-types/journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/journal.md",
+  "version": "current",
+  "sidebar_label": "journal",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "journal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: institution",
+    "permalink": "/docs/bibtex/field-types/institution"
+  },
+  "next": {
+    "title": "BibTeX Field types: key",
+    "permalink": "/docs/bibtex/field-types/key"
+  }
+}

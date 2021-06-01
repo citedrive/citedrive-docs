@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/volume",
+  "id": "bibtex/field-types/volume",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: volume",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/volume.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/volume",
+  "permalink": "/docs/bibtex/field-types/volume",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/volume.md",
+  "version": "current",
+  "sidebar_label": "volume",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "volume"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: type",
+    "permalink": "/docs/bibtex/field-types/type"
+  },
+  "next": {
+    "title": "BibTeX Field types: year",
+    "permalink": "/docs/bibtex/field-types/year"
+  }
+}

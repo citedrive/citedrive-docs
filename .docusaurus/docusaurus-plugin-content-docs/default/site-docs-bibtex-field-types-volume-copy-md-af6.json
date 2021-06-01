@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/volume copy",
+  "id": "bibtex/field-types/volume copy",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: volume",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/volume copy.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/volume copy",
+  "permalink": "/docs/bibtex/field-types/volume copy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/volume copy.md",
+  "version": "current",
+  "sidebar_label": "volume",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "volume"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: title",
+    "permalink": "/docs/bibtex/field-types/title"
+  },
+  "next": {
+    "title": "BibTeX Field types: volume",
+    "permalink": "/docs/bibtex/field-types/volume"
+  }
+}

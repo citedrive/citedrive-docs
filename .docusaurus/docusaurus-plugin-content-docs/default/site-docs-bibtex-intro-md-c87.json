@@ -3,7 +3,7 @@
   "id": "bibtex/intro",
   "isDocsHomePage": false,
   "title": "Introduction to BibTeX",
-  "description": "Format",
+  "description": "BibTeX, by Oren Patashnik and Leslie Lamport (1985),  is a reference management software for collecting and formatting references and is commonly used in conjunction with LaTeX.",
   "source": "@site/docs/bibtex/intro.md",
   "sourceDirName": "bibtex",
   "slug": "/bibtex/intro",

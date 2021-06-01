@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/journal copy",
+  "id": "bibtex/field-types/journal copy",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: journal",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/journal copy.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/journal copy",
+  "permalink": "/docs/bibtex/field-types/journal copy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/journal copy.md",
+  "version": "current",
+  "sidebar_label": "journal",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "journal"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: institution",
+    "permalink": "/docs/bibtex/field-types/institution"
+  },
+  "next": {
+    "title": "BibTeX Field types: journal",
+    "permalink": "/docs/bibtex/field-types/journal"
+  }
+}

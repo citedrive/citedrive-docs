@@ -2,7 +2,7 @@
   "unversionedId": "bibtex/field-types/howpublished",
   "id": "bibtex/field-types/howpublished",
   "isDocsHomePage": false,
-  "title": "howpublished",
+  "title": "BibTeX Field types: howpublished",
   "description": "...",
   "source": "@site/docs/bibtex/field-types/howpublished.md",
   "sourceDirName": "bibtex/field-types",
@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "edition",
-    "permalink": "/docs/bibtex/field-types/edition"
+    "title": "BibTeX Field types: editor",
+    "permalink": "/docs/bibtex/field-types/editor"
   },
   "next": {
-    "title": "institution",
+    "title": "BibTeX Field types: institution",
     "permalink": "/docs/bibtex/field-types/institution"
   }
 }

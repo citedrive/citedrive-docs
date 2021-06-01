@@ -10,11 +10,11 @@
   "permalink": "/docs/bibtex/field-types/annote",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/annote.md",
   "version": "current",
-  "sidebar_label": "Annote",
+  "sidebar_label": "annote",
   "sidebarPosition": 2,
   "frontMatter": {
     "sidebar_position": 2,
-    "sidebar_label": "Annote"
+    "sidebar_label": "annote"
   },
   "sidebar": "tutorialSidebar",
   "previous": {

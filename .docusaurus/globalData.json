@@ -36,6 +36,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "bibtex/field-types/crossref",
+              "path": "/docs/bibtex/field-types/crossref",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "bibtex/field-types/doi",
               "path": "/docs/bibtex/field-types/doi",
               "sidebar": "tutorialSidebar"
@@ -43,6 +48,11 @@
             {
               "id": "bibtex/field-types/edition",
               "path": "/docs/bibtex/field-types/edition",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/editor",
+              "path": "/docs/bibtex/field-types/editor",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,6 +71,76 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "bibtex/field-types/journal",
+              "path": "/docs/bibtex/field-types/journal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/key",
+              "path": "/docs/bibtex/field-types/key",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/month",
+              "path": "/docs/bibtex/field-types/month",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/note",
+              "path": "/docs/bibtex/field-types/note",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/number",
+              "path": "/docs/bibtex/field-types/number",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/organization",
+              "path": "/docs/bibtex/field-types/organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/pages",
+              "path": "/docs/bibtex/field-types/pages",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/publisher",
+              "path": "/docs/bibtex/field-types/publisher",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/school",
+              "path": "/docs/bibtex/field-types/school",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/series",
+              "path": "/docs/bibtex/field-types/series",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/title",
+              "path": "/docs/bibtex/field-types/title",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/type",
+              "path": "/docs/bibtex/field-types/type",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/volume",
+              "path": "/docs/bibtex/field-types/volume",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "bibtex/field-types/year",
+              "path": "/docs/bibtex/field-types/year",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "bibtex/intro",
               "path": "/docs/bibtex/intro",
               "sidebar": "tutorialSidebar"
@@ -73,6 +153,11 @@
             {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/toast",
+              "path": "/docs/r-markdown/bibliography-and-citation-styles/toast",
               "sidebar": "tutorialSidebar"
             },
             {

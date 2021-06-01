@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/number copy",
+  "id": "bibtex/field-types/number copy",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: number",
+  "description": "...",
+  "source": "@site/docs/bibtex/field-types/number copy.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/number copy",
+  "permalink": "/docs/bibtex/field-types/number copy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/number copy.md",
+  "version": "current",
+  "sidebar_label": "number",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "number"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: note",
+    "permalink": "/docs/bibtex/field-types/note"
+  },
+  "next": {
+    "title": "BibTeX Field types: number",
+    "permalink": "/docs/bibtex/field-types/number"
+  }
+}

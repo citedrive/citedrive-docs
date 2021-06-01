@@ -1,134 +1,220 @@
 {
   "/-deb": {
-    "component": "c4f5d8e4",
-    "config": "5e9f5e1a"
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---5-e-9-4f3"
+  },
+  "/__docusaurus/debug-3d6": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/config-914": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/__docusaurus/debug/content-c28": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3cf": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/__docusaurus/debug/metadata-31b": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/__docusaurus/debug/registry-0da": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/__docusaurus/debug/routes-244": {
+    "component": "component---theme-debug-routes-946-699"
   },
   "/blog-b64": {
-    "component": "a6aa9e1f",
-    "sidebar": "fee46a59",
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---blogfee-bae",
     "items": [
       {
-        "content": "af172acd"
+        "content": "content---blogaf-1-856"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---blogb-2-b-df1"
   },
   "/blog/tags-a35": {
-    "component": "01a85c17",
-    "sidebar": "fee46a59",
-    "tags": "a7023ddc"
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---blogfee-bae",
+    "tags": "tags---blog-tagsa-70-da2"
   },
   "/blog/tags/citedrive-1ba": {
-    "component": "6875c492",
-    "sidebar": "fee46a59",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogfee-bae",
     "items": [
       {
-        "content": "af172acd"
+        "content": "content---blogaf-1-856"
       }
     ],
-    "metadata": "f99d3888"
+    "metadata": "metadata---blog-tags-citedrivef-99-d30"
   },
   "/blog/tags/docs-a1e": {
-    "component": "6875c492",
-    "sidebar": "fee46a59",
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---blogfee-bae",
     "items": [
       {
-        "content": "af172acd"
+        "content": "content---blogaf-1-856"
       }
     ],
-    "metadata": "69f51295"
+    "metadata": "metadata---blog-tags-docs-69-f-160"
   },
   "/blog/welcome-30e": {
-    "component": "ccc49370",
-    "sidebar": "fee46a59",
-    "content": "2868cdab"
-  },
-  "/hi-6dc": {
-    "component": "6ff0ad60",
-    "config": "5e9f5e1a"
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---blogfee-bae",
+    "content": "content---blog-welcome-286-e55"
   },
   "/markdown-page-be1": {
-    "component": "1f391b9e",
-    "content": "393be207"
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---markdown-page-393-028"
   },
-  "/docs-e11": {
-    "component": "1be78505",
-    "versionMetadata": "935f2afb"
+  "/docs-b4e": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
   "/docs/bibtex-c69": {
-    "component": "17896441",
-    "content": "ef64b07c"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtexef-6-192"
   },
   "/docs/bibtex/field-types/address-dc3": {
-    "component": "17896441",
-    "content": "5aa41b57"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-address-5-aa-929"
   },
   "/docs/bibtex/field-types/annote-045": {
-    "component": "17896441",
-    "content": "63746f5a"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-annote-637-f26"
   },
   "/docs/bibtex/field-types/author-d5f": {
-    "component": "17896441",
-    "content": "74803e64"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-author-748-55b"
   },
   "/docs/bibtex/field-types/booktitle-0d7": {
-    "component": "17896441",
-    "content": "f76396c7"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-booktitlef-76-287"
   },
   "/docs/bibtex/field-types/chapter-03e": {
-    "component": "17896441",
-    "content": "66be550d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-chapter-66-b-af3"
+  },
+  "/docs/bibtex/field-types/crossref-565": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-crossref-44-a-bfe"
   },
   "/docs/bibtex/field-types/doi-c5f": {
-    "component": "17896441",
-    "content": "f38d1af3"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-doif-38-9b5"
   },
   "/docs/bibtex/field-types/edition-f39": {
-    "component": "17896441",
-    "content": "09ad4298"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-edition-09-a-5ae"
+  },
+  "/docs/bibtex/field-types/editor-5f7": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-editor-8-fe-bd6"
   },
   "/docs/bibtex/field-types/email-598": {
-    "component": "17896441",
-    "content": "5547f0bb"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-email-554-b22"
   },
   "/docs/bibtex/field-types/howpublished-f96": {
-    "component": "17896441",
-    "content": "ac3d1736"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-howpublishedac-3-12f"
   },
   "/docs/bibtex/field-types/institution-11d": {
-    "component": "17896441",
-    "content": "c421dc41"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-institutionc-42-831"
+  },
+  "/docs/bibtex/field-types/journal-137": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-journal-01-f-cb4"
+  },
+  "/docs/bibtex/field-types/key-f01": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-key-500-38e"
+  },
+  "/docs/bibtex/field-types/month-015": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-monthe-04-5b4"
+  },
+  "/docs/bibtex/field-types/note-301": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-note-499-527"
+  },
+  "/docs/bibtex/field-types/number-445": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-number-183-8c0"
+  },
+  "/docs/bibtex/field-types/organization-b10": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-organizationb-6-e-5e5"
+  },
+  "/docs/bibtex/field-types/pages-e64": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-pages-289-bb0"
+  },
+  "/docs/bibtex/field-types/publisher-8d6": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-publisher-6-de-571"
+  },
+  "/docs/bibtex/field-types/school-92f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-school-337-cdb"
+  },
+  "/docs/bibtex/field-types/series-10b": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-series-09-c-844"
+  },
+  "/docs/bibtex/field-types/title-e08": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-title-299-151"
+  },
+  "/docs/bibtex/field-types/type-d0a": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-typeba-4-549"
+  },
+  "/docs/bibtex/field-types/volume-f69": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-volume-359-dce"
+  },
+  "/docs/bibtex/field-types/year-855": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-field-types-year-163-76b"
   },
   "/docs/bibtex/intro-91b": {
-    "component": "17896441",
-    "content": "c8736b8d"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-bibtex-introc-87-7da"
   },
   "/docs/export-684": {
-    "component": "17896441",
-    "content": "fc25a964"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-exportfc-2-d25"
   },
   "/docs/intro-e84": {
-    "component": "17896441",
-    "content": "0e384e19"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
   "/docs/overleaf-8d0": {
-    "component": "17896441",
-    "content": "09917d86"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-overleaf-099-637"
   },
   "/docs/r-markdown-533": {
-    "component": "17896441",
-    "content": "966a6961"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-r-markdown-966-479"
+  },
+  "/docs/r-markdown/bibliography-and-citation-styles/toast-cbb": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-r-markdown-bibliography-and-citation-styles-toast-432-536"
   },
   "/docs/r-markdown/bibliography-and-citation-styles/toast-47a": {
-    "component": "17896441",
-    "content": "98ad85ca"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-r-markdown-bibliography-and-citation-styles-toast-98-a-742"
   },
   "/docs/share-project-c93": {
-    "component": "17896441",
-    "content": "61a20429"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-share-project-61-a-362"
   },
   "/docs/word-processor-37f": {
-    "component": "17896441",
-    "content": "69537492"
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---docs-word-processor-695-6bb"
   }
 }

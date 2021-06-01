@@ -1,0 +1,28 @@
+{
+  "unversionedId": "bibtex/field-types/type",
+  "id": "bibtex/field-types/type",
+  "isDocsHomePage": false,
+  "title": "BibTeX Field types: type",
+  "description": "",
+  "source": "@site/docs/bibtex/field-types/type.md",
+  "sourceDirName": "bibtex/field-types",
+  "slug": "/bibtex/field-types/type",
+  "permalink": "/docs/bibtex/field-types/type",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/type.md",
+  "version": "current",
+  "sidebar_label": "type",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "sidebar_label": "type"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "BibTeX Field types: title",
+    "permalink": "/docs/bibtex/field-types/title"
+  },
+  "next": {
+    "title": "BibTeX Field types: volume",
+    "permalink": "/docs/bibtex/field-types/volume"
+  }
+}

@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chapter",
-    "permalink": "/docs/bibtex/field-types/chapter"
+    "title": "BibTeX Field types: crossref",
+    "permalink": "/docs/bibtex/field-types/crossref"
   },
   "next": {
-    "title": "edition",
+    "title": "BibTeX Field types: edition",
     "permalink": "/docs/bibtex/field-types/edition"
   }
 }
