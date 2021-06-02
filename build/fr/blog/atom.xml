@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://docs.citedrive.com/blog</id>
+    <title>CiteDrive Documentation Blog</title>
+    <updated>2019-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://docs.citedrive.com/blog"/>
+    <subtitle>CiteDrive Documentation Blog</subtitle>
+    <icon>http://docs.citedrive.com/img/citedrive-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to CiteDrive Docs]]></title>
+        <id>welcome</id>
+        <link href="http://docs.citedrive.com/fr/blog/welcome"/>
+        <updated>2019-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+    </entry>
+</feed>

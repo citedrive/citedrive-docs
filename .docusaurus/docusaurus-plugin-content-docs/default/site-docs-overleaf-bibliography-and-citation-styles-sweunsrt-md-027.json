@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/sweunsrt.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/sweunsrt",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/sweunsrt",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sweunsrt",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/sweunsrt.md",
   "version": "current",
   "sidebarPosition": 292,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use usmeg-n (stellenbosch) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/usmeg-n"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/usmeg-n"
   },
   "next": {
     "title": "How to use sweplnat (swebib) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/sweplnat"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sweplnat"
   }
 }

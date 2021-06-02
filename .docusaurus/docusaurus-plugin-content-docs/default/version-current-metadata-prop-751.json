@@ -1,14 +1,14 @@
 {
   "pluginId": "default",
   "version": "current",
-  "label": "Next",
+  "label": "Suivant",
   "isLast": true,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "Basic Steps",
-        "href": "/docs/intro"
+        "href": "/fr/docs/intro"
       },
       {
         "type": "category",
@@ -16,1542 +16,1542 @@
         "items": [
           {
             "type": "category",
-            "label": "Bibliography and Citation Styles for Overleaf",
+            "label": "Styles de bibliographie et de citation pour Overleaf",
             "items": [
               {
                 "type": "link",
                 "label": "How to use unsrt (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt"
               },
               {
                 "type": "link",
                 "label": "How to use acm (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/acm"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/acm"
               },
               {
                 "type": "link",
                 "label": "How to use abbrv (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv"
               },
               {
                 "type": "link",
                 "label": "How to use siam (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/siam"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/siam"
               },
               {
                 "type": "link",
                 "label": "How to use alpha (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alpha"
               },
               {
                 "type": "link",
                 "label": "How to use apalike (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apalike"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike"
               },
               {
                 "type": "link",
                 "label": "How to use ieeetr (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ieeetr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr"
               },
               {
                 "type": "link",
                 "label": "How to use plain (Base styles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plain"
               },
               {
                 "type": "link",
                 "label": "How to use abntex2-num (abntex2) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abntex2-num"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abntex2-num"
               },
               {
                 "type": "link",
                 "label": "How to use abntex2-alf (abntex2) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abntex2-alf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abntex2-alf"
               },
               {
                 "type": "link",
                 "label": "How to use aplain (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aplain"
               },
               {
                 "type": "link",
                 "label": "How to use aabbrv (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aabbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aabbrv"
               },
               {
                 "type": "link",
                 "label": "How to use aalpha (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aalpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aalpha"
               },
               {
                 "type": "link",
                 "label": "How to use anotit (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/anotit"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/anotit"
               },
               {
                 "type": "link",
                 "label": "How to use aunsnot (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aunsnot"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aunsnot"
               },
               {
                 "type": "link",
                 "label": "How to use aunsrt (abstyles) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use achemso (achemso) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/achemso"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/achemso"
               },
               {
                 "type": "link",
                 "label": "How to use biochem (achemso) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/biochem"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/biochem"
               },
               {
                 "type": "link",
                 "label": "How to use adfathesis (adfathesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/adfathesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/adfathesis"
               },
               {
                 "type": "link",
                 "label": "How to use adrbirthday (adrconv) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
               },
               {
                 "type": "link",
                 "label": "How to use adrfax (adrconv) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/adrfax"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/adrfax"
               },
               {
                 "type": "link",
                 "label": "How to use adrconv (adrconv) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/adrconv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/adrconv"
               },
               {
                 "type": "link",
                 "label": "How to use thesnumb (afthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/thesnumb"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/thesnumb"
               },
               {
                 "type": "link",
                 "label": "How to use agufull (aguplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agufull"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agufull"
               },
               {
                 "type": "link",
                 "label": "How to use agufull04 (aguplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agufull04"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agufull04"
               },
               {
                 "type": "link",
                 "label": "How to use agu04 (aguplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agu04"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agu04"
               },
               {
                 "type": "link",
                 "label": "How to use agu (aguplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agu"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agu"
               },
               {
                 "type": "link",
                 "label": "How to use aiaa (aiaa) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aiaa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aiaa"
               },
               {
                 "type": "link",
                 "label": "How to use aichej (aichej) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aichej"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aichej"
               },
               {
                 "type": "link",
                 "label": "How to use ajl (ajl) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ajl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ajl"
               },
               {
                 "type": "link",
                 "label": "How to use ametsoc (ametsoc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ametsoc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ametsoc"
               },
               {
                 "type": "link",
                 "label": "How to use amsry (amsrefs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/amsry"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/amsry"
               },
               {
                 "type": "link",
                 "label": "How to use amsra (amsrefs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/amsra"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/amsra"
               },
               {
                 "type": "link",
                 "label": "How to use amsrn (amsrefs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/amsrn"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/amsrn"
               },
               {
                 "type": "link",
                 "label": "How to use amsru (amsrefs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/amsru"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/amsru"
               },
               {
                 "type": "link",
                 "label": "How to use amsrs (amsrefs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/amsrs"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/amsrs"
               },
               {
                 "type": "link",
                 "label": "How to use aomplain (amscls) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aomplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aomplain"
               },
               {
                 "type": "link",
                 "label": "How to use aomalpha (amscls) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aomalpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aomalpha"
               },
               {
                 "type": "link",
                 "label": "How to use apacann (apacite) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apacann"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apacann"
               },
               {
                 "type": "link",
                 "label": "How to use apacite (apacite) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apacite"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apacite"
               },
               {
                 "type": "link",
                 "label": "How to use apacitex (apacite) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apacitex"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apacitex"
               },
               {
                 "type": "link",
                 "label": "How to use apacannx (apacite) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apacannx"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apacannx"
               },
               {
                 "type": "link",
                 "label": "How to use apalike2 (apalike2) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apalike2"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike2"
               },
               {
                 "type": "link",
                 "label": "How to use ascelike (ascelike) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ascelike"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ascelike"
               },
               {
                 "type": "link",
                 "label": "How to use bababbrv-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf"
               },
               {
                 "type": "link",
                 "label": "How to use babunsrt-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babunsrt-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt-fl"
               },
               {
                 "type": "link",
                 "label": "How to use bababbr3-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbr3-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3-lf"
               },
               {
                 "type": "link",
                 "label": "How to use babalpha-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babalpha-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha-fl"
               },
               {
                 "type": "link",
                 "label": "How to use bababbr3 (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbr3"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3"
               },
               {
                 "type": "link",
                 "label": "How to use babplai3-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplai3-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3-fl"
               },
               {
                 "type": "link",
                 "label": "How to use babplai3 (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplai3"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3"
               },
               {
                 "type": "link",
                 "label": "How to use babalpha-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babalpha-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha-lf"
               },
               {
                 "type": "link",
                 "label": "How to use babplai3-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplai3-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3-lf"
               },
               {
                 "type": "link",
                 "label": "How to use babplain (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplain"
               },
               {
                 "type": "link",
                 "label": "How to use babunsrt-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babunsrt-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt-lf"
               },
               {
                 "type": "link",
                 "label": "How to use babalpha (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babalpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha"
               },
               {
                 "type": "link",
                 "label": "How to use bababbr3-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbr3-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3-fl"
               },
               {
                 "type": "link",
                 "label": "How to use babunsrt (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use bababbrv-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl"
               },
               {
                 "type": "link",
                 "label": "How to use babplain-fl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplain-fl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplain-fl"
               },
               {
                 "type": "link",
                 "label": "How to use babamspl (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babamspl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babamspl"
               },
               {
                 "type": "link",
                 "label": "How to use bababbrv (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bababbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv"
               },
               {
                 "type": "link",
                 "label": "How to use babplain-lf (babelbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/babplain-lf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/babplain-lf"
               },
               {
                 "type": "link",
                 "label": "How to use besjournals (besjournals) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/besjournals"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/besjournals"
               },
               {
                 "type": "link",
                 "label": "How to use export (bibexport) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/export"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/export"
               },
               {
                 "type": "link",
                 "label": "How to use expkeys (bibexport) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/expkeys"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/expkeys"
               },
               {
                 "type": "link",
                 "label": "How to use expcites (bibexport) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/expcites"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/expcites"
               },
               {
                 "type": "link",
                 "label": "How to use unsrt-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrt-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt-fr"
               },
               {
                 "type": "link",
                 "label": "How to use siam-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/siam-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/siam-fr"
               },
               {
                 "type": "link",
                 "label": "How to use alpha-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alpha-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alpha-fr"
               },
               {
                 "type": "link",
                 "label": "How to use abbrv-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrv-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-fr"
               },
               {
                 "type": "link",
                 "label": "How to use unsrtnat-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvnat-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr"
               },
               {
                 "type": "link",
                 "label": "How to use apalike-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apalike-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike-fr"
               },
               {
                 "type": "link",
                 "label": "How to use plain-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plain-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fr"
               },
               {
                 "type": "link",
                 "label": "How to use ieeetr-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr"
               },
               {
                 "type": "link",
                 "label": "How to use plainnat-fr (bib-fr) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
               },
               {
                 "type": "link",
                 "label": "How to use alphahtmldater (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldater"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldater"
               },
               {
                 "type": "link",
                 "label": "How to use alphahtml (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alphahtml"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtml"
               },
               {
                 "type": "link",
                 "label": "How to use alphahtmldate (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldate"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldate"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvhtml (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvhtml"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvhtml"
               },
               {
                 "type": "link",
                 "label": "How to use plainhtml (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainhtml"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtml"
               },
               {
                 "type": "link",
                 "label": "How to use plainhtmldater (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainhtmldater"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtmldater"
               },
               {
                 "type": "link",
                 "label": "How to use unsrthtml (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrthtml"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrthtml"
               },
               {
                 "type": "link",
                 "label": "How to use plainhtmldate (bibhtml) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainhtmldate"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtmldate"
               },
               {
                 "type": "link",
                 "label": "How to use bgteuabbr2 (bgteubner) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr2"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteuabbr2"
               },
               {
                 "type": "link",
                 "label": "How to use bgteuabbr (bgteubner) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteuabbr"
               },
               {
                 "type": "link",
                 "label": "How to use bgteupln3 (bgteubner) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bgteupln3"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln3"
               },
               {
                 "type": "link",
                 "label": "How to use bgteupln (bgteubner) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bgteupln"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln"
               },
               {
                 "type": "link",
                 "label": "How to use bgteupln2 (bgteubner) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/bgteupln2"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln2"
               },
               {
                 "type": "link",
                 "label": "How to use cascadilla (cascadilla) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cascadilla"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cascadilla"
               },
               {
                 "type": "link",
                 "label": "How to use cell (cell) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cell"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cell"
               },
               {
                 "type": "link",
                 "label": "How to use ChemCommun (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ChemCommun"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ChemCommun"
               },
               {
                 "type": "link",
                 "label": "How to use ChemEurJ (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ChemEurJ"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ChemEurJ"
               },
               {
                 "type": "link",
                 "label": "How to use InorgChem (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/InorgChem"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/InorgChem"
               },
               {
                 "type": "link",
                 "label": "How to use JAmChemSoc (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc"
               },
               {
                 "type": "link",
                 "label": "How to use cv (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cv"
               },
               {
                 "type": "link",
                 "label": "How to use JAmChemSoc_all (chembst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all"
               },
               {
                 "type": "link",
                 "label": "How to use pccp (chem-journal) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/pccp"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/pccp"
               },
               {
                 "type": "link",
                 "label": "How to use jcc (chem-journal) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jcc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jcc"
               },
               {
                 "type": "link",
                 "label": "How to use jpc (chem-journal) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jpc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jpc"
               },
               {
                 "type": "link",
                 "label": "How to use revcompchem (chem-journal) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/revcompchem"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/revcompchem"
               },
               {
                 "type": "link",
                 "label": "How to use chetref (chet) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chetref"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chetref"
               },
               {
                 "type": "link",
                 "label": "How to use chscite (chscite) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chscite"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chscite"
               },
               {
                 "type": "link",
                 "label": "How to use chicago (chicago) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chicago"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chicago"
               },
               {
                 "type": "link",
                 "label": "How to use chicago-annote (chicago-annote) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chicago-annote"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chicago-annote"
               },
               {
                 "type": "link",
                 "label": "How to use cmpj (cmpj) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cmpj"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cmpj"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvcnb (cnbwp) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvcnb"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvcnb"
               },
               {
                 "type": "link",
                 "label": "How to use cc (computational-complexity) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cc"
               },
               {
                 "type": "link",
                 "label": "How to use cc2 (computational-complexity) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cc2"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cc2"
               },
               {
                 "type": "link",
                 "label": "How to use newapave (confproc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/newapave"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/newapave"
               },
               {
                 "type": "link",
                 "label": "How to use databib (datatool) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/databib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/databib"
               },
               {
                 "type": "link",
                 "label": "How to use alphadin (din1505) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alphadin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alphadin"
               },
               {
                 "type": "link",
                 "label": "How to use natdin (din1505) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/natdin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/natdin"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvdin (din1505) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvdin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvdin"
               },
               {
                 "type": "link",
                 "label": "How to use plaindin (din1505) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plaindin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plaindin"
               },
               {
                 "type": "link",
                 "label": "How to use unsrtdin (din1505) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrtdin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtdin"
               },
               {
                 "type": "link",
                 "label": "How to use dinat (dinat) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dinat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dinat"
               },
               {
                 "type": "link",
                 "label": "How to use address-ldif (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/address-ldif"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/address-ldif"
               },
               {
                 "type": "link",
                 "label": "How to use address-vcard (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/address-vcard"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/address-vcard"
               },
               {
                 "type": "link",
                 "label": "How to use email-html. (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/email-html."
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/email-html."
               },
               {
                 "type": "link",
                 "label": "How to use address-html (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/address-html"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/address-html"
               },
               {
                 "type": "link",
                 "label": "How to use email (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/email"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/email"
               },
               {
                 "type": "link",
                 "label": "How to use birthday (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/birthday"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/birthday"
               },
               {
                 "type": "link",
                 "label": "How to use address (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/address"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/address"
               },
               {
                 "type": "link",
                 "label": "How to use letter (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/letter"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/letter"
               },
               {
                 "type": "link",
                 "label": "How to use phone (directory) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/phone"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/phone"
               },
               {
                 "type": "link",
                 "label": "How to use gost705s (disser) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost705s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost705s"
               },
               {
                 "type": "link",
                 "label": "How to use gost705 (disser) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost705"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost705"
               },
               {
                 "type": "link",
                 "label": "How to use dk-alpha (dk-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dk-alpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dk-alpha"
               },
               {
                 "type": "link",
                 "label": "How to use dk-apali (dk-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dk-apali"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dk-apali"
               },
               {
                 "type": "link",
                 "label": "How to use dk-unsrt (dk-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dk-unsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dk-unsrt"
               },
               {
                 "type": "link",
                 "label": "How to use dk-plain (dk-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dk-plain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dk-plain"
               },
               {
                 "type": "link",
                 "label": "How to use dk-abbrv (dk-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dk-abbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dk-abbrv"
               },
               {
                 "type": "link",
                 "label": "How to use dlfltxbbibtex (dlfltxb) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex"
               },
               {
                 "type": "link",
                 "label": "How to use dtk (dtk) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dtk"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dtk"
               },
               {
                 "type": "link",
                 "label": "How to use dcbib (dvdcoll) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dcbib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dcbib"
               },
               {
                 "type": "link",
                 "label": "How to use regstud (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/regstud"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/regstud"
               },
               {
                 "type": "link",
                 "label": "How to use worlddev (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/worlddev"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/worlddev"
               },
               {
                 "type": "link",
                 "label": "How to use aer (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aer"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aer"
               },
               {
                 "type": "link",
                 "label": "How to use ecca (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ecca"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ecca"
               },
               {
                 "type": "link",
                 "label": "How to use ier (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ier"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ier"
               },
               {
                 "type": "link",
                 "label": "How to use apecon (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apecon"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apecon"
               },
               {
                 "type": "link",
                 "label": "How to use agecon (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agecon"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agecon"
               },
               {
                 "type": "link",
                 "label": "How to use aertt (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aertt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aertt"
               },
               {
                 "type": "link",
                 "label": "How to use ecta (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ecta"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ecta"
               },
               {
                 "type": "link",
                 "label": "How to use cje (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/cje"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/cje"
               },
               {
                 "type": "link",
                 "label": "How to use jss2 (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jss2"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jss2"
               },
               {
                 "type": "link",
                 "label": "How to use erae (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/erae"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/erae"
               },
               {
                 "type": "link",
                 "label": "How to use oega (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/oega"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/oega"
               },
               {
                 "type": "link",
                 "label": "How to use jpe (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jpe"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jpe"
               },
               {
                 "type": "link",
                 "label": "How to use itaxpf (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/itaxpf"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/itaxpf"
               },
               {
                 "type": "link",
                 "label": "How to use ajae (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ajae"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ajae"
               },
               {
                 "type": "link",
                 "label": "How to use jae (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jae"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jae"
               },
               {
                 "type": "link",
                 "label": "How to use tandfx (economic) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/tandfx"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/tandfx"
               },
               {
                 "type": "link",
                 "label": "How to use elsarticle-harv (elsarticle) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv"
               },
               {
                 "type": "link",
                 "label": "How to use elsarticle-num-names (elsarticle) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names"
               },
               {
                 "type": "link",
                 "label": "How to use elsarticle-num (elsarticle) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num"
               },
               {
                 "type": "link",
                 "label": "How to use fbs (fbs) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/fbs"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/fbs"
               },
               {
                 "type": "link",
                 "label": "How to use figbib1 (figbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/figbib1"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/figbib1"
               },
               {
                 "type": "link",
                 "label": "How to use figbib (figbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/figbib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/figbib"
               },
               {
                 "type": "link",
                 "label": "How to use finplain (finbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/finplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/finplain"
               },
               {
                 "type": "link",
                 "label": "How to use francais (francais-bst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/francais"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/francais"
               },
               {
                 "type": "link",
                 "label": "How to use francaissc (francais-bst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/francaissc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/francaissc"
               },
               {
                 "type": "link",
                 "label": "How to use achicago (frankenstein) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/achicago"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/achicago"
               },
               {
                 "type": "link",
                 "label": "How to use gatech-thesis-losa (gatech-thesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa"
               },
               {
                 "type": "link",
                 "label": "How to use gatech-thesis (gatech-thesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gatech-thesis"
               },
               {
                 "type": "link",
                 "label": "How to use gerapali (germbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gerapali"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gerapali"
               },
               {
                 "type": "link",
                 "label": "How to use gerabbrv (germbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gerabbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gerabbrv"
               },
               {
                 "type": "link",
                 "label": "How to use geralpha (germbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/geralpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/geralpha"
               },
               {
                 "type": "link",
                 "label": "How to use gerplain (germbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gerplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gerplain"
               },
               {
                 "type": "link",
                 "label": "How to use gerunsrt (germbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gerunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gerunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use glsplain (gloss) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/glsplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/glsplain"
               },
               {
                 "type": "link",
                 "label": "How to use glsshort (gloss) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/glsshort"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/glsshort"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008s (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008s"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008 (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008l (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008l"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008l"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008 (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008ls (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008ls"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008ls"
               },
               {
                 "type": "link",
                 "label": "How to use gost2003 (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2003"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2003"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008n (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008n"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008n"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008ns (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008ns"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008ns"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2003s (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2003s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2003s"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008ns (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008ns"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008ns"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2003 (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2003"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2003"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008s (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008s"
               },
               {
                 "type": "link",
                 "label": "How to use gost780 (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost780"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost780"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008ls (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008ls"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008ls"
               },
               {
                 "type": "link",
                 "label": "How to use ugost2008l (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ugost2008l"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008l"
               },
               {
                 "type": "link",
                 "label": "How to use gost780s (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost780s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost780s"
               },
               {
                 "type": "link",
                 "label": "How to use gost2003s (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2003s"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2003s"
               },
               {
                 "type": "link",
                 "label": "How to use gost2008n (gost) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/gost2008n"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008n"
               },
               {
                 "type": "link",
                 "label": "How to use plunsrt (gustlib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use plalpha (gustlib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plalpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plalpha"
               },
               {
                 "type": "link",
                 "label": "How to use plplain (gustlib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plplain"
               },
               {
                 "type": "link",
                 "label": "How to use plabbrv (gustlib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plabbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plabbrv"
               },
               {
                 "type": "link",
                 "label": "How to use dcu (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/dcu"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/dcu"
               },
               {
                 "type": "link",
                 "label": "How to use kluwer (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/kluwer"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/kluwer"
               },
               {
                 "type": "link",
                 "label": "How to use jphysicsB (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jphysicsB"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jphysicsB"
               },
               {
                 "type": "link",
                 "label": "How to use jmr (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jmr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jmr"
               },
               {
                 "type": "link",
                 "label": "How to use agsm (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/agsm"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/agsm"
               },
               {
                 "type": "link",
                 "label": "How to use apsr (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsr"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsr"
               },
               {
                 "type": "link",
                 "label": "How to use nederlands (harvard) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/nederlands"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/nederlands"
               },
               {
                 "type": "link",
                 "label": "How to use hc-de (hc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/hc-de"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/hc-de"
               },
               {
                 "type": "link",
                 "label": "How to use hc-en (hc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/hc-en"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/hc-en"
               },
               {
                 "type": "link",
                 "label": "How to use ieeepes (ieeepes) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ieeepes"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeepes"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranN (IEEEtran) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranN"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranN"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranS (IEEEtran) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranS"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranS"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtran (IEEEtran) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtran"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtran"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranSA (IEEEtran) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSA"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranSA"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranSN (IEEEtran) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN"
               },
               {
                 "type": "link",
                 "label": "How to use ijmart (ijmart) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ijmart"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ijmart"
               },
               {
                 "type": "link",
                 "label": "How to use ijqc (ijqc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ijqc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ijqc"
               },
               {
                 "type": "link",
                 "label": "How to use imac (imac) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/imac"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/imac"
               },
               {
                 "type": "link",
                 "label": "How to use xagsm (index) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/xagsm"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/xagsm"
               },
               {
                 "type": "link",
                 "label": "How to use xplain (index) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/xplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/xplain"
               },
               {
                 "type": "link",
                 "label": "How to use inlinebib (inlinebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/inlinebib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/inlinebib"
               },
               {
                 "type": "link",
                 "label": "How to use iopart-num (iopart-num) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/iopart-num"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/iopart-num"
               },
               {
                 "type": "link",
                 "label": "How to use jneurosci (jneurosci) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jneurosci"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jneurosci"
               },
               {
                 "type": "link",
                 "label": "How to use jurabib (jurabib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jurabib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jurabib"
               },
               {
                 "type": "link",
                 "label": "How to use jurunsrt (jurabib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jurunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jurunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use jureco (jurabib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jureco"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jureco"
               },
               {
                 "type": "link",
                 "label": "How to use jox (jurabib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jox"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jox"
               },
               {
                 "type": "link",
                 "label": "How to use jurarsp (jurarsp) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jurarsp"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jurarsp"
               },
               {
                 "type": "link",
                 "label": "How to use klunum (kluwer) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/klunum"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/klunum"
               },
               {
                 "type": "link",
                 "label": "How to use klunamed (kluwer) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/klunamed"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/klunamed"
               },
               {
                 "type": "link",
                 "label": "How to use ksfh_nat (ksfh_nat) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ksfh_nat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ksfh_nat"
               },
               {
                 "type": "link",
                 "label": "How to use listbib (listbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/listbib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/listbib"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranMN (mciteplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN"
               },
               {
                 "type": "link",
                 "label": "How to use apsrmpM (mciteplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrmpM"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmpM"
               },
               {
                 "type": "link",
                 "label": "How to use apsrevM (mciteplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrevM"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrevM"
               },
               {
                 "type": "link",
                 "label": "How to use IEEEtranM (mciteplus) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranM"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranM"
               },
               {
                 "type": "link",
                 "label": "How to use fr-mtc (minitoc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/fr-mtc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/fr-mtc"
               },
               {
                 "type": "link",
                 "label": "How to use en-mtc (minitoc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/en-mtc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/en-mtc"
               },
               {
                 "type": "link",
                 "label": "How to use mslapa (mslapa) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/mslapa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/mslapa"
               },
               {
                 "type": "link",
                 "label": "How to use mbplain (multibib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/mbplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/mbplain"
               },
               {
                 "type": "link",
                 "label": "How to use mbunsrtdin (multibib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/mbunsrtdin"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/mbunsrtdin"
               },
               {
                 "type": "link",
                 "label": "How to use chronological (multibibliography) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chronological"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chronological"
               },
               {
                 "type": "link",
                 "label": "How to use munich (munich) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/munich"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/munich"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvnat (natbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvnat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat"
               },
               {
                 "type": "link",
                 "label": "How to use unsrtnat (natbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrtnat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat"
               },
               {
                 "type": "link",
                 "label": "How to use plainnat (natbib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainnat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat"
               },
               {
                 "type": "link",
                 "label": "How to use naturemag (nature) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/naturemag"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/naturemag"
               },
               {
                 "type": "link",
                 "label": "How to use nddiss2e (nddiss) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/nddiss2e"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/nddiss2e"
               },
               {
                 "type": "link",
                 "label": "How to use opcit (opcit) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/opcit"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/opcit"
               },
               {
                 "type": "link",
                 "label": "How to use jabbrv (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jabbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jabbrv"
               },
               {
                 "type": "link",
                 "label": "How to use jname (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jname"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jname"
               },
               {
                 "type": "link",
                 "label": "How to use jplain (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jplain"
               },
               {
                 "type": "link",
                 "label": "How to use tipsj (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/tipsj"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/tipsj"
               },
               {
                 "type": "link",
                 "label": "How to use junsrt (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/junsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/junsrt"
               },
               {
                 "type": "link",
                 "label": "How to use jorsj (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jorsj"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jorsj"
               },
               {
                 "type": "link",
                 "label": "How to use tieice (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/tieice"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/tieice"
               },
               {
                 "type": "link",
                 "label": "How to use jipsj (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jipsj"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jipsj"
               },
               {
                 "type": "link",
                 "label": "How to use jalpha (pbibtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/jalpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/jalpha"
               },
               {
                 "type": "link",
                 "label": "How to use perception (perception) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/perception"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/perception"
               },
               {
                 "type": "link",
                 "label": "How to use acm-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/acm-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/acm-fa"
               },
               {
                 "type": "link",
                 "label": "How to use ieeetr-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fa"
               },
               {
                 "type": "link",
                 "label": "How to use chicago-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/chicago-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/chicago-fa"
               },
               {
                 "type": "link",
                 "label": "How to use asa-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/asa-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/asa-fa"
               },
               {
                 "type": "link",
                 "label": "How to use unsrt-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrt-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt-fa"
               },
               {
                 "type": "link",
                 "label": "How to use plainnat-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fa"
               },
               {
                 "type": "link",
                 "label": "How to use plain-fa (persian-bib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plain-fa"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fa"
               },
               {
                 "type": "link",
                 "label": "How to use pnas2009 (pnas2009) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/pnas2009"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/pnas2009"
               },
               {
                 "type": "link",
                 "label": "How to use papalike (przechlewski-book) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/papalike"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/papalike"
               },
               {
                 "type": "link",
                 "label": "How to use psuthesis (psu-thesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/psuthesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/psuthesis"
               },
               {
                 "type": "link",
                 "label": "How to use resphilosophica (resphilosophica) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/resphilosophica"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/resphilosophica"
               },
               {
                 "type": "link",
                 "label": "How to use apsrmp4-1 (revtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrmp4-1"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmp4-1"
               },
               {
                 "type": "link",
                 "label": "How to use aipauth4-1 (revtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aipauth4-1"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aipauth4-1"
               },
               {
                 "type": "link",
                 "label": "How to use apsrev4-1 (revtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrev4-1"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrev4-1"
               },
               {
                 "type": "link",
                 "label": "How to use aipnum4-1 (revtex) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/aipnum4-1"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/aipnum4-1"
               },
               {
                 "type": "link",
                 "label": "How to use apsrev (revtex4) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrev"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrev"
               },
               {
                 "type": "link",
                 "label": "How to use apsrmp (revtex4) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apsrmp"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmp"
               },
               {
                 "type": "link",
                 "label": "How to use angew (rsc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/angew"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/angew"
               },
               {
                 "type": "link",
                 "label": "How to use rsc (rsc) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/rsc"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/rsc"
               },
               {
                 "type": "link",
                 "label": "How to use sageep (sageep) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sageep"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sageep"
               },
               {
                 "type": "link",
                 "label": "How to use sapthesis (sapthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sapthesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sapthesis"
               },
               {
                 "type": "link",
                 "label": "How to use savetrees (savetrees) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/savetrees"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/savetrees"
               },
               {
                 "type": "link",
                 "label": "How to use seuthesis (seuthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/seuthesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/seuthesis"
               },
               {
                 "type": "link",
                 "label": "How to use rusnat (shipunov) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/rusnat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/rusnat"
               },
               {
                 "type": "link",
                 "label": "How to use alpha-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alpha-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alpha-letters"
               },
               {
                 "type": "link",
                 "label": "How to use siam-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/siam-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/siam-letters"
               },
               {
                 "type": "link",
                 "label": "How to use frplainnat-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/frplainnat-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/frplainnat-letters"
               },
               {
                 "type": "link",
                 "label": "How to use abbrv-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrv-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-letters"
               },
               {
                 "type": "link",
                 "label": "How to use apalike-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/apalike-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike-letters"
               },
               {
                 "type": "link",
                 "label": "How to use plain-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plain-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plain-letters"
               },
               {
                 "type": "link",
                 "label": "How to use plainnat-letters (sort-by-letters) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainnat-letters"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-letters"
               },
               {
                 "type": "link",
                 "label": "How to use spiebib (spie) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/spiebib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/spiebib"
               },
               {
                 "type": "link",
                 "label": "How to use usmeg-a (stellenbosch) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/usmeg-a"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/usmeg-a"
               },
               {
                 "type": "link",
                 "label": "How to use ussagus (stellenbosch) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ussagus"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ussagus"
               },
               {
                 "type": "link",
                 "label": "How to use usmeg-n (stellenbosch) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/usmeg-n"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/usmeg-n"
               },
               {
                 "type": "link",
                 "label": "How to use sweunsrt (swebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sweunsrt"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sweunsrt"
               },
               {
                 "type": "link",
                 "label": "How to use sweplnat (swebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sweplnat"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sweplnat"
               },
               {
                 "type": "link",
                 "label": "How to use sweabbrv (swebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sweabbrv"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sweabbrv"
               },
               {
                 "type": "link",
                 "label": "How to use sweplain (swebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/sweplain"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/sweplain"
               },
               {
                 "type": "link",
                 "label": "How to use swealpha (swebib) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/swealpha"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/swealpha"
               },
               {
                 "type": "link",
                 "label": "How to use texsis (texsis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/texsis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/texsis"
               },
               {
                 "type": "link",
                 "label": "How to use thubib (thuthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/thubib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/thubib"
               },
               {
                 "type": "link",
                 "label": "How to use ltugbib (tugboat) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/ltugbib"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/ltugbib"
               },
               {
                 "type": "link",
                 "label": "How to use udesoftec (udesoftec) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/udesoftec"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/udesoftec"
               },
               {
                 "type": "link",
                 "label": "How to use uestcthesis (uestcthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/uestcthesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/uestcthesis"
               },
               {
                 "type": "link",
                 "label": "How to use UNAMThesis (unamthesis) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/UNAMThesis"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/UNAMThesis"
               },
               {
                 "type": "link",
                 "label": "How to use abbrvurl (urlbst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/abbrvurl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvurl"
               },
               {
                 "type": "link",
                 "label": "How to use unsrturl (urlbst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/unsrturl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrturl"
               },
               {
                 "type": "link",
                 "label": "How to use alphaurl (urlbst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/alphaurl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/alphaurl"
               },
               {
                 "type": "link",
                 "label": "How to use plainurl (urlbst) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/plainurl"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/plainurl"
               },
               {
                 "type": "link",
                 "label": "How to use vak (vak) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/vak"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/vak"
               },
               {
                 "type": "link",
                 "label": "How to use vancouver (vancouver) at Overleaf?",
-                "href": "/docs/overleaf/bibliography-and-citation-styles/vancouver"
+                "href": "/fr/docs/overleaf/bibliography-and-citation-styles/vancouver"
               }
             ],
             "collapsed": true
@@ -1559,7 +1559,7 @@
           {
             "type": "link",
             "label": "About Overleaf",
-            "href": "/docs/overleaf/intro"
+            "href": "/fr/docs/overleaf/intro"
           }
         ],
         "collapsed": true
@@ -1567,36 +1567,36 @@
       {
         "type": "link",
         "label": "Share project",
-        "href": "/docs/share-project"
+        "href": "/fr/docs/share-project"
       },
       {
         "type": "link",
         "label": "Export data",
-        "href": "/docs/export"
+        "href": "/fr/docs/export"
       },
       {
         "type": "category",
-        "label": "Word Processors",
+        "label": "Traitements de texte",
         "items": [
           {
             "type": "link",
             "label": "Working with BibTeX",
-            "href": "/docs/bibtex"
+            "href": "/fr/docs/bibtex"
           },
           {
             "type": "link",
             "label": "Working with any word processor",
-            "href": "/docs/overleaf"
+            "href": "/fr/docs/overleaf"
           },
           {
             "type": "link",
             "label": "Working with R Markdown",
-            "href": "/docs/r-markdown"
+            "href": "/fr/docs/r-markdown"
           },
           {
             "type": "link",
             "label": "Working with any word processor",
-            "href": "/docs/word-processor"
+            "href": "/fr/docs/word-processor"
           }
         ],
         "collapsed": true
@@ -1607,12 +1607,12 @@
         "items": [
           {
             "type": "category",
-            "label": "Bibliography and Citation Styles for R Markdown",
+            "label": "Styles de bibliographie et de citation pour R Markdown",
             "items": [
               {
                 "type": "link",
                 "label": "toast Style",
-                "href": "/docs/r-markdown/bibliography-and-citation-styles/toast"
+                "href": "/fr/docs/r-markdown/bibliography-and-citation-styles/toast"
               }
             ],
             "collapsed": true
@@ -1627,141 +1627,141 @@
           {
             "type": "link",
             "label": "Introduction",
-            "href": "/docs/bibtex/intro"
+            "href": "/fr/docs/bibtex/intro"
           },
           {
             "type": "category",
-            "label": "BibTeX Field types",
+            "label": "Types de champs BibTeX",
             "items": [
               {
                 "type": "link",
                 "label": "address",
-                "href": "/docs/bibtex/field-types/address"
+                "href": "/fr/docs/bibtex/field-types/address"
               },
               {
                 "type": "link",
                 "label": "annote",
-                "href": "/docs/bibtex/field-types/annote"
+                "href": "/fr/docs/bibtex/field-types/annote"
               },
               {
                 "type": "link",
                 "label": "author",
-                "href": "/docs/bibtex/field-types/author"
+                "href": "/fr/docs/bibtex/field-types/author"
               },
               {
                 "type": "link",
                 "label": "booktitle",
-                "href": "/docs/bibtex/field-types/booktitle"
+                "href": "/fr/docs/bibtex/field-types/booktitle"
               },
               {
                 "type": "link",
                 "label": "email",
-                "href": "/docs/bibtex/field-types/email"
+                "href": "/fr/docs/bibtex/field-types/email"
               },
               {
                 "type": "link",
                 "label": "chapter",
-                "href": "/docs/bibtex/field-types/chapter"
+                "href": "/fr/docs/bibtex/field-types/chapter"
               },
               {
                 "type": "link",
                 "label": "crossref",
-                "href": "/docs/bibtex/field-types/crossref"
+                "href": "/fr/docs/bibtex/field-types/crossref"
               },
               {
                 "type": "link",
                 "label": "doi",
-                "href": "/docs/bibtex/field-types/doi"
+                "href": "/fr/docs/bibtex/field-types/doi"
               },
               {
                 "type": "link",
                 "label": "edition",
-                "href": "/docs/bibtex/field-types/edition"
+                "href": "/fr/docs/bibtex/field-types/edition"
               },
               {
                 "type": "link",
                 "label": "editor",
-                "href": "/docs/bibtex/field-types/editor"
+                "href": "/fr/docs/bibtex/field-types/editor"
               },
               {
                 "type": "link",
                 "label": "howpublished",
-                "href": "/docs/bibtex/field-types/howpublished"
+                "href": "/fr/docs/bibtex/field-types/howpublished"
               },
               {
                 "type": "link",
                 "label": "institution",
-                "href": "/docs/bibtex/field-types/institution"
+                "href": "/fr/docs/bibtex/field-types/institution"
               },
               {
                 "type": "link",
                 "label": "journal",
-                "href": "/docs/bibtex/field-types/journal"
+                "href": "/fr/docs/bibtex/field-types/journal"
               },
               {
                 "type": "link",
                 "label": "key",
-                "href": "/docs/bibtex/field-types/key"
+                "href": "/fr/docs/bibtex/field-types/key"
               },
               {
                 "type": "link",
                 "label": "month",
-                "href": "/docs/bibtex/field-types/month"
+                "href": "/fr/docs/bibtex/field-types/month"
               },
               {
                 "type": "link",
                 "label": "note",
-                "href": "/docs/bibtex/field-types/note"
+                "href": "/fr/docs/bibtex/field-types/note"
               },
               {
                 "type": "link",
                 "label": "number",
-                "href": "/docs/bibtex/field-types/number"
+                "href": "/fr/docs/bibtex/field-types/number"
               },
               {
                 "type": "link",
                 "label": "organization",
-                "href": "/docs/bibtex/field-types/organization"
+                "href": "/fr/docs/bibtex/field-types/organization"
               },
               {
                 "type": "link",
                 "label": "pages",
-                "href": "/docs/bibtex/field-types/pages"
+                "href": "/fr/docs/bibtex/field-types/pages"
               },
               {
                 "type": "link",
                 "label": "publisher",
-                "href": "/docs/bibtex/field-types/publisher"
+                "href": "/fr/docs/bibtex/field-types/publisher"
               },
               {
                 "type": "link",
                 "label": "school",
-                "href": "/docs/bibtex/field-types/school"
+                "href": "/fr/docs/bibtex/field-types/school"
               },
               {
                 "type": "link",
                 "label": "series",
-                "href": "/docs/bibtex/field-types/series"
+                "href": "/fr/docs/bibtex/field-types/series"
               },
               {
                 "type": "link",
                 "label": "title",
-                "href": "/docs/bibtex/field-types/title"
+                "href": "/fr/docs/bibtex/field-types/title"
               },
               {
                 "type": "link",
                 "label": "type",
-                "href": "/docs/bibtex/field-types/type"
+                "href": "/fr/docs/bibtex/field-types/type"
               },
               {
                 "type": "link",
                 "label": "volume",
-                "href": "/docs/bibtex/field-types/volume"
+                "href": "/fr/docs/bibtex/field-types/volume"
               },
               {
                 "type": "link",
                 "label": "year",
-                "href": "/docs/bibtex/field-types/year"
+                "href": "/fr/docs/bibtex/field-types/year"
               }
             ],
             "collapsed": true
@@ -1772,348 +1772,348 @@
     ]
   },
   "permalinkToSidebar": {
-    "/docs/bibtex/field-types/address": "tutorialSidebar",
-    "/docs/bibtex/field-types/annote": "tutorialSidebar",
-    "/docs/bibtex/field-types/author": "tutorialSidebar",
-    "/docs/bibtex/field-types/booktitle": "tutorialSidebar",
-    "/docs/bibtex/field-types/chapter": "tutorialSidebar",
-    "/docs/bibtex/field-types/crossref": "tutorialSidebar",
-    "/docs/bibtex/field-types/doi": "tutorialSidebar",
-    "/docs/bibtex/field-types/edition": "tutorialSidebar",
-    "/docs/bibtex/field-types/editor": "tutorialSidebar",
-    "/docs/bibtex/field-types/email": "tutorialSidebar",
-    "/docs/bibtex/field-types/howpublished": "tutorialSidebar",
-    "/docs/bibtex/field-types/institution": "tutorialSidebar",
-    "/docs/bibtex/field-types/journal": "tutorialSidebar",
-    "/docs/bibtex/field-types/key": "tutorialSidebar",
-    "/docs/bibtex/field-types/month": "tutorialSidebar",
-    "/docs/bibtex/field-types/note": "tutorialSidebar",
-    "/docs/bibtex/field-types/number": "tutorialSidebar",
-    "/docs/bibtex/field-types/organization": "tutorialSidebar",
-    "/docs/bibtex/field-types/pages": "tutorialSidebar",
-    "/docs/bibtex/field-types/publisher": "tutorialSidebar",
-    "/docs/bibtex/field-types/school": "tutorialSidebar",
-    "/docs/bibtex/field-types/series": "tutorialSidebar",
-    "/docs/bibtex/field-types/title": "tutorialSidebar",
-    "/docs/bibtex/field-types/type": "tutorialSidebar",
-    "/docs/bibtex/field-types/volume": "tutorialSidebar",
-    "/docs/bibtex/field-types/year": "tutorialSidebar",
-    "/docs/bibtex/intro": "tutorialSidebar",
-    "/docs/export": "tutorialSidebar",
-    "/docs/intro": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aabbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aalpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrv-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrv-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvcnb": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvdin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvhtml": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvnat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abbrvurl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abntex2-alf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/abntex2-num": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/achemso": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/achicago": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/acm": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/acm-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/address": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/address-html": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/address-ldif": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/address-vcard": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/adfathesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/adrbirthday": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/adrconv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/adrfax": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aer": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aertt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agecon": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agsm": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agu": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agu04": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agufull": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/agufull04": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aiaa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aichej": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aipauth4-1": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aipnum4-1": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ajae": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ajl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alpha-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alpha-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alphadin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alphahtml": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alphahtmldate": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alphahtmldater": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/alphaurl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ametsoc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/amsra": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/amsrn": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/amsrs": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/amsru": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/amsry": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/angew": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/anotit": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aomalpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aomplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apacann": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apacannx": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apacite": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apacitex": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apalike": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apalike-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apalike-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apalike2": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apecon": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrev": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrev4-1": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrevM": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrmp": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrmp4-1": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/apsrmpM": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/asa-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ascelike": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aunsnot": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/aunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbr3": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbr3-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbr3-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babalpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babalpha-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babalpha-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babamspl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplai3": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplai3-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplai3-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplain-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babplain-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babunsrt-fl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/babunsrt-lf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/besjournals": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr2": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bgteupln": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bgteupln2": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/bgteupln3": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/biochem": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/birthday": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cascadilla": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cc2": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cell": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ChemCommun": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ChemEurJ": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chetref": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chicago": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chicago-annote": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chicago-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chronological": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/chscite": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cje": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cmpj": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/cv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/databib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dcbib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dcu": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dinat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dk-abbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dk-alpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dk-apali": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dk-plain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dk-unsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/dtk": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ecca": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ecta": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/email": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/email-html.": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/en-mtc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/erae": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/expcites": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/expkeys": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/export": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/fbs": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/figbib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/figbib1": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/finplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/fr-mtc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/francais": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/francaissc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/frplainnat-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gerabbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/geralpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gerapali": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gerplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gerunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/glsplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/glsshort": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2003": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2003s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008l": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008ls": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008n": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008ns": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost2008s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost705": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost705s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost780": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/gost780s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/hc-de": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/hc-en": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ieeepes": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ieeetr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtran": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranM": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranN": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranS": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSA": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ier": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ijmart": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ijqc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/imac": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/inlinebib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/InorgChem": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/iopart-num": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/itaxpf": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jabbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jae": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jalpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jcc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jipsj": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jmr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jname": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jneurosci": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jorsj": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jox": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jpc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jpe": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jphysicsB": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jss2": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/junsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jurabib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jurarsp": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jureco": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/jurunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/klunamed": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/klunum": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/kluwer": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ksfh_nat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/letter": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/listbib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ltugbib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/mbplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/mbunsrtdin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/mslapa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/munich": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/natdin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/naturemag": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/nddiss2e": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/nederlands": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/newapave": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/oega": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/opcit": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/papalike": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/pccp": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/perception": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/phone": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plabbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plain-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plain-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plain-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plaindin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainhtml": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainhtmldate": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainhtmldater": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainnat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainnat-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainnat-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainnat-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plainurl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plalpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/plunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/pnas2009": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/psuthesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/regstud": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/resphilosophica": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/revcompchem": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/rsc": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/rusnat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sageep": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sapthesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/savetrees": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/seuthesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/siam": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/siam-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/siam-letters": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/spiebib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sweabbrv": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/swealpha": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sweplain": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sweplnat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/sweunsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/tandfx": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/texsis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/thesnumb": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/thubib": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/tieice": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/tipsj": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/udesoftec": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/uestcthesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2003": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2003s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008l": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008ls": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008n": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008ns": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ugost2008s": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/UNAMThesis": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrt": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrt-fa": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrt-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrtdin": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrthtml": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrtnat": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/unsrturl": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/usmeg-a": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/usmeg-n": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/ussagus": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/vak": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/vancouver": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/worlddev": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/xagsm": "tutorialSidebar",
-    "/docs/overleaf/bibliography-and-citation-styles/xplain": "tutorialSidebar",
-    "/docs/overleaf/intro": "tutorialSidebar",
-    "/docs/r-markdown/bibliography-and-citation-styles/toast": "tutorialSidebar",
-    "/docs/share-project": "tutorialSidebar",
-    "/docs/bibtex": "tutorialSidebar",
-    "/docs/overleaf": "tutorialSidebar",
-    "/docs/r-markdown": "tutorialSidebar",
-    "/docs/word-processor": "tutorialSidebar"
+    "/fr/docs/bibtex/field-types/address": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/annote": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/author": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/booktitle": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/chapter": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/crossref": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/doi": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/edition": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/editor": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/email": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/howpublished": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/institution": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/journal": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/key": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/month": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/note": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/number": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/organization": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/pages": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/publisher": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/school": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/series": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/title": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/type": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/volume": "tutorialSidebar",
+    "/fr/docs/bibtex/field-types/year": "tutorialSidebar",
+    "/fr/docs/bibtex/intro": "tutorialSidebar",
+    "/fr/docs/export": "tutorialSidebar",
+    "/fr/docs/intro": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aabbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aalpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvcnb": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvdin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvhtml": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvurl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abntex2-alf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/abntex2-num": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/achemso": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/achicago": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/acm": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/acm-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/address": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/address-html": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/address-ldif": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/address-vcard": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/adfathesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/adrbirthday": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/adrconv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/adrfax": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aer": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aertt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agecon": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agsm": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agu": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agu04": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agufull": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/agufull04": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aiaa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aichej": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aipauth4-1": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aipnum4-1": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ajae": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ajl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alpha-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alpha-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alphadin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtml": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldate": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldater": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/alphaurl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ametsoc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/amsra": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/amsrn": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/amsrs": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/amsru": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/amsry": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/angew": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/anotit": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aomalpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aomplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apacann": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apacannx": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apacite": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apacitex": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apalike": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apalike-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apalike-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apalike2": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apecon": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrev": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrev4-1": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrevM": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmp": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmp4-1": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmpM": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/asa-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ascelike": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aunsnot": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/aunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbr3-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babalpha-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babamspl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplai3-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplain-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babplain-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt-fl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt-lf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/besjournals": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bgteuabbr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bgteuabbr2": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln2": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln3": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/biochem": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/birthday": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cascadilla": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cc2": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cell": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ChemCommun": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ChemEurJ": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chetref": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chicago": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chicago-annote": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chicago-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chronological": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/chscite": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cje": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cmpj": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/cv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/databib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dcbib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dcu": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dinat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dk-abbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dk-alpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dk-apali": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dk-plain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dk-unsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/dtk": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ecca": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ecta": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/email": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/email-html.": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/en-mtc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/erae": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/expcites": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/expkeys": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/export": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/fbs": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/figbib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/figbib1": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/finplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/fr-mtc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/francais": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/francaissc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/frplainnat-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gatech-thesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gerabbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/geralpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gerapali": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gerplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gerunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/glsplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/glsshort": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2003": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2003s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008l": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008ls": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008n": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008ns": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost705": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost705s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost780": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/gost780s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/hc-de": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/hc-en": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ieeepes": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtran": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranM": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranN": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranS": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranSA": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ier": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ijmart": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ijqc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/imac": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/inlinebib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/InorgChem": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/iopart-num": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/itaxpf": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jabbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jae": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jalpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jcc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jipsj": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jmr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jname": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jneurosci": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jorsj": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jox": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jpc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jpe": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jphysicsB": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jss2": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/junsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jurabib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jurarsp": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jureco": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/jurunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/klunamed": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/klunum": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/kluwer": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ksfh_nat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/letter": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/listbib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ltugbib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/mbplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/mbunsrtdin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/mslapa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/munich": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/natdin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/naturemag": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/nddiss2e": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/nederlands": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/newapave": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/oega": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/opcit": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/papalike": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/pccp": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/perception": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/phone": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plabbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plain-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plaindin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtml": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtmldate": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainhtmldater": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plainurl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plalpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/plunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/pnas2009": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/psuthesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/regstud": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/resphilosophica": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/revcompchem": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/rsc": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/rusnat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sageep": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sapthesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/savetrees": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/seuthesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/siam": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/siam-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/siam-letters": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/spiebib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sweabbrv": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/swealpha": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sweplain": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sweplnat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/sweunsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/tandfx": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/texsis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/thesnumb": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/thubib": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/tieice": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/tipsj": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/udesoftec": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/uestcthesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2003": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2003s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008l": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008ls": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008n": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008ns": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008s": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/UNAMThesis": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt-fa": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtdin": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrthtml": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/unsrturl": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/usmeg-a": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/usmeg-n": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/ussagus": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/vak": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/vancouver": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/worlddev": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/xagsm": "tutorialSidebar",
+    "/fr/docs/overleaf/bibliography-and-citation-styles/xplain": "tutorialSidebar",
+    "/fr/docs/overleaf/intro": "tutorialSidebar",
+    "/fr/docs/r-markdown/bibliography-and-citation-styles/toast": "tutorialSidebar",
+    "/fr/docs/share-project": "tutorialSidebar",
+    "/fr/docs/bibtex": "tutorialSidebar",
+    "/fr/docs/overleaf": "tutorialSidebar",
+    "/fr/docs/r-markdown": "tutorialSidebar",
+    "/fr/docs/word-processor": "tutorialSidebar"
   }
 }

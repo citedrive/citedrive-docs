@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/figbib.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/figbib",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/figbib",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/figbib",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/figbib.md",
   "version": "current",
   "sidebarPosition": 162,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use figbib1 (figbib) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/figbib1"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/figbib1"
   },
   "next": {
     "title": "How to use finplain (finbib) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/finplain"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/finplain"
   }
 }

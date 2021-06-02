@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/gost705s.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/gost705s",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/gost705s",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/gost705s",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/gost705s.md",
   "version": "current",
   "sidebarPosition": 129,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use phone (directory) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/phone"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/phone"
   },
   "next": {
     "title": "How to use gost705 (disser) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/gost705"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/gost705"
   }
 }

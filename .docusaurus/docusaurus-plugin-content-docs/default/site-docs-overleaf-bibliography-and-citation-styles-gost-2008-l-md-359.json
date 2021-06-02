@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/gost2008l.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/gost2008l",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/gost2008l",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008l",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/gost2008l.md",
   "version": "current",
   "sidebarPosition": 178,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use ugost2008 (gost) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ugost2008"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ugost2008"
   },
   "next": {
     "title": "How to use gost2008 (gost) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/gost2008"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/gost2008"
   }
 }

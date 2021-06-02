@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/alphahtmldater.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/alphahtmldater",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldater",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldater",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/alphahtmldater.md",
   "version": "current",
   "sidebarPosition": 79,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use plainnat-fr (bib-fr) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
   },
   "next": {
     "title": "How to use alphahtml (bibhtml) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtml"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtml"
   }
 }
