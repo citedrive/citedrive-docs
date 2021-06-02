@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/booktitle.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/booktitle",
-  "permalink": "/docs/bibtex/field-types/booktitle",
+  "permalink": "/fr/docs/bibtex/field-types/booktitle",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/booktitle.md",
   "version": "current",
   "sidebar_label": "booktitle",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Author",
-    "permalink": "/docs/bibtex/field-types/author"
+    "permalink": "/fr/docs/bibtex/field-types/author"
   },
   "next": {
-    "title": "email",
-    "permalink": "/docs/bibtex/field-types/email"
+    "title": "BibTeX Field types: email",
+    "permalink": "/fr/docs/bibtex/field-types/email"
   }
 }

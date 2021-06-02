@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ametsoc.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ametsoc",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ametsoc",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ametsoc",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ametsoc.md",
   "version": "current",
   "sidebarPosition": 32,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use ajl (ajl) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ajl"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ajl"
   },
   "next": {
     "title": "How to use amsry (amsrefs) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/amsry"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/amsry"
   }
 }

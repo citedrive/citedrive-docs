@@ -7,7 +7,7 @@
   "source": "@site/docs/r-markdown/bibliography-and-citation-styles/toast.md",
   "sourceDirName": "r-markdown/bibliography-and-citation-styles",
   "slug": "/r-markdown/bibliography-and-citation-styles/toast",
-  "permalink": "/docs/r-markdown/bibliography-and-citation-styles/toast",
+  "permalink": "/fr/docs/r-markdown/bibliography-and-citation-styles/toast",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/r-markdown/bibliography-and-citation-styles/toast.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Working with any word processor",
-    "permalink": "/docs/word-processor"
+    "permalink": "/fr/docs/word-processor"
   },
   "next": {
     "title": "Introduction to BibTeX",
-    "permalink": "/docs/bibtex/intro"
+    "permalink": "/fr/docs/bibtex/intro"
   }
 }

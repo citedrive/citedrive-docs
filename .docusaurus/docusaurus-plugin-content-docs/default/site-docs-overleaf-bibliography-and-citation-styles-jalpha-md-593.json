@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jalpha.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jalpha",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/jalpha",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jalpha",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jalpha.md",
   "version": "current",
   "sidebarPosition": 255,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use jipsj (pbibtex) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jipsj"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jipsj"
   },
   "next": {
     "title": "How to use perception (perception) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/perception"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/perception"
   }
 }

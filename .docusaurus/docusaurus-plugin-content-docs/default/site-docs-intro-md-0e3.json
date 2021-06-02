@@ -7,7 +7,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/docs/intro",
+  "permalink": "/fr/docs/intro",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/intro.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -16,7 +16,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Share project",
-    "permalink": "/docs/share-project"
+    "title": "How to use unsrt (Base styles) at Overleaf?",
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrt"
   }
 }

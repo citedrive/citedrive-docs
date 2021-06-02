@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/organization.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/organization",
-  "permalink": "/docs/bibtex/field-types/organization",
+  "permalink": "/fr/docs/bibtex/field-types/organization",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/organization.md",
   "version": "current",
   "sidebar_label": "organization",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: number",
-    "permalink": "/docs/bibtex/field-types/number"
+    "permalink": "/fr/docs/bibtex/field-types/number"
   },
   "next": {
     "title": "BibTeX Field types: pages",
-    "permalink": "/docs/bibtex/field-types/pages"
+    "permalink": "/fr/docs/bibtex/field-types/pages"
   }
 }

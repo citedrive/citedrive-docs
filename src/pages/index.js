@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
+import Translate, {translate} from '@docusaurus/Translate';
 
 const features = [
   {
@@ -55,6 +56,7 @@ function Feature({imageUrl, title, description}) {
 export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const athing = "i don't change"
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
@@ -79,12 +81,16 @@ export default function Home() {
       <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#393838" }}>
         <div className="container">
 
-          <p className="hero__subtitle">With CiteDrive, the focus is on a simple and equally appealing user experience.
+          <p className="hero__subtitle">
+            
+            <Translate>With CiteDrive, the focus is on a simple and equally appealing user experience.
 
 From the beginning, we wanted the app to be beautiful but distraction-free, with simply a few and yet the most essential functions and minimal fuss.
 
-We want to offer you a techno-stress-free experience while working on your paper. No intrusive social network nonsense, ads, and features that no one asks for. In the end, CiteDrive is and will always be “nothing” but a reference manager, with precisely the functions you need!</p>
-  
+We want to offer you a techno-stress-free experience while working on your paper. No intrusive social network nonsense, ads, and features that no one asks for. In the end, CiteDrive is and will always be “nothing” but a reference manager, with precisely the functions you need!
+</Translate>
+</p>
+
         </div>
       </section>
               

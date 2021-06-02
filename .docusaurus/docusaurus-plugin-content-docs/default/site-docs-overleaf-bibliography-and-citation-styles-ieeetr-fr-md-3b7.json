@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ieeetr-fr",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr.md",
   "version": "current",
   "sidebarPosition": 77,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use plain-fr (bib-fr) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plain-fr"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fr"
   },
   "next": {
     "title": "How to use plainnat-fr (bib-fr) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr"
   }
 }

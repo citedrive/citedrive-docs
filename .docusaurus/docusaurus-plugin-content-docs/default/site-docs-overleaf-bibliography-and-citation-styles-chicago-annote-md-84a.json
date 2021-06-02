@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/chicago-annote.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/chicago-annote",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/chicago-annote",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/chicago-annote",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/chicago-annote.md",
   "version": "current",
   "sidebarPosition": 107,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use chicago (chicago) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/chicago"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/chicago"
   },
   "next": {
     "title": "How to use cmpj (cmpj) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/cmpj"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cmpj"
   }
 }

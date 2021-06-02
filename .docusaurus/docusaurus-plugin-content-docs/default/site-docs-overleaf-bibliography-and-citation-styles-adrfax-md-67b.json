@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/adrfax.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/adrfax",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/adrfax",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/adrfax",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/adrfax.md",
   "version": "current",
   "sidebarPosition": 22,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use adrbirthday (adrconv) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
   },
   "next": {
     "title": "How to use adrconv (adrconv) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/adrconv"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/adrconv"
   }
 }

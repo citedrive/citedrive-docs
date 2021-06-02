@@ -2,12 +2,20 @@ export default {
   "title": "CiteDrive Documentation",
   "tagline": "Looking for an easy-to-use, web-based, collaborative Referencing tool, with over 9000 styles plus native R Mardown and BibTeX-support? ",
   "url": "http://docs.citedrive.com",
-  "baseUrl": "/",
+  "baseUrl": "/fr/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "citedrive",
   "projectName": "citedrive-docs",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en",
+      "fr"
+    ],
+    "localeConfigs": {}
+  },
   "themeConfig": {
     "navbar": {
       "title": "CiteDrive Docs",
@@ -20,7 +28,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Docs",
+          "label": "Documents",
           "activeSidebarClassName": "navbar__link--active"
         },
         {
@@ -30,13 +38,19 @@ export default {
         },
         {
           "href": "https://app.citedrive.com/",
-          "label": "Login",
+          "label": "Connexion",
           "position": "left"
         },
         {
           "href": "https://app.citedrive.com/sign-up",
-          "label": "Get started now",
+          "label": "Commencez maintenant",
           "position": "right"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false
@@ -125,13 +139,6 @@ export default {
     ]
   ],
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
   "onDuplicateRoutes": "warn",
   "customFields": {},
   "plugins": [],

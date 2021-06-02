@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/bibtex.md",
   "sourceDirName": "word-processor",
   "slug": "/bibtex",
-  "permalink": "/docs/bibtex",
+  "permalink": "/fr/docs/bibtex",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/bibtex.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Export data",
-    "permalink": "/docs/export"
+    "permalink": "/fr/docs/export"
   },
   "next": {
     "title": "Working with any word processor",
-    "permalink": "/docs/overleaf"
+    "permalink": "/fr/docs/overleaf"
   }
 }

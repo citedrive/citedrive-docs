@@ -9,6 +9,10 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'citedrive', // Usually your GitHub org/user name.
   projectName: 'citedrive-docs', // Usually your repo name.
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'fr'],
+  },
   themeConfig: {
     navbar: {
       title: 'CiteDrive Docs',
@@ -34,6 +38,10 @@ module.exports = {
           href: 'https://app.citedrive.com/sign-up',
           label: 'Get started now',
           position: 'right',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'left',
         },
       ],
     },

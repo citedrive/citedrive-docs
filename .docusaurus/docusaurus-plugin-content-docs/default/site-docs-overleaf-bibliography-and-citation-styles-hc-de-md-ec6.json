@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/hc-de.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/hc-de",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/hc-de",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/hc-de",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/hc-de.md",
   "version": "current",
   "sidebarPosition": 205,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use nederlands (harvard) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/nederlands"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/nederlands"
   },
   "next": {
     "title": "How to use hc-en (hc) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/hc-en"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/hc-en"
   }
 }

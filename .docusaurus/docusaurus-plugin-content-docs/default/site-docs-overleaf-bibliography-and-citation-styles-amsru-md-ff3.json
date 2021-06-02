@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/amsru.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/amsru",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/amsru",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/amsru",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/amsru.md",
   "version": "current",
   "sidebarPosition": 36,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use amsrn (amsrefs) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/amsrn"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/amsrn"
   },
   "next": {
     "title": "How to use amsrs (amsrefs) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/amsrs"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/amsrs"
   }
 }
