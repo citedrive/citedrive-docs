@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/doi.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/doi",
-  "permalink": "/fr/docs/bibtex/field-types/doi",
+  "permalink": "/docs/bibtex/field-types/doi",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/doi.md",
   "version": "current",
   "sidebar_label": "doi",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: crossref",
-    "permalink": "/fr/docs/bibtex/field-types/crossref"
+    "permalink": "/docs/bibtex/field-types/crossref"
   },
   "next": {
     "title": "BibTeX Field types: edition",
-    "permalink": "/fr/docs/bibtex/field-types/edition"
+    "permalink": "/docs/bibtex/field-types/edition"
   }
 }

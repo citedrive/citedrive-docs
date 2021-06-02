@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/school.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/school",
-  "permalink": "/fr/docs/bibtex/field-types/school",
+  "permalink": "/docs/bibtex/field-types/school",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/school.md",
   "version": "current",
   "sidebar_label": "school",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: publisher",
-    "permalink": "/fr/docs/bibtex/field-types/publisher"
+    "permalink": "/docs/bibtex/field-types/publisher"
   },
   "next": {
     "title": "BibTeX Field types: series",
-    "permalink": "/fr/docs/bibtex/field-types/series"
+    "permalink": "/docs/bibtex/field-types/series"
   }
 }

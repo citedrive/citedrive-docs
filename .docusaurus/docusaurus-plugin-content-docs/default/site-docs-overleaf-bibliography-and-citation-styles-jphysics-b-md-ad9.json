@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jphysicsB.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jphysicsB",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jphysicsB",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/jphysicsB",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jphysicsB.md",
   "version": "current",
   "sidebarPosition": 200,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use kluwer (harvard) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/kluwer"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/kluwer"
   },
   "next": {
     "title": "How to use jmr (harvard) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jmr"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jmr"
   }
 }

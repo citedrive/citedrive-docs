@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/apacannx.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/apacannx",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apacannx",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/apacannx",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apacannx.md",
   "version": "current",
   "sidebarPosition": 43,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use apacitex (apacite) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apacitex"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apacitex"
   },
   "next": {
     "title": "How to use apalike2 (apalike2) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike2"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apalike2"
   }
 }

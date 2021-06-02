@@ -6,7 +6,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/citedrive-favicon.png',
   organizationName: 'citedrive', // Usually your GitHub org/user name.
   projectName: 'citedrive-docs', // Usually your repo name.
   i18n: {

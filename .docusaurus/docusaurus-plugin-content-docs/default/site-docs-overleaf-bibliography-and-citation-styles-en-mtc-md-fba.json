@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/en-mtc.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/en-mtc",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/en-mtc",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/en-mtc",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/en-mtc.md",
   "version": "current",
   "sidebarPosition": 235,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use fr-mtc (minitoc) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/fr-mtc"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/fr-mtc"
   },
   "next": {
     "title": "How to use mslapa (mslapa) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/mslapa"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/mslapa"
   }
 }

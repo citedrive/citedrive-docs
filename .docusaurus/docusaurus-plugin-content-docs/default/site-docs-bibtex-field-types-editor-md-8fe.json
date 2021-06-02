@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/editor.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/editor",
-  "permalink": "/fr/docs/bibtex/field-types/editor",
+  "permalink": "/docs/bibtex/field-types/editor",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/editor.md",
   "version": "current",
   "sidebar_label": "editor",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: edition",
-    "permalink": "/fr/docs/bibtex/field-types/edition"
+    "permalink": "/docs/bibtex/field-types/edition"
   },
   "next": {
     "title": "BibTeX Field types: howpublished",
-    "permalink": "/fr/docs/bibtex/field-types/howpublished"
+    "permalink": "/docs/bibtex/field-types/howpublished"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/adfathesis.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/adfathesis",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/adfathesis",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/adfathesis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/adfathesis.md",
   "version": "current",
   "sidebarPosition": 20,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use biochem (achemso) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/biochem"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/biochem"
   },
   "next": {
     "title": "How to use adrbirthday (adrconv) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/adrbirthday"
   }
 }

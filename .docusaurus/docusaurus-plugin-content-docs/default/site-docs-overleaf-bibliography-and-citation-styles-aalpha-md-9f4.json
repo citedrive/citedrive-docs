@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/aalpha.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/aalpha",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aalpha",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/aalpha",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aalpha.md",
   "version": "current",
   "sidebarPosition": 14,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aabbrv (abstyles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aabbrv"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aabbrv"
   },
   "next": {
     "title": "How to use anotit (abstyles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/anotit"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/anotit"
   }
 }

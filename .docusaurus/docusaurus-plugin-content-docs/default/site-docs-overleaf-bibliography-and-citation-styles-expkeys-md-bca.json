@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/expkeys.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/expkeys",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/expkeys",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/expkeys",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/expkeys.md",
   "version": "current",
   "sidebarPosition": 67,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use export (bibexport) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/export"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/export"
   },
   "next": {
     "title": "How to use expcites (bibexport) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/expcites"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/expcites"
   }
 }

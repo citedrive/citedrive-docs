@@ -6,35 +6,24 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 import Translate, {translate} from '@docusaurus/Translate';
+import Pin from '../../static/img/pin.svg';
+
 
 const features = [
   {
+
+    imageUrl: 'img/project.svg',
+
+  },
+  {
     title: 'Project and platform based',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Instead of a jumble of folders, each of the works is assigned to its own project. You can choose from our regular, BibTeX, and R-Markdown ventures, all of which have native support for generating correct citations and bibliographies. All of your references are stored in the cloud, so you won't have to worry about losing data or dealing with annoying patches.
+        No folder chaos; instead, each of your works gets its own project. You can choose between our standard, BibTeX, and R-Markdown projects, each with native support for generating citations and bibliographies in the correct format. All your references are in the cloud—no more stress with data loss or with annoying patches.
       </>
     ),
   },
-  {
-    title: 'Fully collaborative and unobtrusive!',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
-    description: (
-      <>
-        We all know how crucial collaboration is for scientists. Comprehensive team-building tools are now popular, and articles are rarely written alone. That is why we created our platform to facilitate collaboration. You may invite collaborators to your project at any time. You and your team gather, coordinate, and annotate sources and materials for your project in a single project.
-      </>
-    ),
-  },
-  {
-    title: 'Simple but powerful!',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
-    description: (
-      <>
-        There will be no more back-and-forth, and you will not have to mount a plethora of plugins on your computers. In the cloud, we create citations and bibliographies, which you can then use in your article. We provide you with the required resources, as well as over 9000 citation types and various output languages if you're using Word, Google Docs, LaTeX, or R-markdown.
-      </>
-    ),
-  },
+
   
 ];
 
@@ -82,22 +71,25 @@ export default function Home() {
         <div className="container">
 
           <p className="hero__subtitle">
-            
+          <div className="row">
+            <Pin style={{marginLeft: "auto", marginRight: "auto", marginBottom: "1.4rem", height: "118px"}}/>
+
             <Translate>With CiteDrive, the focus is on a simple and equally appealing user experience.
 
 From the beginning, we wanted the app to be beautiful but distraction-free, with simply a few and yet the most essential functions and minimal fuss.
 
 We want to offer you a techno-stress-free experience while working on your paper. No intrusive social network nonsense, ads, and features that no one asks for. In the end, CiteDrive is and will always be “nothing” but a reference manager, with precisely the functions you need!
 </Translate>
+</div>
 </p>
 
         </div>
       </section>
-              
 
-      
-        {/* 
-      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#B7F7F7" , height: "1020px"}}>
+
+
+        {/* */}
+      <section className={clsx('hero hero--primary', styles.heroBanner)} style={{background: "#af2996" , height: "1020px"}}>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
@@ -109,7 +101,7 @@ We want to offer you a techno-stress-free experience while working on your paper
             </div>
           </section>
         )}
-         </section>*/}
+         </section>
       </main>
     </Layout>
   );
