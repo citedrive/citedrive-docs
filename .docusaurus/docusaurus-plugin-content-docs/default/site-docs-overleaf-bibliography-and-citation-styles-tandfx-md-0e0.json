@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/tandfx",
+  "id": "overleaf/bibliography-and-citation-styles/tandfx",
+  "isDocsHomePage": false,
+  "title": "How to use tandfx (economic) at Overleaf?",
+  "description": "tandfx.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{tandfx} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/tandfx.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/tandfx",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/tandfx",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/tandfx.md",
+  "version": "current",
+  "sidebarPosition": 156,
+  "frontMatter": {
+    "sidebar_position": 156
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use jae (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jae"
+  },
+  "next": {
+    "title": "How to use elsarticle-harv (elsarticle) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv"
+  }
+}

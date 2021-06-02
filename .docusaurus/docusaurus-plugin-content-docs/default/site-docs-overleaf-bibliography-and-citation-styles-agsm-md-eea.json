@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/agsm",
+  "id": "overleaf/bibliography-and-citation-styles/agsm",
+  "isDocsHomePage": false,
+  "title": "How to use agsm (harvard) at Overleaf?",
+  "description": "agsm.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{agsm} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/agsm.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/agsm",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/agsm",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/agsm.md",
+  "version": "current",
+  "sidebarPosition": 202,
+  "frontMatter": {
+    "sidebar_position": 202
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use jmr (harvard) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jmr"
+  },
+  "next": {
+    "title": "How to use apsr (harvard) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apsr"
+  }
+}

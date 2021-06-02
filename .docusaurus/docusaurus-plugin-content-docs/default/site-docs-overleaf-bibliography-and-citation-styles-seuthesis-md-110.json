@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/seuthesis",
+  "id": "overleaf/bibliography-and-citation-styles/seuthesis",
+  "isDocsHomePage": false,
+  "title": "How to use seuthesis (seuthesis) at Overleaf?",
+  "description": "seuthesis.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{seuthesis} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/seuthesis.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/seuthesis",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/seuthesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/seuthesis.md",
+  "version": "current",
+  "sidebarPosition": 279,
+  "frontMatter": {
+    "sidebar_position": 279
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use savetrees (savetrees) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/savetrees"
+  },
+  "next": {
+    "title": "How to use rusnat (shipunov) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/rusnat"
+  }
+}

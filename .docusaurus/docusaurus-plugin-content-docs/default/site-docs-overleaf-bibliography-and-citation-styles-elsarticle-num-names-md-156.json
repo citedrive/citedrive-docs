@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+  "id": "overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+  "isDocsHomePage": false,
+  "title": "How to use elsarticle-num-names (elsarticle) at Overleaf?",
+  "description": "elsarticle-num-names.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{elsarticle-num-names} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names.md",
+  "version": "current",
+  "sidebarPosition": 158,
+  "frontMatter": {
+    "sidebar_position": 158
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use elsarticle-harv (elsarticle) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv"
+  },
+  "next": {
+    "title": "How to use elsarticle-num (elsarticle) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num"
+  }
+}

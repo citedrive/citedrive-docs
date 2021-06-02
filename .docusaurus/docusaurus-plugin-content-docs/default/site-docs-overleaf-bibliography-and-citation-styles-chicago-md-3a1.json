@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/chicago",
+  "id": "overleaf/bibliography-and-citation-styles/chicago",
+  "isDocsHomePage": false,
+  "title": "How to use chicago (chicago) at Overleaf?",
+  "description": "chicago.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{chicago} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/chicago.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/chicago",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/chicago",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/chicago.md",
+  "version": "current",
+  "sidebarPosition": 106,
+  "frontMatter": {
+    "sidebar_position": 106
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use chscite (chscite) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/chscite"
+  },
+  "next": {
+    "title": "How to use chicago-annote (chicago-annote) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/chicago-annote"
+  }
+}

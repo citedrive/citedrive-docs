@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/plainurl",
+  "id": "overleaf/bibliography-and-citation-styles/plainurl",
+  "isDocsHomePage": false,
+  "title": "How to use plainurl (urlbst) at Overleaf?",
+  "description": "plainurl.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{plainurl} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/plainurl.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/plainurl",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainurl",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plainurl.md",
+  "version": "current",
+  "sidebarPosition": 306,
+  "frontMatter": {
+    "sidebar_position": 306
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use alphaurl (urlbst) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphaurl"
+  },
+  "next": {
+    "title": "How to use vak (vak) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/vak"
+  }
+}

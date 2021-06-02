@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/francaissc",
+  "id": "overleaf/bibliography-and-citation-styles/francaissc",
+  "isDocsHomePage": false,
+  "title": "How to use francaissc (francais-bst) at Overleaf?",
+  "description": "francaissc.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{francaissc} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/francaissc.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/francaissc",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/francaissc",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/francaissc.md",
+  "version": "current",
+  "sidebarPosition": 165,
+  "frontMatter": {
+    "sidebar_position": 165
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use francais (francais-bst) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/francais"
+  },
+  "next": {
+    "title": "How to use achicago (frankenstein) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/achicago"
+  }
+}

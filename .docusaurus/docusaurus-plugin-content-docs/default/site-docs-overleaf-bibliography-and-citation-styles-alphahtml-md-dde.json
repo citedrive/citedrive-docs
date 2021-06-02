@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/alphahtml",
+  "id": "overleaf/bibliography-and-citation-styles/alphahtml",
+  "isDocsHomePage": false,
+  "title": "How to use alphahtml (bibhtml) at Overleaf?",
+  "description": "alphahtml.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{alphahtml} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/alphahtml.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/alphahtml",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtml",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/alphahtml.md",
+  "version": "current",
+  "sidebarPosition": 80,
+  "frontMatter": {
+    "sidebar_position": 80
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use alphahtmldater (bibhtml) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldater"
+  },
+  "next": {
+    "title": "How to use alphahtmldate (bibhtml) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldate"
+  }
+}

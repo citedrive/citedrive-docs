@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/aabbrv",
+  "id": "overleaf/bibliography-and-citation-styles/aabbrv",
+  "isDocsHomePage": false,
+  "title": "How to use aabbrv (abstyles) at Overleaf?",
+  "description": "aabbrv.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{aabbrv} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/aabbrv.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/aabbrv",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/aabbrv",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aabbrv.md",
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use aplain (abstyles) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aplain"
+  },
+  "next": {
+    "title": "How to use aalpha (abstyles) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aalpha"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/natdin",
+  "id": "overleaf/bibliography-and-citation-styles/natdin",
+  "isDocsHomePage": false,
+  "title": "How to use natdin (din1505) at Overleaf?",
+  "description": "natdin.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{natdin} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/natdin.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/natdin",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/natdin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/natdin.md",
+  "version": "current",
+  "sidebarPosition": 115,
+  "frontMatter": {
+    "sidebar_position": 115
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use alphadin (din1505) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphadin"
+  },
+  "next": {
+    "title": "How to use abbrvdin (din1505) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/abbrvdin"
+  }
+}

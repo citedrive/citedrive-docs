@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/achicago",
+  "id": "overleaf/bibliography-and-citation-styles/achicago",
+  "isDocsHomePage": false,
+  "title": "How to use achicago (frankenstein) at Overleaf?",
+  "description": "achicago.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{achicago} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/achicago.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/achicago",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/achicago",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/achicago.md",
+  "version": "current",
+  "sidebarPosition": 166,
+  "frontMatter": {
+    "sidebar_position": 166
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use francaissc (francais-bst) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/francaissc"
+  },
+  "next": {
+    "title": "How to use gatech-thesis-losa (gatech-thesis) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa"
+  }
+}

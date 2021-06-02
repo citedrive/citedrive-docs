@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/thubib",
+  "id": "overleaf/bibliography-and-citation-styles/thubib",
+  "isDocsHomePage": false,
+  "title": "How to use thubib (thuthesis) at Overleaf?",
+  "description": "thubib.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{thubib} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/thubib.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/thubib",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/thubib",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/thubib.md",
+  "version": "current",
+  "sidebarPosition": 298,
+  "frontMatter": {
+    "sidebar_position": 298
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use texsis (texsis) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/texsis"
+  },
+  "next": {
+    "title": "How to use ltugbib (tugboat) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ltugbib"
+  }
+}

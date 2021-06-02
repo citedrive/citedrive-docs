@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/elsarticle-harv",
+  "id": "overleaf/bibliography-and-citation-styles/elsarticle-harv",
+  "isDocsHomePage": false,
+  "title": "How to use elsarticle-harv (elsarticle) at Overleaf?",
+  "description": "elsarticle-harv.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{elsarticle-harv} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/elsarticle-harv",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv.md",
+  "version": "current",
+  "sidebarPosition": 157,
+  "frontMatter": {
+    "sidebar_position": 157
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use tandfx (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/tandfx"
+  },
+  "next": {
+    "title": "How to use elsarticle-num-names (elsarticle) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names"
+  }
+}

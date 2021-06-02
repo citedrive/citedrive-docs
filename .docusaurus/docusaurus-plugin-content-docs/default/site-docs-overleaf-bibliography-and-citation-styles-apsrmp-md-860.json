@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/apsrmp",
+  "id": "overleaf/bibliography-and-citation-styles/apsrmp",
+  "isDocsHomePage": false,
+  "title": "How to use apsrmp (revtex4) at Overleaf?",
+  "description": "apsrmp.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{apsrmp} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/apsrmp.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/apsrmp",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/apsrmp",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apsrmp.md",
+  "version": "current",
+  "sidebarPosition": 273,
+  "frontMatter": {
+    "sidebar_position": 273
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use apsrev (revtex4) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apsrev"
+  },
+  "next": {
+    "title": "How to use angew (rsc) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/angew"
+  }
+}

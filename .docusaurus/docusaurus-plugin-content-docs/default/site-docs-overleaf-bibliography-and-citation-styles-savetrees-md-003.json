@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/savetrees",
+  "id": "overleaf/bibliography-and-citation-styles/savetrees",
+  "isDocsHomePage": false,
+  "title": "How to use savetrees (savetrees) at Overleaf?",
+  "description": "savetrees.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{savetrees} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/savetrees.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/savetrees",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/savetrees",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/savetrees.md",
+  "version": "current",
+  "sidebarPosition": 278,
+  "frontMatter": {
+    "sidebar_position": 278
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use sapthesis (sapthesis) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/sapthesis"
+  },
+  "next": {
+    "title": "How to use seuthesis (seuthesis) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/seuthesis"
+  }
+}

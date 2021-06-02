@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/jox",
+  "id": "overleaf/bibliography-and-citation-styles/jox",
+  "isDocsHomePage": false,
+  "title": "How to use jox (jurabib) at Overleaf?",
+  "description": "jox.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{jox} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/jox.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/jox",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/jox",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jox.md",
+  "version": "current",
+  "sidebarPosition": 224,
+  "frontMatter": {
+    "sidebar_position": 224
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use jureco (jurabib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jureco"
+  },
+  "next": {
+    "title": "How to use jurarsp (jurarsp) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jurarsp"
+  }
+}

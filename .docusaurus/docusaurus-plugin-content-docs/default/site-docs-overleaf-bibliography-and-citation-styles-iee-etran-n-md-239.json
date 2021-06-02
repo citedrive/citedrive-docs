@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/IEEEtranN",
+  "id": "overleaf/bibliography-and-citation-styles/IEEEtranN",
+  "isDocsHomePage": false,
+  "title": "How to use IEEEtranN (IEEEtran) at Overleaf?",
+  "description": "IEEEtranN.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{IEEEtranN} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/IEEEtranN.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/IEEEtranN",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranN",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/IEEEtranN.md",
+  "version": "current",
+  "sidebarPosition": 208,
+  "frontMatter": {
+    "sidebar_position": 208
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use ieeepes (ieeepes) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ieeepes"
+  },
+  "next": {
+    "title": "How to use IEEEtranS (IEEEtran) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranS"
+  }
+}

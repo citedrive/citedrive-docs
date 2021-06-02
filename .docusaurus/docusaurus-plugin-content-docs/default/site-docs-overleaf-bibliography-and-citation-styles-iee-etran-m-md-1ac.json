@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/IEEEtranM",
+  "id": "overleaf/bibliography-and-citation-styles/IEEEtranM",
+  "isDocsHomePage": false,
+  "title": "How to use IEEEtranM (mciteplus) at Overleaf?",
+  "description": "IEEEtranM.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{IEEEtranM} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/IEEEtranM.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/IEEEtranM",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranM",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/IEEEtranM.md",
+  "version": "current",
+  "sidebarPosition": 233,
+  "frontMatter": {
+    "sidebar_position": 233
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use apsrevM (mciteplus) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apsrevM"
+  },
+  "next": {
+    "title": "How to use fr-mtc (minitoc) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/fr-mtc"
+  }
+}

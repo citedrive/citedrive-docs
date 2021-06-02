@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/plainnat",
+  "id": "overleaf/bibliography-and-citation-styles/plainnat",
+  "isDocsHomePage": false,
+  "title": "How to use plainnat (natbib) at Overleaf?",
+  "description": "plainnat.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{plainnat} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/plainnat.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/plainnat",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainnat",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plainnat.md",
+  "version": "current",
+  "sidebarPosition": 243,
+  "frontMatter": {
+    "sidebar_position": 243
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use unsrtnat (natbib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/unsrtnat"
+  },
+  "next": {
+    "title": "How to use naturemag (nature) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/naturemag"
+  }
+}

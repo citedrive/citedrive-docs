@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/chetref",
+  "id": "overleaf/bibliography-and-citation-styles/chetref",
+  "isDocsHomePage": false,
+  "title": "How to use chetref (chet) at Overleaf?",
+  "description": "chetref.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{chetref} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/chetref.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/chetref",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/chetref",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/chetref.md",
+  "version": "current",
+  "sidebarPosition": 104,
+  "frontMatter": {
+    "sidebar_position": 104
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use revcompchem (chem-journal) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/revcompchem"
+  },
+  "next": {
+    "title": "How to use chscite (chscite) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/chscite"
+  }
+}

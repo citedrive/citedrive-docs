@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/cje",
+  "id": "overleaf/bibliography-and-citation-styles/cje",
+  "isDocsHomePage": false,
+  "title": "How to use cje (economic) at Overleaf?",
+  "description": "cje.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{cje} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/cje.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/cje",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/cje",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/cje.md",
+  "version": "current",
+  "sidebarPosition": 148,
+  "frontMatter": {
+    "sidebar_position": 148
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use ecta (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ecta"
+  },
+  "next": {
+    "title": "How to use jss2 (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jss2"
+  }
+}

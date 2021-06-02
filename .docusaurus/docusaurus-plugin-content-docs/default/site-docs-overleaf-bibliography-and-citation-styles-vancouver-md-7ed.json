@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/vancouver",
+  "id": "overleaf/bibliography-and-citation-styles/vancouver",
+  "isDocsHomePage": false,
+  "title": "How to use vancouver (vancouver) at Overleaf?",
+  "description": "vancouver.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{vancouver} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/vancouver.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/vancouver",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/vancouver.md",
+  "version": "current",
+  "sidebarPosition": 308,
+  "frontMatter": {
+    "sidebar_position": 308
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use vak (vak) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/vak"
+  },
+  "next": {
+    "title": "About Overleaf",
+    "permalink": "/docs/overleaf/intro"
+  }
+}

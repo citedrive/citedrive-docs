@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/ier",
+  "id": "overleaf/bibliography-and-citation-styles/ier",
+  "isDocsHomePage": false,
+  "title": "How to use ier (economic) at Overleaf?",
+  "description": "ier.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{ier} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/ier.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/ier",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ier",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ier.md",
+  "version": "current",
+  "sidebarPosition": 143,
+  "frontMatter": {
+    "sidebar_position": 143
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use ecca (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ecca"
+  },
+  "next": {
+    "title": "How to use apecon (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apecon"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/ChemCommun",
+  "id": "overleaf/bibliography-and-citation-styles/ChemCommun",
+  "isDocsHomePage": false,
+  "title": "How to use ChemCommun (chembst) at Overleaf?",
+  "description": "ChemCommun.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{ChemCommun} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/ChemCommun.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/ChemCommun",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ChemCommun",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ChemCommun.md",
+  "version": "current",
+  "sidebarPosition": 94,
+  "frontMatter": {
+    "sidebar_position": 94
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use cell (cell) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/cell"
+  },
+  "next": {
+    "title": "How to use ChemEurJ (chembst) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ChemEurJ"
+  }
+}

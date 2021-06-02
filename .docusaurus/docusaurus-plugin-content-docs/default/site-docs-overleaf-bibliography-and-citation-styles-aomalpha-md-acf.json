@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/aomalpha",
+  "id": "overleaf/bibliography-and-citation-styles/aomalpha",
+  "isDocsHomePage": false,
+  "title": "How to use aomalpha (amscls) at Overleaf?",
+  "description": "aomalpha.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{aomalpha} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/aomalpha.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/aomalpha",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/aomalpha",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aomalpha.md",
+  "version": "current",
+  "sidebarPosition": 39,
+  "frontMatter": {
+    "sidebar_position": 39
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use aomplain (amscls) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aomplain"
+  },
+  "next": {
+    "title": "How to use apacann (apacite) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apacann"
+  }
+}

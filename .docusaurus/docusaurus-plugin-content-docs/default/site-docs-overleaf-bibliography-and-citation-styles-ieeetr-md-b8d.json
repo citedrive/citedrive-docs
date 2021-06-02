@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/ieeetr",
+  "id": "overleaf/bibliography-and-citation-styles/ieeetr",
+  "isDocsHomePage": false,
+  "title": "How to use ieeetr (Base styles) at Overleaf?",
+  "description": "ieeetr.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{ieeetr} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/ieeetr.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/ieeetr",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ieeetr",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ieeetr.md",
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use apalike (Base styles) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apalike"
+  },
+  "next": {
+    "title": "How to use plain (Base styles) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plain"
+  }
+}

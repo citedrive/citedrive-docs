@@ -156,6 +156,1541 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "overleaf/bibliography-and-citation-styles/aabbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aabbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aalpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aalpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrv-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrv-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrv-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrv-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvcnb",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvcnb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvdin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvdin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvhtml",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvhtml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvnat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvnat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvnat-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abbrvurl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abbrvurl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abntex2-alf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abntex2-alf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/abntex2-num",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/abntex2-num",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/achemso",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/achemso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/achicago",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/achicago",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/acm",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/acm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/acm-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/acm-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/address",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/address",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/address-html",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/address-html",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/address-ldif",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/address-ldif",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/address-vcard",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/address-vcard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/adfathesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/adfathesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/adrbirthday",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/adrbirthday",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/adrconv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/adrconv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/adrfax",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/adrfax",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aer",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aertt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aertt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agecon",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agecon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agsm",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agsm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agu",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agu04",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agu04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agufull",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agufull",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/agufull04",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/agufull04",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aiaa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aiaa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aichej",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aichej",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aipauth4-1",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aipauth4-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aipnum4-1",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aipnum4-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ajae",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ajae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ajl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ajl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alpha-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alpha-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alpha-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alpha-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alphadin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alphadin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alphahtml",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alphahtml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alphahtmldate",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alphahtmldater",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldater",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/alphaurl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/alphaurl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ametsoc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ametsoc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/amsra",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/amsra",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/amsrn",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/amsrn",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/amsrs",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/amsrs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/amsru",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/amsru",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/amsry",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/amsry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/angew",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/angew",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/anotit",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/anotit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aomalpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aomalpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aomplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aomplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apacann",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apacann",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apacannx",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apacannx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apacite",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apacite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apacitex",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apacitex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apalike",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apalike",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apalike-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apalike-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apalike-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apalike-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apalike2",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apalike2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apecon",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apecon",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrev",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrev4-1",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrev4-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrevM",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrevM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrmp",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrmp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrmp4-1",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrmp4-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/apsrmpM",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/apsrmpM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/asa-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/asa-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ascelike",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ascelike",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aunsnot",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aunsnot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/aunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/aunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbr3",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbr3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbr3-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbr3-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbr3-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbr3-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbrv-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bababbrv-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babalpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babalpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babalpha-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babalpha-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babalpha-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babalpha-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babamspl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babamspl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplai3",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplai3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplai3-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplai3-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplai3-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplai3-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplain-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplain-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babplain-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babplain-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babunsrt-fl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babunsrt-fl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/babunsrt-lf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/babunsrt-lf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/besjournals",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/besjournals",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bgteuabbr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bgteuabbr2",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bgteuabbr2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bgteupln",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bgteupln",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bgteupln2",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bgteupln2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/bgteupln3",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/bgteupln3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/biochem",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/biochem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/birthday",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/birthday",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cascadilla",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cascadilla",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cc2",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cc2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cell",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cell",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ChemCommun",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ChemCommun",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ChemEurJ",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ChemEurJ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chetref",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chetref",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chicago",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chicago",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chicago-annote",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chicago-annote",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chicago-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chicago-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chronological",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chronological",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/chscite",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/chscite",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cje",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cje",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cmpj",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cmpj",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/cv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/cv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/databib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/databib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dcbib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dcbib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dcu",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dcu",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dinat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dinat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dk-abbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dk-abbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dk-alpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dk-alpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dk-apali",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dk-apali",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dk-plain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dk-plain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dk-unsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dk-unsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dlfltxbbibtex",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/dtk",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/dtk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ecca",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ecca",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ecta",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ecta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/elsarticle-harv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/elsarticle-num",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/email",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/email",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/email-html.",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/email-html.",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/en-mtc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/en-mtc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/erae",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/erae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/expcites",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/expcites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/expkeys",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/expkeys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/export",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/export",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/fbs",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/fbs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/figbib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/figbib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/figbib1",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/figbib1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/finplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/finplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/fr-mtc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/fr-mtc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/francais",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/francais",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/francaissc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/francaissc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/frplainnat-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/frplainnat-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gatech-thesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gatech-thesis-losa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gatech-thesis-losa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gerabbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gerabbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/geralpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/geralpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gerapali",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gerapali",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gerplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gerplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gerunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gerunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/glsplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/glsplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/glsshort",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/glsshort",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2003",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2003",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2003s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2003s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008l",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008l",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008ls",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008ls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008n",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008n",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008ns",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008ns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost2008s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost2008s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost705",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost705",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost705s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost705s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost780",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost780",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/gost780s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/gost780s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/hc-de",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/hc-de",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/hc-en",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/hc-en",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ieeepes",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ieeepes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ieeetr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ieeetr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ieeetr-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ieeetr-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtran",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtran",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranM",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranM",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranMN",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranN",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranS",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranS",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranSA",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSA",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/IEEEtranSN",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ier",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ier",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ijmart",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ijmart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ijqc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ijqc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/imac",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/imac",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/inlinebib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/inlinebib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/InorgChem",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/InorgChem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/iopart-num",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/iopart-num",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/itaxpf",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/itaxpf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jabbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jabbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jae",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jalpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jalpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/JAmChemSoc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/JAmChemSoc_all",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jcc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jcc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jipsj",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jipsj",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jmr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jmr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jname",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jname",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jneurosci",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jneurosci",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jorsj",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jorsj",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jox",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jox",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jpc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jpe",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jpe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jphysicsB",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jphysicsB",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jss2",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jss2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/junsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/junsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jurabib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jurabib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jurarsp",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jurarsp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jureco",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jureco",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/jurunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/jurunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/klunamed",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/klunamed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/klunum",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/klunum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/kluwer",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/kluwer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ksfh_nat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ksfh_nat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/letter",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/letter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/listbib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/listbib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ltugbib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ltugbib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/mbplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/mbplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/mbunsrtdin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/mbunsrtdin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/mslapa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/mslapa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/munich",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/munich",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/natdin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/natdin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/naturemag",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/naturemag",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/nddiss2e",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/nddiss2e",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/nederlands",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/nederlands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/newapave",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/newapave",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/oega",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/oega",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/opcit",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/opcit",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/papalike",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/papalike",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/pccp",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/pccp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/perception",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/perception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/phone",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/phone",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plabbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plabbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plain-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plain-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plain-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plain-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plain-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plain-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plaindin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plaindin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainhtml",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainhtml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainhtmldate",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainhtmldate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainhtmldater",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainhtmldater",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainnat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainnat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainnat-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainnat-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainnat-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainnat-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plainurl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plainurl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plalpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plalpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/plunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/plunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/pnas2009",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/pnas2009",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/psuthesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/psuthesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/regstud",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/regstud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/resphilosophica",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/resphilosophica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/revcompchem",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/revcompchem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/rsc",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/rsc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/rusnat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/rusnat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sageep",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sageep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sapthesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sapthesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/savetrees",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/savetrees",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/seuthesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/seuthesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/siam",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/siam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/siam-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/siam-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/siam-letters",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/siam-letters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/spiebib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/spiebib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sweabbrv",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sweabbrv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/swealpha",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/swealpha",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sweplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sweplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sweplnat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sweplnat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/sweunsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/sweunsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/tandfx",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/tandfx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/texsis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/texsis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/thesnumb",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/thesnumb",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/thubib",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/thubib",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/tieice",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/tieice",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/tipsj",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/tipsj",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/udesoftec",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/udesoftec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/uestcthesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/uestcthesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2003",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2003",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2003s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2003s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008l",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008l",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008ls",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008ls",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008n",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008n",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008ns",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008ns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ugost2008s",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ugost2008s",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/UNAMThesis",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/UNAMThesis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrt",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrt-fa",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrt-fa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrt-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrt-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrtdin",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrtdin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrthtml",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrthtml",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrtnat",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrtnat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrtnat-fr",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/unsrturl",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/unsrturl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/usmeg-a",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/usmeg-a",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/usmeg-n",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/usmeg-n",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/ussagus",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/ussagus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/vak",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/vak",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/vancouver",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/vancouver",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/worlddev",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/worlddev",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/xagsm",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/xagsm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "overleaf/bibliography-and-citation-styles/xplain",
+              "path": "/docs/overleaf/bibliography-and-citation-styles/xplain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "overleaf/intro",
               "path": "/docs/overleaf/intro",
               "sidebar": "tutorialSidebar"

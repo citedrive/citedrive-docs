@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/jphysicsB",
+  "id": "overleaf/bibliography-and-citation-styles/jphysicsB",
+  "isDocsHomePage": false,
+  "title": "How to use jphysicsB (harvard) at Overleaf?",
+  "description": "jphysicsB.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{jphysicsB} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/jphysicsB.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/jphysicsB",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/jphysicsB",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jphysicsB.md",
+  "version": "current",
+  "sidebarPosition": 200,
+  "frontMatter": {
+    "sidebar_position": 200
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use kluwer (harvard) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/kluwer"
+  },
+  "next": {
+    "title": "How to use jmr (harvard) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jmr"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/abbrvhtml",
+  "id": "overleaf/bibliography-and-citation-styles/abbrvhtml",
+  "isDocsHomePage": false,
+  "title": "How to use abbrvhtml (bibhtml) at Overleaf?",
+  "description": "abbrvhtml.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{abbrvhtml} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/abbrvhtml.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/abbrvhtml",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/abbrvhtml",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/abbrvhtml.md",
+  "version": "current",
+  "sidebarPosition": 82,
+  "frontMatter": {
+    "sidebar_position": 82
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use alphahtmldate (bibhtml) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/alphahtmldate"
+  },
+  "next": {
+    "title": "How to use plainhtml (bibhtml) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainhtml"
+  }
+}

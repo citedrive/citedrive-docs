@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/munich",
+  "id": "overleaf/bibliography-and-citation-styles/munich",
+  "isDocsHomePage": false,
+  "title": "How to use munich (munich) at Overleaf?",
+  "description": "munich.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{munich} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/munich.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/munich",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/munich",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/munich.md",
+  "version": "current",
+  "sidebarPosition": 240,
+  "frontMatter": {
+    "sidebar_position": 240
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use chronological (multibibliography) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/chronological"
+  },
+  "next": {
+    "title": "How to use abbrvnat (natbib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/abbrvnat"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/dcbib",
+  "id": "overleaf/bibliography-and-citation-styles/dcbib",
+  "isDocsHomePage": false,
+  "title": "How to use dcbib (dvdcoll) at Overleaf?",
+  "description": "dcbib.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{dcbib} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/dcbib.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/dcbib",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/dcbib",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/dcbib.md",
+  "version": "current",
+  "sidebarPosition": 138,
+  "frontMatter": {
+    "sidebar_position": 138
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use dtk (dtk) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/dtk"
+  },
+  "next": {
+    "title": "How to use regstud (economic) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/regstud"
+  }
+}

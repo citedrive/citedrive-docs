@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/gerplain",
+  "id": "overleaf/bibliography-and-citation-styles/gerplain",
+  "isDocsHomePage": false,
+  "title": "How to use gerplain (germbib) at Overleaf?",
+  "description": "gerplain.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{gerplain} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/gerplain.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/gerplain",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/gerplain",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/gerplain.md",
+  "version": "current",
+  "sidebarPosition": 172,
+  "frontMatter": {
+    "sidebar_position": 172
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use geralpha (germbib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/geralpha"
+  },
+  "next": {
+    "title": "How to use gerunsrt (germbib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/gerunsrt"
+  }
+}

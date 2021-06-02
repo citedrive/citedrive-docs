@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/apalike2",
+  "id": "overleaf/bibliography-and-citation-styles/apalike2",
+  "isDocsHomePage": false,
+  "title": "How to use apalike2 (apalike2) at Overleaf?",
+  "description": "apalike2.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{apalike2} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/apalike2.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/apalike2",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/apalike2",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apalike2.md",
+  "version": "current",
+  "sidebarPosition": 44,
+  "frontMatter": {
+    "sidebar_position": 44
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use apacannx (apacite) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apacannx"
+  },
+  "next": {
+    "title": "How to use ascelike (ascelike) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ascelike"
+  }
+}

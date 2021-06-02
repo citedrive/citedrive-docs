@@ -1,0 +1,26 @@
+{
+  "unversionedId": "overleaf/bibliography-and-citation-styles/pnas2009",
+  "id": "overleaf/bibliography-and-citation-styles/pnas2009",
+  "isDocsHomePage": false,
+  "title": "How to use pnas2009 (pnas2009) at Overleaf?",
+  "description": "pnas2009.bst has already been installed on the Overleaf servers and is ready for use. Thus, in order to use the file in question, simply define the style directly in your document: \\bibliographystyle{pnas2009} The file extension .bst can be omitted.",
+  "source": "@site/docs/overleaf/bibliography-and-citation-styles/pnas2009.md",
+  "sourceDirName": "overleaf/bibliography-and-citation-styles",
+  "slug": "/overleaf/bibliography-and-citation-styles/pnas2009",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/pnas2009",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/pnas2009.md",
+  "version": "current",
+  "sidebarPosition": 264,
+  "frontMatter": {
+    "sidebar_position": 264
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use plain-fa (persian-bib) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plain-fa"
+  },
+  "next": {
+    "title": "How to use papalike (przechlewski-book) at Overleaf?",
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/papalike"
+  }
+}
