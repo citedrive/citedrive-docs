@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/plain-fa.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/plain-fa",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/plain-fa",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plain-fa",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plain-fa.md",
   "version": "current",
   "sidebarPosition": 263,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use plainnat-fa (persian-bib) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plainnat-fa"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fa"
   },
   "next": {
     "title": "How to use pnas2009 (pnas2009) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/pnas2009"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/pnas2009"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/overleaf.md",
   "sourceDirName": "word-processor",
   "slug": "/overleaf",
-  "permalink": "/docs/overleaf",
+  "permalink": "/fr/docs/overleaf",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/overleaf.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Working with BibTeX",
-    "permalink": "/docs/bibtex"
+    "permalink": "/fr/docs/bibtex"
   },
   "next": {
     "title": "Working with R Markdown",
-    "permalink": "/docs/r-markdown"
+    "permalink": "/fr/docs/r-markdown"
   }
 }

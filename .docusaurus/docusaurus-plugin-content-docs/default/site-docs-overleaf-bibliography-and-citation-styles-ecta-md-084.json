@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ecta.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ecta",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ecta",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ecta",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ecta.md",
   "version": "current",
   "sidebarPosition": 147,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aertt (economic) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aertt"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aertt"
   },
   "next": {
     "title": "How to use cje (economic) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/cje"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cje"
   }
 }

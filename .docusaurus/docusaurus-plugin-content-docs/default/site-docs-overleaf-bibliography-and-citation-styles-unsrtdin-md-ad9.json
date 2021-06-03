@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/unsrtdin.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/unsrtdin",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/unsrtdin",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtdin",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/unsrtdin.md",
   "version": "current",
   "sidebarPosition": 118,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use plaindin (din1505) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plaindin"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plaindin"
   },
   "next": {
     "title": "How to use dinat (dinat) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/dinat"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/dinat"
   }
 }

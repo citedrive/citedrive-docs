@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jneurosci.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jneurosci",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/jneurosci",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jneurosci",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jneurosci.md",
   "version": "current",
   "sidebarPosition": 220,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use iopart-num (iopart-num) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/iopart-num"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/iopart-num"
   },
   "next": {
     "title": "How to use jurabib (jurabib) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jurabib"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jurabib"
   }
 }

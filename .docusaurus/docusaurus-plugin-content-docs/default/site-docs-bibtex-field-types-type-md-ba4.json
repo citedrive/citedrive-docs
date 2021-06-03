@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/type.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/type",
-  "permalink": "/docs/bibtex/field-types/type",
+  "permalink": "/fr/docs/bibtex/field-types/type",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/type.md",
   "version": "current",
   "sidebar_label": "type",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: title",
-    "permalink": "/docs/bibtex/field-types/title"
+    "permalink": "/fr/docs/bibtex/field-types/title"
   },
   "next": {
     "title": "BibTeX Field types: volume",
-    "permalink": "/docs/bibtex/field-types/volume"
+    "permalink": "/fr/docs/bibtex/field-types/volume"
   }
 }

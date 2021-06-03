@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/institution.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/institution",
-  "permalink": "/docs/bibtex/field-types/institution",
+  "permalink": "/fr/docs/bibtex/field-types/institution",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/institution.md",
   "version": "current",
   "sidebar_label": "institution",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: howpublished",
-    "permalink": "/docs/bibtex/field-types/howpublished"
+    "permalink": "/fr/docs/bibtex/field-types/howpublished"
   },
   "next": {
     "title": "BibTeX Field types: journal",
-    "permalink": "/docs/bibtex/field-types/journal"
+    "permalink": "/fr/docs/bibtex/field-types/journal"
   }
 }

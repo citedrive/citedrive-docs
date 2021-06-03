@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/dtk.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/dtk",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/dtk",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/dtk",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/dtk.md",
   "version": "current",
   "sidebarPosition": 137,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use dlfltxbbibtex (dlfltxb) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/dlfltxbbibtex"
   },
   "next": {
     "title": "How to use dcbib (dvdcoll) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/dcbib"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/dcbib"
   }
 }

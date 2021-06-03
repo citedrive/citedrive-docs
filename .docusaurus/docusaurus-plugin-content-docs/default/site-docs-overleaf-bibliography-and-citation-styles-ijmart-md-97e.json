@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ijmart.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ijmart",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/ijmart",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ijmart",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ijmart.md",
   "version": "current",
   "sidebarPosition": 213,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use IEEEtranSN (IEEEtran) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranSN"
   },
   "next": {
     "title": "How to use ijqc (ijqc) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ijqc"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ijqc"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/agu.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/agu",
-  "permalink": "/docs/overleaf/bibliography-and-citation-styles/agu",
+  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/agu",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/agu.md",
   "version": "current",
   "sidebarPosition": 28,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use agu04 (aguplus) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/agu04"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/agu04"
   },
   "next": {
     "title": "How to use aiaa (aiaa) at Overleaf?",
-    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aiaa"
+    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aiaa"
   }
 }
