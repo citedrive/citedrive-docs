@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/crossref.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/crossref",
-  "permalink": "/fr/docs/bibtex/field-types/crossref",
+  "permalink": "/docs/bibtex/field-types/crossref",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/crossref.md",
   "version": "current",
   "sidebar_label": "crossref",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "chapter",
-    "permalink": "/fr/docs/bibtex/field-types/chapter"
+    "permalink": "/docs/bibtex/field-types/chapter"
   },
   "next": {
     "title": "doi",
-    "permalink": "/fr/docs/bibtex/field-types/doi"
+    "permalink": "/docs/bibtex/field-types/doi"
   }
 }

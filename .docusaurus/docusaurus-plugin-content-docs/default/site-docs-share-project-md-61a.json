@@ -7,7 +7,7 @@
   "source": "@site/docs/share-project.md",
   "sourceDirName": ".",
   "slug": "/share-project",
-  "permalink": "/fr/docs/share-project",
+  "permalink": "/docs/share-project",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/share-project.md",
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "About Overleaf",
-    "permalink": "/fr/docs/overleaf/intro"
+    "permalink": "/docs/overleaf/intro"
   },
   "next": {
-    "title": "Export data",
-    "permalink": "/fr/docs/export"
+    "title": "alex dasdasda",
+    "permalink": "/docs/export"
   }
 }

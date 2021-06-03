@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/email.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/email",
-  "permalink": "/fr/docs/bibtex/field-types/email",
+  "permalink": "/docs/bibtex/field-types/email",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/email.md",
   "version": "current",
   "sidebar_label": "email",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "booktitle",
-    "permalink": "/fr/docs/bibtex/field-types/booktitle"
+    "permalink": "/docs/bibtex/field-types/booktitle"
   },
   "next": {
     "title": "chapter",
-    "permalink": "/fr/docs/bibtex/field-types/chapter"
+    "permalink": "/docs/bibtex/field-types/chapter"
   }
 }

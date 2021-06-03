@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/fbs.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/fbs",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/fbs",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/fbs",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/fbs.md",
   "version": "current",
   "sidebarPosition": 160,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use elsarticle-num (elsarticle) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/elsarticle-num"
   },
   "next": {
     "title": "How to use figbib1 (figbib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/figbib1"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/figbib1"
   }
 }

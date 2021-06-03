@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/bababbrv-fl",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/bababbrv-fl.md",
   "version": "current",
   "sidebarPosition": 60,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use babunsrt (babelbib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/babunsrt"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/babunsrt"
   },
   "next": {
     "title": "How to use babplain-fl (babelbib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/babplain-fl"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/babplain-fl"
   }
 }

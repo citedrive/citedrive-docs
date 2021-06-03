@@ -2568,8 +2568,8 @@
               "unversionedId": "export",
               "id": "export",
               "isDocsHomePage": false,
-              "title": "Export data",
-              "description": "",
+              "title": "alex dasdasda",
+              "description": "dasdsa",
               "source": "@site/docs/export.md",
               "sourceDirName": ".",
               "slug": "/export",
@@ -10665,7 +10665,7 @@
                 "permalink": "/docs/overleaf/intro"
               },
               "next": {
-                "title": "Export data",
+                "title": "alex dasdasda",
                 "permalink": "/docs/export"
               }
             },
@@ -10687,7 +10687,7 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Export data",
+                "title": "alex dasdasda",
                 "permalink": "/docs/export"
               },
               "next": {

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/plplain.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/plplain",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plplain",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/plplain",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plplain.md",
   "version": "current",
   "sidebarPosition": 196,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use plalpha (gustlib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plalpha"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plalpha"
   },
   "next": {
     "title": "How to use plabbrv (gustlib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plabbrv"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/plabbrv"
   }
 }

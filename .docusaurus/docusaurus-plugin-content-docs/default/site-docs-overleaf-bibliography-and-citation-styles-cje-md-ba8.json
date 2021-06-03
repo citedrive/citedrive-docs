@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/cje.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/cje",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cje",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/cje",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/cje.md",
   "version": "current",
   "sidebarPosition": 148,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use ecta (economic) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ecta"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/ecta"
   },
   "next": {
     "title": "How to use jss2 (economic) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jss2"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/jss2"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/sweabbrv.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/sweabbrv",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sweabbrv",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/sweabbrv",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/sweabbrv.md",
   "version": "current",
   "sidebarPosition": 294,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use sweplnat (swebib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sweplnat"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/sweplnat"
   },
   "next": {
     "title": "How to use sweplain (swebib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sweplain"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/sweplain"
   }
 }

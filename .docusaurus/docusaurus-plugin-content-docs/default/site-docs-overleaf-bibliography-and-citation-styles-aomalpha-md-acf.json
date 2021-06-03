@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/aomalpha.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/aomalpha",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aomalpha",
+  "permalink": "/docs/overleaf/bibliography-and-citation-styles/aomalpha",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aomalpha.md",
   "version": "current",
   "sidebarPosition": 39,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aomplain (amscls) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aomplain"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/aomplain"
   },
   "next": {
     "title": "How to use apacann (apacite) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apacann"
+    "permalink": "/docs/overleaf/bibliography-and-citation-styles/apacann"
   }
 }
