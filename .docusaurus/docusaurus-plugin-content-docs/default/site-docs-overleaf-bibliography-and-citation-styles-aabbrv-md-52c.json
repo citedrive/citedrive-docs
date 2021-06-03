@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/aabbrv.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/aabbrv",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aabbrv",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aabbrv",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aabbrv.md",
   "version": "current",
   "sidebarPosition": 13,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aplain (abstyles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aplain"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aplain"
   },
   "next": {
     "title": "How to use aalpha (abstyles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/aalpha"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aalpha"
   }
 }

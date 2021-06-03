@@ -1,1 +1,0 @@
-(self.webpackChunkcitedrive_docs_com=self.webpackChunkcitedrive_docs_com||[]).push([[1713],{7485:function(e){"use strict";e.exports=JSON.parse('{"citedrive":{"allTagsPath":"/blog/tags","slug":"citedrive","name":"citedrive","count":1,"permalink":"/blog/tags/citedrive"},"docs":{"allTagsPath":"/blog/tags","slug":"docs","name":"docs","count":1,"permalink":"/blog/tags/docs"}}')}}]);

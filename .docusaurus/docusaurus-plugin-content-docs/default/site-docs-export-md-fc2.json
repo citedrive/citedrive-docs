@@ -7,7 +7,7 @@
   "source": "@site/docs/export.md",
   "sourceDirName": ".",
   "slug": "/export",
-  "permalink": "/fr/docs/export",
+  "permalink": "/support/fr/docs/export",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/export.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Share project",
-    "permalink": "/fr/docs/share-project"
+    "permalink": "/support/fr/docs/share-project"
   },
   "next": {
     "title": "Working with BibTeX",
-    "permalink": "/fr/docs/bibtex"
+    "permalink": "/support/fr/docs/bibtex"
   }
 }

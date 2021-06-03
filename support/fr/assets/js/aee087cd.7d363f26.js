@@ -1,0 +1,1 @@
+(self.webpackChunkcitedrive_docs_com=self.webpackChunkcitedrive_docs_com||[]).push([[1984],{5933:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/support/fr/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

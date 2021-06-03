@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/unsrtnat-fr",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/unsrtnat-fr.md",
   "version": "current",
   "sidebarPosition": 73,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use abbrv-fr (bib-fr) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-fr"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/abbrv-fr"
   },
   "next": {
     "title": "How to use abbrvnat-fr (bib-fr) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/abbrvnat-fr"
   }
 }

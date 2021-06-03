@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/plaindin.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/plaindin",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plaindin",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/plaindin",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plaindin.md",
   "version": "current",
   "sidebarPosition": 117,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use abbrvdin (din1505) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvdin"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/abbrvdin"
   },
   "next": {
     "title": "How to use unsrtdin (din1505) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/unsrtdin"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/unsrtdin"
   }
 }

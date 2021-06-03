@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/IEEEtranMN",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/IEEEtranMN.md",
   "version": "current",
   "sidebarPosition": 230,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use listbib (listbib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/listbib"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/listbib"
   },
   "next": {
     "title": "How to use apsrmpM (mciteplus) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apsrmpM"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apsrmpM"
   }
 }

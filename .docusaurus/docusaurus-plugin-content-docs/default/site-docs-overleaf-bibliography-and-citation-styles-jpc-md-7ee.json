@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jpc.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jpc",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jpc",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jpc",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jpc.md",
   "version": "current",
   "sidebarPosition": 102,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use jcc (chem-journal) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jcc"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jcc"
   },
   "next": {
     "title": "How to use revcompchem (chem-journal) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/revcompchem"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/revcompchem"
   }
 }

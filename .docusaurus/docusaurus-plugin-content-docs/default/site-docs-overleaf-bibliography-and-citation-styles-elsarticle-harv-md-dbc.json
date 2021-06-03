@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/elsarticle-harv",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/elsarticle-harv.md",
   "version": "current",
   "sidebarPosition": 157,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use tandfx (economic) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/tandfx"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/tandfx"
   },
   "next": {
     "title": "How to use elsarticle-num-names (elsarticle) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/elsarticle-num-names"
   }
 }

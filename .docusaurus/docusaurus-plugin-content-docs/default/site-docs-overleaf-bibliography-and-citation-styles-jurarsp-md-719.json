@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jurarsp.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jurarsp",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jurarsp",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jurarsp",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jurarsp.md",
   "version": "current",
   "sidebarPosition": 225,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use jox (jurabib) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jox"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jox"
   },
   "next": {
     "title": "How to use klunum (kluwer) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/klunum"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/klunum"
   }
 }

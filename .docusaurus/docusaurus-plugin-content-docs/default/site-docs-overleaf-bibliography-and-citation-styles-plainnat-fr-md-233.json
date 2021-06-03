@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/plainnat-fr.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/plainnat-fr",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/plainnat-fr",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/plainnat-fr.md",
   "version": "current",
   "sidebarPosition": 78,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use ieeetr-fr (bib-fr) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr-fr"
   },
   "next": {
     "title": "How to use alphahtmldater (bibhtml) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldater"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/alphahtmldater"
   }
 }

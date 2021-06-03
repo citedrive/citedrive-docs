@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/abbrvcnb.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/abbrvcnb",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/abbrvcnb",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/abbrvcnb",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/abbrvcnb.md",
   "version": "current",
   "sidebarPosition": 109,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use cmpj (cmpj) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cmpj"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/cmpj"
   },
   "next": {
     "title": "How to use cc (computational-complexity) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cc"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/cc"
   }
 }

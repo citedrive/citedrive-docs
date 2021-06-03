@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/xagsm.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/xagsm",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/xagsm",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/xagsm",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/xagsm.md",
   "version": "current",
   "sidebarPosition": 216,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use imac (imac) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/imac"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/imac"
   },
   "next": {
     "title": "How to use xplain (index) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/xplain"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/xplain"
   }
 }

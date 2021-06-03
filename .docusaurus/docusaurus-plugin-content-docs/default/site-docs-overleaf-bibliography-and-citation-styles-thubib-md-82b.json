@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/thubib.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/thubib",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/thubib",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/thubib",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/thubib.md",
   "version": "current",
   "sidebarPosition": 298,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use texsis (texsis) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/texsis"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/texsis"
   },
   "next": {
     "title": "How to use ltugbib (tugboat) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ltugbib"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ltugbib"
   }
 }

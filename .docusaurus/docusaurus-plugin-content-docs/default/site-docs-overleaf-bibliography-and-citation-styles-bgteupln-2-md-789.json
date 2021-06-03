@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/bgteupln2.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/bgteupln2",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln2",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln2",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/bgteupln2.md",
   "version": "current",
   "sidebarPosition": 91,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use bgteupln (bgteubner) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/bgteupln"
   },
   "next": {
     "title": "How to use cascadilla (cascadilla) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/cascadilla"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/cascadilla"
   }
 }

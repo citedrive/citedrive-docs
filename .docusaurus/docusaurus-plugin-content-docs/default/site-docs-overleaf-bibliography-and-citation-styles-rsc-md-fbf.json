@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/rsc.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/rsc",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/rsc",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/rsc",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/rsc.md",
   "version": "current",
   "sidebarPosition": 275,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use angew (rsc) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/angew"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/angew"
   },
   "next": {
     "title": "How to use sageep (sageep) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/sageep"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/sageep"
   }
 }

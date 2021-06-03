@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/apalike.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/apalike",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/apalike",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apalike",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apalike.md",
   "version": "current",
   "sidebarPosition": 7,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use alpha (Base styles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/alpha"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/alpha"
   },
   "next": {
     "title": "How to use ieeetr (Base styles) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ieeetr"
   }
 }

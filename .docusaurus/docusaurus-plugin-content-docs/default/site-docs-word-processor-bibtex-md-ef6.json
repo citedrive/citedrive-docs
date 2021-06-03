@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/bibtex.md",
   "sourceDirName": "word-processor",
   "slug": "/bibtex",
-  "permalink": "/fr/docs/bibtex",
+  "permalink": "/support/fr/docs/bibtex",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/bibtex.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "alex dasdasda",
-    "permalink": "/fr/docs/export"
+    "permalink": "/support/fr/docs/export"
   },
   "next": {
     "title": "Working with any word processor",
-    "permalink": "/fr/docs/overleaf"
+    "permalink": "/support/fr/docs/overleaf"
   }
 }

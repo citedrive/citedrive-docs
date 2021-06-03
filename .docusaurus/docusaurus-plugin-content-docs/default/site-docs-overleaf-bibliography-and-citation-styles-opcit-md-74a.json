@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/opcit.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/opcit",
-  "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/opcit",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/opcit",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/opcit.md",
   "version": "current",
   "sidebarPosition": 246,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use nddiss2e (nddiss) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/nddiss2e"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/nddiss2e"
   },
   "next": {
     "title": "How to use jabbrv (pbibtex) at Overleaf?",
-    "permalink": "/fr/docs/overleaf/bibliography-and-citation-styles/jabbrv"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jabbrv"
   }
 }
