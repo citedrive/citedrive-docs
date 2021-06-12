@@ -1,19 +1,19 @@
 {
-  "permalink": "/support/fr/blog/welcome",
+  "permalink": "/support/blog/welcome",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/blog/2019-05-30-welcome.md",
   "source": "@site/blog/2019-05-30-welcome.md",
   "title": "Welcome to CiteDrive Docs",
   "description": "...",
   "date": "2019-05-30T00:00:00.000Z",
-  "formattedDate": "2019 M05 30",
+  "formattedDate": "May 30, 2019",
   "tags": [
     {
       "label": "citedrive",
-      "permalink": "/support/fr/blog/tags/citedrive"
+      "permalink": "/support/blog/tags/citedrive"
     },
     {
       "label": "docs",
-      "permalink": "/support/fr/blog/tags/docs"
+      "permalink": "/support/blog/tags/docs"
     }
   ],
   "readingTime": 0.005,

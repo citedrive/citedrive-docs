@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/cv.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/cv",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/cv",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/cv",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/cv.md",
   "version": "current",
   "sidebarPosition": 98,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use JAmChemSoc (chembst) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc"
   },
   "next": {
     "title": "How to use JAmChemSoc_all (chembst) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/JAmChemSoc_all"
   }
 }

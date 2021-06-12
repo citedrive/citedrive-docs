@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ecca.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ecca",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ecca",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ecca",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ecca.md",
   "version": "current",
   "sidebarPosition": 142,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aer (economic) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aer"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aer"
   },
   "next": {
     "title": "How to use ier (economic) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ier"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ier"
   }
 }

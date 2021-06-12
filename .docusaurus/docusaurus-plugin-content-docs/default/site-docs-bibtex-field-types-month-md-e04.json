@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/month.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/month",
-  "permalink": "/support/fr/docs/bibtex/field-types/month",
+  "permalink": "/support/docs/bibtex/field-types/month",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/month.md",
   "version": "current",
   "sidebar_label": "month",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: key",
-    "permalink": "/support/fr/docs/bibtex/field-types/key"
+    "permalink": "/support/docs/bibtex/field-types/key"
   },
   "next": {
     "title": "BibTeX Field types: note",
-    "permalink": "/support/fr/docs/bibtex/field-types/note"
+    "permalink": "/support/docs/bibtex/field-types/note"
   }
 }

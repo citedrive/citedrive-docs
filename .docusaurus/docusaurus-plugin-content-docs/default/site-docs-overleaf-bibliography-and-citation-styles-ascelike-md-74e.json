@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ascelike.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ascelike",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ascelike",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ascelike",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ascelike.md",
   "version": "current",
   "sidebarPosition": 45,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use apalike2 (apalike2) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apalike2"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/apalike2"
   },
   "next": {
     "title": "How to use bababbrv-lf (babelbib) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/bababbrv-lf"
   }
 }

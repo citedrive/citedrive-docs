@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/chapter.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/chapter",
-  "permalink": "/support/fr/docs/bibtex/field-types/chapter",
+  "permalink": "/support/docs/bibtex/field-types/chapter",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/chapter.md",
   "version": "current",
   "sidebar_label": "chapter",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: email",
-    "permalink": "/support/fr/docs/bibtex/field-types/email"
+    "permalink": "/support/docs/bibtex/field-types/email"
   },
   "next": {
     "title": "BibTeX Field types: crossref",
-    "permalink": "/support/fr/docs/bibtex/field-types/crossref"
+    "permalink": "/support/docs/bibtex/field-types/crossref"
   }
 }

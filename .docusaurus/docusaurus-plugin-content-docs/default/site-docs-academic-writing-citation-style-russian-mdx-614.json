@@ -2,22 +2,19 @@
   "unversionedId": "academic-writing/citation-style/------russian",
   "id": "academic-writing/citation-style/------russian",
   "isDocsHomePage": false,
-  "title": "Российский физиологический журнал им. И.М. Сеченова (Russian)",
-  "description": "<span",
+  "title": "------russian",
+  "description": "---",
   "source": "@site/docs/academic-writing/citation-style/------russian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/------russian",
   "permalink": "/support/docs/academic-writing/citation-style/------russian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/------russian.mdx",
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "About Overleaf",
-    "permalink": "/support/docs/overleaf/intro"
+    "title": "Export project",
+    "permalink": "/support/docs/export"
   },
   "next": {
     "title": "--russian",

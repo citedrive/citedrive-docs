@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/r-markdown.md",
   "sourceDirName": "word-processor",
   "slug": "/r-markdown",
-  "permalink": "/support/fr/docs/r-markdown",
+  "permalink": "/support/docs/r-markdown",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/r-markdown.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Working with any word processor",
-    "permalink": "/support/fr/docs/overleaf"
+    "permalink": "/support/docs/overleaf"
   },
   "next": {
     "title": "Working with any word processor",
-    "permalink": "/support/fr/docs/word-processor"
+    "permalink": "/support/docs/word-processor"
   }
 }

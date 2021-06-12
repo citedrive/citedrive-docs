@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/year.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/year",
-  "permalink": "/support/fr/docs/bibtex/field-types/year",
+  "permalink": "/support/docs/bibtex/field-types/year",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/year.md",
   "version": "current",
   "sidebar_label": "year",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: volume",
-    "permalink": "/support/fr/docs/bibtex/field-types/volume"
+    "permalink": "/support/docs/bibtex/field-types/volume"
   }
 }

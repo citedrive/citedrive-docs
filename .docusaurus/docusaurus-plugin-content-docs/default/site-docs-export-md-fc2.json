@@ -2,12 +2,12 @@
   "unversionedId": "export",
   "id": "export",
   "isDocsHomePage": false,
-  "title": "alex dasdasda",
-  "description": "dasdsa",
+  "title": "Export project",
+  "description": "",
   "source": "@site/docs/export.md",
   "sourceDirName": ".",
   "slug": "/export",
-  "permalink": "/support/fr/docs/export",
+  "permalink": "/support/docs/export",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/export.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Share project",
-    "permalink": "/support/fr/docs/share-project"
+    "permalink": "/support/docs/share-project"
   },
   "next": {
-    "title": "Working with BibTeX",
-    "permalink": "/support/fr/docs/bibtex"
+    "title": "------russian",
+    "permalink": "/support/docs/academic-writing/citation-style/------russian"
   }
 }

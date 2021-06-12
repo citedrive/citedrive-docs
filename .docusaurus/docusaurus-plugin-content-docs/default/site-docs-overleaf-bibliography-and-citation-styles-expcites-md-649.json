@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/expcites.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/expcites",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/expcites",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/expcites",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/expcites.md",
   "version": "current",
   "sidebarPosition": 68,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use expkeys (bibexport) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/expkeys"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/expkeys"
   },
   "next": {
     "title": "How to use unsrt-fr (bib-fr) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/unsrt-fr"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/unsrt-fr"
   }
 }

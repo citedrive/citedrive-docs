@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/number.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/number",
-  "permalink": "/support/fr/docs/bibtex/field-types/number",
+  "permalink": "/support/docs/bibtex/field-types/number",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/number.md",
   "version": "current",
   "sidebar_label": "number",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: note",
-    "permalink": "/support/fr/docs/bibtex/field-types/note"
+    "permalink": "/support/docs/bibtex/field-types/note"
   },
   "next": {
     "title": "BibTeX Field types: organization",
-    "permalink": "/support/fr/docs/bibtex/field-types/organization"
+    "permalink": "/support/docs/bibtex/field-types/organization"
   }
 }

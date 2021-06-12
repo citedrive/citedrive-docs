@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/unsrt.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/unsrt",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/unsrt",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/unsrt",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/unsrt.md",
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Basic Steps",
-    "permalink": "/support/fr/docs/intro"
+    "permalink": "/support/docs/intro"
   },
   "next": {
     "title": "How to use acm (Base styles) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/acm"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/acm"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/apsr.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/apsr",
-  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apsr",
+  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/apsr",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apsr.md",
   "version": "current",
   "sidebarPosition": 203,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use agsm (harvard) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/agsm"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/agsm"
   },
   "next": {
     "title": "How to use nederlands (harvard) at Overleaf?",
-    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/nederlands"
+    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/nederlands"
   }
 }

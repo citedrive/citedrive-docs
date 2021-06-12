@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/bibtex.md",
   "sourceDirName": "word-processor",
   "slug": "/bibtex",
-  "permalink": "/support/fr/docs/bibtex",
+  "permalink": "/support/docs/bibtex",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/bibtex.md",
   "version": "current",
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "alex dasdasda",
-    "permalink": "/support/fr/docs/export"
+    "title": "zwitschermaschine",
+    "permalink": "/support/docs/academic-writing/citation-style/zwitschermaschine"
   },
   "next": {
     "title": "Working with any word processor",
-    "permalink": "/support/fr/docs/overleaf"
+    "permalink": "/support/docs/overleaf"
   }
 }

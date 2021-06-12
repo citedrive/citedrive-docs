@@ -15,5 +15,9 @@
   "previous": {
     "title": "zootaxa",
     "permalink": "/support/docs/academic-writing/citation-style/zootaxa"
+  },
+  "next": {
+    "title": "Working with BibTeX",
+    "permalink": "/support/docs/bibtex"
   }
 }
