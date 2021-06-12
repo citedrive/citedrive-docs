@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biotechnology-and-bioengineering",
+  "id": "academic-writing/import/biotechnology-and-bioengineering",
+  "isDocsHomePage": false,
+  "title": "biotechnology-and-bioengineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biotechnology-and-bioengineering.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biotechnology-and-bioengineering",
+  "permalink": "/support/docs/academic-writing/import/biotechnology-and-bioengineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biotechnology-and-bioengineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biotechniques",
+    "permalink": "/support/docs/academic-writing/import/biotechniques"
+  },
+  "next": {
+    "title": "biotropica",
+    "permalink": "/support/docs/academic-writing/import/biotropica"
+  }
+}

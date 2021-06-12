@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neurologia-argentina-spanish",
+  "id": "academic-writing/citation-style/neurologia-argentina-spanish",
+  "isDocsHomePage": false,
+  "title": "neurologia-argentina-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neurologia-argentina-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neurologia-argentina-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/neurologia-argentina-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurologia-argentina-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neuroimaging-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/neuroimaging-clinics-of-north-america"
+  },
+  "next": {
+    "title": "neurologia-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/neurologia-spanish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/synthesis",
+  "id": "academic-writing/import/synthesis",
+  "isDocsHomePage": false,
+  "title": "synthesis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/synthesis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/synthesis",
+  "permalink": "/support/docs/academic-writing/import/synthesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/synthesis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sylwan-polish",
+    "permalink": "/support/docs/academic-writing/import/sylwan-polish"
+  },
+  "next": {
+    "title": "systematic-and-applied-microbiology",
+    "permalink": "/support/docs/academic-writing/import/systematic-and-applied-microbiology"
+  }
+}

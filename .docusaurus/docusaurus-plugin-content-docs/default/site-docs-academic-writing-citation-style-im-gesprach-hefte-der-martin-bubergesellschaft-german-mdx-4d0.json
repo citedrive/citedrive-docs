@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german",
+  "id": "academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german",
+  "isDocsHomePage": false,
+  "title": "im-gesprach--hefte-der-martin-bubergesellschaft-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german",
+  "permalink": "/support/docs/academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/im-gesprach--hefte-der-martin-bubergesellschaft-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ilahiyat-studies-full-note",
+    "permalink": "/support/docs/academic-writing/citation-style/ilahiyat-studies-full-note"
+  },
+  "next": {
+    "title": "imperial-college-london--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/imperial-college-london--harvard"
+  }
+}

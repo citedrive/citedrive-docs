@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/indoor-air",
+  "id": "academic-writing/citation-style/indoor-air",
+  "isDocsHomePage": false,
+  "title": "indoor-air",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/indoor-air.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/indoor-air",
+  "permalink": "/support/docs/academic-writing/citation-style/indoor-air",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/indoor-air.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indiana",
+    "permalink": "/support/docs/academic-writing/citation-style/indiana"
+  },
+  "next": {
+    "title": "industrial-relations",
+    "permalink": "/support/docs/academic-writing/citation-style/industrial-relations"
+  }
+}

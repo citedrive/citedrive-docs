@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry",
+  "id": "academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry",
+  "isDocsHomePage": false,
+  "title": "journal-of-industrial-and-engineering-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-industrial-and-engineering-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-hypertension",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-hypertension"
+  },
+  "next": {
+    "title": "journal-of-industrial-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-industrial-ecology"
+  }
+}

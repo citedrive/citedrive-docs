@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/beilstein-journal-of-organic-chemistry",
+  "id": "academic-writing/import/beilstein-journal-of-organic-chemistry",
+  "isDocsHomePage": false,
+  "title": "beilstein-journal-of-organic-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/beilstein-journal-of-organic-chemistry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/beilstein-journal-of-organic-chemistry",
+  "permalink": "/support/docs/academic-writing/import/beilstein-journal-of-organic-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/beilstein-journal-of-organic-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "behaviour",
+    "permalink": "/support/docs/academic-writing/import/behaviour"
+  },
+  "next": {
+    "title": "berghahn-books-authordate-english--uk",
+    "permalink": "/support/docs/academic-writing/import/berghahn-books-authordate-english--uk"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/veterinaria-italiana",
+  "id": "academic-writing/citation-style/veterinaria-italiana",
+  "isDocsHomePage": false,
+  "title": "veterinaria-italiana",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/veterinaria-italiana.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/veterinaria-italiana",
+  "permalink": "/support/docs/academic-writing/citation-style/veterinaria-italiana",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/veterinaria-italiana.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver"
+  },
+  "next": {
+    "title": "veterinary-medicine-austria-wiener-tierarztliche-monatsschrift",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinary-medicine-austria-wiener-tierarztliche-monatsschrift"
+  }
+}

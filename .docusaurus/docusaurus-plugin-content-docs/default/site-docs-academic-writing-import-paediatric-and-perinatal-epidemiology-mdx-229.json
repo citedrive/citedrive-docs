@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/paediatric-and-perinatal-epidemiology",
+  "id": "academic-writing/import/paediatric-and-perinatal-epidemiology",
+  "isDocsHomePage": false,
+  "title": "paediatric-and-perinatal-epidemiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/paediatric-and-perinatal-epidemiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/paediatric-and-perinatal-epidemiology",
+  "permalink": "/support/docs/academic-writing/import/paediatric-and-perinatal-epidemiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/paediatric-and-perinatal-epidemiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "padagogische-hochschule-vorarlberg-german",
+    "permalink": "/support/docs/academic-writing/import/padagogische-hochschule-vorarlberg-german"
+  },
+  "next": {
+    "title": "pain",
+    "permalink": "/support/docs/academic-writing/import/pain"
+  }
+}

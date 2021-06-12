@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/paleobiology",
+  "id": "academic-writing/citation-style/paleobiology",
+  "isDocsHomePage": false,
+  "title": "paleobiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/paleobiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/paleobiology",
+  "permalink": "/support/docs/academic-writing/citation-style/paleobiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/paleobiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaios",
+    "permalink": "/support/docs/academic-writing/citation-style/palaios"
+  },
+  "next": {
+    "title": "parasite",
+    "permalink": "/support/docs/academic-writing/citation-style/parasite"
+  }
+}

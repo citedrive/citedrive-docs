@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/enfermeria-clinica-spanish",
+  "id": "academic-writing/import/enfermeria-clinica-spanish",
+  "isDocsHomePage": false,
+  "title": "enfermeria-clinica-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/enfermeria-clinica-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/enfermeria-clinica-spanish",
+  "permalink": "/support/docs/academic-writing/import/enfermeria-clinica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/enfermeria-clinica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eneuro",
+    "permalink": "/support/docs/academic-writing/import/eneuro"
+  },
+  "next": {
+    "title": "enfermeria-intensiva-spanish",
+    "permalink": "/support/docs/academic-writing/import/enfermeria-intensiva-spanish"
+  }
+}

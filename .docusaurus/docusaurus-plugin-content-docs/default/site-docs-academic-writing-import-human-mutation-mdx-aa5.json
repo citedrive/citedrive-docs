@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/human-mutation",
+  "id": "academic-writing/import/human-mutation",
+  "isDocsHomePage": false,
+  "title": "human-mutation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/human-mutation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/human-mutation",
+  "permalink": "/support/docs/academic-writing/import/human-mutation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/human-mutation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-gene-therapy",
+    "permalink": "/support/docs/academic-writing/import/human-gene-therapy"
+  },
+  "next": {
+    "title": "human-reproduction-update",
+    "permalink": "/support/docs/academic-writing/import/human-reproduction-update"
+  }
+}

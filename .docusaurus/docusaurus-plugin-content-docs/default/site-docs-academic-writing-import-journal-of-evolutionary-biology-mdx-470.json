@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-evolutionary-biology",
+  "id": "academic-writing/import/journal-of-evolutionary-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-evolutionary-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-evolutionary-biology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-evolutionary-biology",
+  "permalink": "/support/docs/academic-writing/import/journal-of-evolutionary-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-evolutionary-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-evolution-and-health",
+    "permalink": "/support/docs/academic-writing/import/journal-of-evolution-and-health"
+  },
+  "next": {
+    "title": "journal-of-experimental-botany",
+    "permalink": "/support/docs/academic-writing/import/journal-of-experimental-botany"
+  }
+}

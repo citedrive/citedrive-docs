@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/fine-focus",
+  "id": "academic-writing/citation-style/fine-focus",
+  "isDocsHomePage": false,
+  "title": "fine-focus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/fine-focus.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/fine-focus",
+  "permalink": "/support/docs/academic-writing/citation-style/fine-focus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fine-focus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finanzarchiv--public-finance-analysis",
+    "permalink": "/support/docs/academic-writing/citation-style/finanzarchiv--public-finance-analysis"
+  },
+  "next": {
+    "title": "first-break",
+    "permalink": "/support/docs/academic-writing/citation-style/first-break"
+  }
+}

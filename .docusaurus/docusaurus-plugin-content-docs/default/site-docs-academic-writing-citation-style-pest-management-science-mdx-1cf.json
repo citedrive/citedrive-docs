@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pest-management-science",
+  "id": "academic-writing/citation-style/pest-management-science",
+  "isDocsHomePage": false,
+  "title": "pest-management-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pest-management-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pest-management-science",
+  "permalink": "/support/docs/academic-writing/citation-style/pest-management-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pest-management-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "perspectives-on-sexual-and-reproductive-health",
+    "permalink": "/support/docs/academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health"
+  },
+  "next": {
+    "title": "petit-chicago-authordate-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/petit-chicago-authordate-french--canada"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
+  "id": "academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
+  "isDocsHomePage": false,
+  "title": "padagogische-hochschule-heidelberg-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
+  "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland",
+    "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland"
+  },
+  "next": {
+    "title": "padagogische-hochschule-vorarlberg-german",
+    "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german"
+  }
+}

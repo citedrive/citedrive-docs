@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "id": "academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-noesis",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-noesis"
+  },
+  "next": {
+    "title": "revista-portuguesa-de-arqueologia",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-portuguesa-de-arqueologia"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/elsevier--harvard-without-titles",
+  "id": "academic-writing/import/elsevier--harvard-without-titles",
+  "isDocsHomePage": false,
+  "title": "elsevier--harvard-without-titles",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/elsevier--harvard-without-titles.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/elsevier--harvard-without-titles",
+  "permalink": "/support/docs/academic-writing/import/elsevier--harvard-without-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/elsevier--harvard-without-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier--harvard-with-titles",
+    "permalink": "/support/docs/academic-writing/import/elsevier--harvard-with-titles"
+  },
+  "next": {
+    "title": "elsevier--vancouver-authordate",
+    "permalink": "/support/docs/academic-writing/import/elsevier--vancouver-authordate"
+  }
+}

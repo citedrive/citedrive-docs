@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french",
+  "id": "academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french",
+  "isDocsHomePage": false,
+  "title": "presses-universitaires-de-strasbourg-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french",
+  "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "presses-universitaires-de-rennes-french",
+    "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes-french"
+  },
+  "next": {
+    "title": "primary-care-clinics-in-office-practice",
+    "permalink": "/support/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice"
+  }
+}

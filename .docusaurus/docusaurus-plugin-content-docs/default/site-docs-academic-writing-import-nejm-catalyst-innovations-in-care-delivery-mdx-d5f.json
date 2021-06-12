@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/nejm-catalyst-innovations-in-care-delivery",
+  "id": "academic-writing/import/nejm-catalyst-innovations-in-care-delivery",
+  "isDocsHomePage": false,
+  "title": "nejm-catalyst-innovations-in-care-delivery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/nejm-catalyst-innovations-in-care-delivery.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/nejm-catalyst-innovations-in-care-delivery",
+  "permalink": "/support/docs/academic-writing/import/nejm-catalyst-innovations-in-care-delivery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/nejm-catalyst-innovations-in-care-delivery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nehet-french",
+    "permalink": "/support/docs/academic-writing/import/nehet-french"
+  },
+  "next": {
+    "title": "nephrology-dialysis-transplantation",
+    "permalink": "/support/docs/academic-writing/import/nephrology-dialysis-transplantation"
+  }
+}

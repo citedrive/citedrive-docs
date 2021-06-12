@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/asia-and-the-pacific-policy-studies",
+  "id": "academic-writing/citation-style/asia-and-the-pacific-policy-studies",
+  "isDocsHomePage": false,
+  "title": "asia-and-the-pacific-policy-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/asia-and-the-pacific-policy-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asaio-journal-american-society-for-artificial-internal-organs",
+    "permalink": "/support/docs/academic-writing/citation-style/asaio-journal-american-society-for-artificial-internal-organs"
+  },
+  "next": {
+    "title": "asia-pacific-journal-of-human-resources",
+    "permalink": "/support/docs/academic-writing/citation-style/asia-pacific-journal-of-human-resources"
+  }
+}

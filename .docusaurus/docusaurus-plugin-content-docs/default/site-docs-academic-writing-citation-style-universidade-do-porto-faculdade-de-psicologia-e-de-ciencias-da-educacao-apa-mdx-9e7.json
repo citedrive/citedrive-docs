@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+  "id": "academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+  "isDocsHomePage": false,
+  "title": "universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+  "permalink": "/support/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+    "permalink": "/support/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style"
+  },
+  "next": {
+    "title": "universidade-estadual-do-oeste-do-parana--programa-institucional-de-bolsas-de-iniciacao-cientifica-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/universidade-estadual-do-oeste-do-parana--programa-institucional-de-bolsas-de-iniciacao-cientifica-portuguese--brazil"
+  }
+}

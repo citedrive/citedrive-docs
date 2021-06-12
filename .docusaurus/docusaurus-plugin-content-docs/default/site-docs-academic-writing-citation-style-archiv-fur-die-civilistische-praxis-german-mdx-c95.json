@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german",
+  "id": "academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german",
+  "isDocsHomePage": false,
+  "title": "archiv-fur-die-civilistische-praxis-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german",
+  "permalink": "/support/docs/academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeosciences-french",
+    "permalink": "/support/docs/academic-writing/citation-style/archeosciences-french"
+  },
+  "next": {
+    "title": "archiv-fur-geschichte-der-philosophie",
+    "permalink": "/support/docs/academic-writing/citation-style/archiv-fur-geschichte-der-philosophie"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clara-architecturerecherche-french",
+  "id": "academic-writing/citation-style/clara-architecturerecherche-french",
+  "isDocsHomePage": false,
+  "title": "clara-architecturerecherche-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clara-architecturerecherche-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clara-architecturerecherche-french",
+  "permalink": "/support/docs/academic-writing/citation-style/clara-architecturerecherche-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clara-architecturerecherche-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cladistics",
+    "permalink": "/support/docs/academic-writing/citation-style/cladistics"
+  },
+  "next": {
+    "title": "clay-minerals",
+    "permalink": "/support/docs/academic-writing/citation-style/clay-minerals"
+  }
+}

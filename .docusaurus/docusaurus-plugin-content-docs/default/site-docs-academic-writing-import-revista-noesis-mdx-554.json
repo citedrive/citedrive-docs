@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revista-noesis",
+  "id": "academic-writing/import/revista-noesis",
+  "isDocsHomePage": false,
+  "title": "revista-noesis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revista-noesis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revista-noesis",
+  "permalink": "/support/docs/academic-writing/import/revista-noesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revista-noesis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-materia",
+    "permalink": "/support/docs/academic-writing/import/revista-materia"
+  },
+  "next": {
+    "title": "revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+    "permalink": "/support/docs/academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish"
+  }
+}

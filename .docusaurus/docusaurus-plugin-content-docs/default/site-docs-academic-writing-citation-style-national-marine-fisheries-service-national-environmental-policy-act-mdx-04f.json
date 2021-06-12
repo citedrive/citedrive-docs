@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act",
+  "id": "academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act",
+  "isDocsHomePage": false,
+  "title": "national-marine-fisheries-service--national-environmental-policy-act",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act",
+  "permalink": "/support/docs/academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-marine-fisheries-service--national-environmental-policy-act.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-library-of-medicine-grant-proposals-with-pmcidpmid",
+    "permalink": "/support/docs/academic-writing/citation-style/national-library-of-medicine-grant-proposals-with-pmcidpmid"
+  },
+  "next": {
+    "title": "national-natural-science-foundation-of-china-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/national-natural-science-foundation-of-china-chinese"
+  }
+}

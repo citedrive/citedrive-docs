@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/spie-bios",
+  "id": "academic-writing/import/spie-bios",
+  "isDocsHomePage": false,
+  "title": "spie-bios",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/spie-bios.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/spie-bios",
+  "permalink": "/support/docs/academic-writing/import/spie-bios",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/spie-bios.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "speculum",
+    "permalink": "/support/docs/academic-writing/import/speculum"
+  },
+  "next": {
+    "title": "spie-conference-proceedings",
+    "permalink": "/support/docs/academic-writing/import/spie-conference-proceedings"
+  }
+}

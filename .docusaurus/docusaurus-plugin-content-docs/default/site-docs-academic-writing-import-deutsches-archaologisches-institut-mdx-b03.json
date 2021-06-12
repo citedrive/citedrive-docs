@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/deutsches-archaologisches-institut",
+  "id": "academic-writing/import/deutsches-archaologisches-institut",
+  "isDocsHomePage": false,
+  "title": "deutsches-archaologisches-institut",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/deutsches-archaologisches-institut.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/deutsches-archaologisches-institut",
+  "permalink": "/support/docs/academic-writing/import/deutsches-archaologisches-institut",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/deutsches-archaologisches-institut.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deutsche-gesellschaft-fur-psychologie-german",
+    "permalink": "/support/docs/academic-writing/import/deutsche-gesellschaft-fur-psychologie-german"
+  },
+  "next": {
+    "title": "deutsches-arzteblatt",
+    "permalink": "/support/docs/academic-writing/import/deutsches-arzteblatt"
+  }
+}

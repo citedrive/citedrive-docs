@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/historiascribere-german",
+  "id": "academic-writing/import/historiascribere-german",
+  "isDocsHomePage": false,
+  "title": "historiascribere-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/historiascribere-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/historiascribere-german",
+  "permalink": "/support/docs/academic-writing/import/historiascribere-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/historiascribere-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "histopathology",
+    "permalink": "/support/docs/academic-writing/import/histopathology"
+  },
+  "next": {
+    "title": "historical-materialism",
+    "permalink": "/support/docs/academic-writing/import/historical-materialism"
+  }
+}

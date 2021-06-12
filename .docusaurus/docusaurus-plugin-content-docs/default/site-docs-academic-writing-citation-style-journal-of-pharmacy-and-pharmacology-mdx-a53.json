@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-pharmacy-and-pharmacology",
+  "id": "academic-writing/citation-style/journal-of-pharmacy-and-pharmacology",
+  "isDocsHomePage": false,
+  "title": "journal-of-pharmacy-and-pharmacology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-petrology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-petrology"
+  },
+  "next": {
+    "title": "journal-of-phycology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-phycology"
+  }
+}

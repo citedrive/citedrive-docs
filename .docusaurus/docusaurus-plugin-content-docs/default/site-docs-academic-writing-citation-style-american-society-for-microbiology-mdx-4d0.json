@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-society-for-microbiology",
+  "id": "academic-writing/citation-style/american-society-for-microbiology",
+  "isDocsHomePage": false,
+  "title": "american-society-for-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-society-for-microbiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-society-for-microbiology",
+  "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-for-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-school-of-classical-studies-at-athens",
+    "permalink": "/support/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens"
+  },
+  "next": {
+    "title": "american-society-for-pharmacology-and-experimental-therapeutics",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics"
+  }
+}

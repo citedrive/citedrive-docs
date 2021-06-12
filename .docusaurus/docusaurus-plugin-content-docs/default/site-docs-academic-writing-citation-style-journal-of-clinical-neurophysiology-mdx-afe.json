@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-clinical-neurophysiology",
+  "id": "academic-writing/citation-style/journal-of-clinical-neurophysiology",
+  "isDocsHomePage": false,
+  "title": "journal-of-clinical-neurophysiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-clinical-neurophysiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-clinical-neurophysiology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-neurophysiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-clinical-neurophysiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-clinical-neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-neurology"
+  },
+  "next": {
+    "title": "journal-of-clinical-oncology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-oncology"
+  }
+}

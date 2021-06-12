@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cell",
+  "id": "academic-writing/import/cell",
+  "isDocsHomePage": false,
+  "title": "cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cell.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cell",
+  "permalink": "/support/docs/academic-writing/import/cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell-transplantation",
+    "permalink": "/support/docs/academic-writing/import/cell-transplantation"
+  },
+  "next": {
+    "title": "cellular-and-molecular-bioengineering",
+    "permalink": "/support/docs/academic-writing/import/cellular-and-molecular-bioengineering"
+  }
+}

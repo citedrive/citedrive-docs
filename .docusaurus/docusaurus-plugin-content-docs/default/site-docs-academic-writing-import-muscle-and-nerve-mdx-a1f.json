@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/muscle-and-nerve",
+  "id": "academic-writing/import/muscle-and-nerve",
+  "isDocsHomePage": false,
+  "title": "muscle-and-nerve",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/muscle-and-nerve.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/muscle-and-nerve",
+  "permalink": "/support/docs/academic-writing/import/muscle-and-nerve",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/muscle-and-nerve.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multiple-sclerosis-journal",
+    "permalink": "/support/docs/academic-writing/import/multiple-sclerosis-journal"
+  },
+  "next": {
+    "title": "music-theory-spectrum",
+    "permalink": "/support/docs/academic-writing/import/music-theory-spectrum"
+  }
+}

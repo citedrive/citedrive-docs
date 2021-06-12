@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/methods-of-information-in-medicine",
+  "id": "academic-writing/import/methods-of-information-in-medicine",
+  "isDocsHomePage": false,
+  "title": "methods-of-information-in-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/methods-of-information-in-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/methods-of-information-in-medicine",
+  "permalink": "/support/docs/academic-writing/import/methods-of-information-in-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/methods-of-information-in-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "method-and-theory-in-the-study-of-religion",
+    "permalink": "/support/docs/academic-writing/import/method-and-theory-in-the-study-of-religion"
+  },
+  "next": {
+    "title": "metropol-verlag-german",
+    "permalink": "/support/docs/academic-writing/import/metropol-verlag-german"
+  }
+}

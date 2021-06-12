@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/la-trobe-university--apa-6th-edition",
+  "id": "academic-writing/citation-style/la-trobe-university--apa-6th-edition",
+  "isDocsHomePage": false,
+  "title": "la-trobe-university--apa-6th-edition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/la-trobe-university--apa-6th-edition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/la-trobe-university--apa-6th-edition",
+  "permalink": "/support/docs/academic-writing/citation-style/la-trobe-university--apa-6th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/la-trobe-university--apa-6th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "la-revue-des-sciences-de-gestion-french",
+    "permalink": "/support/docs/academic-writing/citation-style/la-revue-des-sciences-de-gestion-french"
+  },
+  "next": {
+    "title": "la-trobe-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/la-trobe-university--harvard"
+  }
+}

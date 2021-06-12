@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hepatology",
+  "id": "academic-writing/citation-style/hepatology",
+  "isDocsHomePage": false,
+  "title": "hepatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hepatology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hepatology",
+  "permalink": "/support/docs/academic-writing/citation-style/hepatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hepatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "henoch",
+    "permalink": "/support/docs/academic-writing/citation-style/henoch"
+  },
+  "next": {
+    "title": "heredity",
+    "permalink": "/support/docs/academic-writing/citation-style/heredity"
+  }
+}

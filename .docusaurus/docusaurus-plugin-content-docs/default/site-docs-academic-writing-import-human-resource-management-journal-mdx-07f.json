@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/human-resource-management-journal",
+  "id": "academic-writing/import/human-resource-management-journal",
+  "isDocsHomePage": false,
+  "title": "human-resource-management-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/human-resource-management-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/human-resource-management-journal",
+  "permalink": "/support/docs/academic-writing/import/human-resource-management-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/human-resource-management-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-reproduction",
+    "permalink": "/support/docs/academic-writing/import/human-reproduction"
+  },
+  "next": {
+    "title": "humanistica-lovaniensia-journal-of-neolatin-studies",
+    "permalink": "/support/docs/academic-writing/import/humanistica-lovaniensia-journal-of-neolatin-studies"
+  }
+}

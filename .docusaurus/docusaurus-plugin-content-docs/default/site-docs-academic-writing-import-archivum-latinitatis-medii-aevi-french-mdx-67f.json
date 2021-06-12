@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/archivum-latinitatis-medii-aevi-french",
+  "id": "academic-writing/import/archivum-latinitatis-medii-aevi-french",
+  "isDocsHomePage": false,
+  "title": "archivum-latinitatis-medii-aevi-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/archivum-latinitatis-medii-aevi-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/archivum-latinitatis-medii-aevi-french",
+  "permalink": "/support/docs/academic-writing/import/archivum-latinitatis-medii-aevi-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/archivum-latinitatis-medii-aevi-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archivos-de-la-sociedad-espanola-de-oftalmologia-spanish",
+    "permalink": "/support/docs/academic-writing/import/archivos-de-la-sociedad-espanola-de-oftalmologia-spanish"
+  },
+  "next": {
+    "title": "arctic-antarctic-and-alpine-research",
+    "permalink": "/support/docs/academic-writing/import/arctic-antarctic-and-alpine-research"
+  }
+}

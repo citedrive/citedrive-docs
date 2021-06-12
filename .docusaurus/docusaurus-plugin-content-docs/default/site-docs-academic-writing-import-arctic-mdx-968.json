@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/arctic",
+  "id": "academic-writing/import/arctic",
+  "isDocsHomePage": false,
+  "title": "arctic",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/arctic.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/arctic",
+  "permalink": "/support/docs/academic-writing/import/arctic",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/arctic.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arctic-antarctic-and-alpine-research",
+    "permalink": "/support/docs/academic-writing/import/arctic-antarctic-and-alpine-research"
+  },
+  "next": {
+    "title": "arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+    "permalink": "/support/docs/academic-writing/import/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology"
+  }
+}

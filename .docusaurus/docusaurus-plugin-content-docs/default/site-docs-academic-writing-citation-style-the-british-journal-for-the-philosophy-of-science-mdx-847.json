@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
+  "id": "academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
+  "isDocsHomePage": false,
+  "title": "the-british-journal-for-the-philosophy-of-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
+  "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-botanical-review",
+    "permalink": "/support/docs/academic-writing/citation-style/the-botanical-review"
+  },
+  "next": {
+    "title": "the-british-journal-of-cardiology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-cardiology"
+  }
+}

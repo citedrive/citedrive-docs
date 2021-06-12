@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-cancer-journal",
+  "id": "academic-writing/citation-style/the-cancer-journal",
+  "isDocsHomePage": false,
+  "title": "the-cancer-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-cancer-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-cancer-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-cancer-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-cancer-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-canadian-journal-of-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry"
+  },
+  "next": {
+    "title": "the-chemical-society-of-japan",
+    "permalink": "/support/docs/academic-writing/citation-style/the-chemical-society-of-japan"
+  }
+}

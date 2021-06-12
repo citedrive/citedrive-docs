@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cambridge-university-press-numeric",
+  "id": "academic-writing/citation-style/cambridge-university-press-numeric",
+  "isDocsHomePage": false,
+  "title": "cambridge-university-press-numeric",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cambridge-university-press-numeric.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cambridge-university-press-numeric",
+  "permalink": "/support/docs/academic-writing/citation-style/cambridge-university-press-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cambridge-university-press-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cambridge-university-press-note",
+    "permalink": "/support/docs/academic-writing/citation-style/cambridge-university-press-note"
+  },
+  "next": {
+    "title": "canadian-biosystems-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-biosystems-engineering"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/applied-spectroscopy-reviews",
+  "id": "academic-writing/citation-style/applied-spectroscopy-reviews",
+  "isDocsHomePage": false,
+  "title": "applied-spectroscopy-reviews",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/applied-spectroscopy-reviews.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/applied-spectroscopy-reviews",
+  "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/applied-spectroscopy-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applied-in-vitro-toxicology",
+    "permalink": "/support/docs/academic-writing/citation-style/applied-in-vitro-toxicology"
+  },
+  "next": {
+    "title": "applied-spectroscopy",
+    "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy"
+  }
+}

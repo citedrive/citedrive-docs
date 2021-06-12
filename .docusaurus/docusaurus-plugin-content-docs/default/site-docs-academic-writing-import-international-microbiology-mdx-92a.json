@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-microbiology",
+  "id": "academic-writing/import/international-microbiology",
+  "isDocsHomePage": false,
+  "title": "international-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-microbiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-microbiology",
+  "permalink": "/support/docs/academic-writing/import/international-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-wildland-fire",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-wildland-fire"
+  },
+  "next": {
+    "title": "international-organization",
+    "permalink": "/support/docs/academic-writing/import/international-organization"
+  }
+}

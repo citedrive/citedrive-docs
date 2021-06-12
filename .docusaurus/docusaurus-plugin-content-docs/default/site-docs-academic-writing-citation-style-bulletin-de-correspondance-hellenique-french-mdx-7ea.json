@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bulletin-de-correspondance-hellenique-french",
+  "id": "academic-writing/citation-style/bulletin-de-correspondance-hellenique-french",
+  "isDocsHomePage": false,
+  "title": "bulletin-de-correspondance-hellenique-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bulletin-de-correspondance-hellenique-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bulletin-de-correspondance-hellenique-french",
+  "permalink": "/support/docs/academic-writing/citation-style/bulletin-de-correspondance-hellenique-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bulletin-de-correspondance-hellenique-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "buletin-agrohorti",
+    "permalink": "/support/docs/academic-writing/citation-style/buletin-agrohorti"
+  },
+  "next": {
+    "title": "bulletin-du-centre-detudes-medievales-dauxerre-french",
+    "permalink": "/support/docs/academic-writing/citation-style/bulletin-du-centre-detudes-medievales-dauxerre-french"
+  }
+}

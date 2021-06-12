@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/brain-behavior-and-evolution",
+  "id": "academic-writing/citation-style/brain-behavior-and-evolution",
+  "isDocsHomePage": false,
+  "title": "brain-behavior-and-evolution",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/brain-behavior-and-evolution.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/brain-behavior-and-evolution",
+  "permalink": "/support/docs/academic-writing/citation-style/brain-behavior-and-evolution",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/brain-behavior-and-evolution.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brachytherapy",
+    "permalink": "/support/docs/academic-writing/citation-style/brachytherapy"
+  },
+  "next": {
+    "title": "brain",
+    "permalink": "/support/docs/academic-writing/citation-style/brain"
+  }
+}

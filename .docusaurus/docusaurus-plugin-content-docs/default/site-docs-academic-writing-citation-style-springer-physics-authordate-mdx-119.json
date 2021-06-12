@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--physics-authordate",
+  "id": "academic-writing/citation-style/springer--physics-authordate",
+  "isDocsHomePage": false,
+  "title": "springer--physics-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--physics-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--physics-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--physics-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--physics-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--mathphys-numeric-brackets",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--mathphys-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--physics-numeric-brackets",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--physics-numeric-brackets"
+  }
+}

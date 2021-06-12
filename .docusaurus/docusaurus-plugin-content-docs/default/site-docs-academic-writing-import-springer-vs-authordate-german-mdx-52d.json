@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer-vs-authordate-german",
+  "id": "academic-writing/import/springer-vs-authordate-german",
+  "isDocsHomePage": false,
+  "title": "springer-vs-authordate-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer-vs-authordate-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer-vs-authordate-german",
+  "permalink": "/support/docs/academic-writing/import/springer-vs-authordate-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer-vs-authordate-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--vancouver",
+    "permalink": "/support/docs/academic-writing/import/springer--vancouver"
+  },
+  "next": {
+    "title": "springerprotocols",
+    "permalink": "/support/docs/academic-writing/import/springerprotocols"
+  }
+}

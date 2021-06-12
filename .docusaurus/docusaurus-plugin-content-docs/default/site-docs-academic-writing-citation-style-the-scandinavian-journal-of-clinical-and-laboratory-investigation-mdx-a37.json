@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+  "id": "academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+  "isDocsHomePage": false,
+  "title": "the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+  "permalink": "/support/docs/academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-saudi-journal-for-dental-research",
+    "permalink": "/support/docs/academic-writing/citation-style/the-saudi-journal-for-dental-research"
+  },
+  "next": {
+    "title": "the-university-of-melbourne--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-university-of-melbourne--harvard"
+  }
+}

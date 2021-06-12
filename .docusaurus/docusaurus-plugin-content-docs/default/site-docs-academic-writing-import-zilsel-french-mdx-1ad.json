@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zilsel-french",
+  "id": "academic-writing/import/zilsel-french",
+  "isDocsHomePage": false,
+  "title": "zilsel-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zilsel-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zilsel-french",
+  "permalink": "/support/docs/academic-writing/import/zilsel-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zilsel-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeszyty-prawnicze-bas-polish",
+    "permalink": "/support/docs/academic-writing/import/zeszyty-prawnicze-bas-polish"
+  },
+  "next": {
+    "title": "zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
+    "permalink": "/support/docs/academic-writing/import/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland"
+  }
+}

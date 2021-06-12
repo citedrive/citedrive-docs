@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/g-giappichelli-editore-italian",
+  "id": "academic-writing/citation-style/g-giappichelli-editore-italian",
+  "isDocsHomePage": false,
+  "title": "g-giappichelli-editore-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/g-giappichelli-editore-italian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/g-giappichelli-editore-italian",
+  "permalink": "/support/docs/academic-writing/citation-style/g-giappichelli-editore-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/g-giappichelli-editore-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "future-science-group",
+    "permalink": "/support/docs/academic-writing/citation-style/future-science-group"
+  },
+  "next": {
+    "title": "g3-genes-genomes-genetics",
+    "permalink": "/support/docs/academic-writing/citation-style/g3-genes-genomes-genetics"
+  }
+}

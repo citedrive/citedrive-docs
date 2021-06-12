@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-journal-of-political-research",
+  "id": "academic-writing/import/european-journal-of-political-research",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-political-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-journal-of-political-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-journal-of-political-research",
+  "permalink": "/support/docs/academic-writing/import/european-journal-of-political-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-journal-of-political-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-pain",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-pain"
+  },
+  "next": {
+    "title": "european-journal-of-public-health",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-public-health"
+  }
+}

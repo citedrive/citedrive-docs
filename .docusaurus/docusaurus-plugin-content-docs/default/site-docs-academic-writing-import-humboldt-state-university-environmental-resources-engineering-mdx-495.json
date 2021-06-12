@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/humboldt-state-university--environmental-resources-engineering",
+  "id": "academic-writing/import/humboldt-state-university--environmental-resources-engineering",
+  "isDocsHomePage": false,
+  "title": "humboldt-state-university--environmental-resources-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/humboldt-state-university--environmental-resources-engineering.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/humboldt-state-university--environmental-resources-engineering",
+  "permalink": "/support/docs/academic-writing/import/humboldt-state-university--environmental-resources-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/humboldt-state-university--environmental-resources-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "humanwildlife-interactions",
+    "permalink": "/support/docs/academic-writing/import/humanwildlife-interactions"
+  },
+  "next": {
+    "title": "hydrobiologia",
+    "permalink": "/support/docs/academic-writing/import/hydrobiologia"
+  }
+}

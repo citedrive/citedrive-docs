@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+  "id": "academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+  "isDocsHomePage": false,
+  "title": "bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+  "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bursa-uludag-universitesi--saglk-bilimleri-enstitusu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+    "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi--egitim-bilimleri-enstitusu"
+  },
+  "next": {
+    "title": "bursa-uludag-universitesi--sosyal-bilimler-enstitusu-metinici-atif",
+    "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi--sosyal-bilimler-enstitusu-metinici-atif"
+  }
+}

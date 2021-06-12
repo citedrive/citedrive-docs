@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/sanamed",
+  "id": "academic-writing/import/sanamed",
+  "isDocsHomePage": false,
+  "title": "sanamed",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/sanamed.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/sanamed",
+  "permalink": "/support/docs/academic-writing/import/sanamed",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/sanamed.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "saint-paul-university--faculty-of-canon-law",
+    "permalink": "/support/docs/academic-writing/import/saint-paul-university--faculty-of-canon-law"
+  },
+  "next": {
+    "title": "sascha-foerster--geisteswissenschaft-german",
+    "permalink": "/support/docs/academic-writing/import/sascha-foerster--geisteswissenschaft-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-physiologica",
+  "id": "academic-writing/import/acta-physiologica",
+  "isDocsHomePage": false,
+  "title": "acta-physiologica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-physiologica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-physiologica",
+  "permalink": "/support/docs/academic-writing/import/acta-physiologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-physiologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-philosophica",
+    "permalink": "/support/docs/academic-writing/import/acta-philosophica"
+  },
+  "next": {
+    "title": "acta-polytechnica",
+    "permalink": "/support/docs/academic-writing/import/acta-polytechnica"
+  }
+}

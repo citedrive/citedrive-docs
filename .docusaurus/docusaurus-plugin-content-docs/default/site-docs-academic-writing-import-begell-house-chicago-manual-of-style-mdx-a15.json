@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/begell-house--chicago-manual-of-style",
+  "id": "academic-writing/import/begell-house--chicago-manual-of-style",
+  "isDocsHomePage": false,
+  "title": "begell-house--chicago-manual-of-style",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/begell-house--chicago-manual-of-style.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/begell-house--chicago-manual-of-style",
+  "permalink": "/support/docs/academic-writing/import/begell-house--chicago-manual-of-style",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/begell-house--chicago-manual-of-style.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "begell-house--apa",
+    "permalink": "/support/docs/academic-writing/import/begell-house--apa"
+  },
+  "next": {
+    "title": "behaviour",
+    "permalink": "/support/docs/academic-writing/import/behaviour"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-polytechnica",
+  "id": "academic-writing/citation-style/acta-polytechnica",
+  "isDocsHomePage": false,
+  "title": "acta-polytechnica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-polytechnica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-polytechnica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-polytechnica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-physiologica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
+  },
+  "next": {
+    "title": "acta-psychiatrica-scandinavica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
+  }
+}

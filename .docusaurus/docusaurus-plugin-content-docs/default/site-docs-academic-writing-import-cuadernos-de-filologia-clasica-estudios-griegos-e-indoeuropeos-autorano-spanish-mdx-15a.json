@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+  "id": "academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+  "isDocsHomePage": false,
+  "title": "cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+  "permalink": "/support/docs/academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crustaceana",
+    "permalink": "/support/docs/academic-writing/import/crustaceana"
+  },
+  "next": {
+    "title": "cultivos-tropicales-spanish",
+    "permalink": "/support/docs/academic-writing/import/cultivos-tropicales-spanish"
+  }
+}

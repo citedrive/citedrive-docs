@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/briefings-in-bioinformatics",
+  "id": "academic-writing/citation-style/briefings-in-bioinformatics",
+  "isDocsHomePage": false,
+  "title": "briefings-in-bioinformatics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/briefings-in-bioinformatics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/briefings-in-bioinformatics",
+  "permalink": "/support/docs/academic-writing/citation-style/briefings-in-bioinformatics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/briefings-in-bioinformatics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brewingscience",
+    "permalink": "/support/docs/academic-writing/citation-style/brewingscience"
+  },
+  "next": {
+    "title": "british-journal-of-anaesthesia",
+    "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-anaesthesia"
+  }
+}

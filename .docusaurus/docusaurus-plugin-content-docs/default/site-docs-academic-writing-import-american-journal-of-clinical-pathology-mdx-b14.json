@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-journal-of-clinical-pathology",
+  "id": "academic-writing/import/american-journal-of-clinical-pathology",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-clinical-pathology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-journal-of-clinical-pathology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-journal-of-clinical-pathology",
+  "permalink": "/support/docs/academic-writing/import/american-journal-of-clinical-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-journal-of-clinical-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-climate-change",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-climate-change"
+  },
+  "next": {
+    "title": "american-journal-of-enology-and-viticulture",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-enology-and-viticulture"
+  }
+}

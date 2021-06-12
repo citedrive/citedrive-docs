@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/anesthesiology",
+  "id": "academic-writing/citation-style/anesthesiology",
+  "isDocsHomePage": false,
+  "title": "anesthesiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/anesthesiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/anesthesiology",
+  "permalink": "/support/docs/academic-writing/citation-style/anesthesiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anesthesiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anesthesia-and-analgesia",
+    "permalink": "/support/docs/academic-writing/citation-style/anesthesia-and-analgesia"
+  },
+  "next": {
+    "title": "angewandte-chemie-international-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/angewandte-chemie-international-edition"
+  }
+}

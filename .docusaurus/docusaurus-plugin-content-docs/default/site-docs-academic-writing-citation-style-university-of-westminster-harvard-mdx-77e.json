@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-westminster--harvard",
+  "id": "academic-writing/citation-style/university-of-westminster--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-westminster--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-westminster--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-westminster--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-westminster--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-westminster--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-the-west-of-scotland--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-scotland--harvard"
+  },
+  "next": {
+    "title": "university-of-wolverhampton--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-wolverhampton--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/arctic-antarctic-and-alpine-research",
+  "id": "academic-writing/citation-style/arctic-antarctic-and-alpine-research",
+  "isDocsHomePage": false,
+  "title": "arctic-antarctic-and-alpine-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/arctic-antarctic-and-alpine-research",
+  "permalink": "/support/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archivum-latinitatis-medii-aevi-french",
+    "permalink": "/support/docs/academic-writing/citation-style/archivum-latinitatis-medii-aevi-french"
+  },
+  "next": {
+    "title": "arctic",
+    "permalink": "/support/docs/academic-writing/citation-style/arctic"
+  }
+}

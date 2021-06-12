@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine",
+  "id": "academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine",
+  "isDocsHomePage": false,
+  "title": "magnetic-resonance-materials-in-physics-biology-and-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine",
+  "permalink": "/support/docs/academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/magnetic-resonance-materials-in-physics-biology-and-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "magnetic-resonance-in-medicine",
+    "permalink": "/support/docs/academic-writing/import/magnetic-resonance-in-medicine"
+  },
+  "next": {
+    "title": "maison-de-lorient-et-de-la-mediterranee-english",
+    "permalink": "/support/docs/academic-writing/import/maison-de-lorient-et-de-la-mediterranee-english"
+  }
+}

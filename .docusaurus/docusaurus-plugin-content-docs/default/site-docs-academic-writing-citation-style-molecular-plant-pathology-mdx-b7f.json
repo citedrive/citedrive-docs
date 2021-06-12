@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/molecular-plant-pathology",
+  "id": "academic-writing/citation-style/molecular-plant-pathology",
+  "isDocsHomePage": false,
+  "title": "molecular-plant-pathology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/molecular-plant-pathology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/molecular-plant-pathology",
+  "permalink": "/support/docs/academic-writing/citation-style/molecular-plant-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-plant-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-oncology",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-oncology"
+  },
+  "next": {
+    "title": "molecular-plant",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-plant"
+  }
+}

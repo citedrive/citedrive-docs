@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/taylor-and-francis--chicago-f",
+  "id": "academic-writing/citation-style/taylor-and-francis--chicago-f",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--chicago-f",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/taylor-and-francis--chicago-f.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/taylor-and-francis--chicago-f",
+  "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--chicago-f",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/taylor-and-francis--chicago-f.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--american-chemical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--american-chemical-society"
+  },
+  "next": {
+    "title": "taylor-and-francis--chicago-manual-of-style-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--chicago-manual-of-style-authordate"
+  }
+}

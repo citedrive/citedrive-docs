@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-agricultural-science",
+  "id": "academic-writing/citation-style/the-journal-of-agricultural-science",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-agricultural-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-agricultural-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-agricultural-science",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-agricultural-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-agricultural-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-adhesive-dentistry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-adhesive-dentistry"
+  },
+  "next": {
+    "title": "the-journal-of-biological-chemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-biological-chemistry"
+  }
+}

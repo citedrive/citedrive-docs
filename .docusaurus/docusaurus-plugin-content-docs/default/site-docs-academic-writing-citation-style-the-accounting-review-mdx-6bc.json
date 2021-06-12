@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-accounting-review",
+  "id": "academic-writing/citation-style/the-accounting-review",
+  "isDocsHomePage": false,
+  "title": "the-accounting-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-accounting-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-accounting-review",
+  "permalink": "/support/docs/academic-writing/citation-style/the-accounting-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-accounting-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tgm-wien-diplomarbeit-onorm-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-onorm-german--austria"
+  },
+  "next": {
+    "title": "the-american-journal-of-bioethics",
+    "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-bioethics"
+  }
+}

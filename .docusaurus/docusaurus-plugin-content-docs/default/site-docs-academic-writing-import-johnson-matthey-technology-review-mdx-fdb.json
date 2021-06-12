@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/johnson-matthey-technology-review",
+  "id": "academic-writing/import/johnson-matthey-technology-review",
+  "isDocsHomePage": false,
+  "title": "johnson-matthey-technology-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/johnson-matthey-technology-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/johnson-matthey-technology-review",
+  "permalink": "/support/docs/academic-writing/import/johnson-matthey-technology-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/johnson-matthey-technology-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+    "permalink": "/support/docs/academic-writing/import/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today"
+  },
+  "next": {
+    "title": "journal-and-proceedings-of-the-royal-society-of-new-south-wales",
+    "permalink": "/support/docs/academic-writing/import/journal-and-proceedings-of-the-royal-society-of-new-south-wales"
+  }
+}

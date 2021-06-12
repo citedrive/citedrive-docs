@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+  "id": "academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+  "isDocsHomePage": false,
+  "title": "yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+  "permalink": "/support/docs/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "york-st-john-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/york-st-john-university--harvard"
+  },
+  "next": {
+    "title": "zastosowania-komputerow-w-elektrotechnice",
+    "permalink": "/support/docs/academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice"
+  }
+}

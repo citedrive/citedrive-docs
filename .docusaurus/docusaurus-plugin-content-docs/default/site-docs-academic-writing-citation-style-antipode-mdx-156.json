@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/antipode",
+  "id": "academic-writing/citation-style/antipode",
+  "isDocsHomePage": false,
+  "title": "antipode",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/antipode.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/antipode",
+  "permalink": "/support/docs/academic-writing/citation-style/antipode",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/antipode.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antioxidants-and-redox-signaling",
+    "permalink": "/support/docs/academic-writing/citation-style/antioxidants-and-redox-signaling"
+  },
+  "next": {
+    "title": "antiquites-africaines",
+    "permalink": "/support/docs/academic-writing/citation-style/antiquites-africaines"
+  }
+}

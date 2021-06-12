@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-faseb-journal",
+  "id": "academic-writing/citation-style/the-faseb-journal",
+  "isDocsHomePage": false,
+  "title": "the-faseb-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-faseb-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-faseb-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-faseb-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-faseb-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-european-research-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-european-research-journal"
+  },
+  "next": {
+    "title": "the-febs-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-febs-journal"
+  }
+}

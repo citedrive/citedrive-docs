@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/science-china-life-sciences",
+  "id": "academic-writing/citation-style/science-china-life-sciences",
+  "isDocsHomePage": false,
+  "title": "science-china-life-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/science-china-life-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/science-china-life-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/science-china-life-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/science-china-life-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-china-earth-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/science-china-earth-sciences"
+  },
+  "next": {
+    "title": "science-translational-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/science-translational-medicine"
+  }
+}

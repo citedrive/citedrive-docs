@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cell-research",
+  "id": "academic-writing/citation-style/cell-research",
+  "isDocsHomePage": false,
+  "title": "cell-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cell-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cell-research",
+  "permalink": "/support/docs/academic-writing/citation-style/cell-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cell-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell-journals-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/cell-journals-numeric"
+  },
+  "next": {
+    "title": "cell-structure-and-function",
+    "permalink": "/support/docs/academic-writing/citation-style/cell-structure-and-function"
+  }
+}

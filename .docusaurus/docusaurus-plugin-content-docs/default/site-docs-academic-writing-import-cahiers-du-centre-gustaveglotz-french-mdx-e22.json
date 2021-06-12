@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cahiers-du-centre-gustaveglotz-french",
+  "id": "academic-writing/import/cahiers-du-centre-gustaveglotz-french",
+  "isDocsHomePage": false,
+  "title": "cahiers-du-centre-gustaveglotz-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cahiers-du-centre-gustaveglotz-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cahiers-du-centre-gustaveglotz-french",
+  "permalink": "/support/docs/academic-writing/import/cahiers-du-centre-gustaveglotz-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cahiers-du-centre-gustaveglotz-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cahiers-dethnomusicologie-french",
+    "permalink": "/support/docs/academic-writing/import/cahiers-dethnomusicologie-french"
+  },
+  "next": {
+    "title": "california-agriculture",
+    "permalink": "/support/docs/academic-writing/import/california-agriculture"
+  }
+}

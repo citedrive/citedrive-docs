@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/transnational-environmental-law",
+  "id": "academic-writing/citation-style/transnational-environmental-law",
+  "isDocsHomePage": false,
+  "title": "transnational-environmental-law",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/transnational-environmental-law.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/transnational-environmental-law",
+  "permalink": "/support/docs/academic-writing/citation-style/transnational-environmental-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/transnational-environmental-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transboundary-and-emerging-diseases",
+    "permalink": "/support/docs/academic-writing/citation-style/transboundary-and-emerging-diseases"
+  },
+  "next": {
+    "title": "transplantation",
+    "permalink": "/support/docs/academic-writing/citation-style/transplantation"
+  }
+}

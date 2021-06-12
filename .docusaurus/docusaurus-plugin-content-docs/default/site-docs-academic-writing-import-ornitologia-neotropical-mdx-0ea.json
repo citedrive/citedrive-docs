@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ornitologia-neotropical",
+  "id": "academic-writing/import/ornitologia-neotropical",
+  "isDocsHomePage": false,
+  "title": "ornitologia-neotropical",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ornitologia-neotropical.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ornitologia-neotropical",
+  "permalink": "/support/docs/academic-writing/import/ornitologia-neotropical",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ornitologia-neotropical.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organon",
+    "permalink": "/support/docs/academic-writing/import/organon"
+  },
+  "next": {
+    "title": "orthopedic-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/orthopedic-clinics-of-north-america"
+  }
+}

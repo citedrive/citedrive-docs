@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/south-african-journal-of-enology-and-viticulture",
+  "id": "academic-writing/citation-style/south-african-journal-of-enology-and-viticulture",
+  "isDocsHomePage": false,
+  "title": "south-african-journal-of-enology-and-viticulture",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture",
+  "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "south-african-journal-of-animal-science",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-animal-science"
+  },
+  "next": {
+    "title": "south-african-journal-of-geology",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-geology"
+  }
+}

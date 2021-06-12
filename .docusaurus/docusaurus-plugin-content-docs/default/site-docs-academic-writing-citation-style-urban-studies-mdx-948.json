@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/urban-studies",
+  "id": "academic-writing/citation-style/urban-studies",
+  "isDocsHomePage": false,
+  "title": "urban-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/urban-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/urban-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/urban-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/urban-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urban-habitats",
+    "permalink": "/support/docs/academic-writing/citation-style/urban-habitats"
+  },
+  "next": {
+    "title": "urbani-izziv-urban-challenge-english",
+    "permalink": "/support/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-english"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation",
+  "id": "academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation",
+  "isDocsHomePage": false,
+  "title": "journal-of-orthopaedics-trauma-and-rehabilitation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-orthopaedics-trauma-and-rehabilitation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-orthopaedic-trauma",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-orthopaedic-trauma"
+  },
+  "next": {
+    "title": "journal-of-paleontology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-paleontology"
+  }
+}

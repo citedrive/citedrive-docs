@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nauplius",
+  "id": "academic-writing/citation-style/nauplius",
+  "isDocsHomePage": false,
+  "title": "nauplius",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nauplius.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nauplius",
+  "permalink": "/support/docs/academic-writing/citation-style/nauplius",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nauplius.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "natures-sciences-societes",
+    "permalink": "/support/docs/academic-writing/citation-style/natures-sciences-societes"
+  },
+  "next": {
+    "title": "navigation",
+    "permalink": "/support/docs/academic-writing/citation-style/navigation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tropical-animal-health-and-production",
+  "id": "academic-writing/citation-style/tropical-animal-health-and-production",
+  "isDocsHomePage": false,
+  "title": "tropical-animal-health-and-production",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tropical-animal-health-and-production.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tropical-animal-health-and-production",
+  "permalink": "/support/docs/academic-writing/citation-style/tropical-animal-health-and-production",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tropical-animal-health-and-production.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "triangle-french",
+    "permalink": "/support/docs/academic-writing/citation-style/triangle-french"
+  },
+  "next": {
+    "title": "tsaqafah",
+    "permalink": "/support/docs/academic-writing/citation-style/tsaqafah"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biological-reviews",
+  "id": "academic-writing/citation-style/biological-reviews",
+  "isDocsHomePage": false,
+  "title": "biological-reviews",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biological-reviews.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biological-reviews",
+  "permalink": "/support/docs/academic-writing/citation-style/biological-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biological-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biological-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/biological-psychiatry"
+  },
+  "next": {
+    "title": "biology-of-reproduction",
+    "permalink": "/support/docs/academic-writing/citation-style/biology-of-reproduction"
+  }
+}

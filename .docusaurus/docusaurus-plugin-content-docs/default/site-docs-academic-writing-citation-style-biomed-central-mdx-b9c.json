@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biomed-central",
+  "id": "academic-writing/citation-style/biomed-central",
+  "isDocsHomePage": false,
+  "title": "biomed-central",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biomed-central.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biomed-central",
+  "permalink": "/support/docs/academic-writing/citation-style/biomed-central",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biomed-central.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biology-of-reproduction",
+    "permalink": "/support/docs/academic-writing/citation-style/biology-of-reproduction"
+  },
+  "next": {
+    "title": "biomed-research-international",
+    "permalink": "/support/docs/academic-writing/citation-style/biomed-research-international"
+  }
+}

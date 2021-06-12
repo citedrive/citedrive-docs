@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+  "id": "academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+  "isDocsHomePage": false,
+  "title": "biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+  "permalink": "/support/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bitonline-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/bitonline-note-german"
+  },
+  "next": {
+    "title": "blood",
+    "permalink": "/support/docs/academic-writing/citation-style/blood"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vancouver-french--canada",
+  "id": "academic-writing/citation-style/vancouver-french--canada",
+  "isDocsHomePage": false,
+  "title": "vancouver-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vancouver-french--canada.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vancouver-french--canada",
+  "permalink": "/support/docs/academic-writing/citation-style/vancouver-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vancouver-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-brackets",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver-brackets"
+  },
+  "next": {
+    "title": "vancouver-superscript-brackets-only-year-in-date",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript-brackets-only-year-in-date"
+  }
+}

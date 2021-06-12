@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/eva-berlin-konferenz-german",
+  "id": "academic-writing/import/eva-berlin-konferenz-german",
+  "isDocsHomePage": false,
+  "title": "eva-berlin-konferenz-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/eva-berlin-konferenz-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/eva-berlin-konferenz-german",
+  "permalink": "/support/docs/academic-writing/import/eva-berlin-konferenz-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/eva-berlin-konferenz-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-union--interinstitutional-style-guide-note",
+    "permalink": "/support/docs/academic-writing/import/european-union--interinstitutional-style-guide-note"
+  },
+  "next": {
+    "title": "evidencebased-complementary-and-alternative-medicine",
+    "permalink": "/support/docs/academic-writing/import/evidencebased-complementary-and-alternative-medicine"
+  }
+}

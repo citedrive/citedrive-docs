@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/discovery-medicine",
+  "id": "academic-writing/citation-style/discovery-medicine",
+  "isDocsHomePage": false,
+  "title": "discovery-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/discovery-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/discovery-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/discovery-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/discovery-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "disability-and-rehabilitation",
+    "permalink": "/support/docs/academic-writing/citation-style/disability-and-rehabilitation"
+  },
+  "next": {
+    "title": "dna-research",
+    "permalink": "/support/docs/academic-writing/citation-style/dna-research"
+  }
+}

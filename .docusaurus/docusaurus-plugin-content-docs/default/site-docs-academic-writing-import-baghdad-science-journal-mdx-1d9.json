@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/baghdad-science-journal",
+  "id": "academic-writing/import/baghdad-science-journal",
+  "isDocsHomePage": false,
+  "title": "baghdad-science-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/baghdad-science-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/baghdad-science-journal",
+  "permalink": "/support/docs/academic-writing/import/baghdad-science-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/baghdad-science-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+    "permalink": "/support/docs/academic-writing/import/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian"
+  },
+  "next": {
+    "title": "begell-house--apa",
+    "permalink": "/support/docs/academic-writing/import/begell-house--apa"
+  }
+}

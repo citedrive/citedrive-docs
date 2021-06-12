@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/melbourne-polytechnic--harvard",
+  "id": "academic-writing/import/melbourne-polytechnic--harvard",
+  "isDocsHomePage": false,
+  "title": "melbourne-polytechnic--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/melbourne-polytechnic--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/melbourne-polytechnic--harvard",
+  "permalink": "/support/docs/academic-writing/import/melbourne-polytechnic--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/melbourne-polytechnic--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mediterranean-politics",
+    "permalink": "/support/docs/academic-writing/import/mediterranean-politics"
+  },
+  "next": {
+    "title": "melbourne-school-of-theology",
+    "permalink": "/support/docs/academic-writing/import/melbourne-school-of-theology"
+  }
+}

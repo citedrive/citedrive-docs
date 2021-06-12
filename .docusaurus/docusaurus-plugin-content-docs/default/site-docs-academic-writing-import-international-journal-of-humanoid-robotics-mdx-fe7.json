@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-humanoid-robotics",
+  "id": "academic-writing/import/international-journal-of-humanoid-robotics",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-humanoid-robotics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-humanoid-robotics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-humanoid-robotics",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-humanoid-robotics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-humanoid-robotics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-geriatric-psychiatry",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-geriatric-psychiatry"
+  },
+  "next": {
+    "title": "international-journal-of-language-and-communication-disorders",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-language-and-communication-disorders"
+  }
+}

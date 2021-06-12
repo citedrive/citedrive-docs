@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/human-gene-therapy",
+  "id": "academic-writing/citation-style/human-gene-therapy",
+  "isDocsHomePage": false,
+  "title": "human-gene-therapy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/human-gene-therapy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/human-gene-therapy",
+  "permalink": "/support/docs/academic-writing/citation-style/human-gene-therapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-gene-therapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/human-ecology"
+  },
+  "next": {
+    "title": "human-mutation",
+    "permalink": "/support/docs/academic-writing/citation-style/human-mutation"
+  }
+}

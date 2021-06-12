@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/france-tous-les-auteurs-numerotation-french",
+  "id": "academic-writing/citation-style/france-tous-les-auteurs-numerotation-french",
+  "isDocsHomePage": false,
+  "title": "france-tous-les-auteurs-numerotation-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/france-tous-les-auteurs-numerotation-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/france-tous-les-auteurs-numerotation-french",
+  "permalink": "/support/docs/academic-writing/citation-style/france-tous-les-auteurs-numerotation-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/france-tous-les-auteurs-numerotation-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "france-tous-les-auteurs-auteurdate-french",
+    "permalink": "/support/docs/academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french"
+  },
+  "next": {
+    "title": "free-radical-research",
+    "permalink": "/support/docs/academic-writing/citation-style/free-radical-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/randd-management",
+  "id": "academic-writing/import/randd-management",
+  "isDocsHomePage": false,
+  "title": "randd-management",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/randd-management.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/randd-management",
+  "permalink": "/support/docs/academic-writing/import/randd-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/randd-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "raffles-bulletin-of-zoology",
+    "permalink": "/support/docs/academic-writing/import/raffles-bulletin-of-zoology"
+  },
+  "next": {
+    "title": "recent-patents-on-drug-delivery-and-formulation",
+    "permalink": "/support/docs/academic-writing/import/recent-patents-on-drug-delivery-and-formulation"
+  }
+}

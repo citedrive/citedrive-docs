@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/metropolitiques-french",
+  "id": "academic-writing/import/metropolitiques-french",
+  "isDocsHomePage": false,
+  "title": "metropolitiques-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/metropolitiques-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/metropolitiques-french",
+  "permalink": "/support/docs/academic-writing/import/metropolitiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/metropolitiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropolia-university-of-applied-sciences--harvard-finnish",
+    "permalink": "/support/docs/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish"
+  },
+  "next": {
+    "title": "microbial-cell",
+    "permalink": "/support/docs/academic-writing/import/microbial-cell"
+  }
+}

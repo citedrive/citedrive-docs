@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german",
+  "id": "academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german",
+  "isDocsHomePage": false,
+  "title": "springer--fachzeitschriften-medizin-psychologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german",
+  "permalink": "/support/docs/academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer--fachzeitschriften-medizin-psychologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-numeric-brackets",
+    "permalink": "/support/docs/academic-writing/import/springer--basic-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--humanities-authordate",
+    "permalink": "/support/docs/academic-writing/import/springer--humanities-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bluebook-inline",
+  "id": "academic-writing/citation-style/bluebook-inline",
+  "isDocsHomePage": false,
+  "title": "bluebook-inline",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bluebook-inline.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bluebook-inline",
+  "permalink": "/support/docs/academic-writing/citation-style/bluebook-inline",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bluebook-inline.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "blood",
+    "permalink": "/support/docs/academic-writing/citation-style/blood"
+  },
+  "next": {
+    "title": "bluebook-law-review-2",
+    "permalink": "/support/docs/academic-writing/citation-style/bluebook-law-review-2"
+  }
+}

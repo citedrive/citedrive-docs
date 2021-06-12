@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german",
+  "id": "academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german",
+  "isDocsHomePage": false,
+  "title": "die-bachelorarbeit-samac-et-al-intext-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german",
+  "permalink": "/support/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diatom-research",
+    "permalink": "/support/docs/academic-writing/citation-style/diatom-research"
+  },
+  "next": {
+    "title": "die-bachelorarbeit-samac-et-al-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german"
+  }
+}

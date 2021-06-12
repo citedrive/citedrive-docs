@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-ophthalmologica",
+  "id": "academic-writing/citation-style/acta-ophthalmologica",
+  "isDocsHomePage": false,
+  "title": "acta-ophthalmologica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-ophthalmologica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-ophthalmologica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-ophthalmologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ophthalmologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-neurochirurgica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-neurochirurgica"
+  },
+  "next": {
+    "title": "acta-ornithologica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
+  }
+}

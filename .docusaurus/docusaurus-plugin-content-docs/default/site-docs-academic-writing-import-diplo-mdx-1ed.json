@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/diplo",
+  "id": "academic-writing/import/diplo",
+  "isDocsHomePage": false,
+  "title": "diplo",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/diplo.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/diplo",
+  "permalink": "/support/docs/academic-writing/import/diplo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/diplo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+    "permalink": "/support/docs/academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690"
+  },
+  "next": {
+    "title": "disability-and-rehabilitation",
+    "permalink": "/support/docs/academic-writing/import/disability-and-rehabilitation"
+  }
+}

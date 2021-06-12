@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+  "id": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--betriebswirtschaftslehrerechnungswesencontrolling-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrerechnungswesencontrolling-german"
+  }
+}

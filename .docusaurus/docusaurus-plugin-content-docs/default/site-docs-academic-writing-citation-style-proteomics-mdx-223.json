@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/proteomics",
+  "id": "academic-writing/citation-style/proteomics",
+  "isDocsHomePage": false,
+  "title": "proteomics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/proteomics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/proteomics",
+  "permalink": "/support/docs/academic-writing/citation-style/proteomics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/proteomics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "protein-science",
+    "permalink": "/support/docs/academic-writing/citation-style/protein-science"
+  },
+  "next": {
+    "title": "psychiatric-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/psychiatric-clinics-of-north-america"
+  }
+}

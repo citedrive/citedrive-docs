@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french",
+  "id": "academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french",
+  "isDocsHomePage": false,
+  "title": "presses-universitaires-de-rennes--archeologie-et-culture-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french",
+  "permalink": "/support/docs/academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "presses-universitaires-de-paris-nanterre-note-french",
+    "permalink": "/support/docs/academic-writing/import/presses-universitaires-de-paris-nanterre-note-french"
+  },
+  "next": {
+    "title": "presses-universitaires-de-rennes-french",
+    "permalink": "/support/docs/academic-writing/import/presses-universitaires-de-rennes-french"
+  }
+}

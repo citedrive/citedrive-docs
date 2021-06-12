@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/african-journal-of-marine-science",
+  "id": "academic-writing/import/african-journal-of-marine-science",
+  "isDocsHomePage": false,
+  "title": "african-journal-of-marine-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/african-journal-of-marine-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/african-journal-of-marine-science",
+  "permalink": "/support/docs/academic-writing/import/african-journal-of-marine-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/african-journal-of-marine-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aerosol-science-and-technology",
+    "permalink": "/support/docs/academic-writing/import/aerosol-science-and-technology"
+  },
+  "next": {
+    "title": "african-online-scientific-information-systems--harvard",
+    "permalink": "/support/docs/academic-writing/import/african-online-scientific-information-systems--harvard"
+  }
+}

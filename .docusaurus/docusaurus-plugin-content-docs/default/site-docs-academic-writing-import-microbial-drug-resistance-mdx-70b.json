@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/microbial-drug-resistance",
+  "id": "academic-writing/import/microbial-drug-resistance",
+  "isDocsHomePage": false,
+  "title": "microbial-drug-resistance",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/microbial-drug-resistance.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/microbial-drug-resistance",
+  "permalink": "/support/docs/academic-writing/import/microbial-drug-resistance",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/microbial-drug-resistance.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microbial-cell",
+    "permalink": "/support/docs/academic-writing/import/microbial-cell"
+  },
+  "next": {
+    "title": "microbiology-society",
+    "permalink": "/support/docs/academic-writing/import/microbiology-society"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/iso690-full-note-slovak",
+  "id": "academic-writing/import/iso690-full-note-slovak",
+  "isDocsHomePage": false,
+  "title": "iso690-full-note-slovak",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/iso690-full-note-slovak.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/iso690-full-note-slovak",
+  "permalink": "/support/docs/academic-writing/import/iso690-full-note-slovak",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/iso690-full-note-slovak.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-full-note-czech",
+    "permalink": "/support/docs/academic-writing/import/iso690-full-note-czech"
+  },
+  "next": {
+    "title": "iso690-note-no-abstract-french",
+    "permalink": "/support/docs/academic-writing/import/iso690-note-no-abstract-french"
+  }
+}

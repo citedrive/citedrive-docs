@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+  "id": "academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+  "isDocsHomePage": false,
+  "title": "uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+  "permalink": "/support/docs/academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/uclouvain--centre-charles-de-visscher-pour-le-droit-international-et-europeen-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ucl-university-college--vancouver-english",
+    "permalink": "/support/docs/academic-writing/citation-style/ucl-university-college--vancouver-english"
+  },
+  "next": {
+    "title": "ugeskrift-for-lger-danish",
+    "permalink": "/support/docs/academic-writing/citation-style/ugeskrift-for-lger-danish"
+  }
+}

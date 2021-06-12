@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/thyroid",
+  "id": "academic-writing/import/thyroid",
+  "isDocsHomePage": false,
+  "title": "thyroid",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/thyroid.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/thyroid",
+  "permalink": "/support/docs/academic-writing/import/thyroid",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/thyroid.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thrombosis-and-haemostasis",
+    "permalink": "/support/docs/academic-writing/import/thrombosis-and-haemostasis"
+  },
+  "next": {
+    "title": "tijdschrift-voor-economische-en-sociale-geografie",
+    "permalink": "/support/docs/academic-writing/import/tijdschrift-voor-economische-en-sociale-geografie"
+  }
+}

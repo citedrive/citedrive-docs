@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-philosophica",
+  "id": "academic-writing/import/acta-philosophica",
+  "isDocsHomePage": false,
+  "title": "acta-philosophica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-philosophica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-philosophica",
+  "permalink": "/support/docs/academic-writing/import/acta-philosophica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-philosophica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-pharmaceutica",
+    "permalink": "/support/docs/academic-writing/import/acta-pharmaceutica"
+  },
+  "next": {
+    "title": "acta-physiologica",
+    "permalink": "/support/docs/academic-writing/import/acta-physiologica"
+  }
+}

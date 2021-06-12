@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english",
+  "id": "academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english",
+  "isDocsHomePage": false,
+  "title": "haute-ecole-de-gestion-de-geneve--iso690-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english",
+  "permalink": "/support/docs/academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "harper-adams-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/harper-adams-university--harvard"
+  },
+  "next": {
+    "title": "haute-ecole-pedagogique-fribourg-french",
+    "permalink": "/support/docs/academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french"
+  }
+}

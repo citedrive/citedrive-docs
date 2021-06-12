@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/frontiers-journals",
+  "id": "academic-writing/citation-style/frontiers-journals",
+  "isDocsHomePage": false,
+  "title": "frontiers-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/frontiers-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/frontiers-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/frontiers-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/frontiers-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-in-physics",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-in-physics"
+  },
+  "next": {
+    "title": "frontiers-medical-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-medical-journals"
+  }
+}

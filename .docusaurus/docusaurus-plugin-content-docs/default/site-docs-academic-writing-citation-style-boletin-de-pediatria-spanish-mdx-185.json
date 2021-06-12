@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/boletin-de-pediatria-spanish",
+  "id": "academic-writing/citation-style/boletin-de-pediatria-spanish",
+  "isDocsHomePage": false,
+  "title": "boletin-de-pediatria-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/boletin-de-pediatria-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/boletin-de-pediatria-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/boletin-de-pediatria-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/boletin-de-pediatria-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "body-and-society",
+    "permalink": "/support/docs/academic-writing/citation-style/body-and-society"
+  },
+  "next": {
+    "title": "bollettino-darcheologia-online-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/bollettino-darcheologia-online-italian"
+  }
+}

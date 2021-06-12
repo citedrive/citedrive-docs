@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity",
+  "id": "academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity",
+  "isDocsHomePage": false,
+  "title": "current-opinion-in-endocrinology-diabetes-and-obesity",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity",
+  "permalink": "/support/docs/academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/current-opinion-in-endocrinology-diabetes-and-obesity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-gene-therapy",
+    "permalink": "/support/docs/academic-writing/import/current-gene-therapy"
+  },
+  "next": {
+    "title": "current-opinion-journals",
+    "permalink": "/support/docs/academic-writing/import/current-opinion-journals"
+  }
+}

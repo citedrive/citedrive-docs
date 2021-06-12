@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/molecular-biology-of-the-cell",
+  "id": "academic-writing/import/molecular-biology-of-the-cell",
+  "isDocsHomePage": false,
+  "title": "molecular-biology-of-the-cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/molecular-biology-of-the-cell.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/molecular-biology-of-the-cell",
+  "permalink": "/support/docs/academic-writing/import/molecular-biology-of-the-cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/molecular-biology-of-the-cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-biology-and-evolution",
+    "permalink": "/support/docs/academic-writing/import/molecular-biology-and-evolution"
+  },
+  "next": {
+    "title": "molecular-biology",
+    "permalink": "/support/docs/academic-writing/import/molecular-biology"
+  }
+}

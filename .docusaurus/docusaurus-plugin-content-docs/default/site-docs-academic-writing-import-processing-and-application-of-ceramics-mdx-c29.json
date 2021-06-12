@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/processing-and-application-of-ceramics",
+  "id": "academic-writing/import/processing-and-application-of-ceramics",
+  "isDocsHomePage": false,
+  "title": "processing-and-application-of-ceramics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/processing-and-application-of-ceramics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/processing-and-application-of-ceramics",
+  "permalink": "/support/docs/academic-writing/import/processing-and-application-of-ceramics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/processing-and-application-of-ceramics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "proceedings-of-the-royal-society-b",
+    "permalink": "/support/docs/academic-writing/import/proceedings-of-the-royal-society-b"
+  },
+  "next": {
+    "title": "proinflow-note-czech",
+    "permalink": "/support/docs/academic-writing/import/proinflow-note-czech"
+  }
+}

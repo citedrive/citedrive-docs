@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
+  "id": "academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
+  "isDocsHomePage": false,
+  "title": "universitat-bern--institut-fur-musikwissenschaft-note-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
+  "permalink": "/support/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-basel--iberoromanistik-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-basel--iberoromanistik-spanish"
+  },
+  "next": {
+    "title": "universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-bern--institut-fur-sozialanthropologie-german--switzerland"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jurnal-sains-farmasi-and-klinis",
+  "id": "academic-writing/citation-style/jurnal-sains-farmasi-and-klinis",
+  "isDocsHomePage": false,
+  "title": "jurnal-sains-farmasi-and-klinis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis",
+  "permalink": "/support/docs/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jurnal-pangan-dan-agroindustri-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian"
+  },
+  "next": {
+    "title": "jyvaskylan-yliopisto--kemian-laitos-finnish",
+    "permalink": "/support/docs/academic-writing/citation-style/jyvaskylan-yliopisto--kemian-laitos-finnish"
+  }
+}

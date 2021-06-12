@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-cellular-biochemistry",
+  "id": "academic-writing/citation-style/journal-of-cellular-biochemistry",
+  "isDocsHomePage": false,
+  "title": "journal-of-cellular-biochemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-cellular-biochemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-cellular-biochemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-cellular-biochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-cellular-biochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-cellular-and-molecular-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-cellular-and-molecular-medicine"
+  },
+  "next": {
+    "title": "journal-of-chemistry-and-chemical-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-chemistry-and-chemical-engineering"
+  }
+}

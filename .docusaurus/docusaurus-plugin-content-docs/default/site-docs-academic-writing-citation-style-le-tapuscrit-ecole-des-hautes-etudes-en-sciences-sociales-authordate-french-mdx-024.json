@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+  "id": "academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+  "isDocsHomePage": false,
+  "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+  "permalink": "/support/docs/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "le-mouvement-social-french",
+    "permalink": "/support/docs/academic-writing/citation-style/le-mouvement-social-french"
+  },
+  "next": {
+    "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french"
+  }
+}

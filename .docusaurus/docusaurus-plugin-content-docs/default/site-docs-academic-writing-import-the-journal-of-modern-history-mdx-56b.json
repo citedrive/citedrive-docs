@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-modern-history",
+  "id": "academic-writing/import/the-journal-of-modern-history",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-modern-history",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-modern-history.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-modern-history",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-modern-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-modern-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-juristic-papyrology",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-juristic-papyrology"
+  },
+  "next": {
+    "title": "the-journal-of-molecular-diagnostics",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-molecular-diagnostics"
+  }
+}

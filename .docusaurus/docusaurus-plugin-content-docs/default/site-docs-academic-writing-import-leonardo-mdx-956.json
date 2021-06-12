@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/leonardo",
+  "id": "academic-writing/import/leonardo",
+  "isDocsHomePage": false,
+  "title": "leonardo",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/leonardo.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/leonardo",
+  "permalink": "/support/docs/academic-writing/import/leonardo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/leonardo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "leiden-journal-of-international-law",
+    "permalink": "/support/docs/academic-writing/import/leiden-journal-of-international-law"
+  },
+  "next": {
+    "title": "les-journees-de-la-recherche-avicole-french",
+    "permalink": "/support/docs/academic-writing/import/les-journees-de-la-recherche-avicole-french"
+  }
+}

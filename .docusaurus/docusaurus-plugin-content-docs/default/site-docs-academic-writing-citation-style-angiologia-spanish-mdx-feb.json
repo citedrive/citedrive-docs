@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/angiologia-spanish",
+  "id": "academic-writing/citation-style/angiologia-spanish",
+  "isDocsHomePage": false,
+  "title": "angiologia-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/angiologia-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/angiologia-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/angiologia-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/angiologia-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "angewandte-chemie-international-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/angewandte-chemie-international-edition"
+  },
+  "next": {
+    "title": "anglia-ruskin-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/anglia-ruskin-university--harvard"
+  }
+}

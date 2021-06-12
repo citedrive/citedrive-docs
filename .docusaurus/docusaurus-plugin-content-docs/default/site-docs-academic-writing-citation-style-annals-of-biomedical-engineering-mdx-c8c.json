@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annals-of-biomedical-engineering",
+  "id": "academic-writing/citation-style/annals-of-biomedical-engineering",
+  "isDocsHomePage": false,
+  "title": "annals-of-biomedical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annals-of-biomedical-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annals-of-biomedical-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/annals-of-biomedical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-biomedical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-behavioral-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-behavioral-medicine"
+  },
+  "next": {
+    "title": "annals-of-botany",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-botany"
+  }
+}

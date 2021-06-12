@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/arthritis-and-rheumatism",
+  "id": "academic-writing/citation-style/arthritis-and-rheumatism",
+  "isDocsHomePage": false,
+  "title": "arthritis-and-rheumatism",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/arthritis-and-rheumatism.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/arthritis-and-rheumatism",
+  "permalink": "/support/docs/academic-writing/citation-style/arthritis-and-rheumatism",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arthritis-and-rheumatism.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "artery-research",
+    "permalink": "/support/docs/academic-writing/citation-style/artery-research"
+  },
+  "next": {
+    "title": "arts-university-bournemouth",
+    "permalink": "/support/docs/academic-writing/citation-style/arts-university-bournemouth"
+  }
+}

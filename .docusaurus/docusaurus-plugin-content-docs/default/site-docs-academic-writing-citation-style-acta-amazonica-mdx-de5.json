@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-amazonica",
+  "id": "academic-writing/citation-style/acta-amazonica",
+  "isDocsHomePage": false,
+  "title": "acta-amazonica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-amazonica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-amazonica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-amazonica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-amazonica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acme-an-international-journal-for-critical-geographies",
+    "permalink": "/support/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies"
+  },
+  "next": {
+    "title": "acta-anaesthesiologica-scandinavica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica"
+  }
+}

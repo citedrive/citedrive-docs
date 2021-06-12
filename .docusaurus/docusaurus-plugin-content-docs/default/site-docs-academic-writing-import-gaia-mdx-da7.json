@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/gaia",
+  "id": "academic-writing/import/gaia",
+  "isDocsHomePage": false,
+  "title": "gaia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/gaia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/gaia",
+  "permalink": "/support/docs/academic-writing/import/gaia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/gaia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gaceta-sanitaria",
+    "permalink": "/support/docs/academic-writing/import/gaceta-sanitaria"
+  },
+  "next": {
+    "title": "galatasaray-universitesi-sosyal-bilimler-enstitusu",
+    "permalink": "/support/docs/academic-writing/import/galatasaray-universitesi-sosyal-bilimler-enstitusu"
+  }
+}

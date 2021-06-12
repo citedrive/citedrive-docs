@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/der-moderne-staat-german",
+  "id": "academic-writing/import/der-moderne-staat-german",
+  "isDocsHomePage": false,
+  "title": "der-moderne-staat-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/der-moderne-staat-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/der-moderne-staat-german",
+  "permalink": "/support/docs/academic-writing/import/der-moderne-staat-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/der-moderne-staat-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "demographic-research",
+    "permalink": "/support/docs/academic-writing/import/demographic-research"
+  },
+  "next": {
+    "title": "dermatology-online-journal",
+    "permalink": "/support/docs/academic-writing/import/dermatology-online-journal"
+  }
+}

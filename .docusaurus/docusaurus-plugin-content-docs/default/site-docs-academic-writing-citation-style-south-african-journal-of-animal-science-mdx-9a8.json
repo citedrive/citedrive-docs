@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/south-african-journal-of-animal-science",
+  "id": "academic-writing/citation-style/south-african-journal-of-animal-science",
+  "isDocsHomePage": false,
+  "title": "south-african-journal-of-animal-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/south-african-journal-of-animal-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/south-african-journal-of-animal-science",
+  "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-animal-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/south-african-journal-of-animal-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "south-african-actuarial-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-actuarial-journal"
+  },
+  "next": {
+    "title": "south-african-journal-of-enology-and-viticulture",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture"
+  }
+}

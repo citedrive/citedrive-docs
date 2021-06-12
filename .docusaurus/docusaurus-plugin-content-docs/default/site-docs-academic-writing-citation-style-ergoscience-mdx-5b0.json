@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ergoscience",
+  "id": "academic-writing/citation-style/ergoscience",
+  "isDocsHomePage": false,
+  "title": "ergoscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ergoscience.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ergoscience",
+  "permalink": "/support/docs/academic-writing/citation-style/ergoscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ergoscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ergo",
+    "permalink": "/support/docs/academic-writing/citation-style/ergo"
+  },
+  "next": {
+    "title": "errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/errata-publicacao-sobre-processos-editoriais-portuguese--brazil"
+  }
+}

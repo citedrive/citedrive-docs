@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ergo",
+  "id": "academic-writing/citation-style/ergo",
+  "isDocsHomePage": false,
+  "title": "ergo",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ergo.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ergo",
+  "permalink": "/support/docs/academic-writing/citation-style/ergo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ergo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "equine-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/equine-veterinary-journal"
+  },
+  "next": {
+    "title": "ergoscience",
+    "permalink": "/support/docs/academic-writing/citation-style/ergoscience"
+  }
+}

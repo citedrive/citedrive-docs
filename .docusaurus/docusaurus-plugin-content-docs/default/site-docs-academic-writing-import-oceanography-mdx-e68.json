@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oceanography",
+  "id": "academic-writing/import/oceanography",
+  "isDocsHomePage": false,
+  "title": "oceanography",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oceanography.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oceanography",
+  "permalink": "/support/docs/academic-writing/import/oceanography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oceanography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "occupational-medicine",
+    "permalink": "/support/docs/academic-writing/import/occupational-medicine"
+  },
+  "next": {
+    "title": "oecologia-australis",
+    "permalink": "/support/docs/academic-writing/import/oecologia-australis"
+  }
+}

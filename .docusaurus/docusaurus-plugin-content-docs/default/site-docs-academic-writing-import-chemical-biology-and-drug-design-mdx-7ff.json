@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/chemical-biology-and-drug-design",
+  "id": "academic-writing/import/chemical-biology-and-drug-design",
+  "isDocsHomePage": false,
+  "title": "chemical-biology-and-drug-design",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/chemical-biology-and-drug-design.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/chemical-biology-and-drug-design",
+  "permalink": "/support/docs/academic-writing/import/chemical-biology-and-drug-design",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/chemical-biology-and-drug-design.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemical-and-pharmaceutical-bulletin",
+    "permalink": "/support/docs/academic-writing/import/chemical-and-pharmaceutical-bulletin"
+  },
+  "next": {
+    "title": "chemical-engineering-progress",
+    "permalink": "/support/docs/academic-writing/import/chemical-engineering-progress"
+  }
+}

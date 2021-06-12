@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-paediatrica",
+  "id": "academic-writing/citation-style/acta-paediatrica",
+  "isDocsHomePage": false,
+  "title": "acta-paediatrica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-paediatrica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-paediatrica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-paediatrica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-orthopdica-belgica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
+  },
+  "next": {
+    "title": "acta-palaeontologica-polonica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica"
+  }
+}

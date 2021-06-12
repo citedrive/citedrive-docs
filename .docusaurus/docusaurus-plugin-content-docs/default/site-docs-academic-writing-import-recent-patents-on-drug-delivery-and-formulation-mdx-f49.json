@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/recent-patents-on-drug-delivery-and-formulation",
+  "id": "academic-writing/import/recent-patents-on-drug-delivery-and-formulation",
+  "isDocsHomePage": false,
+  "title": "recent-patents-on-drug-delivery-and-formulation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/recent-patents-on-drug-delivery-and-formulation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/recent-patents-on-drug-delivery-and-formulation",
+  "permalink": "/support/docs/academic-writing/import/recent-patents-on-drug-delivery-and-formulation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/recent-patents-on-drug-delivery-and-formulation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "randd-management",
+    "permalink": "/support/docs/academic-writing/import/randd-management"
+  },
+  "next": {
+    "title": "recherches-en-sciences-de-gestion-french",
+    "permalink": "/support/docs/academic-writing/import/recherches-en-sciences-de-gestion-french"
+  }
+}

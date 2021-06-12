@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/risk-analysis",
+  "id": "academic-writing/citation-style/risk-analysis",
+  "isDocsHomePage": false,
+  "title": "risk-analysis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/risk-analysis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/risk-analysis",
+  "permalink": "/support/docs/academic-writing/citation-style/risk-analysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/risk-analysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rhodora",
+    "permalink": "/support/docs/academic-writing/citation-style/rhodora"
+  },
+  "next": {
+    "title": "riti-timarit-hugvisindastofnunar-icelandic",
+    "permalink": "/support/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/invisu",
+  "id": "academic-writing/import/invisu",
+  "isDocsHomePage": false,
+  "title": "invisu",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/invisu.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/invisu",
+  "permalink": "/support/docs/academic-writing/import/invisu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/invisu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "investigative-radiology",
+    "permalink": "/support/docs/academic-writing/import/investigative-radiology"
+  },
+  "next": {
+    "title": "ios-press-books",
+    "permalink": "/support/docs/academic-writing/import/ios-press-books"
+  }
+}

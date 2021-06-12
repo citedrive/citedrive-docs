@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mcdonald-institute-monographs",
+  "id": "academic-writing/citation-style/mcdonald-institute-monographs",
+  "isDocsHomePage": false,
+  "title": "mcdonald-institute-monographs",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mcdonald-institute-monographs.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mcdonald-institute-monographs",
+  "permalink": "/support/docs/academic-writing/citation-style/mcdonald-institute-monographs",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mcdonald-institute-monographs.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mathematics-and-computers-in-simulation",
+    "permalink": "/support/docs/academic-writing/citation-style/mathematics-and-computers-in-simulation"
+  },
+  "next": {
+    "title": "medecine-intensive-reanimation",
+    "permalink": "/support/docs/academic-writing/citation-style/medecine-intensive-reanimation"
+  }
+}

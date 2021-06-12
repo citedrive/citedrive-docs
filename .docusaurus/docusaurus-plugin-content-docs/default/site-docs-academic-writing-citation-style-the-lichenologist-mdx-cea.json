@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-lichenologist",
+  "id": "academic-writing/citation-style/the-lichenologist",
+  "isDocsHomePage": false,
+  "title": "the-lichenologist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-lichenologist.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-lichenologist",
+  "permalink": "/support/docs/academic-writing/citation-style/the-lichenologist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-lichenologist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-lancet",
+    "permalink": "/support/docs/academic-writing/citation-style/the-lancet"
+  },
+  "next": {
+    "title": "the-national-medical-journal-of-india",
+    "permalink": "/support/docs/academic-writing/citation-style/the-national-medical-journal-of-india"
+  }
+}

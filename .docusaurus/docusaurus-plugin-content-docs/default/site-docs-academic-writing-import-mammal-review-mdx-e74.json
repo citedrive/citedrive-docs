@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mammal-review",
+  "id": "academic-writing/import/mammal-review",
+  "isDocsHomePage": false,
+  "title": "mammal-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mammal-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mammal-review",
+  "permalink": "/support/docs/academic-writing/import/mammal-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mammal-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "malaysian-orthopaedic-journal",
+    "permalink": "/support/docs/academic-writing/import/malaysian-orthopaedic-journal"
+  },
+  "next": {
+    "title": "mammalia",
+    "permalink": "/support/docs/academic-writing/import/mammalia"
+  }
+}

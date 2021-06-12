@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/limnetica",
+  "id": "academic-writing/citation-style/limnetica",
+  "isDocsHomePage": false,
+  "title": "limnetica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/limnetica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/limnetica",
+  "permalink": "/support/docs/academic-writing/citation-style/limnetica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/limnetica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lien-social-et-politiques-french",
+    "permalink": "/support/docs/academic-writing/citation-style/lien-social-et-politiques-french"
+  },
+  "next": {
+    "title": "limnology-and-oceanography",
+    "permalink": "/support/docs/academic-writing/citation-style/limnology-and-oceanography"
+  }
+}

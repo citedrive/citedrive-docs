@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-respiratory-journal",
+  "id": "academic-writing/import/european-respiratory-journal",
+  "isDocsHomePage": false,
+  "title": "european-respiratory-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-respiratory-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-respiratory-journal",
+  "permalink": "/support/docs/academic-writing/import/european-respiratory-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-respiratory-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-vascular-and-endovascular-surgery",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-vascular-and-endovascular-surgery"
+  },
+  "next": {
+    "title": "european-retail-research",
+    "permalink": "/support/docs/academic-writing/import/european-retail-research"
+  }
+}

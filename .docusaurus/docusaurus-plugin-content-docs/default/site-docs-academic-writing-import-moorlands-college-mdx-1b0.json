@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/moorlands-college",
+  "id": "academic-writing/import/moorlands-college",
+  "isDocsHomePage": false,
+  "title": "moorlands-college",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/moorlands-college.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/moorlands-college",
+  "permalink": "/support/docs/academic-writing/import/moorlands-college",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/moorlands-college.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "moore-theological-college",
+    "permalink": "/support/docs/academic-writing/import/moore-theological-college"
+  },
+  "next": {
+    "title": "multidisciplinary-digital-publishing-institute",
+    "permalink": "/support/docs/academic-writing/import/multidisciplinary-digital-publishing-institute"
+  }
+}

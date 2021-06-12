@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-biological-chemistry",
+  "id": "academic-writing/citation-style/the-journal-of-biological-chemistry",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-biological-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-biological-chemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-biological-chemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-biological-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-biological-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-agricultural-science",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-agricultural-science"
+  },
+  "next": {
+    "title": "the-journal-of-clinical-ethics",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-clinical-ethics"
+  }
+}

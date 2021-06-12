@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/collection-de-lecole-francaise-de-rome-note-french",
+  "id": "academic-writing/import/collection-de-lecole-francaise-de-rome-note-french",
+  "isDocsHomePage": false,
+  "title": "collection-de-lecole-francaise-de-rome-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/collection-de-lecole-francaise-de-rome-note-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/collection-de-lecole-francaise-de-rome-note-french",
+  "permalink": "/support/docs/academic-writing/import/collection-de-lecole-francaise-de-rome-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/collection-de-lecole-francaise-de-rome-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "collection-de-lecole-francaise-de-rome-full-note-french",
+    "permalink": "/support/docs/academic-writing/import/collection-de-lecole-francaise-de-rome-full-note-french"
+  },
+  "next": {
+    "title": "collection-du-centre-jeanberard-french",
+    "permalink": "/support/docs/academic-writing/import/collection-du-centre-jeanberard-french"
+  }
+}

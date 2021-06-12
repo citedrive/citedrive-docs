@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cureus",
+  "id": "academic-writing/citation-style/cureus",
+  "isDocsHomePage": false,
+  "title": "cureus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cureus.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cureus",
+  "permalink": "/support/docs/academic-writing/citation-style/cureus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cureus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "culture-medicine-and-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/culture-medicine-and-psychiatry"
+  },
+  "next": {
+    "title": "current-alzheimer-research",
+    "permalink": "/support/docs/academic-writing/citation-style/current-alzheimer-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/metropolitiques-french",
+  "id": "academic-writing/citation-style/metropolitiques-french",
+  "isDocsHomePage": false,
+  "title": "metropolitiques-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/metropolitiques-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/metropolitiques-french",
+  "permalink": "/support/docs/academic-writing/citation-style/metropolitiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/metropolitiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropolia-university-of-applied-sciences--harvard-finnish",
+    "permalink": "/support/docs/academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish"
+  },
+  "next": {
+    "title": "microbial-cell",
+    "permalink": "/support/docs/academic-writing/citation-style/microbial-cell"
+  }
+}

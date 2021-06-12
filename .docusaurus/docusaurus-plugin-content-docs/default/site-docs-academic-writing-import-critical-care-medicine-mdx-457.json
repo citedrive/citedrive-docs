@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/critical-care-medicine",
+  "id": "academic-writing/import/critical-care-medicine",
+  "isDocsHomePage": false,
+  "title": "critical-care-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/critical-care-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/critical-care-medicine",
+  "permalink": "/support/docs/academic-writing/import/critical-care-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/critical-care-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "creativity-and-innovation-management",
+    "permalink": "/support/docs/academic-writing/import/creativity-and-innovation-management"
+  },
+  "next": {
+    "title": "critical-reviews-in-plant-sciences",
+    "permalink": "/support/docs/academic-writing/import/critical-reviews-in-plant-sciences"
+  }
+}

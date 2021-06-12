@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/integrated-science-publishing-journals",
+  "id": "academic-writing/import/integrated-science-publishing-journals",
+  "isDocsHomePage": false,
+  "title": "integrated-science-publishing-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/integrated-science-publishing-journals.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/integrated-science-publishing-journals",
+  "permalink": "/support/docs/academic-writing/import/integrated-science-publishing-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/integrated-science-publishing-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+    "permalink": "/support/docs/academic-writing/import/instituto-superior-de-teologia-de-las-islas-canarias-spanish"
+  },
+  "next": {
+    "title": "integrative-and-comparative-biology",
+    "permalink": "/support/docs/academic-writing/import/integrative-and-comparative-biology"
+  }
+}

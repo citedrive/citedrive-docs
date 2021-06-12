@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/molecular-plant",
+  "id": "academic-writing/citation-style/molecular-plant",
+  "isDocsHomePage": false,
+  "title": "molecular-plant",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/molecular-plant.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/molecular-plant",
+  "permalink": "/support/docs/academic-writing/citation-style/molecular-plant",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-plant.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-plant-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-plant-pathology"
+  },
+  "next": {
+    "title": "molecular-plantmicrobe-interactions",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-plantmicrobe-interactions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien",
+  "id": "academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien",
+  "isDocsHomePage": false,
+  "title": "the-canadian-geographer-le-geographe-canadien",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien",
+  "permalink": "/support/docs/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-british-journal-of-sociology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-sociology"
+  },
+  "next": {
+    "title": "the-canadian-journal-of-chemical-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering"
+  }
+}

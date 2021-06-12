@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/oecologia-australis",
+  "id": "academic-writing/citation-style/oecologia-australis",
+  "isDocsHomePage": false,
+  "title": "oecologia-australis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/oecologia-australis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/oecologia-australis",
+  "permalink": "/support/docs/academic-writing/citation-style/oecologia-australis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/oecologia-australis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oceanography",
+    "permalink": "/support/docs/academic-writing/citation-style/oceanography"
+  },
+  "next": {
+    "title": "offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
+    "permalink": "/support/docs/academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie"
+  }
+}

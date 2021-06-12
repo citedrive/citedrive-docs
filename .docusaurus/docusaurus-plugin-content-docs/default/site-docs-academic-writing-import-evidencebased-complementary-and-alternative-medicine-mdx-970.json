@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/evidencebased-complementary-and-alternative-medicine",
+  "id": "academic-writing/import/evidencebased-complementary-and-alternative-medicine",
+  "isDocsHomePage": false,
+  "title": "evidencebased-complementary-and-alternative-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/evidencebased-complementary-and-alternative-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/evidencebased-complementary-and-alternative-medicine",
+  "permalink": "/support/docs/academic-writing/import/evidencebased-complementary-and-alternative-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/evidencebased-complementary-and-alternative-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eva-berlin-konferenz-german",
+    "permalink": "/support/docs/academic-writing/import/eva-berlin-konferenz-german"
+  },
+  "next": {
+    "title": "evolution-and-development",
+    "permalink": "/support/docs/academic-writing/import/evolution-and-development"
+  }
+}

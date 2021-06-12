@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-physical-therapy-science",
+  "id": "academic-writing/citation-style/journal-of-physical-therapy-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-physical-therapy-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-physical-therapy-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-physical-therapy-science",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-physical-therapy-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-physical-therapy-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-phycology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-phycology"
+  },
+  "next": {
+    "title": "journal-of-plankton-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-plankton-research"
+  }
+}

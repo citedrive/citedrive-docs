@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/australian-dental-journal",
+  "id": "academic-writing/citation-style/australian-dental-journal",
+  "isDocsHomePage": false,
+  "title": "australian-dental-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/australian-dental-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/australian-dental-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/australian-dental-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-dental-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-critical-care",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-critical-care"
+  },
+  "next": {
+    "title": "australian-guide-to-legal-citation-3rd-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-3rd-edition"
+  }
+}

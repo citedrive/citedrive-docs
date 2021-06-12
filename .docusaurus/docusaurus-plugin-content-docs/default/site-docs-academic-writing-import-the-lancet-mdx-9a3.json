@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-lancet",
+  "id": "academic-writing/import/the-lancet",
+  "isDocsHomePage": false,
+  "title": "the-lancet",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-lancet.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-lancet",
+  "permalink": "/support/docs/academic-writing/import/the-lancet",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-lancet.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-korean-journal-of-internal-medicine",
+    "permalink": "/support/docs/academic-writing/import/the-korean-journal-of-internal-medicine"
+  },
+  "next": {
+    "title": "the-lichenologist",
+    "permalink": "/support/docs/academic-writing/import/the-lichenologist"
+  }
+}

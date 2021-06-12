@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-birmingham--harvard",
+  "id": "academic-writing/citation-style/university-of-birmingham--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-birmingham--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-birmingham--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-birmingham--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-birmingham--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-birmingham--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-bath--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-bath--harvard"
+  },
+  "next": {
+    "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian"
+  }
+}

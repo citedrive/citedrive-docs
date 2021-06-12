@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/australian-journal-of-earth-sciences",
+  "id": "academic-writing/citation-style/australian-journal-of-earth-sciences",
+  "isDocsHomePage": false,
+  "title": "australian-journal-of-earth-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/australian-journal-of-earth-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/australian-journal-of-earth-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/australian-journal-of-earth-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-journal-of-earth-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-historical-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-historical-studies"
+  },
+  "next": {
+    "title": "australian-journal-of-grape-and-wine-research",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-journal-of-grape-and-wine-research"
+  }
+}

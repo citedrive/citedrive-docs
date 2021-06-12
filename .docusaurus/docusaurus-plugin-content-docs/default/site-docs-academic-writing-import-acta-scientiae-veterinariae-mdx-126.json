@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-scientiae-veterinariae",
+  "id": "academic-writing/import/acta-scientiae-veterinariae",
+  "isDocsHomePage": false,
+  "title": "acta-scientiae-veterinariae",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-scientiae-veterinariae.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-scientiae-veterinariae",
+  "permalink": "/support/docs/academic-writing/import/acta-scientiae-veterinariae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-scientiae-veterinariae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-radiologica",
+    "permalink": "/support/docs/academic-writing/import/acta-radiologica"
+  },
+  "next": {
+    "title": "acta-societatis-botanicorum-poloniae",
+    "permalink": "/support/docs/academic-writing/import/acta-societatis-botanicorum-poloniae"
+  }
+}

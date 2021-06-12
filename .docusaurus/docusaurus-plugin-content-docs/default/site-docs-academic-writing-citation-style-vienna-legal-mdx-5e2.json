@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vienna-legal",
+  "id": "academic-writing/citation-style/vienna-legal",
+  "isDocsHomePage": false,
+  "title": "vienna-legal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vienna-legal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vienna-legal",
+  "permalink": "/support/docs/academic-writing/citation-style/vienna-legal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vienna-legal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "victoria-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/victoria-university--harvard"
+  },
+  "next": {
+    "title": "vietnam-ministry-of-education-and-training-english",
+    "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english"
+  }
+}

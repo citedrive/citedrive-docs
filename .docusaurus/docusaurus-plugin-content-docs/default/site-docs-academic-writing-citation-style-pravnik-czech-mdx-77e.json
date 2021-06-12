@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pravnik-czech",
+  "id": "academic-writing/citation-style/pravnik-czech",
+  "isDocsHomePage": false,
+  "title": "pravnik-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pravnik-czech.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pravnik-czech",
+  "permalink": "/support/docs/academic-writing/citation-style/pravnik-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pravnik-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pour-reussir-note-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/pour-reussir-note-french--canada"
+  },
+  "next": {
+    "title": "prehistoires-mediterraneennes",
+    "permalink": "/support/docs/academic-writing/citation-style/prehistoires-mediterraneennes"
+  }
+}

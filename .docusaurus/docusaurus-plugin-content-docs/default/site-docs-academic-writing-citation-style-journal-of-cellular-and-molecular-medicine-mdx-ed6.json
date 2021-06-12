@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-cellular-and-molecular-medicine",
+  "id": "academic-writing/citation-style/journal-of-cellular-and-molecular-medicine",
+  "isDocsHomePage": false,
+  "title": "journal-of-cellular-and-molecular-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-cellular-and-molecular-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-cellular-and-molecular-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-cellular-and-molecular-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-cellular-and-molecular-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-cardiothoracic-and-vascular-anesthesia",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-cardiothoracic-and-vascular-anesthesia"
+  },
+  "next": {
+    "title": "journal-of-cellular-biochemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-cellular-biochemistry"
+  }
+}

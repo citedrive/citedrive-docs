@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/microbial-cell",
+  "id": "academic-writing/import/microbial-cell",
+  "isDocsHomePage": false,
+  "title": "microbial-cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/microbial-cell.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/microbial-cell",
+  "permalink": "/support/docs/academic-writing/import/microbial-cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/microbial-cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropolitiques-french",
+    "permalink": "/support/docs/academic-writing/import/metropolitiques-french"
+  },
+  "next": {
+    "title": "microbial-drug-resistance",
+    "permalink": "/support/docs/academic-writing/import/microbial-drug-resistance"
+  }
+}

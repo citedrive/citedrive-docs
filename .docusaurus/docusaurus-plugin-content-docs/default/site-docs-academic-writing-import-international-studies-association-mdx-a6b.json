@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-studies-association",
+  "id": "academic-writing/import/international-studies-association",
+  "isDocsHomePage": false,
+  "title": "international-studies-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-studies-association.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-studies-association",
+  "permalink": "/support/docs/academic-writing/import/international-studies-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-studies-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-security",
+    "permalink": "/support/docs/academic-writing/import/international-security"
+  },
+  "next": {
+    "title": "international-union-of-crystallography-journals",
+    "permalink": "/support/docs/academic-writing/import/international-union-of-crystallography-journals"
+  }
+}

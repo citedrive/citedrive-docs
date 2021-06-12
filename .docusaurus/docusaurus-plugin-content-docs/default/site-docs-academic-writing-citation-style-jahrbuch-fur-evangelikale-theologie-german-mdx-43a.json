@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german",
+  "id": "academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german",
+  "isDocsHomePage": false,
+  "title": "jahrbuch-fur-evangelikale-theologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german",
+  "permalink": "/support/docs/academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+    "permalink": "/support/docs/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft"
+  },
+  "next": {
+    "title": "japanese-journal-of-applied-physics",
+    "permalink": "/support/docs/academic-writing/citation-style/japanese-journal-of-applied-physics"
+  }
+}

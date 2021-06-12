@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+  "id": "academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+  "isDocsHomePage": false,
+  "title": "international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+  "permalink": "/support/docs/academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-energy-agency--organisation-for-economic-cooperation-and-development",
+    "permalink": "/support/docs/academic-writing/import/international-energy-agency--organisation-for-economic-cooperation-and-development"
+  },
+  "next": {
+    "title": "international-journal-for-numerical-methods-in-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/import/international-journal-for-numerical-methods-in-biomedical-engineering"
+  }
+}

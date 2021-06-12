@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/grasas-y-aceites",
+  "id": "academic-writing/import/grasas-y-aceites",
+  "isDocsHomePage": false,
+  "title": "grasas-y-aceites",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/grasas-y-aceites.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/grasas-y-aceites",
+  "permalink": "/support/docs/academic-writing/import/grasas-y-aceites",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/grasas-y-aceites.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "government-and-opposition",
+    "permalink": "/support/docs/academic-writing/import/government-and-opposition"
+  },
+  "next": {
+    "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
+    "permalink": "/support/docs/academic-writing/import/groupe-danthropologie-et-darcheologie-funeraire-french"
+  }
+}

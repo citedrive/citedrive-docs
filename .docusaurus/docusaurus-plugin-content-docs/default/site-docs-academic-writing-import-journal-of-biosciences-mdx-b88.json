@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-biosciences",
+  "id": "academic-writing/import/journal-of-biosciences",
+  "isDocsHomePage": false,
+  "title": "journal-of-biosciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-biosciences.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-biosciences",
+  "permalink": "/support/docs/academic-writing/import/journal-of-biosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-biosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-biomedical-materials-research-part-a",
+    "permalink": "/support/docs/academic-writing/import/journal-of-biomedical-materials-research-part-a"
+  },
+  "next": {
+    "title": "journal-of-bone-and-mineral-research",
+    "permalink": "/support/docs/academic-writing/import/journal-of-bone-and-mineral-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annual-review-of-nuclear-and-particle-science",
+  "id": "academic-writing/citation-style/annual-review-of-nuclear-and-particle-science",
+  "isDocsHomePage": false,
+  "title": "annual-review-of-nuclear-and-particle-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science",
+  "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-review-of-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-medicine"
+  },
+  "next": {
+    "title": "annual-reviews-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-authordate"
+  }
+}

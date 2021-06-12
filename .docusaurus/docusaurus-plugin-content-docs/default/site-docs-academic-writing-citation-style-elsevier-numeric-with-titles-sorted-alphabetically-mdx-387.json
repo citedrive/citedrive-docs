@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically",
+  "id": "academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically",
+  "isDocsHomePage": false,
+  "title": "elsevier-numeric-with-titles-sorted-alphabetically",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically",
+  "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--vancouver"
+  },
+  "next": {
+    "title": "elsevier-numeric-with-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-with-titles"
+  }
+}

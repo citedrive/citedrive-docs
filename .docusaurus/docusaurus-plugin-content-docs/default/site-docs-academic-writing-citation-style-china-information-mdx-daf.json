@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/china-information",
+  "id": "academic-writing/citation-style/china-information",
+  "isDocsHomePage": false,
+  "title": "china-information",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/china-information.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/china-information",
+  "permalink": "/support/docs/academic-writing/citation-style/china-information",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/china-information.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chimia",
+    "permalink": "/support/docs/academic-writing/citation-style/chimia"
+  },
+  "next": {
+    "title": "china-national-standard-gbt-77141987-numeric-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese"
+  }
+}

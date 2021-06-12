@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/periodontology-2000",
+  "id": "academic-writing/citation-style/periodontology-2000",
+  "isDocsHomePage": false,
+  "title": "periodontology-2000",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/periodontology-2000.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/periodontology-2000",
+  "permalink": "/support/docs/academic-writing/citation-style/periodontology-2000",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/periodontology-2000.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "periodicum-biologorum",
+    "permalink": "/support/docs/academic-writing/citation-style/periodicum-biologorum"
+  },
+  "next": {
+    "title": "permafrost-and-periglacial-processes",
+    "permalink": "/support/docs/academic-writing/citation-style/permafrost-and-periglacial-processes"
+  }
+}

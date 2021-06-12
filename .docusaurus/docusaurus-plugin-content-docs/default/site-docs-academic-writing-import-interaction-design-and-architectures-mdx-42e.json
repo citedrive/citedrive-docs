@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/interaction-design-and-architectures",
+  "id": "academic-writing/import/interaction-design-and-architectures",
+  "isDocsHomePage": false,
+  "title": "interaction-design-and-architectures",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/interaction-design-and-architectures.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/interaction-design-and-architectures",
+  "permalink": "/support/docs/academic-writing/import/interaction-design-and-architectures",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/interaction-design-and-architectures.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "inter-romanian-review-for-theological-and-religious-studies",
+    "permalink": "/support/docs/academic-writing/import/inter-romanian-review-for-theological-and-religious-studies"
+  },
+  "next": {
+    "title": "interactive-cardiovascular-and-thoracic-surgery",
+    "permalink": "/support/docs/academic-writing/import/interactive-cardiovascular-and-thoracic-surgery"
+  }
+}

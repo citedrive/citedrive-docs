@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/civilta-italiana-italian",
+  "id": "academic-writing/citation-style/civilta-italiana-italian",
+  "isDocsHomePage": false,
+  "title": "civilta-italiana-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/civilta-italiana-italian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/civilta-italiana-italian",
+  "permalink": "/support/docs/academic-writing/citation-style/civilta-italiana-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/civilta-italiana-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "citizen-science-theory-and-practice",
+    "permalink": "/support/docs/academic-writing/citation-style/citizen-science-theory-and-practice"
+  },
+  "next": {
+    "title": "cladistics",
+    "permalink": "/support/docs/academic-writing/citation-style/cladistics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "id": "academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "isDocsHomePage": false,
+  "title": "clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "permalink": "/support/docs/academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "climate-change-economics",
+    "permalink": "/support/docs/academic-writing/import/climate-change-economics"
+  },
+  "next": {
+    "title": "clinical-anatomy",
+    "permalink": "/support/docs/academic-writing/import/clinical-anatomy"
+  }
+}

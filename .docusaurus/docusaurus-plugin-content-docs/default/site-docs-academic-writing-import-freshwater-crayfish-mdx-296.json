@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/freshwater-crayfish",
+  "id": "academic-writing/import/freshwater-crayfish",
+  "isDocsHomePage": false,
+  "title": "freshwater-crayfish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/freshwater-crayfish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/freshwater-crayfish",
+  "permalink": "/support/docs/academic-writing/import/freshwater-crayfish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/freshwater-crayfish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "freshwater-biology",
+    "permalink": "/support/docs/academic-writing/import/freshwater-biology"
+  },
+  "next": {
+    "title": "freshwater-science",
+    "permalink": "/support/docs/academic-writing/import/freshwater-science"
+  }
+}

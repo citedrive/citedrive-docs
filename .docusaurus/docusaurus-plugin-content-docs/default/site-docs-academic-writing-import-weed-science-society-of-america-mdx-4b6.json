@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/weed-science-society-of-america",
+  "id": "academic-writing/import/weed-science-society-of-america",
+  "isDocsHomePage": false,
+  "title": "weed-science-society-of-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/weed-science-society-of-america.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/weed-science-society-of-america",
+  "permalink": "/support/docs/academic-writing/import/weed-science-society-of-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/weed-science-society-of-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weed-research",
+    "permalink": "/support/docs/academic-writing/import/weed-research"
+  },
+  "next": {
+    "title": "west-european-politics",
+    "permalink": "/support/docs/academic-writing/import/west-european-politics"
+  }
+}

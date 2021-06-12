@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-serbian-chemical-society",
+  "id": "academic-writing/citation-style/journal-of-the-serbian-chemical-society",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-serbian-chemical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-serbian-chemical-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-serbian-chemical-society",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-serbian-chemical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-serbian-chemical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-science-of-food-and-agriculture",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture"
+  },
+  "next": {
+    "title": "journal-of-the-south-african-veterinary-association",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-south-african-veterinary-association"
+  }
+}

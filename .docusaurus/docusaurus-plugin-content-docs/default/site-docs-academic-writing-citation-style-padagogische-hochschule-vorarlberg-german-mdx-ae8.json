@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/padagogische-hochschule-vorarlberg-german",
+  "id": "academic-writing/citation-style/padagogische-hochschule-vorarlberg-german",
+  "isDocsHomePage": false,
+  "title": "padagogische-hochschule-vorarlberg-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german",
+  "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "padagogische-hochschule-heidelberg-german",
+    "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german"
+  },
+  "next": {
+    "title": "paediatric-and-perinatal-epidemiology",
+    "permalink": "/support/docs/academic-writing/citation-style/paediatric-and-perinatal-epidemiology"
+  }
+}

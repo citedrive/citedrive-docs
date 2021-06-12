@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-nuclear-security",
+  "id": "academic-writing/import/international-journal-of-nuclear-security",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-nuclear-security",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-nuclear-security.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-nuclear-security",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-nuclear-security",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-nuclear-security.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-management-reviews",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-management-reviews"
+  },
+  "next": {
+    "title": "international-journal-of-obstetric-anesthesia",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-obstetric-anesthesia"
+  }
+}

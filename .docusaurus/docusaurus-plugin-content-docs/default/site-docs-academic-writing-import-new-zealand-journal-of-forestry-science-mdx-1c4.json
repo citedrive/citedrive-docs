@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/new-zealand-journal-of-forestry-science",
+  "id": "academic-writing/import/new-zealand-journal-of-forestry-science",
+  "isDocsHomePage": false,
+  "title": "new-zealand-journal-of-forestry-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/new-zealand-journal-of-forestry-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/new-zealand-journal-of-forestry-science",
+  "permalink": "/support/docs/academic-writing/import/new-zealand-journal-of-forestry-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/new-zealand-journal-of-forestry-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "new-zealand-dental-journal",
+    "permalink": "/support/docs/academic-writing/import/new-zealand-dental-journal"
+  },
+  "next": {
+    "title": "new-zealand-journal-of-history",
+    "permalink": "/support/docs/academic-writing/import/new-zealand-journal-of-history"
+  }
+}

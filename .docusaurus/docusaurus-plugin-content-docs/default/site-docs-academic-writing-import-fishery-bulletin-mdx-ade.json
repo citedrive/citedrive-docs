@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/fishery-bulletin",
+  "id": "academic-writing/import/fishery-bulletin",
+  "isDocsHomePage": false,
+  "title": "fishery-bulletin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/fishery-bulletin.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/fishery-bulletin",
+  "permalink": "/support/docs/academic-writing/import/fishery-bulletin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/fishery-bulletin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "first-monday",
+    "permalink": "/support/docs/academic-writing/import/first-monday"
+  },
+  "next": {
+    "title": "flavour-and-fragrance-journal",
+    "permalink": "/support/docs/academic-writing/import/flavour-and-fragrance-journal"
+  }
+}

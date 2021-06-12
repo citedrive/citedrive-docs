@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iicacatie-spanish",
+  "id": "academic-writing/citation-style/iicacatie-spanish",
+  "isDocsHomePage": false,
+  "title": "iicacatie-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iicacatie-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iicacatie-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/iicacatie-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iicacatie-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "igaku-toshokan-japanese",
+    "permalink": "/support/docs/academic-writing/citation-style/igaku-toshokan-japanese"
+  },
+  "next": {
+    "title": "ilahiyat-studies-full-note",
+    "permalink": "/support/docs/academic-writing/citation-style/ilahiyat-studies-full-note"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/studia-bas-polish",
+  "id": "academic-writing/import/studia-bas-polish",
+  "isDocsHomePage": false,
+  "title": "studia-bas-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/studia-bas-polish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/studia-bas-polish",
+  "permalink": "/support/docs/academic-writing/import/studia-bas-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/studia-bas-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "studi-e-materiali-di-storia-delle-religioni-italian",
+    "permalink": "/support/docs/academic-writing/import/studi-e-materiali-di-storia-delle-religioni-italian"
+  },
+  "next": {
+    "title": "studii-teologice",
+    "permalink": "/support/docs/academic-writing/import/studii-teologice"
+  }
+}

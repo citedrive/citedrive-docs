@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/language",
+  "id": "academic-writing/import/language",
+  "isDocsHomePage": false,
+  "title": "language",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/language.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/language",
+  "permalink": "/support/docs/academic-writing/import/language",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/language.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "language-in-society",
+    "permalink": "/support/docs/academic-writing/import/language-in-society"
+  },
+  "next": {
+    "title": "lannee-sociologique-french",
+    "permalink": "/support/docs/academic-writing/import/lannee-sociologique-french"
+  }
+}

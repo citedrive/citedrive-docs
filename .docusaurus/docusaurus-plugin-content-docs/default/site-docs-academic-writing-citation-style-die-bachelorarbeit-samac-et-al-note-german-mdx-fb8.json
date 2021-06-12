@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german",
+  "id": "academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german",
+  "isDocsHomePage": false,
+  "title": "die-bachelorarbeit-samac-et-al-note-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german",
+  "permalink": "/support/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-note-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "die-bachelorarbeit-samac-et-al-intext-german",
+    "permalink": "/support/docs/academic-writing/citation-style/die-bachelorarbeit-samac-et-al-intext-german"
+  },
+  "next": {
+    "title": "din-15052-alphanumeric-german--standard-superseded-by-iso690",
+    "permalink": "/support/docs/academic-writing/citation-style/din-15052-alphanumeric-german--standard-superseded-by-iso690"
+  }
+}

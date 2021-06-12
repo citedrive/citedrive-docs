@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology",
+  "id": "academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology",
+  "isDocsHomePage": false,
+  "title": "cellular-and-molecular-gastroenterology-and-hepatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology",
+  "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cellular-and-molecular-bioengineering",
+    "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-bioengineering"
+  },
+  "next": {
+    "title": "cellular-reprogramming",
+    "permalink": "/support/docs/academic-writing/citation-style/cellular-reprogramming"
+  }
+}

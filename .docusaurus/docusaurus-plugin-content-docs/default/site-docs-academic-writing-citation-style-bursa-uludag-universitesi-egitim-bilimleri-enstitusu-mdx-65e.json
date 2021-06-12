@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+  "id": "academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+  "isDocsHomePage": false,
+  "title": "bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+  "permalink": "/support/docs/academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bursa-uludag-universitesi--egitim-bilimleri-enstitusu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-of-the-seismological-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/bulletin-of-the-seismological-society-of-america"
+  },
+  "next": {
+    "title": "bursa-uludag-universitesi--saglk-bilimleri-enstitusu",
+    "permalink": "/support/docs/academic-writing/citation-style/bursa-uludag-universitesi--saglk-bilimleri-enstitusu"
+  }
+}

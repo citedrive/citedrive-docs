@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-experimental-botany",
+  "id": "academic-writing/citation-style/journal-of-experimental-botany",
+  "isDocsHomePage": false,
+  "title": "journal-of-experimental-botany",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-experimental-botany.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-experimental-botany",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-experimental-botany",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-experimental-botany.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-evolutionary-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-evolutionary-biology"
+  },
+  "next": {
+    "title": "journal-of-field-ornithology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-field-ornithology"
+  }
+}

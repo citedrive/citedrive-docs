@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/diabetologia",
+  "id": "academic-writing/import/diabetologia",
+  "isDocsHomePage": false,
+  "title": "diabetologia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/diabetologia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/diabetologia",
+  "permalink": "/support/docs/academic-writing/import/diabetologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/diabetologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diabetes-technology-and-therapeutics",
+    "permalink": "/support/docs/academic-writing/import/diabetes-technology-and-therapeutics"
+  },
+  "next": {
+    "title": "diagnostico-prenatal-spanish",
+    "permalink": "/support/docs/academic-writing/import/diagnostico-prenatal-spanish"
+  }
+}

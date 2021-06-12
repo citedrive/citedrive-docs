@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-society-of-mechanical-engineers",
+  "id": "academic-writing/citation-style/american-society-of-mechanical-engineers",
+  "isDocsHomePage": false,
+  "title": "american-society-of-mechanical-engineers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-society-of-mechanical-engineers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-society-of-mechanical-engineers",
+  "permalink": "/support/docs/academic-writing/citation-style/american-society-of-mechanical-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-of-mechanical-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-society-of-civil-engineers",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-of-civil-engineers"
+  },
+  "next": {
+    "title": "american-sociological-association-6th-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/american-sociological-association-6th-edition"
+  }
+}

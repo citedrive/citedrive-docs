@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-society-of-civil-engineers",
+  "id": "academic-writing/import/american-society-of-civil-engineers",
+  "isDocsHomePage": false,
+  "title": "american-society-of-civil-engineers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-society-of-civil-engineers.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-society-of-civil-engineers",
+  "permalink": "/support/docs/academic-writing/import/american-society-of-civil-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-society-of-civil-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america"
+  },
+  "next": {
+    "title": "american-society-of-mechanical-engineers",
+    "permalink": "/support/docs/academic-writing/import/american-society-of-mechanical-engineers"
+  }
+}

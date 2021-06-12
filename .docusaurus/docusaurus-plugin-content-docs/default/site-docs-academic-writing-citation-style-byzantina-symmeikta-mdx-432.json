@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/byzantina-symmeikta",
+  "id": "academic-writing/citation-style/byzantina-symmeikta",
+  "isDocsHomePage": false,
+  "title": "byzantina-symmeikta",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/byzantina-symmeikta.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/byzantina-symmeikta",
+  "permalink": "/support/docs/academic-writing/citation-style/byzantina-symmeikta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/byzantina-symmeikta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "business-ethics-a-european-review",
+    "permalink": "/support/docs/academic-writing/citation-style/business-ethics-a-european-review"
+  },
+  "next": {
+    "title": "byzantine-and-modern-greek-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/byzantine-and-modern-greek-studies"
+  }
+}

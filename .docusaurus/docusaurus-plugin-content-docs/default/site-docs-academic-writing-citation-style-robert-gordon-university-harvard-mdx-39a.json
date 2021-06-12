@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/robert-gordon-university--harvard",
+  "id": "academic-writing/citation-style/robert-gordon-university--harvard",
+  "isDocsHomePage": false,
+  "title": "robert-gordon-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/robert-gordon-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/robert-gordon-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/robert-gordon-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/robert-gordon-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rmit-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/rmit-university--harvard"
+  },
+  "next": {
+    "title": "rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+    "permalink": "/support/docs/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren"
+  }
+}

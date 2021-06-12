@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+  "id": "academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+  "isDocsHomePage": false,
+  "title": "palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+  "permalink": "/support/docs/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeodiversity",
+    "permalink": "/support/docs/academic-writing/import/palaeodiversity"
+  },
+  "next": {
+    "title": "palaeontologia-electronica",
+    "permalink": "/support/docs/academic-writing/import/palaeontologia-electronica"
+  }
+}

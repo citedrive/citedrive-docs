@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chimia",
+  "id": "academic-writing/citation-style/chimia",
+  "isDocsHomePage": false,
+  "title": "chimia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chimia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chimia",
+  "permalink": "/support/docs/academic-writing/citation-style/chimia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chimia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-note",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note"
+  },
+  "next": {
+    "title": "china-information",
+    "permalink": "/support/docs/academic-writing/citation-style/china-information"
+  }
+}

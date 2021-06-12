@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/uppsala-universitet--historia",
+  "id": "academic-writing/import/uppsala-universitet--historia",
+  "isDocsHomePage": false,
+  "title": "uppsala-universitet--historia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/uppsala-universitet--historia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/uppsala-universitet--historia",
+  "permalink": "/support/docs/academic-writing/import/uppsala-universitet--historia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/uppsala-universitet--historia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish",
+    "permalink": "/support/docs/academic-writing/import/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish"
+  },
+  "next": {
+    "title": "uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+    "permalink": "/support/docs/academic-writing/import/uppsala-universitet-institutionen-for-biologisk-grundutbildning"
+  }
+}

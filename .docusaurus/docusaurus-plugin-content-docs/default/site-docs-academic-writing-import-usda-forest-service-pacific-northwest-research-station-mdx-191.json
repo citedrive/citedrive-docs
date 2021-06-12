@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/usda-forest-service--pacific-northwest-research-station",
+  "id": "academic-writing/import/usda-forest-service--pacific-northwest-research-station",
+  "isDocsHomePage": false,
+  "title": "usda-forest-service--pacific-northwest-research-station",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/usda-forest-service--pacific-northwest-research-station.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/usda-forest-service--pacific-northwest-research-station",
+  "permalink": "/support/docs/academic-writing/import/usda-forest-service--pacific-northwest-research-station",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/usda-forest-service--pacific-northwest-research-station.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "us-geological-survey",
+    "permalink": "/support/docs/academic-writing/import/us-geological-survey"
+  },
+  "next": {
+    "title": "user-modeling-and-useradapted-interaction",
+    "permalink": "/support/docs/academic-writing/import/user-modeling-and-useradapted-interaction"
+  }
+}

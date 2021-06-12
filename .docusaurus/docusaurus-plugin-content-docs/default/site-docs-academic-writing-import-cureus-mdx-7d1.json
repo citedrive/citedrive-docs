@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cureus",
+  "id": "academic-writing/import/cureus",
+  "isDocsHomePage": false,
+  "title": "cureus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cureus.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cureus",
+  "permalink": "/support/docs/academic-writing/import/cureus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cureus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "culture-medicine-and-psychiatry",
+    "permalink": "/support/docs/academic-writing/import/culture-medicine-and-psychiatry"
+  },
+  "next": {
+    "title": "current-alzheimer-research",
+    "permalink": "/support/docs/academic-writing/import/current-alzheimer-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/south-african-actuarial-journal",
+  "id": "academic-writing/import/south-african-actuarial-journal",
+  "isDocsHomePage": false,
+  "title": "south-african-actuarial-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/south-african-actuarial-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/south-african-actuarial-journal",
+  "permalink": "/support/docs/academic-writing/import/south-african-actuarial-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/south-african-actuarial-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sorbonne-student-law-review--revue-juridique-des-etudiants-de-la-sorbonne",
+    "permalink": "/support/docs/academic-writing/import/sorbonne-student-law-review--revue-juridique-des-etudiants-de-la-sorbonne"
+  },
+  "next": {
+    "title": "south-african-journal-of-animal-science",
+    "permalink": "/support/docs/academic-writing/import/south-african-journal-of-animal-science"
+  }
+}

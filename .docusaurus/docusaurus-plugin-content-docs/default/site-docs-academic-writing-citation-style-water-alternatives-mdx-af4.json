@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/water-alternatives",
+  "id": "academic-writing/citation-style/water-alternatives",
+  "isDocsHomePage": false,
+  "title": "water-alternatives",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/water-alternatives.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/water-alternatives",
+  "permalink": "/support/docs/academic-writing/citation-style/water-alternatives",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/water-alternatives.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wader-study",
+    "permalink": "/support/docs/academic-writing/citation-style/wader-study"
+  },
+  "next": {
+    "title": "water-environment-research",
+    "permalink": "/support/docs/academic-writing/citation-style/water-environment-research"
+  }
+}

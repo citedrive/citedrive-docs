@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/technische-universitat-wien-dissertation-german",
+  "id": "academic-writing/import/technische-universitat-wien-dissertation-german",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-wien-dissertation-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/technische-universitat-wien-dissertation-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/technische-universitat-wien-dissertation-german",
+  "permalink": "/support/docs/academic-writing/import/technische-universitat-wien-dissertation-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/technische-universitat-wien-dissertation-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-munchen--unternehmensfuhrung-german",
+    "permalink": "/support/docs/academic-writing/import/technische-universitat-munchen--unternehmensfuhrung-german"
+  },
+  "next": {
+    "title": "teologia-catalunya",
+    "permalink": "/support/docs/academic-writing/import/teologia-catalunya"
+  }
+}

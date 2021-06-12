@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/population-space-and-place",
+  "id": "academic-writing/citation-style/population-space-and-place",
+  "isDocsHomePage": false,
+  "title": "population-space-and-place",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/population-space-and-place.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/population-space-and-place",
+  "permalink": "/support/docs/academic-writing/citation-style/population-space-and-place",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/population-space-and-place.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "population-french",
+    "permalink": "/support/docs/academic-writing/citation-style/population-french"
+  },
+  "next": {
+    "title": "postepy-higieny-i-medycyny-doswiadczalnej-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/postepy-higieny-i-medycyny-doswiadczalnej-polish"
+  }
+}

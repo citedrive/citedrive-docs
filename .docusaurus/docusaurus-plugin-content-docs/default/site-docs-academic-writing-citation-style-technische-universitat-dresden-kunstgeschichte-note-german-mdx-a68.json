@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german",
+  "id": "academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--kunstgeschichte-note-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german",
+  "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--kunstgeschichte-note-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--forstwissenschaft-authordate-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--forstwissenschaft-authordate-german"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german"
+  }
+}

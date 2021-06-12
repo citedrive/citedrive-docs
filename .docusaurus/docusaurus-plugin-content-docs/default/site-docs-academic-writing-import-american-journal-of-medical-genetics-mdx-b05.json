@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-journal-of-medical-genetics",
+  "id": "academic-writing/import/american-journal-of-medical-genetics",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-medical-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-journal-of-medical-genetics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-journal-of-medical-genetics",
+  "permalink": "/support/docs/academic-writing/import/american-journal-of-medical-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-journal-of-medical-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-hypertension",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-hypertension"
+  },
+  "next": {
+    "title": "american-journal-of-neuroradiology",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-neuroradiology"
+  }
+}

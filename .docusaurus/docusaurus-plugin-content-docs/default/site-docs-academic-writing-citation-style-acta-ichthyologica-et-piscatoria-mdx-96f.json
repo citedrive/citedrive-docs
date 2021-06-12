@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
+  "id": "academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
+  "isDocsHomePage": false,
+  "title": "acta-ichthyologica-et-piscatoria",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca"
+  },
+  "next": {
+    "title": "acta-medica-peruana",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
+  }
+}

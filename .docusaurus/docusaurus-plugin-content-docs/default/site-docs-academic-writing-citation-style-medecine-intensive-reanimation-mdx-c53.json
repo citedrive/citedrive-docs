@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/medecine-intensive-reanimation",
+  "id": "academic-writing/citation-style/medecine-intensive-reanimation",
+  "isDocsHomePage": false,
+  "title": "medecine-intensive-reanimation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/medecine-intensive-reanimation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/medecine-intensive-reanimation",
+  "permalink": "/support/docs/academic-writing/citation-style/medecine-intensive-reanimation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medecine-intensive-reanimation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mcdonald-institute-monographs",
+    "permalink": "/support/docs/academic-writing/citation-style/mcdonald-institute-monographs"
+  },
+  "next": {
+    "title": "medecinesciences",
+    "permalink": "/support/docs/academic-writing/citation-style/medecinesciences"
+  }
+}

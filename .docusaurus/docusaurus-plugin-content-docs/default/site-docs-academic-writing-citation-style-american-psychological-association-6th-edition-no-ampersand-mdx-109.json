@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand",
+  "id": "academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand",
+  "isDocsHomePage": false,
+  "title": "american-psychological-association-6th-edition-no-ampersand",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand",
+  "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-psychological-association-6th-edition-doi-doi-prefix",
+    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix"
+  },
+  "next": {
+    "title": "american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-dois-no-issue-numbers"
+  }
+}

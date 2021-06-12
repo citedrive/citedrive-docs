@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+  "id": "academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+  "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-allgemeinmedizin",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-allgemeinmedizin"
+  },
+  "next": {
+    "title": "zeitschrift-fur-deutsche-philologie-german",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-deutsche-philologie-german"
+  }
+}

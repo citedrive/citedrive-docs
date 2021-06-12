@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese",
+  "id": "academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese",
+  "isDocsHomePage": false,
+  "title": "vietnam-ministry-of-education-and-training-vietnamese",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese",
+  "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vietnam-ministry-of-education-and-training-english",
+    "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english"
+  },
+  "next": {
+    "title": "vigiliae-christianae",
+    "permalink": "/support/docs/academic-writing/citation-style/vigiliae-christianae"
+  }
+}

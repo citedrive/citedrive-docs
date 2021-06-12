@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geoarchaeology",
+  "id": "academic-writing/citation-style/geoarchaeology",
+  "isDocsHomePage": false,
+  "title": "geoarchaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geoarchaeology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geoarchaeology",
+  "permalink": "/support/docs/academic-writing/citation-style/geoarchaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geoarchaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "genomics-and-informatics",
+    "permalink": "/support/docs/academic-writing/citation-style/genomics-and-informatics"
+  },
+  "next": {
+    "title": "geobiology",
+    "permalink": "/support/docs/academic-writing/citation-style/geobiology"
+  }
+}

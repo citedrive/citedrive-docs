@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/gallia-french",
+  "id": "academic-writing/import/gallia-french",
+  "isDocsHomePage": false,
+  "title": "gallia-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/gallia-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/gallia-french",
+  "permalink": "/support/docs/academic-writing/import/gallia-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/gallia-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "galatasaray-universitesi-sosyal-bilimler-enstitusu",
+    "permalink": "/support/docs/academic-writing/import/galatasaray-universitesi-sosyal-bilimler-enstitusu"
+  },
+  "next": {
+    "title": "gallia-prehistoire-french",
+    "permalink": "/support/docs/academic-writing/import/gallia-prehistoire-french"
+  }
+}

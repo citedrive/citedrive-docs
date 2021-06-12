@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/scientia-iranica",
+  "id": "academic-writing/import/scientia-iranica",
+  "isDocsHomePage": false,
+  "title": "scientia-iranica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/scientia-iranica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/scientia-iranica",
+  "permalink": "/support/docs/academic-writing/import/scientia-iranica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/scientia-iranica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scientia-agriculturae-bohemica",
+    "permalink": "/support/docs/academic-writing/import/scientia-agriculturae-bohemica"
+  },
+  "next": {
+    "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+    "permalink": "/support/docs/academic-writing/import/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska"
+  }
+}

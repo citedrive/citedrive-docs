@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/british-journal-of-anaesthesia",
+  "id": "academic-writing/citation-style/british-journal-of-anaesthesia",
+  "isDocsHomePage": false,
+  "title": "british-journal-of-anaesthesia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/british-journal-of-anaesthesia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/british-journal-of-anaesthesia",
+  "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-anaesthesia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/british-journal-of-anaesthesia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "briefings-in-bioinformatics",
+    "permalink": "/support/docs/academic-writing/citation-style/briefings-in-bioinformatics"
+  },
+  "next": {
+    "title": "british-journal-of-cancer",
+    "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-cancer"
+  }
+}

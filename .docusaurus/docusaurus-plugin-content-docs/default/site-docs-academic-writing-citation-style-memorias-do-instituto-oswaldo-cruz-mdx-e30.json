@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz",
+  "id": "academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz",
+  "isDocsHomePage": false,
+  "title": "memorias-do-instituto-oswaldo-cruz",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz",
+  "permalink": "/support/docs/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "melbourne-school-of-theology",
+    "permalink": "/support/docs/academic-writing/citation-style/melbourne-school-of-theology"
+  },
+  "next": {
+    "title": "mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
+    "permalink": "/support/docs/academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german"
+  }
+}

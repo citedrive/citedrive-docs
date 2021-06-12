@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/science-china-chemistry",
+  "id": "academic-writing/import/science-china-chemistry",
+  "isDocsHomePage": false,
+  "title": "science-china-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/science-china-chemistry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/science-china-chemistry",
+  "permalink": "/support/docs/academic-writing/import/science-china-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/science-china-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-and-technology-for-the-built-environment",
+    "permalink": "/support/docs/academic-writing/import/science-and-technology-for-the-built-environment"
+  },
+  "next": {
+    "title": "science-china-earth-sciences",
+    "permalink": "/support/docs/academic-writing/import/science-china-earth-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-internal-medicine",
+  "id": "academic-writing/citation-style/journal-of-internal-medicine",
+  "isDocsHomePage": false,
+  "title": "journal-of-internal-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-internal-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-internal-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-internal-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-internal-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-interactive-marketing",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-interactive-marketing"
+  },
+  "next": {
+    "title": "journal-of-international-business-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-international-business-studies"
+  }
+}

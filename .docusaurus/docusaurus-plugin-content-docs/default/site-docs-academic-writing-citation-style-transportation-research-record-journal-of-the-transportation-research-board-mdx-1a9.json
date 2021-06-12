@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board",
+  "id": "academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board",
+  "isDocsHomePage": false,
+  "title": "transportation-research-record-journal-of-the-transportation-research-board",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board",
+  "permalink": "/support/docs/academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/transportation-research-record-journal-of-the-transportation-research-board.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transport",
+    "permalink": "/support/docs/academic-writing/citation-style/transport"
+  },
+  "next": {
+    "title": "transposition-musique-et-sciences-sociales",
+    "permalink": "/support/docs/academic-writing/citation-style/transposition-musique-et-sciences-sociales"
+  }
+}

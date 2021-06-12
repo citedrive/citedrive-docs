@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/philosophiques-french",
+  "id": "academic-writing/import/philosophiques-french",
+  "isDocsHomePage": false,
+  "title": "philosophiques-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/philosophiques-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/philosophiques-french",
+  "permalink": "/support/docs/academic-writing/import/philosophiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/philosophiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philosophia-scienti",
+    "permalink": "/support/docs/academic-writing/import/philosophia-scienti"
+  },
+  "next": {
+    "title": "philosophy-and-public-affairs",
+    "permalink": "/support/docs/academic-writing/import/philosophy-and-public-affairs"
+  }
+}

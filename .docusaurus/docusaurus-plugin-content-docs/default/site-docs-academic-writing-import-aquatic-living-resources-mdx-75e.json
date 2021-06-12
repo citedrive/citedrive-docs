@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aquatic-living-resources",
+  "id": "academic-writing/import/aquatic-living-resources",
+  "isDocsHomePage": false,
+  "title": "aquatic-living-resources",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aquatic-living-resources.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aquatic-living-resources",
+  "permalink": "/support/docs/academic-writing/import/aquatic-living-resources",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aquatic-living-resources.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquatic-invasions",
+    "permalink": "/support/docs/academic-writing/import/aquatic-invasions"
+  },
+  "next": {
+    "title": "aquitania-french",
+    "permalink": "/support/docs/academic-writing/import/aquitania-french"
+  }
+}

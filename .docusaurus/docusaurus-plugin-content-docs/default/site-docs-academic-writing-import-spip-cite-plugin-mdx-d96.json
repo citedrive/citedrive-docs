@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/spip--cite-plugin",
+  "id": "academic-writing/import/spip--cite-plugin",
+  "isDocsHomePage": false,
+  "title": "spip--cite-plugin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/spip--cite-plugin.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/spip--cite-plugin",
+  "permalink": "/support/docs/academic-writing/import/spip--cite-plugin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/spip--cite-plugin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spine",
+    "permalink": "/support/docs/academic-writing/import/spine"
+  },
+  "next": {
+    "title": "springer--basic-authordate-no-et-al-with-issue-numbers",
+    "permalink": "/support/docs/academic-writing/import/springer--basic-authordate-no-et-al-with-issue-numbers"
+  }
+}

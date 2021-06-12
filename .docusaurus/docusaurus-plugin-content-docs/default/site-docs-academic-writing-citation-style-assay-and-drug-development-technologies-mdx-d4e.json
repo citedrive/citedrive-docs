@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/assay-and-drug-development-technologies",
+  "id": "academic-writing/citation-style/assay-and-drug-development-technologies",
+  "isDocsHomePage": false,
+  "title": "assay-and-drug-development-technologies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/assay-and-drug-development-technologies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/assay-and-drug-development-technologies",
+  "permalink": "/support/docs/academic-writing/citation-style/assay-and-drug-development-technologies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/assay-and-drug-development-technologies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asian-studies-review",
+    "permalink": "/support/docs/academic-writing/citation-style/asian-studies-review"
+  },
+  "next": {
+    "title": "associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil"
+  }
+}

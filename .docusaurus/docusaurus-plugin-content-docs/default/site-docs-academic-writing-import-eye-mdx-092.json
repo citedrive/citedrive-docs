@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/eye",
+  "id": "academic-writing/import/eye",
+  "isDocsHomePage": false,
+  "title": "eye",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/eye.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/eye",
+  "permalink": "/support/docs/academic-writing/import/eye",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/eye.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "express-polymer-letters",
+    "permalink": "/support/docs/academic-writing/import/express-polymer-letters"
+  },
+  "next": {
+    "title": "fachhochschule-kiel--fachbereich-medien-german",
+    "permalink": "/support/docs/academic-writing/import/fachhochschule-kiel--fachbereich-medien-german"
+  }
+}

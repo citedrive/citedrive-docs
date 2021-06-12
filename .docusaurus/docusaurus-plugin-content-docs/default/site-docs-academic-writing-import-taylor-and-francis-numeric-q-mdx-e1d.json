@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/taylor-and-francis--numeric-q",
+  "id": "academic-writing/import/taylor-and-francis--numeric-q",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--numeric-q",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/taylor-and-francis--numeric-q.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/taylor-and-francis--numeric-q",
+  "permalink": "/support/docs/academic-writing/import/taylor-and-francis--numeric-q",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/taylor-and-francis--numeric-q.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--national-library-of-medicine",
+    "permalink": "/support/docs/academic-writing/import/taylor-and-francis--national-library-of-medicine"
+  },
+  "next": {
+    "title": "techniquesandculture-french",
+    "permalink": "/support/docs/academic-writing/import/techniquesandculture-french"
+  }
+}

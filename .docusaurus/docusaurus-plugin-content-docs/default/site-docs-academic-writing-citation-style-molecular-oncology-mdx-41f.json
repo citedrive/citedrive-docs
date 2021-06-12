@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/molecular-oncology",
+  "id": "academic-writing/citation-style/molecular-oncology",
+  "isDocsHomePage": false,
+  "title": "molecular-oncology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/molecular-oncology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/molecular-oncology",
+  "permalink": "/support/docs/academic-writing/citation-style/molecular-oncology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-oncology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-nutrition-and-food-research",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-nutrition-and-food-research"
+  },
+  "next": {
+    "title": "molecular-plant-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-plant-pathology"
+  }
+}

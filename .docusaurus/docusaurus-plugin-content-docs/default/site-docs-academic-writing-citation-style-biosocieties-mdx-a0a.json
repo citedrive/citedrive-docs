@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biosocieties",
+  "id": "academic-writing/citation-style/biosocieties",
+  "isDocsHomePage": false,
+  "title": "biosocieties",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biosocieties.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biosocieties",
+  "permalink": "/support/docs/academic-writing/citation-style/biosocieties",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biosocieties.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioscience",
+    "permalink": "/support/docs/academic-writing/citation-style/bioscience"
+  },
+  "next": {
+    "title": "biota-neotropica",
+    "permalink": "/support/docs/academic-writing/citation-style/biota-neotropica"
+  }
+}

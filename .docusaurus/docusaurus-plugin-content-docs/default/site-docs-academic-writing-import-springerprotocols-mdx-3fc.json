@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springerprotocols",
+  "id": "academic-writing/import/springerprotocols",
+  "isDocsHomePage": false,
+  "title": "springerprotocols",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springerprotocols.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springerprotocols",
+  "permalink": "/support/docs/academic-writing/import/springerprotocols",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springerprotocols.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer-vs-authordate-german",
+    "permalink": "/support/docs/academic-writing/import/springer-vs-authordate-german"
+  },
+  "next": {
+    "title": "st-patricks-college",
+    "permalink": "/support/docs/academic-writing/import/st-patricks-college"
+  }
+}

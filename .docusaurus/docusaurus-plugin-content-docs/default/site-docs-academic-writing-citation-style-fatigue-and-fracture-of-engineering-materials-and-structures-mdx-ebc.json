@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
+  "id": "academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
+  "isDocsHomePage": false,
+  "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
+  "permalink": "/support/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "farmeconomia-health-economics-and-therapeutic-pathways",
+    "permalink": "/support/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways"
+  },
+  "next": {
+    "title": "feminist-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/feminist-economics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-organization",
+  "id": "academic-writing/import/international-organization",
+  "isDocsHomePage": false,
+  "title": "international-organization",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-organization.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-organization",
+  "permalink": "/support/docs/academic-writing/import/international-organization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-organization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-microbiology",
+    "permalink": "/support/docs/academic-writing/import/international-microbiology"
+  },
+  "next": {
+    "title": "international-pig-veterinary-society-congress-proceedings",
+    "permalink": "/support/docs/academic-writing/import/international-pig-veterinary-society-congress-proceedings"
+  }
+}

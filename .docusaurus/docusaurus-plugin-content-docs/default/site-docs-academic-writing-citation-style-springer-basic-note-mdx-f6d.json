@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--basic-note",
+  "id": "academic-writing/citation-style/springer--basic-note",
+  "isDocsHomePage": false,
+  "title": "springer--basic-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--basic-note.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--basic-note",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--basic-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-authordate"
+  },
+  "next": {
+    "title": "springer--basic-numeric-brackets-no-et-al-alphabetical",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical"
+  }
+}

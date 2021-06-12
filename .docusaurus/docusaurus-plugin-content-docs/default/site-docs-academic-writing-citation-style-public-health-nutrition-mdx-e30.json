@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/public-health-nutrition",
+  "id": "academic-writing/citation-style/public-health-nutrition",
+  "isDocsHomePage": false,
+  "title": "public-health-nutrition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/public-health-nutrition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/public-health-nutrition",
+  "permalink": "/support/docs/academic-writing/citation-style/public-health-nutrition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/public-health-nutrition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "psychosomatics",
+    "permalink": "/support/docs/academic-writing/citation-style/psychosomatics"
+  },
+  "next": {
+    "title": "public-library-of-science",
+    "permalink": "/support/docs/academic-writing/citation-style/public-library-of-science"
+  }
+}

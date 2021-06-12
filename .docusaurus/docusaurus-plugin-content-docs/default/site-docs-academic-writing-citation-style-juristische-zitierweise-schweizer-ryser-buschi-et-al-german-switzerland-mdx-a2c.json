@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+  "id": "academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+  "isDocsHomePage": false,
+  "title": "juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+  "permalink": "/support/docs/academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "juristische-schulung-german",
+    "permalink": "/support/docs/academic-writing/citation-style/juristische-schulung-german"
+  },
+  "next": {
+    "title": "juristische-zitierweise-stuber-german",
+    "permalink": "/support/docs/academic-writing/citation-style/juristische-zitierweise-stuber-german"
+  }
+}

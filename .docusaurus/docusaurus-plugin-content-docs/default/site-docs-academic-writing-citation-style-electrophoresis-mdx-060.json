@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/electrophoresis",
+  "id": "academic-writing/citation-style/electrophoresis",
+  "isDocsHomePage": false,
+  "title": "electrophoresis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/electrophoresis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/electrophoresis",
+  "permalink": "/support/docs/academic-writing/citation-style/electrophoresis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/electrophoresis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "el-profesional-de-la-informacion-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish"
+  },
+  "next": {
+    "title": "elementa",
+    "permalink": "/support/docs/academic-writing/citation-style/elementa"
+  }
+}

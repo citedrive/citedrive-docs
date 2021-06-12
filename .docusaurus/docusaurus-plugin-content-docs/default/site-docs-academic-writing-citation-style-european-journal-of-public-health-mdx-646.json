@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-of-public-health",
+  "id": "academic-writing/citation-style/european-journal-of-public-health",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-public-health",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-of-public-health.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-of-public-health",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-public-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-public-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-political-research",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-political-research"
+  },
+  "next": {
+    "title": "european-journal-of-soil-science",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-soil-science"
+  }
+}

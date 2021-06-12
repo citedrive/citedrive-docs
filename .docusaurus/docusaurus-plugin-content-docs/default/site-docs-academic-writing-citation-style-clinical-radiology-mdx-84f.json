@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-radiology",
+  "id": "academic-writing/citation-style/clinical-radiology",
+  "isDocsHomePage": false,
+  "title": "clinical-radiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-radiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-radiology",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-radiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-radiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-physiology-and-functional-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging"
+  },
+  "next": {
+    "title": "clinical-spine-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-spine-surgery"
+  }
+}

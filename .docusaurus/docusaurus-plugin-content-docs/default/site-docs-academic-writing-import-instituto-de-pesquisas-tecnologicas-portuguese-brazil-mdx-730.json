@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+  "id": "academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/instituto-de-pesquisas-tecnologicas-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil"
+  },
+  "next": {
+    "title": "instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+    "permalink": "/support/docs/academic-writing/import/instituto-superior-de-teologia-de-las-islas-canarias-spanish"
+  }
+}

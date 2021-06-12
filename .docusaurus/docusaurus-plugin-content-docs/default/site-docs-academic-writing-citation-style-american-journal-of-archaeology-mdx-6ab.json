@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-journal-of-archaeology",
+  "id": "academic-writing/citation-style/american-journal-of-archaeology",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-archaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-journal-of-archaeology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-journal-of-archaeology",
+  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-agricultural-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-agricultural-economics"
+  },
+  "next": {
+    "title": "american-journal-of-botany",
+    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-botany"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
+  "id": "academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
+  "isDocsHomePage": false,
+  "title": "farmeconomia-health-economics-and-therapeutic-pathways",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
+  "permalink": "/support/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "family-business-review",
+    "permalink": "/support/docs/academic-writing/citation-style/family-business-review"
+  },
+  "next": {
+    "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
+    "permalink": "/support/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures"
+  }
+}

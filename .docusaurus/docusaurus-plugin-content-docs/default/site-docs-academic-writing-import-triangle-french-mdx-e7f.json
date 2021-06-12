@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/triangle-french",
+  "id": "academic-writing/import/triangle-french",
+  "isDocsHomePage": false,
+  "title": "triangle-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/triangle-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/triangle-french",
+  "permalink": "/support/docs/academic-writing/import/triangle-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/triangle-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trends-journals",
+    "permalink": "/support/docs/academic-writing/import/trends-journals"
+  },
+  "next": {
+    "title": "tropical-animal-health-and-production",
+    "permalink": "/support/docs/academic-writing/import/tropical-animal-health-and-production"
+  }
+}

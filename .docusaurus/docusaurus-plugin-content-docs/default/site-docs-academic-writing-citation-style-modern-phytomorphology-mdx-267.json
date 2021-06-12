@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/modern-phytomorphology",
+  "id": "academic-writing/citation-style/modern-phytomorphology",
+  "isDocsHomePage": false,
+  "title": "modern-phytomorphology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/modern-phytomorphology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/modern-phytomorphology",
+  "permalink": "/support/docs/academic-writing/citation-style/modern-phytomorphology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/modern-phytomorphology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "modern-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/modern-pathology"
+  },
+  "next": {
+    "title": "mohr-siebeck--recht-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/mohr-siebeck--recht-german--austria"
+  }
+}

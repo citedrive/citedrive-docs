@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle",
+  "id": "academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle",
+  "isDocsHomePage": false,
+  "title": "journal-of-cachexia-sarcopenia-and-muscle",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-cachexia-sarcopenia-and-muscle.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-business-logistics",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-business-logistics"
+  },
+  "next": {
+    "title": "journal-of-cardiothoracic-and-vascular-anesthesia",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-cardiothoracic-and-vascular-anesthesia"
+  }
+}

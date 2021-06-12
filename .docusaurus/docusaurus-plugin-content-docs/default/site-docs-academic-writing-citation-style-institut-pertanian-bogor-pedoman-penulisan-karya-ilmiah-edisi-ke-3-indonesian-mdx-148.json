@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+  "id": "academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+  "isDocsHomePage": false,
+  "title": "institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+  "permalink": "/support/docs/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-national-de-sante-publique-du-quebec--topo-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--topo-french--canada"
+  },
+  "next": {
+    "title": "institut-teknologi-bandung--sekolah-pascasarjana",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana"
+  }
+}

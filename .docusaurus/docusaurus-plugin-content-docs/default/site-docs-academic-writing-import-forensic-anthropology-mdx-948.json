@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/forensic-anthropology",
+  "id": "academic-writing/import/forensic-anthropology",
+  "isDocsHomePage": false,
+  "title": "forensic-anthropology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/forensic-anthropology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/forensic-anthropology",
+  "permalink": "/support/docs/academic-writing/import/forensic-anthropology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/forensic-anthropology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "foodborne-pathogens-and-disease",
+    "permalink": "/support/docs/academic-writing/import/foodborne-pathogens-and-disease"
+  },
+  "next": {
+    "title": "forensic-science-review",
+    "permalink": "/support/docs/academic-writing/import/forensic-science-review"
+  }
+}

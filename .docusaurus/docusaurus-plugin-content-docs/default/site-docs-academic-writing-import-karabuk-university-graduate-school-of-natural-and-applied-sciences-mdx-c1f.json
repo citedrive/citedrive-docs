@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "id": "academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "isDocsHomePage": false,
+  "title": "karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "permalink": "/support/docs/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jyvaskylan-yliopisto--kemian-laitos-finnish",
+    "permalink": "/support/docs/academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish"
+  },
+  "next": {
+    "title": "karger-journals-authordate",
+    "permalink": "/support/docs/academic-writing/import/karger-journals-authordate"
+  }
+}

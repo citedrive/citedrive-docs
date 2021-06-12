@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-theologie-und-philosophie",
+  "id": "academic-writing/import/zeitschrift-fur-theologie-und-philosophie",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-theologie-und-philosophie",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-theologie-und-philosophie.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-theologie-und-philosophie",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-theologie-und-philosophie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-theologie-und-philosophie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-theologie-und-kirche-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-theologie-und-kirche-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-zahnarztliche-implantologie-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german"
+  }
+}

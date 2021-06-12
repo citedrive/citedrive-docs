@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-economic-history-review",
+  "id": "academic-writing/import/the-economic-history-review",
+  "isDocsHomePage": false,
+  "title": "the-economic-history-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-economic-history-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-economic-history-review",
+  "permalink": "/support/docs/academic-writing/import/the-economic-history-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-economic-history-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-design-journal",
+    "permalink": "/support/docs/academic-writing/import/the-design-journal"
+  },
+  "next": {
+    "title": "the-european-research-journal",
+    "permalink": "/support/docs/academic-writing/import/the-european-research-journal"
+  }
+}

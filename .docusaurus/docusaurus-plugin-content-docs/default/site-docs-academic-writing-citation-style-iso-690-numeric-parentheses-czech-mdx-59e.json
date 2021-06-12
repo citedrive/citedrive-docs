@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iso690-numeric-parentheses-czech",
+  "id": "academic-writing/citation-style/iso690-numeric-parentheses-czech",
+  "isDocsHomePage": false,
+  "title": "iso690-numeric-parentheses-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iso690-numeric-parentheses-czech.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iso690-numeric-parentheses-czech",
+  "permalink": "/support/docs/academic-writing/citation-style/iso690-numeric-parentheses-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-numeric-parentheses-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-numeric-lithuanian",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-numeric-lithuanian"
+  },
+  "next": {
+    "title": "iso690-numeric-slovak",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-numeric-slovak"
+  }
+}

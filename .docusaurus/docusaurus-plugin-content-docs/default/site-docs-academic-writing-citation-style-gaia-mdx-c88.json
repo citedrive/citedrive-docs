@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/gaia",
+  "id": "academic-writing/citation-style/gaia",
+  "isDocsHomePage": false,
+  "title": "gaia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/gaia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/gaia",
+  "permalink": "/support/docs/academic-writing/citation-style/gaia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gaia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gaceta-sanitaria",
+    "permalink": "/support/docs/academic-writing/citation-style/gaceta-sanitaria"
+  },
+  "next": {
+    "title": "galatasaray-universitesi-sosyal-bilimler-enstitusu",
+    "permalink": "/support/docs/academic-writing/citation-style/galatasaray-universitesi-sosyal-bilimler-enstitusu"
+  }
+}

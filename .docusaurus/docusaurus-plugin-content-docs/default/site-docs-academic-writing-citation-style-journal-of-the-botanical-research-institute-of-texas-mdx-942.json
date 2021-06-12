@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
+  "id": "academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-botanical-research-institute-of-texas",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-association-of-environmental-and-resource-economists",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists"
+  },
+  "next": {
+    "title": "journal-of-the-brazilian-chemical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-brazilian-chemical-society"
+  }
+}

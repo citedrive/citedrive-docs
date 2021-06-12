@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
+  "id": "academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
+  "isDocsHomePage": false,
+  "title": "alcoholism-clinical-and-experimental-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
+  "permalink": "/support/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alcohol-and-alcoholism",
+    "permalink": "/support/docs/academic-writing/citation-style/alcohol-and-alcoholism"
+  },
+  "next": {
+    "title": "aljamiah--journal-of-islamic-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies"
+  }
+}

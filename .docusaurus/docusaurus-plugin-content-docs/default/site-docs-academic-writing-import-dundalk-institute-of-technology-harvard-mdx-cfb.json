@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/dundalk-institute-of-technology--harvard",
+  "id": "academic-writing/import/dundalk-institute-of-technology--harvard",
+  "isDocsHomePage": false,
+  "title": "dundalk-institute-of-technology--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/dundalk-institute-of-technology--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/dundalk-institute-of-technology--harvard",
+  "permalink": "/support/docs/academic-writing/import/dundalk-institute-of-technology--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/dundalk-institute-of-technology--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drugs-of-today",
+    "permalink": "/support/docs/academic-writing/import/drugs-of-today"
+  },
+  "next": {
+    "title": "durham-university-business-school--harvard",
+    "permalink": "/support/docs/academic-writing/import/durham-university-business-school--harvard"
+  }
+}

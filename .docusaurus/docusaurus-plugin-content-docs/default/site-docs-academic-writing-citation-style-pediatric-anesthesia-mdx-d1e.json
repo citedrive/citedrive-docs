@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pediatric-anesthesia",
+  "id": "academic-writing/citation-style/pediatric-anesthesia",
+  "isDocsHomePage": false,
+  "title": "pediatric-anesthesia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pediatric-anesthesia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pediatric-anesthesia",
+  "permalink": "/support/docs/academic-writing/citation-style/pediatric-anesthesia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-anesthesia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-allergy-and-immunology",
+    "permalink": "/support/docs/academic-writing/citation-style/pediatric-allergy-and-immunology"
+  },
+  "next": {
+    "title": "pediatric-blood-and-cancer",
+    "permalink": "/support/docs/academic-writing/citation-style/pediatric-blood-and-cancer"
+  }
+}

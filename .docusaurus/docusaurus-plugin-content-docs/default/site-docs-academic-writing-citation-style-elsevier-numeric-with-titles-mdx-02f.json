@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elsevier-numeric-with-titles",
+  "id": "academic-writing/citation-style/elsevier-numeric-with-titles",
+  "isDocsHomePage": false,
+  "title": "elsevier-numeric-with-titles",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elsevier-numeric-with-titles.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elsevier-numeric-with-titles",
+  "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-with-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier-numeric-with-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier-numeric-with-titles-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically"
+  },
+  "next": {
+    "title": "elsevier-numeric-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-without-titles"
+  }
+}

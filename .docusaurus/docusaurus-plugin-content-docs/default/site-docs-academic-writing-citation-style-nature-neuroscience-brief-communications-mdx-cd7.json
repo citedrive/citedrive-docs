@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nature-neuroscience-brief-communications",
+  "id": "academic-writing/citation-style/nature-neuroscience-brief-communications",
+  "isDocsHomePage": false,
+  "title": "nature-neuroscience-brief-communications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nature-neuroscience-brief-communications.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nature-neuroscience-brief-communications",
+  "permalink": "/support/docs/academic-writing/citation-style/nature-neuroscience-brief-communications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nature-neuroscience-brief-communications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "natur-und-landschaft-german",
+    "permalink": "/support/docs/academic-writing/citation-style/natur-und-landschaft-german"
+  },
+  "next": {
+    "title": "nature-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/nature-no-et-al"
+  }
+}

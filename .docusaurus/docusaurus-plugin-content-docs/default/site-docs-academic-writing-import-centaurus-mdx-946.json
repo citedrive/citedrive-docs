@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/centaurus",
+  "id": "academic-writing/import/centaurus",
+  "isDocsHomePage": false,
+  "title": "centaurus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/centaurus.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/centaurus",
+  "permalink": "/support/docs/academic-writing/import/centaurus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/centaurus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cellular-reprogramming",
+    "permalink": "/support/docs/academic-writing/import/cellular-reprogramming"
+  },
+  "next": {
+    "title": "centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french",
+    "permalink": "/support/docs/academic-writing/import/centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french"
+  }
+}

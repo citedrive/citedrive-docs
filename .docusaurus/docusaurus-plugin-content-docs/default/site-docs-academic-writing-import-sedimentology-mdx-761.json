@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/sedimentology",
+  "id": "academic-writing/import/sedimentology",
+  "isDocsHomePage": false,
+  "title": "sedimentology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/sedimentology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/sedimentology",
+  "permalink": "/support/docs/academic-writing/import/sedimentology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/sedimentology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scrinium",
+    "permalink": "/support/docs/academic-writing/import/scrinium"
+  },
+  "next": {
+    "title": "seed-science-and-technology",
+    "permalink": "/support/docs/academic-writing/import/seed-science-and-technology"
+  }
+}

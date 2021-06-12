@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/taylor-and-francis--harvard-x",
+  "id": "academic-writing/citation-style/taylor-and-francis--harvard-x",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--harvard-x",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/taylor-and-francis--harvard-x.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/taylor-and-francis--harvard-x",
+  "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--harvard-x",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/taylor-and-francis--harvard-x.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--council-of-science-editors-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--council-of-science-editors-authordate"
+  },
+  "next": {
+    "title": "taylor-and-francis--national-library-of-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--national-library-of-medicine"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mis-quarterly",
+  "id": "academic-writing/import/mis-quarterly",
+  "isDocsHomePage": false,
+  "title": "mis-quarterly",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mis-quarterly.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mis-quarterly",
+  "permalink": "/support/docs/academic-writing/import/mis-quarterly",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mis-quarterly.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mineralogical-magazine",
+    "permalink": "/support/docs/academic-writing/import/mineralogical-magazine"
+  },
+  "next": {
+    "title": "modern-chinese-literature-and-culture",
+    "permalink": "/support/docs/academic-writing/import/modern-chinese-literature-and-culture"
+  }
+}

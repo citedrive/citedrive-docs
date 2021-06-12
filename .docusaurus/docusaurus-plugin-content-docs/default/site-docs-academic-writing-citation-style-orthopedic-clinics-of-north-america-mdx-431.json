@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/orthopedic-clinics-of-north-america",
+  "id": "academic-writing/citation-style/orthopedic-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "orthopedic-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/orthopedic-clinics-of-north-america.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/orthopedic-clinics-of-north-america",
+  "permalink": "/support/docs/academic-writing/citation-style/orthopedic-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/orthopedic-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ornitologia-neotropical",
+    "permalink": "/support/docs/academic-writing/citation-style/ornitologia-neotropical"
+  },
+  "next": {
+    "title": "oryx",
+    "permalink": "/support/docs/academic-writing/citation-style/oryx"
+  }
+}

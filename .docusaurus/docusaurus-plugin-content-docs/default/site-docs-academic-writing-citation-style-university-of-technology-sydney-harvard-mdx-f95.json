@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-technology-sydney--harvard",
+  "id": "academic-writing/citation-style/university-of-technology-sydney--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-technology-sydney--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-technology-sydney--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-technology-sydney--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-technology-sydney--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-technology-sydney--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-south-australia-2017--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-south-australia-2017--harvard"
+  },
+  "next": {
+    "title": "university-of-the-west-of-england-bristol--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard"
+  }
+}

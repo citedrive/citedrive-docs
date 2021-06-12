@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/culture-medicine-and-psychiatry",
+  "id": "academic-writing/import/culture-medicine-and-psychiatry",
+  "isDocsHomePage": false,
+  "title": "culture-medicine-and-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/culture-medicine-and-psychiatry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/culture-medicine-and-psychiatry",
+  "permalink": "/support/docs/academic-writing/import/culture-medicine-and-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/culture-medicine-and-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cultural-studies-of-science-education",
+    "permalink": "/support/docs/academic-writing/import/cultural-studies-of-science-education"
+  },
+  "next": {
+    "title": "cureus",
+    "permalink": "/support/docs/academic-writing/import/cureus"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/microbial-cell",
+  "id": "academic-writing/citation-style/microbial-cell",
+  "isDocsHomePage": false,
+  "title": "microbial-cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/microbial-cell.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/microbial-cell",
+  "permalink": "/support/docs/academic-writing/citation-style/microbial-cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/microbial-cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropolitiques-french",
+    "permalink": "/support/docs/academic-writing/citation-style/metropolitiques-french"
+  },
+  "next": {
+    "title": "microbial-drug-resistance",
+    "permalink": "/support/docs/academic-writing/citation-style/microbial-drug-resistance"
+  }
+}

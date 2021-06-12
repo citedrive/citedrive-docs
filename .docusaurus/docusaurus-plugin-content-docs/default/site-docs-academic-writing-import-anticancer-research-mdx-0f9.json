@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/anticancer-research",
+  "id": "academic-writing/import/anticancer-research",
+  "isDocsHomePage": false,
+  "title": "anticancer-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/anticancer-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/anticancer-research",
+  "permalink": "/support/docs/academic-writing/import/anticancer-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/anticancer-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anthropologie-et-societes-french",
+    "permalink": "/support/docs/academic-writing/import/anthropologie-et-societes-french"
+  },
+  "next": {
+    "title": "antioxidants-and-redox-signaling",
+    "permalink": "/support/docs/academic-writing/import/antioxidants-and-redox-signaling"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-journal-of-the-american-society-of-nephrology",
+  "id": "academic-writing/import/clinical-journal-of-the-american-society-of-nephrology",
+  "isDocsHomePage": false,
+  "title": "clinical-journal-of-the-american-society-of-nephrology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-journal-of-the-american-society-of-nephrology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-journal-of-the-american-society-of-nephrology",
+  "permalink": "/support/docs/academic-writing/import/clinical-journal-of-the-american-society-of-nephrology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-journal-of-the-american-society-of-nephrology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-journal-of-sport-medicine",
+    "permalink": "/support/docs/academic-writing/import/clinical-journal-of-sport-medicine"
+  },
+  "next": {
+    "title": "clinical-management-issues",
+    "permalink": "/support/docs/academic-writing/import/clinical-management-issues"
+  }
+}

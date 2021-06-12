@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-analytical-toxicology",
+  "id": "academic-writing/citation-style/journal-of-analytical-toxicology",
+  "isDocsHomePage": false,
+  "title": "journal-of-analytical-toxicology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-analytical-toxicology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-analytical-toxicology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-analytical-toxicology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-analytical-toxicology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-alzheimers-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-alzheimers-disease"
+  },
+  "next": {
+    "title": "journal-of-animal-physiology-and-animal-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-animal-physiology-and-animal-nutrition"
+  }
+}

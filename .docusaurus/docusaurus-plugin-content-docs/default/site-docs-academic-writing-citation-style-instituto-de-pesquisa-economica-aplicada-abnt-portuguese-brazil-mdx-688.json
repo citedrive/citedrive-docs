@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+  "id": "academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish"
+  },
+  "next": {
+    "title": "instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisas-tecnologicas-portuguese--brazil"
+  }
+}

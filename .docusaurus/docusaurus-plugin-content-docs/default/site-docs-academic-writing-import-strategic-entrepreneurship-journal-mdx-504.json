@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/strategic-entrepreneurship-journal",
+  "id": "academic-writing/import/strategic-entrepreneurship-journal",
+  "isDocsHomePage": false,
+  "title": "strategic-entrepreneurship-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/strategic-entrepreneurship-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/strategic-entrepreneurship-journal",
+  "permalink": "/support/docs/academic-writing/import/strategic-entrepreneurship-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/strategic-entrepreneurship-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strategic-design-research-journal",
+    "permalink": "/support/docs/academic-writing/import/strategic-design-research-journal"
+  },
+  "next": {
+    "title": "strategic-management-journal",
+    "permalink": "/support/docs/academic-writing/import/strategic-management-journal"
+  }
+}

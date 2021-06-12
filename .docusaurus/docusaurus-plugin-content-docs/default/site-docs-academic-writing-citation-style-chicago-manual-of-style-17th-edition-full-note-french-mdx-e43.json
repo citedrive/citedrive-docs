@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french",
+  "id": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-full-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french",
+  "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-authordate"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-full-note-short-title-subsequent",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note-short-title-subsequent"
+  }
+}

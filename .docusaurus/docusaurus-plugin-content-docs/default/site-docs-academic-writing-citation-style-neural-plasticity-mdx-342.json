@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neural-plasticity",
+  "id": "academic-writing/citation-style/neural-plasticity",
+  "isDocsHomePage": false,
+  "title": "neural-plasticity",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neural-plasticity.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neural-plasticity",
+  "permalink": "/support/docs/academic-writing/citation-style/neural-plasticity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neural-plasticity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neue-juristische-wochenschrift-german",
+    "permalink": "/support/docs/academic-writing/citation-style/neue-juristische-wochenschrift-german"
+  },
+  "next": {
+    "title": "neuroendocrinology-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/neuroendocrinology-letters"
+  }
+}

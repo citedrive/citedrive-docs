@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/gazeta-medica",
+  "id": "academic-writing/citation-style/gazeta-medica",
+  "isDocsHomePage": false,
+  "title": "gazeta-medica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/gazeta-medica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/gazeta-medica",
+  "permalink": "/support/docs/academic-writing/citation-style/gazeta-medica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gazeta-medica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gastrointestinal-intervention",
+    "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-intervention"
+  },
+  "next": {
+    "title": "geistes-und-kulturwissenschaften-heilmann-german",
+    "permalink": "/support/docs/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german"
+  }
+}

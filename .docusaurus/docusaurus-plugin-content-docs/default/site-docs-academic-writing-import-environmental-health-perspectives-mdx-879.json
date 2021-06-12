@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/environmental-health-perspectives",
+  "id": "academic-writing/import/environmental-health-perspectives",
+  "isDocsHomePage": false,
+  "title": "environmental-health-perspectives",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/environmental-health-perspectives.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/environmental-health-perspectives",
+  "permalink": "/support/docs/academic-writing/import/environmental-health-perspectives",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/environmental-health-perspectives.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-conservation",
+    "permalink": "/support/docs/academic-writing/import/environmental-conservation"
+  },
+  "next": {
+    "title": "environmental-microbiology",
+    "permalink": "/support/docs/academic-writing/import/environmental-microbiology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/health-economics",
+  "id": "academic-writing/import/health-economics",
+  "isDocsHomePage": false,
+  "title": "health-economics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/health-economics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/health-economics",
+  "permalink": "/support/docs/academic-writing/import/health-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/health-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-economics-policy-and-law",
+    "permalink": "/support/docs/academic-writing/import/health-economics-policy-and-law"
+  },
+  "next": {
+    "title": "health-education-research",
+    "permalink": "/support/docs/academic-writing/import/health-education-research"
+  }
+}

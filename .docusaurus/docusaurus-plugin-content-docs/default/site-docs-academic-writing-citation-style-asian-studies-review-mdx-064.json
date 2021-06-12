@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/asian-studies-review",
+  "id": "academic-writing/citation-style/asian-studies-review",
+  "isDocsHomePage": false,
+  "title": "asian-studies-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/asian-studies-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/asian-studies-review",
+  "permalink": "/support/docs/academic-writing/citation-style/asian-studies-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asian-studies-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asian-journal-of-neurosurgery",
+    "permalink": "/support/docs/academic-writing/citation-style/asian-journal-of-neurosurgery"
+  },
+  "next": {
+    "title": "assay-and-drug-development-technologies",
+    "permalink": "/support/docs/academic-writing/citation-style/assay-and-drug-development-technologies"
+  }
+}

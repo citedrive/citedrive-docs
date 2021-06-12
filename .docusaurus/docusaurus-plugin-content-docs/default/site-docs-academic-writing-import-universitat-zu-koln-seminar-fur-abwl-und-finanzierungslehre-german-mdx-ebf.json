@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+  "id": "academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+  "isDocsHomePage": false,
+  "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+  "permalink": "/support/docs/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-wien--institut-fur-geschichte",
+    "permalink": "/support/docs/academic-writing/import/universitat-wien--institut-fur-geschichte"
+  },
+  "next": {
+    "title": "universitatsmedizin-gottingen-german",
+    "permalink": "/support/docs/academic-writing/import/universitatsmedizin-gottingen-german"
+  }
+}

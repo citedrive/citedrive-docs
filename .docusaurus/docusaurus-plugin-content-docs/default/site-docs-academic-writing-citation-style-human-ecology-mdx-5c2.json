@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/human-ecology",
+  "id": "academic-writing/citation-style/human-ecology",
+  "isDocsHomePage": false,
+  "title": "human-ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/human-ecology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/human-ecology",
+  "permalink": "/support/docs/academic-writing/citation-style/human-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-brain-mapping",
+    "permalink": "/support/docs/academic-writing/citation-style/human-brain-mapping"
+  },
+  "next": {
+    "title": "human-gene-therapy",
+    "permalink": "/support/docs/academic-writing/citation-style/human-gene-therapy"
+  }
+}

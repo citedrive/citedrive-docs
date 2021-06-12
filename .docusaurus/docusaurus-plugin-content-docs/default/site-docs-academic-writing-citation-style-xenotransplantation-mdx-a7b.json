@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/xenotransplantation",
+  "id": "academic-writing/citation-style/xenotransplantation",
+  "isDocsHomePage": false,
+  "title": "xenotransplantation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/xenotransplantation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/xenotransplantation",
+  "permalink": "/support/docs/academic-writing/citation-style/xenotransplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/xenotransplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "worlds-poultry-science-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/worlds-poultry-science-journal"
+  },
+  "next": {
+    "title": "yeast",
+    "permalink": "/support/docs/academic-writing/citation-style/yeast"
+  }
+}

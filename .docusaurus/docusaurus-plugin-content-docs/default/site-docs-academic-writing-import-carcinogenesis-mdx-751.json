@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/carcinogenesis",
+  "id": "academic-writing/import/carcinogenesis",
+  "isDocsHomePage": false,
+  "title": "carcinogenesis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/carcinogenesis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/carcinogenesis",
+  "permalink": "/support/docs/academic-writing/import/carcinogenesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/carcinogenesis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cape-peninsula-university-of-technology--harvard",
+    "permalink": "/support/docs/academic-writing/import/cape-peninsula-university-of-technology--harvard"
+  },
+  "next": {
+    "title": "cardiff-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/cardiff-university--harvard"
+  }
+}

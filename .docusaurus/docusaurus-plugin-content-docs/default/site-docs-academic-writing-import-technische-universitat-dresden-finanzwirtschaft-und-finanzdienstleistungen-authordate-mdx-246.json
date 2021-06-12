@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "id": "academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "permalink": "/support/docs/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+    "permalink": "/support/docs/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-note",
+    "permalink": "/support/docs/academic-writing/import/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-note"
+  }
+}

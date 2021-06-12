@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bioscience",
+  "id": "academic-writing/citation-style/bioscience",
+  "isDocsHomePage": false,
+  "title": "bioscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bioscience.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bioscience",
+  "permalink": "/support/docs/academic-writing/citation-style/bioscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioresources",
+    "permalink": "/support/docs/academic-writing/citation-style/bioresources"
+  },
+  "next": {
+    "title": "biosocieties",
+    "permalink": "/support/docs/academic-writing/citation-style/biosocieties"
+  }
+}

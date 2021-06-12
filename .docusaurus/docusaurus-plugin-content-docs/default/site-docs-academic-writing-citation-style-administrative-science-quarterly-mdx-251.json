@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/administrative-science-quarterly",
+  "id": "academic-writing/citation-style/administrative-science-quarterly",
+  "isDocsHomePage": false,
+  "title": "administrative-science-quarterly",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/administrative-science-quarterly.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/administrative-science-quarterly",
+  "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/administrative-science-quarterly.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-zoologica-academiae-scientiarum-hungaricae",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
+  },
+  "next": {
+    "title": "advanced-engineering-materials",
+    "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials"
+  }
+}

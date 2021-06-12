@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geographische-zeitschrift",
+  "id": "academic-writing/citation-style/geographische-zeitschrift",
+  "isDocsHomePage": false,
+  "title": "geographische-zeitschrift",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geographische-zeitschrift.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geographische-zeitschrift",
+  "permalink": "/support/docs/academic-writing/citation-style/geographische-zeitschrift",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geographische-zeitschrift.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geographie-et-cultures-french",
+    "permalink": "/support/docs/academic-writing/citation-style/geographie-et-cultures-french"
+  },
+  "next": {
+    "title": "geological-magazine",
+    "permalink": "/support/docs/academic-writing/citation-style/geological-magazine"
+  }
+}

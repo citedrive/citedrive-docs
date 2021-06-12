@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/materials-express",
+  "id": "academic-writing/citation-style/materials-express",
+  "isDocsHomePage": false,
+  "title": "materials-express",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/materials-express.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/materials-express",
+  "permalink": "/support/docs/academic-writing/citation-style/materials-express",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/materials-express.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mastozoologia-neotropical",
+    "permalink": "/support/docs/academic-writing/citation-style/mastozoologia-neotropical"
+  },
+  "next": {
+    "title": "mathematical-geosciences",
+    "permalink": "/support/docs/academic-writing/citation-style/mathematical-geosciences"
+  }
+}

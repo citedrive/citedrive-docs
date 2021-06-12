@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/periodicum-biologorum",
+  "id": "academic-writing/citation-style/periodicum-biologorum",
+  "isDocsHomePage": false,
+  "title": "periodicum-biologorum",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/periodicum-biologorum.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/periodicum-biologorum",
+  "permalink": "/support/docs/academic-writing/citation-style/periodicum-biologorum",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/periodicum-biologorum.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pensoft-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/pensoft-journals"
+  },
+  "next": {
+    "title": "periodontology-2000",
+    "permalink": "/support/docs/academic-writing/citation-style/periodontology-2000"
+  }
+}

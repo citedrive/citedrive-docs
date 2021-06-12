@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-open-university-numeric",
+  "id": "academic-writing/import/the-open-university-numeric",
+  "isDocsHomePage": false,
+  "title": "the-open-university-numeric",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-open-university-numeric.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-open-university-numeric",
+  "permalink": "/support/docs/academic-writing/import/the-open-university-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-open-university-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-open-university-numeric-superscript",
+    "permalink": "/support/docs/academic-writing/import/the-open-university-numeric-superscript"
+  },
+  "next": {
+    "title": "the-optical-society",
+    "permalink": "/support/docs/academic-writing/import/the-optical-society"
+  }
+}

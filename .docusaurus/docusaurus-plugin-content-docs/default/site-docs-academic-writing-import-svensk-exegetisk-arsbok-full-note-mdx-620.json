@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/svensk-exegetisk-arsbok-full-note",
+  "id": "academic-writing/import/svensk-exegetisk-arsbok-full-note",
+  "isDocsHomePage": false,
+  "title": "svensk-exegetisk-arsbok-full-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/svensk-exegetisk-arsbok-full-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/svensk-exegetisk-arsbok-full-note",
+  "permalink": "/support/docs/academic-writing/import/svensk-exegetisk-arsbok-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/svensk-exegetisk-arsbok-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "surgical-pathology-clinics",
+    "permalink": "/support/docs/academic-writing/import/surgical-pathology-clinics"
+  },
+  "next": {
+    "title": "swedish-legal-swedish",
+    "permalink": "/support/docs/academic-writing/import/swedish-legal-swedish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-febs-journal",
+  "id": "academic-writing/import/the-febs-journal",
+  "isDocsHomePage": false,
+  "title": "the-febs-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-febs-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-febs-journal",
+  "permalink": "/support/docs/academic-writing/import/the-febs-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-febs-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-faseb-journal",
+    "permalink": "/support/docs/academic-writing/import/the-faseb-journal"
+  },
+  "next": {
+    "title": "the-geological-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/the-geological-society-of-america"
+  }
+}

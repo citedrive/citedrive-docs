@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-management",
+  "id": "academic-writing/citation-style/journal-of-management",
+  "isDocsHomePage": false,
+  "title": "journal-of-management",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-management.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-management",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-management-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-management-studies"
+  },
+  "next": {
+    "title": "journal-of-materials-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-materials-research"
+  }
+}

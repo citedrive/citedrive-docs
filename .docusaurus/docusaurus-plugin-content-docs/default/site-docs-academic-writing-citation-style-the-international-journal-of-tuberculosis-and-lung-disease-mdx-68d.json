@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease",
+  "id": "academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease",
+  "isDocsHomePage": false,
+  "title": "the-international-journal-of-tuberculosis-and-lung-disease",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease",
+  "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-international-journal-of-psychoanalysis",
+    "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis"
+  },
+  "next": {
+    "title": "the-isme-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-isme-journal"
+  }
+}

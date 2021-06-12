@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-for-philosophy-of-religion",
+  "id": "academic-writing/citation-style/european-journal-for-philosophy-of-religion",
+  "isDocsHomePage": false,
+  "title": "european-journal-for-philosophy-of-religion",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-for-philosophy-of-religion",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-cells-and-materials",
+    "permalink": "/support/docs/academic-writing/citation-style/european-cells-and-materials"
+  },
+  "next": {
+    "title": "european-journal-of-anaesthesiology",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-anaesthesiology"
+  }
+}

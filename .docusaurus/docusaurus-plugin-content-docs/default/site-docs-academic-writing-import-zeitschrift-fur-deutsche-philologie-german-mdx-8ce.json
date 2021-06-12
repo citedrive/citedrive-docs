@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-deutsche-philologie-german",
+  "id": "academic-writing/import/zeitschrift-fur-deutsche-philologie-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-deutsche-philologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-deutsche-philologie-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-deutsche-philologie-german",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-deutsche-philologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-deutsche-philologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-antikes-christentum-journal-of-ancient-christianity-english"
+  },
+  "next": {
+    "title": "zeitschrift-fur-digitale-geisteswissenschaften-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-digitale-geisteswissenschaften-german"
+  }
+}

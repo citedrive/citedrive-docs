@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-canadian-journal-of-psychiatry",
+  "id": "academic-writing/import/the-canadian-journal-of-psychiatry",
+  "isDocsHomePage": false,
+  "title": "the-canadian-journal-of-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-canadian-journal-of-psychiatry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-canadian-journal-of-psychiatry",
+  "permalink": "/support/docs/academic-writing/import/the-canadian-journal-of-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-canadian-journal-of-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-canadian-journal-of-chemical-engineering",
+    "permalink": "/support/docs/academic-writing/import/the-canadian-journal-of-chemical-engineering"
+  },
+  "next": {
+    "title": "the-cancer-journal",
+    "permalink": "/support/docs/academic-writing/import/the-cancer-journal"
+  }
+}

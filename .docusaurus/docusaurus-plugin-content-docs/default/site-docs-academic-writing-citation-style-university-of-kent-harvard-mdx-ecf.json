@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-kent--harvard",
+  "id": "academic-writing/citation-style/university-of-kent--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-kent--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-kent--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-kent--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-kent--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-kent--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-greenwich--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-greenwich--harvard"
+  },
+  "next": {
+    "title": "university-of-leeds--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-leeds--harvard"
+  }
+}

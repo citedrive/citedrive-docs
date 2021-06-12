@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cranfield-university--harvard",
+  "id": "academic-writing/import/cranfield-university--harvard",
+  "isDocsHomePage": false,
+  "title": "cranfield-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cranfield-university--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cranfield-university--harvard",
+  "permalink": "/support/docs/academic-writing/import/cranfield-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cranfield-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "coventry-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/coventry-university--harvard"
+  },
+  "next": {
+    "title": "cranfield-university-numeric",
+    "permalink": "/support/docs/academic-writing/import/cranfield-university-numeric"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cell-transplantation",
+  "id": "academic-writing/import/cell-transplantation",
+  "isDocsHomePage": false,
+  "title": "cell-transplantation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cell-transplantation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cell-transplantation",
+  "permalink": "/support/docs/academic-writing/import/cell-transplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cell-transplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell-structure-and-function",
+    "permalink": "/support/docs/academic-writing/import/cell-structure-and-function"
+  },
+  "next": {
+    "title": "cell",
+    "permalink": "/support/docs/academic-writing/import/cell"
+  }
+}

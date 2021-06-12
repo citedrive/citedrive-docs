@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/spandidos-publications",
+  "id": "academic-writing/import/spandidos-publications",
+  "isDocsHomePage": false,
+  "title": "spandidos-publications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/spandidos-publications.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/spandidos-publications",
+  "permalink": "/support/docs/academic-writing/import/spandidos-publications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/spandidos-publications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soziologiemagazin-german",
+    "permalink": "/support/docs/academic-writing/import/soziologiemagazin-german"
+  },
+  "next": {
+    "title": "spanish-legal-spanish",
+    "permalink": "/support/docs/academic-writing/import/spanish-legal-spanish"
+  }
+}

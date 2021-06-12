@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/anglia-ruskin-university--harvard",
+  "id": "academic-writing/citation-style/anglia-ruskin-university--harvard",
+  "isDocsHomePage": false,
+  "title": "anglia-ruskin-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/anglia-ruskin-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/anglia-ruskin-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/anglia-ruskin-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anglia-ruskin-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "angiologia-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/angiologia-spanish"
+  },
+  "next": {
+    "title": "anglia",
+    "permalink": "/support/docs/academic-writing/citation-style/anglia"
+  }
+}

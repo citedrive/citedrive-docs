@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pontifical-gregorian-university-italian",
+  "id": "academic-writing/import/pontifical-gregorian-university-italian",
+  "isDocsHomePage": false,
+  "title": "pontifical-gregorian-university-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pontifical-gregorian-university-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pontifical-gregorian-university-italian",
+  "permalink": "/support/docs/academic-writing/import/pontifical-gregorian-university-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pontifical-gregorian-university-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pontifical-biblical-institute",
+    "permalink": "/support/docs/academic-writing/import/pontifical-biblical-institute"
+  },
+  "next": {
+    "title": "pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+    "permalink": "/support/docs/academic-writing/import/pontificia-universidad-catolica-del-ecuador-spanish--harvard"
+  }
+}

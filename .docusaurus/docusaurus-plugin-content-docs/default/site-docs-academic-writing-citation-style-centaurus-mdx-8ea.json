@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/centaurus",
+  "id": "academic-writing/citation-style/centaurus",
+  "isDocsHomePage": false,
+  "title": "centaurus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/centaurus.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/centaurus",
+  "permalink": "/support/docs/academic-writing/citation-style/centaurus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/centaurus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cellular-reprogramming",
+    "permalink": "/support/docs/academic-writing/citation-style/cellular-reprogramming"
+  },
+  "next": {
+    "title": "centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french",
+    "permalink": "/support/docs/academic-writing/citation-style/centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french"
+  }
+}

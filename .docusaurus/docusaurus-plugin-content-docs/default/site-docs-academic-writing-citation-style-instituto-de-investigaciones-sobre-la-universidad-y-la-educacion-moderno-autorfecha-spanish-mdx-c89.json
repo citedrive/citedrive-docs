@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+  "id": "academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+  "isDocsHomePage": false,
+  "title": "instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa"
+  },
+  "next": {
+    "title": "instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil"
+  }
+}

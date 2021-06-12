@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/drug-development-research",
+  "id": "academic-writing/citation-style/drug-development-research",
+  "isDocsHomePage": false,
+  "title": "drug-development-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/drug-development-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/drug-development-research",
+  "permalink": "/support/docs/academic-writing/citation-style/drug-development-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/drug-development-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "documents-darcheologie-francaise-french",
+    "permalink": "/support/docs/academic-writing/citation-style/documents-darcheologie-francaise-french"
+  },
+  "next": {
+    "title": "drug-testing-and-analysis",
+    "permalink": "/support/docs/academic-writing/citation-style/drug-testing-and-analysis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/urological-science",
+  "id": "academic-writing/citation-style/urological-science",
+  "isDocsHomePage": false,
+  "title": "urological-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/urological-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/urological-science",
+  "permalink": "/support/docs/academic-writing/citation-style/urological-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/urological-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urbani-izziv-urban-challenge-slovenian",
+    "permalink": "/support/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-slovenian"
+  },
+  "next": {
+    "title": "us-geological-survey",
+    "permalink": "/support/docs/academic-writing/citation-style/us-geological-survey"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/kidney-research-and-clinical-practice",
+  "id": "academic-writing/citation-style/kidney-research-and-clinical-practice",
+  "isDocsHomePage": false,
+  "title": "kidney-research-and-clinical-practice",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/kidney-research-and-clinical-practice.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/kidney-research-and-clinical-practice",
+  "permalink": "/support/docs/academic-writing/citation-style/kidney-research-and-clinical-practice",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/kidney-research-and-clinical-practice.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "keel-ja-kirjandus-estonian",
+    "permalink": "/support/docs/academic-writing/citation-style/keel-ja-kirjandus-estonian"
+  },
+  "next": {
+    "title": "kindheit-und-entwicklung",
+    "permalink": "/support/docs/academic-writing/citation-style/kindheit-und-entwicklung"
+  }
+}

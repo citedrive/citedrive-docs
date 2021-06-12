@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chinese-journal-of-aeronautics",
+  "id": "academic-writing/citation-style/chinese-journal-of-aeronautics",
+  "isDocsHomePage": false,
+  "title": "chinese-journal-of-aeronautics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chinese-journal-of-aeronautics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chinese-journal-of-aeronautics",
+  "permalink": "/support/docs/academic-writing/citation-style/chinese-journal-of-aeronautics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chinese-journal-of-aeronautics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "china-national-standard-gbt-77142015-numeric-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/china-national-standard-gbt-77142015-numeric-chinese"
+  },
+  "next": {
+    "title": "chinese-medical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/chinese-medical-journal"
+  }
+}

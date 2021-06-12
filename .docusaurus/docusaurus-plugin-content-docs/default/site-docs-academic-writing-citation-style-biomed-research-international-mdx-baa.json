@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biomed-research-international",
+  "id": "academic-writing/citation-style/biomed-research-international",
+  "isDocsHomePage": false,
+  "title": "biomed-research-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biomed-research-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biomed-research-international",
+  "permalink": "/support/docs/academic-writing/citation-style/biomed-research-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biomed-research-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biomed-central",
+    "permalink": "/support/docs/academic-writing/citation-style/biomed-central"
+  },
+  "next": {
+    "title": "biometrics",
+    "permalink": "/support/docs/academic-writing/citation-style/biometrics"
+  }
+}

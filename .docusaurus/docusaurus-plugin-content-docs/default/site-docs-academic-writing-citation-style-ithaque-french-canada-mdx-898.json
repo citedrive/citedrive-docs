@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ithaque-french--canada",
+  "id": "academic-writing/citation-style/ithaque-french--canada",
+  "isDocsHomePage": false,
+  "title": "ithaque-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ithaque-french--canada.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ithaque-french--canada",
+  "permalink": "/support/docs/academic-writing/citation-style/ithaque-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ithaque-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "italus-hortus",
+    "permalink": "/support/docs/academic-writing/citation-style/italus-hortus"
+  },
+  "next": {
+    "title": "iubmb-life",
+    "permalink": "/support/docs/academic-writing/citation-style/iubmb-life"
+  }
+}

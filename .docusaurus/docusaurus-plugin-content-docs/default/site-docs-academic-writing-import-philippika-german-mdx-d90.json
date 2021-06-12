@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/philippika-german",
+  "id": "academic-writing/import/philippika-german",
+  "isDocsHomePage": false,
+  "title": "philippika-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/philippika-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/philippika-german",
+  "permalink": "/support/docs/academic-writing/import/philippika-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/philippika-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pharmacoepidemiology-and-drug-safety",
+    "permalink": "/support/docs/academic-writing/import/pharmacoepidemiology-and-drug-safety"
+  },
+  "next": {
+    "title": "philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+    "permalink": "/support/docs/academic-writing/import/philippsuniversitat-marburg--erziehungswissenschaften-note-german"
+  }
+}

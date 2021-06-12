@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-foraminiferal-research",
+  "id": "academic-writing/import/journal-of-foraminiferal-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-foraminiferal-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-foraminiferal-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-foraminiferal-research",
+  "permalink": "/support/docs/academic-writing/import/journal-of-foraminiferal-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-foraminiferal-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-food-protection",
+    "permalink": "/support/docs/academic-writing/import/journal-of-food-protection"
+  },
+  "next": {
+    "title": "journal-of-forensic-sciences",
+    "permalink": "/support/docs/academic-writing/import/journal-of-forensic-sciences"
+  }
+}

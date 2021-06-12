@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/population-french",
+  "id": "academic-writing/import/population-french",
+  "isDocsHomePage": false,
+  "title": "population-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/population-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/population-french",
+  "permalink": "/support/docs/academic-writing/import/population-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/population-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pontificia-universidad-catolica-del-ecuador-spanish--harvard",
+    "permalink": "/support/docs/academic-writing/import/pontificia-universidad-catolica-del-ecuador-spanish--harvard"
+  },
+  "next": {
+    "title": "population-space-and-place",
+    "permalink": "/support/docs/academic-writing/import/population-space-and-place"
+  }
+}

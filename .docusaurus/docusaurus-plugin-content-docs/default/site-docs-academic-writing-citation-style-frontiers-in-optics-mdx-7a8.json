@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/frontiers-in-optics",
+  "id": "academic-writing/citation-style/frontiers-in-optics",
+  "isDocsHomePage": false,
+  "title": "frontiers-in-optics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/frontiers-in-optics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/frontiers-in-optics",
+  "permalink": "/support/docs/academic-writing/citation-style/frontiers-in-optics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/frontiers-in-optics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-in-ecology-and-the-environment",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-in-ecology-and-the-environment"
+  },
+  "next": {
+    "title": "frontiers-in-physics",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-in-physics"
+  }
+}

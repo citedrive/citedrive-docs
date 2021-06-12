@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/karger-journals",
+  "id": "academic-writing/citation-style/karger-journals",
+  "isDocsHomePage": false,
+  "title": "karger-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/karger-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/karger-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/karger-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/karger-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karger-journals-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/karger-journals-authordate"
+  },
+  "next": {
+    "title": "karlstad-universitet--harvard-swedish",
+    "permalink": "/support/docs/academic-writing/citation-style/karlstad-universitet--harvard-swedish"
+  }
+}

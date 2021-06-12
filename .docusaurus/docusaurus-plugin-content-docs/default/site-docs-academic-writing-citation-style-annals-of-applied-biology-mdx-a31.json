@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annals-of-applied-biology",
+  "id": "academic-writing/citation-style/annals-of-applied-biology",
+  "isDocsHomePage": false,
+  "title": "annals-of-applied-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annals-of-applied-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annals-of-applied-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/annals-of-applied-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-applied-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annales-histoire-sciences-sociales-french",
+    "permalink": "/support/docs/academic-writing/citation-style/annales-histoire-sciences-sociales-french"
+  },
+  "next": {
+    "title": "annals-of-behavioral-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-behavioral-medicine"
+  }
+}

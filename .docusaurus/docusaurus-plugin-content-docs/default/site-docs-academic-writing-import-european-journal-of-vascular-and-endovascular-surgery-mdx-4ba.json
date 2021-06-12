@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-journal-of-vascular-and-endovascular-surgery",
+  "id": "academic-writing/import/european-journal-of-vascular-and-endovascular-surgery",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-vascular-and-endovascular-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-journal-of-vascular-and-endovascular-surgery.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-journal-of-vascular-and-endovascular-surgery",
+  "permalink": "/support/docs/academic-writing/import/european-journal-of-vascular-and-endovascular-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-journal-of-vascular-and-endovascular-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-ultrasound-ultraschall-in-der-medizin",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-ultrasound-ultraschall-in-der-medizin"
+  },
+  "next": {
+    "title": "european-respiratory-journal",
+    "permalink": "/support/docs/academic-writing/import/european-respiratory-journal"
+  }
+}

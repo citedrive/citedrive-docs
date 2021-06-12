@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+  "id": "academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+  "isDocsHomePage": false,
+  "title": "universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+  "permalink": "/support/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-libre-de-bruxelles--histoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-libre-de-bruxelles--histoire-french"
+  },
+  "next": {
+    "title": "universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+    "permalink": "/support/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch"
+  }
+}

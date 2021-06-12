@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/yeast",
+  "id": "academic-writing/import/yeast",
+  "isDocsHomePage": false,
+  "title": "yeast",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/yeast.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/yeast",
+  "permalink": "/support/docs/academic-writing/import/yeast",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/yeast.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xenotransplantation",
+    "permalink": "/support/docs/academic-writing/import/xenotransplantation"
+  },
+  "next": {
+    "title": "york-st-john-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/york-st-john-university--harvard"
+  }
+}

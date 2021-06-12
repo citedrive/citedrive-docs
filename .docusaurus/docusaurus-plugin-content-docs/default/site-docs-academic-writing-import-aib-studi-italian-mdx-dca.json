@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aib-studi-italian",
+  "id": "academic-writing/import/aib-studi-italian",
+  "isDocsHomePage": false,
+  "title": "aib-studi-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aib-studi-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aib-studi-italian",
+  "permalink": "/support/docs/academic-writing/import/aib-studi-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aib-studi-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "agriculturae-conspectus-scientificus",
+    "permalink": "/support/docs/academic-writing/import/agriculturae-conspectus-scientificus"
+  },
+  "next": {
+    "title": "aids",
+    "permalink": "/support/docs/academic-writing/import/aids"
+  }
+}

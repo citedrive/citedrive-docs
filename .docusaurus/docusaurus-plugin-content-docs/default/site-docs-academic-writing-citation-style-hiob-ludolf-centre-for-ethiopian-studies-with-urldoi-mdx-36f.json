@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+  "id": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+  "isDocsHomePage": false,
+  "title": "hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+  "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
+    "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names"
+  },
+  "next": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies"
+  }
+}

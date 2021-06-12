@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/archeologicke-rozhledy",
+  "id": "academic-writing/citation-style/archeologicke-rozhledy",
+  "isDocsHomePage": false,
+  "title": "archeologicke-rozhledy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/archeologicke-rozhledy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/archeologicke-rozhledy",
+  "permalink": "/support/docs/academic-writing/citation-style/archeologicke-rozhledy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archeologicke-rozhledy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeologia-classica-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologia-classica-italian"
+  },
+  "next": {
+    "title": "archeologie-medievale-french",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologie-medievale-french"
+  }
+}

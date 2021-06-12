@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mimesis-edizioni-italian",
+  "id": "academic-writing/import/mimesis-edizioni-italian",
+  "isDocsHomePage": false,
+  "title": "mimesis-edizioni-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mimesis-edizioni-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mimesis-edizioni-italian",
+  "permalink": "/support/docs/academic-writing/import/mimesis-edizioni-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mimesis-edizioni-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mimbar-hukum",
+    "permalink": "/support/docs/academic-writing/import/mimbar-hukum"
+  },
+  "next": {
+    "title": "mind-and-language",
+    "permalink": "/support/docs/academic-writing/import/mind-and-language"
+  }
+}

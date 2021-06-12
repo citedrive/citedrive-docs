@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/gigascience",
+  "id": "academic-writing/citation-style/gigascience",
+  "isDocsHomePage": false,
+  "title": "gigascience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/gigascience.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/gigascience",
+  "permalink": "/support/docs/academic-writing/citation-style/gigascience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gigascience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gewerblicher-rechtsschutz-und-urheberrecht-german",
+    "permalink": "/support/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german"
+  },
+  "next": {
+    "title": "global-ecology-and-biogeography",
+    "permalink": "/support/docs/academic-writing/citation-style/global-ecology-and-biogeography"
+  }
+}

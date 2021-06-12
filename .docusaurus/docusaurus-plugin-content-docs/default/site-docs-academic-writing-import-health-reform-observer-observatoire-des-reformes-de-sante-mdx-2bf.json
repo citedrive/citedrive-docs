@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante",
+  "id": "academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante",
+  "isDocsHomePage": false,
+  "title": "health-reform-observer--observatoire-des-reformes-de-sante",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante",
+  "permalink": "/support/docs/academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/health-reform-observer--observatoire-des-reformes-de-sante.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-policy-and-planning",
+    "permalink": "/support/docs/academic-writing/import/health-policy-and-planning"
+  },
+  "next": {
+    "title": "heart-failure-clinics",
+    "permalink": "/support/docs/academic-writing/import/heart-failure-clinics"
+  }
+}

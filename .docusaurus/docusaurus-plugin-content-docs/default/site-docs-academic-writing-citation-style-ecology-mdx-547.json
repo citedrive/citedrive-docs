@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ecology",
+  "id": "academic-writing/citation-style/ecology",
+  "isDocsHomePage": false,
+  "title": "ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ecology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ecology",
+  "permalink": "/support/docs/academic-writing/citation-style/ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology-of-freshwater-fish",
+    "permalink": "/support/docs/academic-writing/citation-style/ecology-of-freshwater-fish"
+  },
+  "next": {
+    "title": "econometrica",
+    "permalink": "/support/docs/academic-writing/citation-style/econometrica"
+  }
+}

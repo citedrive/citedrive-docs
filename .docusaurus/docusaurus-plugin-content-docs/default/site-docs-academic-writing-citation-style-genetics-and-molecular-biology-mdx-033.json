@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/genetics-and-molecular-biology",
+  "id": "academic-writing/citation-style/genetics-and-molecular-biology",
+  "isDocsHomePage": false,
+  "title": "genetics-and-molecular-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/genetics-and-molecular-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/genetics-and-molecular-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/genetics-and-molecular-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genetics-and-molecular-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geneses-sciences-sociales-et-histoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/geneses-sciences-sociales-et-histoire-french"
+  },
+  "next": {
+    "title": "genetics",
+    "permalink": "/support/docs/academic-writing/citation-style/genetics"
+  }
+}

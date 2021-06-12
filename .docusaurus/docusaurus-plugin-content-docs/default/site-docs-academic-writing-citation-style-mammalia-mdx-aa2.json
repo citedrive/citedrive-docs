@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mammalia",
+  "id": "academic-writing/citation-style/mammalia",
+  "isDocsHomePage": false,
+  "title": "mammalia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mammalia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mammalia",
+  "permalink": "/support/docs/academic-writing/citation-style/mammalia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mammalia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mammal-review",
+    "permalink": "/support/docs/academic-writing/citation-style/mammal-review"
+  },
+  "next": {
+    "title": "mammalogy-notes",
+    "permalink": "/support/docs/academic-writing/citation-style/mammalogy-notes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-college-lilleblt--apa-danish",
+  "id": "academic-writing/import/university-college-lilleblt--apa-danish",
+  "isDocsHomePage": false,
+  "title": "university-college-lilleblt--apa-danish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-college-lilleblt--apa-danish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-college-lilleblt--apa-danish",
+  "permalink": "/support/docs/academic-writing/import/university-college-lilleblt--apa-danish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-college-lilleblt--apa-danish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-college-dublin--school-of-history-and-archives",
+    "permalink": "/support/docs/academic-writing/import/university-college-dublin--school-of-history-and-archives"
+  },
+  "next": {
+    "title": "university-for-the-creative-arts--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-for-the-creative-arts--harvard"
+  }
+}

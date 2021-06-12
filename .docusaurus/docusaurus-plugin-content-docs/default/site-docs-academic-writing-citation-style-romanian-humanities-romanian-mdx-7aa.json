@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/romanian-humanities-romanian",
+  "id": "academic-writing/citation-style/romanian-humanities-romanian",
+  "isDocsHomePage": false,
+  "title": "romanian-humanities-romanian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/romanian-humanities-romanian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/romanian-humanities-romanian",
+  "permalink": "/support/docs/academic-writing/citation-style/romanian-humanities-romanian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/romanian-humanities-romanian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+    "permalink": "/support/docs/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren"
+  },
+  "next": {
+    "title": "rose-school",
+    "permalink": "/support/docs/academic-writing/citation-style/rose-school"
+  }
+}

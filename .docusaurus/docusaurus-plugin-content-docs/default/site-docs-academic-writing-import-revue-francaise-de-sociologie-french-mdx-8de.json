@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revue-francaise-de-sociologie-french",
+  "id": "academic-writing/import/revue-francaise-de-sociologie-french",
+  "isDocsHomePage": false,
+  "title": "revue-francaise-de-sociologie-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revue-francaise-de-sociologie-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revue-francaise-de-sociologie-french",
+  "permalink": "/support/docs/academic-writing/import/revue-francaise-de-sociologie-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revue-francaise-de-sociologie-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-francaise-de-gestion-french",
+    "permalink": "/support/docs/academic-writing/import/revue-francaise-de-gestion-french"
+  },
+  "next": {
+    "title": "rhinology",
+    "permalink": "/support/docs/academic-writing/import/rhinology"
+  }
+}

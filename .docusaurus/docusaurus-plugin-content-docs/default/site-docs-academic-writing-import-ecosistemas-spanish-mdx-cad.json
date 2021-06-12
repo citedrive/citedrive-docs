@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ecosistemas-spanish",
+  "id": "academic-writing/import/ecosistemas-spanish",
+  "isDocsHomePage": false,
+  "title": "ecosistemas-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ecosistemas-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ecosistemas-spanish",
+  "permalink": "/support/docs/academic-writing/import/ecosistemas-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ecosistemas-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecoscience",
+    "permalink": "/support/docs/academic-writing/import/ecoscience"
+  },
+  "next": {
+    "title": "ecosystems",
+    "permalink": "/support/docs/academic-writing/import/ecosystems"
+  }
+}

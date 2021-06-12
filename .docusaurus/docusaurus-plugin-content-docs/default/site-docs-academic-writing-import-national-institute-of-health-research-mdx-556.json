@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/national-institute-of-health-research",
+  "id": "academic-writing/import/national-institute-of-health-research",
+  "isDocsHomePage": false,
+  "title": "national-institute-of-health-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/national-institute-of-health-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/national-institute-of-health-research",
+  "permalink": "/support/docs/academic-writing/import/national-institute-of-health-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/national-institute-of-health-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-archives-of-australia",
+    "permalink": "/support/docs/academic-writing/import/national-archives-of-australia"
+  },
+  "next": {
+    "title": "national-institute-of-organisation-dynamics-australia--harvard",
+    "permalink": "/support/docs/academic-writing/import/national-institute-of-organisation-dynamics-australia--harvard"
+  }
+}

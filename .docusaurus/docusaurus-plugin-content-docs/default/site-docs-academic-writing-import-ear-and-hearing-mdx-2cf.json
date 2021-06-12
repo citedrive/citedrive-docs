@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ear-and-hearing",
+  "id": "academic-writing/import/ear-and-hearing",
+  "isDocsHomePage": false,
+  "title": "ear-and-hearing",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ear-and-hearing.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ear-and-hearing",
+  "permalink": "/support/docs/academic-writing/import/ear-and-hearing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ear-and-hearing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "e3s-web-of-conferences",
+    "permalink": "/support/docs/academic-writing/import/e3s-web-of-conferences"
+  },
+  "next": {
+    "title": "early-christianity",
+    "permalink": "/support/docs/academic-writing/import/early-christianity"
+  }
+}

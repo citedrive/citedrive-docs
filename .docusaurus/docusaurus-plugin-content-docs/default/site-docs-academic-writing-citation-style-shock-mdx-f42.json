@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/shock",
+  "id": "academic-writing/citation-style/shock",
+  "isDocsHomePage": false,
+  "title": "shock",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/shock.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/shock",
+  "permalink": "/support/docs/academic-writing/citation-style/shock",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/shock.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sheffield-hallam-university--history",
+    "permalink": "/support/docs/academic-writing/citation-style/sheffield-hallam-university--history"
+  },
+  "next": {
+    "title": "sist02-japanese",
+    "permalink": "/support/docs/academic-writing/citation-style/sist02-japanese"
+  }
+}

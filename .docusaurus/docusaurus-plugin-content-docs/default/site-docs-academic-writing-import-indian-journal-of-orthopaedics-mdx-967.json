@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/indian-journal-of-orthopaedics",
+  "id": "academic-writing/import/indian-journal-of-orthopaedics",
+  "isDocsHomePage": false,
+  "title": "indian-journal-of-orthopaedics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/indian-journal-of-orthopaedics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/indian-journal-of-orthopaedics",
+  "permalink": "/support/docs/academic-writing/import/indian-journal-of-orthopaedics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/indian-journal-of-orthopaedics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indian-journal-of-medical-research",
+    "permalink": "/support/docs/academic-writing/import/indian-journal-of-medical-research"
+  },
+  "next": {
+    "title": "indian-journal-of-physics",
+    "permalink": "/support/docs/academic-writing/import/indian-journal-of-physics"
+  }
+}

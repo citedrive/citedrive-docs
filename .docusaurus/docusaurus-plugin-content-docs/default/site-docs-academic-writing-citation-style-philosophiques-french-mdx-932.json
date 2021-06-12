@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/philosophiques-french",
+  "id": "academic-writing/citation-style/philosophiques-french",
+  "isDocsHomePage": false,
+  "title": "philosophiques-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/philosophiques-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/philosophiques-french",
+  "permalink": "/support/docs/academic-writing/citation-style/philosophiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/philosophiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philosophia-scienti",
+    "permalink": "/support/docs/academic-writing/citation-style/philosophia-scienti"
+  },
+  "next": {
+    "title": "philosophy-and-public-affairs",
+    "permalink": "/support/docs/academic-writing/citation-style/philosophy-and-public-affairs"
+  }
+}

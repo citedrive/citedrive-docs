@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-sport-medicine",
+  "id": "academic-writing/import/international-journal-of-sport-medicine",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-sport-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-sport-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-sport-medicine",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-sport-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-sport-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-spatial-data-infrastructures-research",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-spatial-data-infrastructures-research"
+  },
+  "next": {
+    "title": "international-journal-of-urban-and-regional-research",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-urban-and-regional-research"
+  }
+}

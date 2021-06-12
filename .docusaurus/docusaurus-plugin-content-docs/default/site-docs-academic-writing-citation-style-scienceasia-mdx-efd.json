@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/scienceasia",
+  "id": "academic-writing/citation-style/scienceasia",
+  "isDocsHomePage": false,
+  "title": "scienceasia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/scienceasia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/scienceasia",
+  "permalink": "/support/docs/academic-writing/citation-style/scienceasia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scienceasia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science",
+    "permalink": "/support/docs/academic-writing/citation-style/science"
+  },
+  "next": {
+    "title": "sciences-po--ecole-doctorale-authordate-french",
+    "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french"
+  }
+}

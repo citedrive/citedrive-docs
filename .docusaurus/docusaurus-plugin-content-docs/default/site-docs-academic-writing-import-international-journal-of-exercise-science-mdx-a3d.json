@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-exercise-science",
+  "id": "academic-writing/import/international-journal-of-exercise-science",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-exercise-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-exercise-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-exercise-science",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-exercise-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-exercise-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-epidemiology",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-epidemiology"
+  },
+  "next": {
+    "title": "international-journal-of-food-science-and-technology",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-food-science-and-technology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pain",
+  "id": "academic-writing/import/pain",
+  "isDocsHomePage": false,
+  "title": "pain",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pain.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pain",
+  "permalink": "/support/docs/academic-writing/import/pain",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pain.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "paediatric-and-perinatal-epidemiology",
+    "permalink": "/support/docs/academic-writing/import/paediatric-and-perinatal-epidemiology"
+  },
+  "next": {
+    "title": "pakistan-journal-of-agricultural-sciences",
+    "permalink": "/support/docs/academic-writing/import/pakistan-journal-of-agricultural-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-new-england-journal-of-medicine",
+  "id": "academic-writing/import/the-new-england-journal-of-medicine",
+  "isDocsHomePage": false,
+  "title": "the-new-england-journal-of-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-new-england-journal-of-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-new-england-journal-of-medicine",
+  "permalink": "/support/docs/academic-writing/import/the-new-england-journal-of-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-new-england-journal-of-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-neuroscientist",
+    "permalink": "/support/docs/academic-writing/import/the-neuroscientist"
+  },
+  "next": {
+    "title": "the-oncologist",
+    "permalink": "/support/docs/academic-writing/import/the-oncologist"
+  }
+}

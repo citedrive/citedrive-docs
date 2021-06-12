@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/representation",
+  "id": "academic-writing/citation-style/representation",
+  "isDocsHomePage": false,
+  "title": "representation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/representation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/representation",
+  "permalink": "/support/docs/academic-writing/citation-style/representation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/representation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reports-of-practical-oncology-and-radiotherapy",
+    "permalink": "/support/docs/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy"
+  },
+  "next": {
+    "title": "reproduction-fertility-and-development",
+    "permalink": "/support/docs/academic-writing/citation-style/reproduction-fertility-and-development"
+  }
+}

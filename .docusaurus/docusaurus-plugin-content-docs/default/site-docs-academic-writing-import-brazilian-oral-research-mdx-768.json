@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/brazilian-oral-research",
+  "id": "academic-writing/import/brazilian-oral-research",
+  "isDocsHomePage": false,
+  "title": "brazilian-oral-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/brazilian-oral-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/brazilian-oral-research",
+  "permalink": "/support/docs/academic-writing/import/brazilian-oral-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/brazilian-oral-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brazilian-journal-of-infectious-diseases",
+    "permalink": "/support/docs/academic-writing/import/brazilian-journal-of-infectious-diseases"
+  },
+  "next": {
+    "title": "brewingscience",
+    "permalink": "/support/docs/academic-writing/import/brewingscience"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french",
+  "id": "academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french",
+  "isDocsHomePage": false,
+  "title": "revue-archeologique-du-centre-de-la-france-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french",
+  "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-archeologique-de-lest-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-de-lest-french"
+  },
+  "next": {
+    "title": "revue-archeologique-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-french"
+  }
+}

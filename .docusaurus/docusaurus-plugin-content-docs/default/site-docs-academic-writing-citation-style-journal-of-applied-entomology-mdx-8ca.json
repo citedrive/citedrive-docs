@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-applied-entomology",
+  "id": "academic-writing/citation-style/journal-of-applied-entomology",
+  "isDocsHomePage": false,
+  "title": "journal-of-applied-entomology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-applied-entomology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-applied-entomology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-entomology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-applied-entomology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-applied-clinical-medical-physics",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-clinical-medical-physics"
+  },
+  "next": {
+    "title": "journal-of-applied-pharmaceutical-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-pharmaceutical-research"
+  }
+}

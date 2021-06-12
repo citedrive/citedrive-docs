@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/reproduction",
+  "id": "academic-writing/import/reproduction",
+  "isDocsHomePage": false,
+  "title": "reproduction",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/reproduction.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/reproduction",
+  "permalink": "/support/docs/academic-writing/import/reproduction",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/reproduction.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reproduction-fertility-and-development",
+    "permalink": "/support/docs/academic-writing/import/reproduction-fertility-and-development"
+  },
+  "next": {
+    "title": "research-and-education-promotion-association",
+    "permalink": "/support/docs/academic-writing/import/research-and-education-promotion-association"
+  }
+}

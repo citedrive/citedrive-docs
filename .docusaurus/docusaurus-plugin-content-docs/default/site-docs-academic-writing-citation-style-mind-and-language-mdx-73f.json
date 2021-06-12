@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mind-and-language",
+  "id": "academic-writing/citation-style/mind-and-language",
+  "isDocsHomePage": false,
+  "title": "mind-and-language",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mind-and-language.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mind-and-language",
+  "permalink": "/support/docs/academic-writing/citation-style/mind-and-language",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mind-and-language.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mimesis-edizioni-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian"
+  },
+  "next": {
+    "title": "mineralogical-magazine",
+    "permalink": "/support/docs/academic-writing/citation-style/mineralogical-magazine"
+  }
+}

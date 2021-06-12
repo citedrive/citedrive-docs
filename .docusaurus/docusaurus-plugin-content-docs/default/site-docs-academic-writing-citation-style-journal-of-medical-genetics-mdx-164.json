@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-medical-genetics",
+  "id": "academic-writing/citation-style/journal-of-medical-genetics",
+  "isDocsHomePage": false,
+  "title": "journal-of-medical-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-medical-genetics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-medical-genetics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-medical-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-medical-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-mechanical-science-and-technology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-mechanical-science-and-technology"
+  },
+  "next": {
+    "title": "journal-of-medical-internet-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-medical-internet-research"
+  }
+}

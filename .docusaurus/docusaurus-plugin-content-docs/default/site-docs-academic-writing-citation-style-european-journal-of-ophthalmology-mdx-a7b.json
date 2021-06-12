@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-of-ophthalmology",
+  "id": "academic-writing/citation-style/european-journal-of-ophthalmology",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-ophthalmology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-of-ophthalmology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-of-ophthalmology",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-ophthalmology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-ophthalmology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-neuroscience",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-neuroscience"
+  },
+  "next": {
+    "title": "european-journal-of-paediatric-neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-paediatric-neurology"
+  }
+}

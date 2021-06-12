@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/vancouver-brackets-no-et-al",
+  "id": "academic-writing/import/vancouver-brackets-no-et-al",
+  "isDocsHomePage": false,
+  "title": "vancouver-brackets-no-et-al",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/vancouver-brackets-no-et-al.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/vancouver-brackets-no-et-al",
+  "permalink": "/support/docs/academic-writing/import/vancouver-brackets-no-et-al",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/vancouver-brackets-no-et-al.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-authordate",
+    "permalink": "/support/docs/academic-writing/import/vancouver-authordate"
+  },
+  "next": {
+    "title": "vancouver-brackets",
+    "permalink": "/support/docs/academic-writing/import/vancouver-brackets"
+  }
+}

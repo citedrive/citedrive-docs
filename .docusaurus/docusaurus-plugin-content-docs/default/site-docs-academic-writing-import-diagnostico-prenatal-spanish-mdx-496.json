@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/diagnostico-prenatal-spanish",
+  "id": "academic-writing/import/diagnostico-prenatal-spanish",
+  "isDocsHomePage": false,
+  "title": "diagnostico-prenatal-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/diagnostico-prenatal-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/diagnostico-prenatal-spanish",
+  "permalink": "/support/docs/academic-writing/import/diagnostico-prenatal-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/diagnostico-prenatal-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diabetologia",
+    "permalink": "/support/docs/academic-writing/import/diabetologia"
+  },
+  "next": {
+    "title": "dialisis-y-trasplante-spanish",
+    "permalink": "/support/docs/academic-writing/import/dialisis-y-trasplante-spanish"
+  }
+}

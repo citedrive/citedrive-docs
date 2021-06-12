@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/thrombosis-and-haemostasis",
+  "id": "academic-writing/citation-style/thrombosis-and-haemostasis",
+  "isDocsHomePage": false,
+  "title": "thrombosis-and-haemostasis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/thrombosis-and-haemostasis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/thrombosis-and-haemostasis",
+  "permalink": "/support/docs/academic-writing/citation-style/thrombosis-and-haemostasis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/thrombosis-and-haemostasis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thomson-reuters--legal-tax-and-accounting-australia",
+    "permalink": "/support/docs/academic-writing/citation-style/thomson-reuters--legal-tax-and-accounting-australia"
+  },
+  "next": {
+    "title": "thyroid",
+    "permalink": "/support/docs/academic-writing/citation-style/thyroid"
+  }
+}

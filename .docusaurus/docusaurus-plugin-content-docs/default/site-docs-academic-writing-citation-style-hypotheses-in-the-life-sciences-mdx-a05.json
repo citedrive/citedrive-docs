@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hypotheses-in-the-life-sciences",
+  "id": "academic-writing/citation-style/hypotheses-in-the-life-sciences",
+  "isDocsHomePage": false,
+  "title": "hypotheses-in-the-life-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hypotheses-in-the-life-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hypotheses-in-the-life-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/hypotheses-in-the-life-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hypotheses-in-the-life-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hypertension-research",
+    "permalink": "/support/docs/academic-writing/citation-style/hypertension-research"
+  },
+  "next": {
+    "title": "ib-tauris-note",
+    "permalink": "/support/docs/academic-writing/citation-style/ib-tauris-note"
+  }
+}

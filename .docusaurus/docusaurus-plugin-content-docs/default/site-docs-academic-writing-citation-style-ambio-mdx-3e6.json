@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ambio",
+  "id": "academic-writing/citation-style/ambio",
+  "isDocsHomePage": false,
+  "title": "ambio",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ambio.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ambio",
+  "permalink": "/support/docs/academic-writing/citation-style/ambio",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ambio.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alternatives-to-animal-experimentation",
+    "permalink": "/support/docs/academic-writing/citation-style/alternatives-to-animal-experimentation"
+  },
+  "next": {
+    "title": "ameghiniana",
+    "permalink": "/support/docs/academic-writing/citation-style/ameghiniana"
+  }
+}

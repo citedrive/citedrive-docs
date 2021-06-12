@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
+  "id": "academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
+  "isDocsHomePage": false,
+  "title": "clinical-gastroenterology-and-hepatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-dysmorphology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-dysmorphology"
+  },
+  "next": {
+    "title": "clinical-hemorheology-and-microcirculation",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-hemorheology-and-microcirculation"
+  }
+}

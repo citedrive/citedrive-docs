@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biens-symboliques--symbolic-goods",
+  "id": "academic-writing/import/biens-symboliques--symbolic-goods",
+  "isDocsHomePage": false,
+  "title": "biens-symboliques--symbolic-goods",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biens-symboliques--symbolic-goods.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biens-symboliques--symbolic-goods",
+  "permalink": "/support/docs/academic-writing/import/biens-symboliques--symbolic-goods",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biens-symboliques--symbolic-goods.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bibtex-generic-citation-style",
+    "permalink": "/support/docs/academic-writing/import/bibtex-generic-citation-style"
+  },
+  "next": {
+    "title": "bioarchaeology-international",
+    "permalink": "/support/docs/academic-writing/import/bioarchaeology-international"
+  }
+}

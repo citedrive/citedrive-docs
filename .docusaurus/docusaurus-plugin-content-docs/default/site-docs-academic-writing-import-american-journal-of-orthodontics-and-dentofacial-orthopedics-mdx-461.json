@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "id": "academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "permalink": "/support/docs/academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-journal-of-orthodontics-and-dentofacial-orthopedics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-neuroradiology",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-neuroradiology"
+  },
+  "next": {
+    "title": "american-journal-of-plant-sciences",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-plant-sciences"
+  }
+}

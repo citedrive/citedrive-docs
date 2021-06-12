@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biotechniques",
+  "id": "academic-writing/citation-style/biotechniques",
+  "isDocsHomePage": false,
+  "title": "biotechniques",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biotechniques.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biotechniques",
+  "permalink": "/support/docs/academic-writing/citation-style/biotechniques",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biotechniques.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biota-neotropica",
+    "permalink": "/support/docs/academic-writing/citation-style/biota-neotropica"
+  },
+  "next": {
+    "title": "biotechnology-and-bioengineering",
+    "permalink": "/support/docs/academic-writing/citation-style/biotechnology-and-bioengineering"
+  }
+}

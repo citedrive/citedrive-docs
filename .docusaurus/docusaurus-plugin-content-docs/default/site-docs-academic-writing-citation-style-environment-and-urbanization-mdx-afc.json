@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/environment-and-urbanization",
+  "id": "academic-writing/citation-style/environment-and-urbanization",
+  "isDocsHomePage": false,
+  "title": "environment-and-urbanization",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/environment-and-urbanization.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/environment-and-urbanization",
+  "permalink": "/support/docs/academic-writing/citation-style/environment-and-urbanization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environment-and-urbanization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environment-and-planning",
+    "permalink": "/support/docs/academic-writing/citation-style/environment-and-planning"
+  },
+  "next": {
+    "title": "environmental-and-engineering-geoscience",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-and-engineering-geoscience"
+  }
+}

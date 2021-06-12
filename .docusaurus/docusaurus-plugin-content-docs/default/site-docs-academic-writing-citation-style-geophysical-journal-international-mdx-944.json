@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geophysical-journal-international",
+  "id": "academic-writing/citation-style/geophysical-journal-international",
+  "isDocsHomePage": false,
+  "title": "geophysical-journal-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geophysical-journal-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geophysical-journal-international",
+  "permalink": "/support/docs/academic-writing/citation-style/geophysical-journal-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geophysical-journal-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geological-magazine",
+    "permalink": "/support/docs/academic-writing/citation-style/geological-magazine"
+  },
+  "next": {
+    "title": "geophysics",
+    "permalink": "/support/docs/academic-writing/citation-style/geophysics"
+  }
+}

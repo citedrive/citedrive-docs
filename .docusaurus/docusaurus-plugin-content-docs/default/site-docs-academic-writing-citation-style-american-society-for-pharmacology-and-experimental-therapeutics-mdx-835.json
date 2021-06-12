@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
+  "id": "academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
+  "isDocsHomePage": false,
+  "title": "american-society-for-pharmacology-and-experimental-therapeutics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
+  "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-society-for-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology"
+  },
+  "next": {
+    "title": "american-society-of-agricultural-and-biological-engineers",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers"
+  }
+}

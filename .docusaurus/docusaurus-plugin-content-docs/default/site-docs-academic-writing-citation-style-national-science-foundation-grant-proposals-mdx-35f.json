@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/national-science-foundation-grant-proposals",
+  "id": "academic-writing/citation-style/national-science-foundation-grant-proposals",
+  "isDocsHomePage": false,
+  "title": "national-science-foundation-grant-proposals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/national-science-foundation-grant-proposals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/national-science-foundation-grant-proposals",
+  "permalink": "/support/docs/academic-writing/citation-style/national-science-foundation-grant-proposals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-science-foundation-grant-proposals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-natural-science-foundation-of-china-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/national-natural-science-foundation-of-china-chinese"
+  },
+  "next": {
+    "title": "national-university-of-singapore--department-of-geography--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/national-university-of-singapore--department-of-geography--harvard"
+  }
+}

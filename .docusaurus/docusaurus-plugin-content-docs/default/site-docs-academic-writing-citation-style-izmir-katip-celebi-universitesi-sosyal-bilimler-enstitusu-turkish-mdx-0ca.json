@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+  "id": "academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+  "isDocsHomePage": false,
+  "title": "izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+  "permalink": "/support/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ius-ecclesiae",
+    "permalink": "/support/docs/academic-writing/citation-style/ius-ecclesiae"
+  },
+  "next": {
+    "title": "jacc-cardiovascular-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-imaging"
+  }
+}

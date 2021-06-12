@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/optoelectronic-advances",
+  "id": "academic-writing/import/optoelectronic-advances",
+  "isDocsHomePage": false,
+  "title": "optoelectronic-advances",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/optoelectronic-advances.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/optoelectronic-advances",
+  "permalink": "/support/docs/academic-writing/import/optoelectronic-advances",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/optoelectronic-advances.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optics-letters",
+    "permalink": "/support/docs/academic-writing/import/optics-letters"
+  },
+  "next": {
+    "title": "optometry-and-vision-science",
+    "permalink": "/support/docs/academic-writing/import/optometry-and-vision-science"
+  }
+}

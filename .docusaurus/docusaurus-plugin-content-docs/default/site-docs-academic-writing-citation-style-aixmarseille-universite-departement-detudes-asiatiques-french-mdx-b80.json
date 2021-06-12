@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
+  "id": "academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
+  "isDocsHomePage": false,
+  "title": "aixmarseille-universite--departement-detudes-asiatiques-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
+  "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aims-press",
+    "permalink": "/support/docs/academic-writing/citation-style/aims-press"
+  },
+  "next": {
+    "title": "albertludwigsuniversitat-freiburg--geschichte-german",
+    "permalink": "/support/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
+  }
+}

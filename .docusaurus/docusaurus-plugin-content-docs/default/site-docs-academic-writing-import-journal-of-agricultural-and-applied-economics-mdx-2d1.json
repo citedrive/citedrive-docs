@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-agricultural-and-applied-economics",
+  "id": "academic-writing/import/journal-of-agricultural-and-applied-economics",
+  "isDocsHomePage": false,
+  "title": "journal-of-agricultural-and-applied-economics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-agricultural-and-applied-economics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-agricultural-and-applied-economics",
+  "permalink": "/support/docs/academic-writing/import/journal-of-agricultural-and-applied-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-agricultural-and-applied-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-aerosol-medicine-and-pulmonary-drug-delivery",
+    "permalink": "/support/docs/academic-writing/import/journal-of-aerosol-medicine-and-pulmonary-drug-delivery"
+  },
+  "next": {
+    "title": "journal-of-agricultural-and-resource-economics",
+    "permalink": "/support/docs/academic-writing/import/journal-of-agricultural-and-resource-economics"
+  }
+}

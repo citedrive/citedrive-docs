@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-naturae",
+  "id": "academic-writing/import/acta-naturae",
+  "isDocsHomePage": false,
+  "title": "acta-naturae",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-naturae.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-naturae",
+  "permalink": "/support/docs/academic-writing/import/acta-naturae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-naturae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-medica-peruana",
+    "permalink": "/support/docs/academic-writing/import/acta-medica-peruana"
+  },
+  "next": {
+    "title": "acta-neurobiologiae-experimentalis",
+    "permalink": "/support/docs/academic-writing/import/acta-neurobiologiae-experimentalis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/physiological-and-biochemical-zoology",
+  "id": "academic-writing/import/physiological-and-biochemical-zoology",
+  "isDocsHomePage": false,
+  "title": "physiological-and-biochemical-zoology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/physiological-and-biochemical-zoology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/physiological-and-biochemical-zoology",
+  "permalink": "/support/docs/academic-writing/import/physiological-and-biochemical-zoology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/physiological-and-biochemical-zoology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phyllomedusa",
+    "permalink": "/support/docs/academic-writing/import/phyllomedusa"
+  },
+  "next": {
+    "title": "phytopathologia-mediterranea",
+    "permalink": "/support/docs/academic-writing/import/phytopathologia-mediterranea"
+  }
+}

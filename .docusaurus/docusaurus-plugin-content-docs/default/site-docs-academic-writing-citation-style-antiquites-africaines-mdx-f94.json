@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/antiquites-africaines",
+  "id": "academic-writing/citation-style/antiquites-africaines",
+  "isDocsHomePage": false,
+  "title": "antiquites-africaines",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/antiquites-africaines.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/antiquites-africaines",
+  "permalink": "/support/docs/academic-writing/citation-style/antiquites-africaines",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/antiquites-africaines.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antipode",
+    "permalink": "/support/docs/academic-writing/citation-style/antipode"
+  },
+  "next": {
+    "title": "antiquity",
+    "permalink": "/support/docs/academic-writing/citation-style/antiquity"
+  }
+}

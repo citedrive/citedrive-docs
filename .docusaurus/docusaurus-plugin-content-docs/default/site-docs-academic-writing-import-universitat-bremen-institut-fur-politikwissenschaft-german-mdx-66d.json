@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german",
+  "id": "academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german",
+  "isDocsHomePage": false,
+  "title": "universitat-bremen--institut-fur-politikwissenschaft-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german",
+  "permalink": "/support/docs/academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universitat-bremen--institut-fur-politikwissenschaft-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+    "permalink": "/support/docs/academic-writing/import/universitat-bern--institut-fur-sozialanthropologie-german--switzerland"
+  },
+  "next": {
+    "title": "universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german"
+  }
+}

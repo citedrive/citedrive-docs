@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-society-of-cardiology",
+  "id": "academic-writing/import/european-society-of-cardiology",
+  "isDocsHomePage": false,
+  "title": "european-society-of-cardiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-society-of-cardiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-society-of-cardiology",
+  "permalink": "/support/docs/academic-writing/import/european-society-of-cardiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-society-of-cardiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-retail-research",
+    "permalink": "/support/docs/academic-writing/import/european-retail-research"
+  },
+  "next": {
+    "title": "european-union--interinstitutional-style-guide-authordate",
+    "permalink": "/support/docs/academic-writing/import/european-union--interinstitutional-style-guide-authordate"
+  }
+}

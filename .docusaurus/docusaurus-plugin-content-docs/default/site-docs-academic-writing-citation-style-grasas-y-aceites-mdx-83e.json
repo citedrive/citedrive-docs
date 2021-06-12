@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/grasas-y-aceites",
+  "id": "academic-writing/citation-style/grasas-y-aceites",
+  "isDocsHomePage": false,
+  "title": "grasas-y-aceites",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/grasas-y-aceites.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/grasas-y-aceites",
+  "permalink": "/support/docs/academic-writing/citation-style/grasas-y-aceites",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/grasas-y-aceites.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "government-and-opposition",
+    "permalink": "/support/docs/academic-writing/citation-style/government-and-opposition"
+  },
+  "next": {
+    "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/groupe-danthropologie-et-darcheologie-funeraire-french"
+  }
+}

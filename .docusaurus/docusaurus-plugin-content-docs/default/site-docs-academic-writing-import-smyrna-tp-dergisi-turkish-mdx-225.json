@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/smyrna-tp-dergisi-turkish",
+  "id": "academic-writing/import/smyrna-tp-dergisi-turkish",
+  "isDocsHomePage": false,
+  "title": "smyrna-tp-dergisi-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/smyrna-tp-dergisi-turkish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/smyrna-tp-dergisi-turkish",
+  "permalink": "/support/docs/academic-writing/import/smyrna-tp-dergisi-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/smyrna-tp-dergisi-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "smithsonian-institution-scholarly-press-note",
+    "permalink": "/support/docs/academic-writing/import/smithsonian-institution-scholarly-press-note"
+  },
+  "next": {
+    "title": "social-cognitive-and-affective-neuroscience",
+    "permalink": "/support/docs/academic-writing/import/social-cognitive-and-affective-neuroscience"
+  }
+}

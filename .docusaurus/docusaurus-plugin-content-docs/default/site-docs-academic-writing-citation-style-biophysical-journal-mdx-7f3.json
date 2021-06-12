@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biophysical-journal",
+  "id": "academic-writing/citation-style/biophysical-journal",
+  "isDocsHomePage": false,
+  "title": "biophysical-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biophysical-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biophysical-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/biophysical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biophysical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biometrics",
+    "permalink": "/support/docs/academic-writing/citation-style/biometrics"
+  },
+  "next": {
+    "title": "biopolymers",
+    "permalink": "/support/docs/academic-writing/citation-style/biopolymers"
+  }
+}

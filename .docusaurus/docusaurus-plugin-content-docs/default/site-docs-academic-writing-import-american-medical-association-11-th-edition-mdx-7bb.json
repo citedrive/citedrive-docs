@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-medical-association-11th-edition",
+  "id": "academic-writing/import/american-medical-association-11th-edition",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-11th-edition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-medical-association-11th-edition.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-medical-association-11th-edition",
+  "permalink": "/support/docs/academic-writing/import/american-medical-association-11th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-medical-association-11th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-11th-edition-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/import/american-medical-association-11th-edition-sorted-alphabetically"
+  },
+  "next": {
+    "title": "american-meteorological-society",
+    "permalink": "/support/docs/academic-writing/import/american-meteorological-society"
+  }
+}

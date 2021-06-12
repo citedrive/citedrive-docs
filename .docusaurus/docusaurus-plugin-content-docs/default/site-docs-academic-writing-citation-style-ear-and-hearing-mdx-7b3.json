@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ear-and-hearing",
+  "id": "academic-writing/citation-style/ear-and-hearing",
+  "isDocsHomePage": false,
+  "title": "ear-and-hearing",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ear-and-hearing.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ear-and-hearing",
+  "permalink": "/support/docs/academic-writing/citation-style/ear-and-hearing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ear-and-hearing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "e3s-web-of-conferences",
+    "permalink": "/support/docs/academic-writing/citation-style/e3s-web-of-conferences"
+  },
+  "next": {
+    "title": "early-christianity",
+    "permalink": "/support/docs/academic-writing/citation-style/early-christianity"
+  }
+}

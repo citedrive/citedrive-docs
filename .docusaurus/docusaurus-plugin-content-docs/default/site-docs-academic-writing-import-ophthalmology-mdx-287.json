@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ophthalmology",
+  "id": "academic-writing/import/ophthalmology",
+  "isDocsHomePage": false,
+  "title": "ophthalmology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ophthalmology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ophthalmology",
+  "permalink": "/support/docs/academic-writing/import/ophthalmology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ophthalmology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmology-retina",
+    "permalink": "/support/docs/academic-writing/import/ophthalmology-retina"
+  },
+  "next": {
+    "title": "optics-express",
+    "permalink": "/support/docs/academic-writing/import/optics-express"
+  }
+}

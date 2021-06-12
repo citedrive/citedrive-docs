@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-sport-and-health-science",
+  "id": "academic-writing/citation-style/journal-of-sport-and-health-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-sport-and-health-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-sport-and-health-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-sport-and-health-science",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-sport-and-health-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-sport-and-health-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-soil-science-and-plant-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition"
+  },
+  "next": {
+    "title": "journal-of-sports-science-and-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-sports-science-and-medicine"
+  }
+}

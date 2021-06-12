@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+  "id": "academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+  "isDocsHomePage": false,
+  "title": "din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+  "permalink": "/support/docs/academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "din-15052-numeric-german--standard-superseded-by-iso690",
+    "permalink": "/support/docs/academic-writing/import/din-15052-numeric-german--standard-superseded-by-iso690"
+  },
+  "next": {
+    "title": "diplo",
+    "permalink": "/support/docs/academic-writing/import/diplo"
+  }
+}

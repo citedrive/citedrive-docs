@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/transposition-musique-et-sciences-sociales",
+  "id": "academic-writing/import/transposition-musique-et-sciences-sociales",
+  "isDocsHomePage": false,
+  "title": "transposition-musique-et-sciences-sociales",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/transposition-musique-et-sciences-sociales.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/transposition-musique-et-sciences-sociales",
+  "permalink": "/support/docs/academic-writing/import/transposition-musique-et-sciences-sociales",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/transposition-musique-et-sciences-sociales.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transportation-research-record-journal-of-the-transportation-research-board",
+    "permalink": "/support/docs/academic-writing/import/transportation-research-record-journal-of-the-transportation-research-board"
+  },
+  "next": {
+    "title": "tree-physiology",
+    "permalink": "/support/docs/academic-writing/import/tree-physiology"
+  }
+}

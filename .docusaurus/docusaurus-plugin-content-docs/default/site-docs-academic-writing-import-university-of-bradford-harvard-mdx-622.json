@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-bradford--harvard",
+  "id": "academic-writing/import/university-of-bradford--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-bradford--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-bradford--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-bradford--harvard",
+  "permalink": "/support/docs/academic-writing/import/university-of-bradford--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-bradford--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+    "permalink": "/support/docs/academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian"
+  },
+  "next": {
+    "title": "university-of-brighton-school-of-environment-and-technology--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-of-brighton-school-of-environment-and-technology--harvard"
+  }
+}

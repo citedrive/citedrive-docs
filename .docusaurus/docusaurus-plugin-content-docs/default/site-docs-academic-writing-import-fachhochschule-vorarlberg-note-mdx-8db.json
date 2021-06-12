@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/fachhochschule-vorarlberg-note",
+  "id": "academic-writing/import/fachhochschule-vorarlberg-note",
+  "isDocsHomePage": false,
+  "title": "fachhochschule-vorarlberg-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/fachhochschule-vorarlberg-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/fachhochschule-vorarlberg-note",
+  "permalink": "/support/docs/academic-writing/import/fachhochschule-vorarlberg-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/fachhochschule-vorarlberg-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fachhochschule-vorarlberg-authordate",
+    "permalink": "/support/docs/academic-writing/import/fachhochschule-vorarlberg-authordate"
+  },
+  "next": {
+    "title": "facial-plastic-surgery-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/facial-plastic-surgery-clinics-of-north-america"
+  }
+}

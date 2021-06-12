@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-university-of-winchester--harvard",
+  "id": "academic-writing/citation-style/the-university-of-winchester--harvard",
+  "isDocsHomePage": false,
+  "title": "the-university-of-winchester--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-university-of-winchester--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-university-of-winchester--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/the-university-of-winchester--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-university-of-winchester--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-western-australia--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-university-of-western-australia--harvard"
+  },
+  "next": {
+    "title": "the-world-journal-of-biological-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-world-journal-of-biological-psychiatry"
+  }
+}

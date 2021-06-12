@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french",
+  "id": "academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french",
+  "isDocsHomePage": false,
+  "title": "association-de-science-regionale-de-langue-francaise-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french",
+  "permalink": "/support/docs/academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil"
+  },
+  "next": {
+    "title": "association-for-computational-linguistics--conference-proceedings",
+    "permalink": "/support/docs/academic-writing/citation-style/association-for-computational-linguistics--conference-proceedings"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-ophthalmologica",
+  "id": "academic-writing/import/acta-ophthalmologica",
+  "isDocsHomePage": false,
+  "title": "acta-ophthalmologica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-ophthalmologica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-ophthalmologica",
+  "permalink": "/support/docs/academic-writing/import/acta-ophthalmologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-ophthalmologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-neurochirurgica",
+    "permalink": "/support/docs/academic-writing/import/acta-neurochirurgica"
+  },
+  "next": {
+    "title": "acta-ornithologica",
+    "permalink": "/support/docs/academic-writing/import/acta-ornithologica"
+  }
+}

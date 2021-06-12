@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tissue-engineering",
+  "id": "academic-writing/citation-style/tissue-engineering",
+  "isDocsHomePage": false,
+  "title": "tissue-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tissue-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tissue-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/tissue-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tissue-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tijdschrift-voor-geneeskunde-dutch",
+    "permalink": "/support/docs/academic-writing/citation-style/tijdschrift-voor-geneeskunde-dutch"
+  },
+  "next": {
+    "title": "toxicological-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/toxicological-sciences"
+  }
+}

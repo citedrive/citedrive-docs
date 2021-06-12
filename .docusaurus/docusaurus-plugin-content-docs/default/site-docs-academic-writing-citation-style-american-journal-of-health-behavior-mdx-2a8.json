@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-journal-of-health-behavior",
+  "id": "academic-writing/citation-style/american-journal-of-health-behavior",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-health-behavior",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-journal-of-health-behavior.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-journal-of-health-behavior",
+  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-health-behavior",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-health-behavior.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-epidemiology",
+    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-epidemiology"
+  },
+  "next": {
+    "title": "american-journal-of-hypertension",
+    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-hypertension"
+  }
+}

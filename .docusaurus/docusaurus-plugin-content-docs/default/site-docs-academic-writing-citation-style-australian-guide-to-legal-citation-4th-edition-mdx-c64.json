@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
+  "id": "academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
+  "isDocsHomePage": false,
+  "title": "australian-guide-to-legal-citation-4th-edition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
+  "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-guide-to-legal-citation-3rd-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-3rd-edition"
+  },
+  "next": {
+    "title": "australian-historical-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-historical-studies"
+  }
+}

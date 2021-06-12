@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/antarctic-science",
+  "id": "academic-writing/import/antarctic-science",
+  "isDocsHomePage": false,
+  "title": "antarctic-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/antarctic-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/antarctic-science",
+  "permalink": "/support/docs/academic-writing/import/antarctic-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/antarctic-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil"
+  },
+  "next": {
+    "title": "anthropologie-et-societes-french",
+    "permalink": "/support/docs/academic-writing/import/anthropologie-et-societes-french"
+  }
+}

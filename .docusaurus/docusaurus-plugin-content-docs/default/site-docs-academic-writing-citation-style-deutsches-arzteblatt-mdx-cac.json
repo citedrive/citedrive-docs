@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/deutsches-arzteblatt",
+  "id": "academic-writing/citation-style/deutsches-arzteblatt",
+  "isDocsHomePage": false,
+  "title": "deutsches-arzteblatt",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/deutsches-arzteblatt.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/deutsches-arzteblatt",
+  "permalink": "/support/docs/academic-writing/citation-style/deutsches-arzteblatt",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/deutsches-arzteblatt.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deutsches-archaologisches-institut",
+    "permalink": "/support/docs/academic-writing/citation-style/deutsches-archaologisches-institut"
+  },
+  "next": {
+    "title": "developing-world-bioethics",
+    "permalink": "/support/docs/academic-writing/citation-style/developing-world-bioethics"
+  }
+}

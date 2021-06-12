@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/presses-universitaires-de-paris-nanterre-note-french",
+  "id": "academic-writing/import/presses-universitaires-de-paris-nanterre-note-french",
+  "isDocsHomePage": false,
+  "title": "presses-universitaires-de-paris-nanterre-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/presses-universitaires-de-paris-nanterre-note-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/presses-universitaires-de-paris-nanterre-note-french",
+  "permalink": "/support/docs/academic-writing/import/presses-universitaires-de-paris-nanterre-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/presses-universitaires-de-paris-nanterre-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "preslia--the-journal-of-the-czech-botanical-society",
+    "permalink": "/support/docs/academic-writing/import/preslia--the-journal-of-the-czech-botanical-society"
+  },
+  "next": {
+    "title": "presses-universitaires-de-rennes--archeologie-et-culture-french",
+    "permalink": "/support/docs/academic-writing/import/presses-universitaires-de-rennes--archeologie-et-culture-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "id": "academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "isDocsHomePage": false,
+  "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "permalink": "/support/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ksce-journal-of-civil-engineering",
+    "permalink": "/support/docs/academic-writing/import/ksce-journal-of-civil-engineering"
+  },
+  "next": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+    "permalink": "/support/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication"
+  }
+}

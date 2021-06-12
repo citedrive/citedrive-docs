@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journalistica-danish",
+  "id": "academic-writing/citation-style/journalistica-danish",
+  "isDocsHomePage": false,
+  "title": "journalistica-danish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journalistica-danish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journalistica-danish",
+  "permalink": "/support/docs/academic-writing/citation-style/journalistica-danish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journalistica-danish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-on-efficiency-and-responsibility-in-education-and-science",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-on-efficiency-and-responsibility-in-education-and-science"
+  },
+  "next": {
+    "title": "juristische-schulung-german",
+    "permalink": "/support/docs/academic-writing/citation-style/juristische-schulung-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biophysical-journal",
+  "id": "academic-writing/import/biophysical-journal",
+  "isDocsHomePage": false,
+  "title": "biophysical-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biophysical-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biophysical-journal",
+  "permalink": "/support/docs/academic-writing/import/biophysical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biophysical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biometrics",
+    "permalink": "/support/docs/academic-writing/import/biometrics"
+  },
+  "next": {
+    "title": "biopolymers",
+    "permalink": "/support/docs/academic-writing/import/biopolymers"
+  }
+}

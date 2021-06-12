@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pakistan-veterinary-journal",
+  "id": "academic-writing/citation-style/pakistan-veterinary-journal",
+  "isDocsHomePage": false,
+  "title": "pakistan-veterinary-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pakistan-veterinary-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pakistan-veterinary-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/pakistan-veterinary-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pakistan-veterinary-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pakistan-journal-of-agricultural-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/pakistan-journal-of-agricultural-sciences"
+  },
+  "next": {
+    "title": "palaeodiversity",
+    "permalink": "/support/docs/academic-writing/citation-style/palaeodiversity"
+  }
+}

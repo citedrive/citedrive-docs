@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/southern-african-journal-of-critical-care",
+  "id": "academic-writing/import/southern-african-journal-of-critical-care",
+  "isDocsHomePage": false,
+  "title": "southern-african-journal-of-critical-care",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/southern-african-journal-of-critical-care.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/southern-african-journal-of-critical-care",
+  "permalink": "/support/docs/academic-writing/import/southern-african-journal-of-critical-care",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/southern-african-journal-of-critical-care.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "southeastern-geographer",
+    "permalink": "/support/docs/academic-writing/import/southeastern-geographer"
+  },
+  "next": {
+    "title": "sozialwissenschaften-heilmann-german",
+    "permalink": "/support/docs/academic-writing/import/sozialwissenschaften-heilmann-german"
+  }
+}

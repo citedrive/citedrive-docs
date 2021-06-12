@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil",
+  "id": "academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "revista-virtual-de-quimica-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-portuguesa-de-arqueologia",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-portuguesa-de-arqueologia"
+  },
+  "next": {
+    "title": "revue-archeologique-de-lest-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-de-lest-french"
+  }
+}

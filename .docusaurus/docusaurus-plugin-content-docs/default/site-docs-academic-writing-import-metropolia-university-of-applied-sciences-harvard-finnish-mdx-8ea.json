@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish",
+  "id": "academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish",
+  "isDocsHomePage": false,
+  "title": "metropolia-university-of-applied-sciences--harvard-finnish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish",
+  "permalink": "/support/docs/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropol-verlag-german",
+    "permalink": "/support/docs/academic-writing/import/metropol-verlag-german"
+  },
+  "next": {
+    "title": "metropolitiques-french",
+    "permalink": "/support/docs/academic-writing/import/metropolitiques-french"
+  }
+}

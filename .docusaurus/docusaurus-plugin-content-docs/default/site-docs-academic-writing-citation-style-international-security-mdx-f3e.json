@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-security",
+  "id": "academic-writing/citation-style/international-security",
+  "isDocsHomePage": false,
+  "title": "international-security",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-security.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-security",
+  "permalink": "/support/docs/academic-writing/citation-style/international-security",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-security.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-review-of-the-red-cross",
+    "permalink": "/support/docs/academic-writing/citation-style/international-review-of-the-red-cross"
+  },
+  "next": {
+    "title": "international-studies-association",
+    "permalink": "/support/docs/academic-writing/citation-style/international-studies-association"
+  }
+}

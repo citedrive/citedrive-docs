@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
+  "id": "academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
+  "isDocsHomePage": false,
+  "title": "jurnal-pangan-dan-agroindustri-indonesian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
+  "permalink": "/support/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jurnal-ilmu-dan-teknologi-hasil-ternak",
+    "permalink": "/support/docs/academic-writing/citation-style/jurnal-ilmu-dan-teknologi-hasil-ternak"
+  },
+  "next": {
+    "title": "jurnal-sains-farmasi-and-klinis",
+    "permalink": "/support/docs/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis"
+  }
+}

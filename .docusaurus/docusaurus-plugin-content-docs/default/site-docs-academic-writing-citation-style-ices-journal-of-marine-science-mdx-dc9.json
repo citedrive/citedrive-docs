@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ices-journal-of-marine-science",
+  "id": "academic-writing/citation-style/ices-journal-of-marine-science",
+  "isDocsHomePage": false,
+  "title": "ices-journal-of-marine-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ices-journal-of-marine-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ices-journal-of-marine-science",
+  "permalink": "/support/docs/academic-writing/citation-style/ices-journal-of-marine-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ices-journal-of-marine-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ibis",
+    "permalink": "/support/docs/academic-writing/citation-style/ibis"
+  },
+  "next": {
+    "title": "idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+    "permalink": "/support/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service"
+  }
+}

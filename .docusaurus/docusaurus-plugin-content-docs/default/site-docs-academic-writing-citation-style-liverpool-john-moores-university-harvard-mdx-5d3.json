@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/liverpool-john-moores-university--harvard",
+  "id": "academic-writing/citation-style/liverpool-john-moores-university--harvard",
+  "isDocsHomePage": false,
+  "title": "liverpool-john-moores-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/liverpool-john-moores-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "liver-international",
+    "permalink": "/support/docs/academic-writing/citation-style/liver-international"
+  },
+  "next": {
+    "title": "london-metropolitan-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/london-metropolitan-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/current-alzheimer-research",
+  "id": "academic-writing/import/current-alzheimer-research",
+  "isDocsHomePage": false,
+  "title": "current-alzheimer-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/current-alzheimer-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/current-alzheimer-research",
+  "permalink": "/support/docs/academic-writing/import/current-alzheimer-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/current-alzheimer-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cureus",
+    "permalink": "/support/docs/academic-writing/import/cureus"
+  },
+  "next": {
+    "title": "current-gene-therapy",
+    "permalink": "/support/docs/academic-writing/import/current-gene-therapy"
+  }
+}

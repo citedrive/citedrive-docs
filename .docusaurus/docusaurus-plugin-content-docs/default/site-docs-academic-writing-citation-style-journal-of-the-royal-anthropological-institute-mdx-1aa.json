@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-royal-anthropological-institute",
+  "id": "academic-writing/citation-style/journal-of-the-royal-anthropological-institute",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-royal-anthropological-institute",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-royal-anthropological-institute.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-royal-anthropological-institute",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-anthropological-institute",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-royal-anthropological-institute.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-marine-biological-association-of-the-united-kingdom",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom"
+  },
+  "next": {
+    "title": "journal-of-the-royal-society-of-western-australia",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-society-of-western-australia"
+  }
+}

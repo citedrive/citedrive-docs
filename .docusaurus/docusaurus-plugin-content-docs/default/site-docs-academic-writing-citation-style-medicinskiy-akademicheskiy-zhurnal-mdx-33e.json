@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
+  "id": "academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
+  "isDocsHomePage": false,
+  "title": "medicinskiy-akademicheskiy-zhurnal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
+  "permalink": "/support/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medicine-and-science-in-sports-and-exercise",
+    "permalink": "/support/docs/academic-writing/citation-style/medicine-and-science-in-sports-and-exercise"
+  },
+  "next": {
+    "title": "mediterranean-journal-of-chemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/mediterranean-journal-of-chemistry"
+  }
+}

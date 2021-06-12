@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature",
+  "id": "academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature",
+  "isDocsHomePage": false,
+  "title": "john-benjamins-publishing-company--iconicity-in-language-and-literature",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature",
+  "permalink": "/support/docs/academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/john-benjamins-publishing-company--iconicity-in-language-and-literature.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "javnost--the-public",
+    "permalink": "/support/docs/academic-writing/import/javnost--the-public"
+  },
+  "next": {
+    "title": "john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+    "permalink": "/support/docs/academic-writing/import/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today"
+  }
+}

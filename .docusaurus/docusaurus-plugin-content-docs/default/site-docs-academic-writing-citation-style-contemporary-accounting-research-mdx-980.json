@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/contemporary-accounting-research",
+  "id": "academic-writing/citation-style/contemporary-accounting-research",
+  "isDocsHomePage": false,
+  "title": "contemporary-accounting-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/contemporary-accounting-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/contemporary-accounting-research",
+  "permalink": "/support/docs/academic-writing/citation-style/contemporary-accounting-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/contemporary-accounting-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "conservation-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/conservation-physiology"
+  },
+  "next": {
+    "title": "continuity-and-change",
+    "permalink": "/support/docs/academic-writing/citation-style/continuity-and-change"
+  }
+}

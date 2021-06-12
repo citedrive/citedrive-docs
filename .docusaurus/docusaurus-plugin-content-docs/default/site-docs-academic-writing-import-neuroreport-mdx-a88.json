@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/neuroreport",
+  "id": "academic-writing/import/neuroreport",
+  "isDocsHomePage": false,
+  "title": "neuroreport",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/neuroreport.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/neuroreport",
+  "permalink": "/support/docs/academic-writing/import/neuroreport",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/neuroreport.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurorehabilitation-and-neural-repair",
+    "permalink": "/support/docs/academic-writing/import/neurorehabilitation-and-neural-repair"
+  },
+  "next": {
+    "title": "neurosurgery-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/neurosurgery-clinics-of-north-america"
+  }
+}

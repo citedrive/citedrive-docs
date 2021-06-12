@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/water-environment-research",
+  "id": "academic-writing/import/water-environment-research",
+  "isDocsHomePage": false,
+  "title": "water-environment-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/water-environment-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/water-environment-research",
+  "permalink": "/support/docs/academic-writing/import/water-environment-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/water-environment-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "water-alternatives",
+    "permalink": "/support/docs/academic-writing/import/water-alternatives"
+  },
+  "next": {
+    "title": "water-sa",
+    "permalink": "/support/docs/academic-writing/import/water-sa"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/copeia",
+  "id": "academic-writing/citation-style/copeia",
+  "isDocsHomePage": false,
+  "title": "copeia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/copeia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/copeia",
+  "permalink": "/support/docs/academic-writing/citation-style/copeia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/copeia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+    "permalink": "/support/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant"
+  },
+  "next": {
+    "title": "copernicus-publications",
+    "permalink": "/support/docs/academic-writing/citation-style/copernicus-publications"
+  }
+}

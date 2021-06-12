@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/brewingscience",
+  "id": "academic-writing/citation-style/brewingscience",
+  "isDocsHomePage": false,
+  "title": "brewingscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/brewingscience.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/brewingscience",
+  "permalink": "/support/docs/academic-writing/citation-style/brewingscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/brewingscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "brazilian-oral-research",
+    "permalink": "/support/docs/academic-writing/citation-style/brazilian-oral-research"
+  },
+  "next": {
+    "title": "briefings-in-bioinformatics",
+    "permalink": "/support/docs/academic-writing/citation-style/briefings-in-bioinformatics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/anticancer-research",
+  "id": "academic-writing/citation-style/anticancer-research",
+  "isDocsHomePage": false,
+  "title": "anticancer-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/anticancer-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/anticancer-research",
+  "permalink": "/support/docs/academic-writing/citation-style/anticancer-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anticancer-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anthropologie-et-societes-french",
+    "permalink": "/support/docs/academic-writing/citation-style/anthropologie-et-societes-french"
+  },
+  "next": {
+    "title": "antioxidants-and-redox-signaling",
+    "permalink": "/support/docs/academic-writing/citation-style/antioxidants-and-redox-signaling"
+  }
+}

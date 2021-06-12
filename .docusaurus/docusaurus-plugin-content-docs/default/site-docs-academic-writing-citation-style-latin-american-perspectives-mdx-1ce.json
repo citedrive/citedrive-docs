@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/latin-american-perspectives",
+  "id": "academic-writing/citation-style/latin-american-perspectives",
+  "isDocsHomePage": false,
+  "title": "latin-american-perspectives",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/latin-american-perspectives.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/latin-american-perspectives",
+  "permalink": "/support/docs/academic-writing/citation-style/latin-american-perspectives",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/latin-american-perspectives.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "laser-and-photonics-reviews",
+    "permalink": "/support/docs/academic-writing/citation-style/laser-and-photonics-reviews"
+  },
+  "next": {
+    "title": "latin-american-research-review",
+    "permalink": "/support/docs/academic-writing/citation-style/latin-american-research-review"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering",
+  "id": "academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering",
+  "isDocsHomePage": false,
+  "title": "journal-of-neuroscience-and-neuroengineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neuroscience-and-neuroengineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neurophysiology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurophysiology"
+  },
+  "next": {
+    "title": "journal-of-neurosurgery",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurosurgery"
+  }
+}

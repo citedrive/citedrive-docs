@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-saudi-journal-for-dental-research",
+  "id": "academic-writing/import/the-saudi-journal-for-dental-research",
+  "isDocsHomePage": false,
+  "title": "the-saudi-journal-for-dental-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-saudi-journal-for-dental-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-saudi-journal-for-dental-research",
+  "permalink": "/support/docs/academic-writing/import/the-saudi-journal-for-dental-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-saudi-journal-for-dental-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-rockefeller-university-press",
+    "permalink": "/support/docs/academic-writing/import/the-rockefeller-university-press"
+  },
+  "next": {
+    "title": "the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+    "permalink": "/support/docs/academic-writing/import/the-scandinavian-journal-of-clinical-and-laboratory-investigation"
+  }
+}

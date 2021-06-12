@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tetrahedron-letters",
+  "id": "academic-writing/citation-style/tetrahedron-letters",
+  "isDocsHomePage": false,
+  "title": "tetrahedron-letters",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tetrahedron-letters.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tetrahedron-letters",
+  "permalink": "/support/docs/academic-writing/citation-style/tetrahedron-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tetrahedron-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "terra-nova",
+    "permalink": "/support/docs/academic-writing/citation-style/terra-nova"
+  },
+  "next": {
+    "title": "textual-cultures",
+    "permalink": "/support/docs/academic-writing/citation-style/textual-cultures"
+  }
+}

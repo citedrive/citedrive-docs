@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/techniquesandculture-french",
+  "id": "academic-writing/citation-style/techniquesandculture-french",
+  "isDocsHomePage": false,
+  "title": "techniquesandculture-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/techniquesandculture-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/techniquesandculture-french",
+  "permalink": "/support/docs/academic-writing/citation-style/techniquesandculture-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/techniquesandculture-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--numeric-q",
+    "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--numeric-q"
+  },
+  "next": {
+    "title": "technische-universitat-dortmund--ag-virtual-machining-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german"
+  }
+}

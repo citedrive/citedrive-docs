@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annals-of-the-association-of-american-geographers",
+  "id": "academic-writing/citation-style/annals-of-the-association-of-american-geographers",
+  "isDocsHomePage": false,
+  "title": "annals-of-the-association-of-american-geographers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annals-of-the-association-of-american-geographers",
+  "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-surgery"
+  },
+  "next": {
+    "title": "annals-of-the-new-york-academy-of-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/chimia",
+  "id": "academic-writing/import/chimia",
+  "isDocsHomePage": false,
+  "title": "chimia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/chimia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/chimia",
+  "permalink": "/support/docs/academic-writing/import/chimia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/chimia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-note",
+    "permalink": "/support/docs/academic-writing/import/chicago-manual-of-style-17th-edition-note"
+  },
+  "next": {
+    "title": "china-information",
+    "permalink": "/support/docs/academic-writing/import/china-information"
+  }
+}

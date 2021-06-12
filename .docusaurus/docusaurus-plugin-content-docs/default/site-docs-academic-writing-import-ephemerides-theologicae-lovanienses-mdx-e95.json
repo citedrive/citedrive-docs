@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ephemerides-theologicae-lovanienses",
+  "id": "academic-writing/import/ephemerides-theologicae-lovanienses",
+  "isDocsHomePage": false,
+  "title": "ephemerides-theologicae-lovanienses",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ephemerides-theologicae-lovanienses.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ephemerides-theologicae-lovanienses",
+  "permalink": "/support/docs/academic-writing/import/ephemerides-theologicae-lovanienses",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ephemerides-theologicae-lovanienses.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environnement-risques-and-sante",
+    "permalink": "/support/docs/academic-writing/import/environnement-risques-and-sante"
+  },
+  "next": {
+    "title": "epidemiologie-et-sante-animale",
+    "permalink": "/support/docs/academic-writing/import/epidemiologie-et-sante-animale"
+  }
+}

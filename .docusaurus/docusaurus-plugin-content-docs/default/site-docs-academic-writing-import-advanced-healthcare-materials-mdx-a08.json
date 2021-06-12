@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/advanced-healthcare-materials",
+  "id": "academic-writing/import/advanced-healthcare-materials",
+  "isDocsHomePage": false,
+  "title": "advanced-healthcare-materials",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/advanced-healthcare-materials.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/advanced-healthcare-materials",
+  "permalink": "/support/docs/academic-writing/import/advanced-healthcare-materials",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/advanced-healthcare-materials.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "advanced-functional-materials",
+    "permalink": "/support/docs/academic-writing/import/advanced-functional-materials"
+  },
+  "next": {
+    "title": "advanced-materials",
+    "permalink": "/support/docs/academic-writing/import/advanced-materials"
+  }
+}

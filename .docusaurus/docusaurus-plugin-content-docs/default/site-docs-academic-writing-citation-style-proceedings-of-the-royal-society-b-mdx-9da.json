@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/proceedings-of-the-royal-society-b",
+  "id": "academic-writing/citation-style/proceedings-of-the-royal-society-b",
+  "isDocsHomePage": false,
+  "title": "proceedings-of-the-royal-society-b",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/proceedings-of-the-royal-society-b.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/proceedings-of-the-royal-society-b",
+  "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-royal-society-b",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/proceedings-of-the-royal-society-b.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america"
+  },
+  "next": {
+    "title": "processing-and-application-of-ceramics",
+    "permalink": "/support/docs/academic-writing/citation-style/processing-and-application-of-ceramics"
+  }
+}

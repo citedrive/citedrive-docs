@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/interresearch-science-center",
+  "id": "academic-writing/import/interresearch-science-center",
+  "isDocsHomePage": false,
+  "title": "interresearch-science-center",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/interresearch-science-center.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/interresearch-science-center",
+  "permalink": "/support/docs/academic-writing/import/interresearch-science-center",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/interresearch-science-center.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-union-of-forest-research-organizations--headquarters",
+    "permalink": "/support/docs/academic-writing/import/international-union-of-forest-research-organizations--headquarters"
+  },
+  "next": {
+    "title": "invertebrate-biology",
+    "permalink": "/support/docs/academic-writing/import/invertebrate-biology"
+  }
+}

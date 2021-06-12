@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-dysmorphology",
+  "id": "academic-writing/citation-style/clinical-dysmorphology",
+  "isDocsHomePage": false,
+  "title": "clinical-dysmorphology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-dysmorphology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-dysmorphology",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-dysmorphology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-dysmorphology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-anatomy",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-anatomy"
+  },
+  "next": {
+    "title": "clinical-gastroenterology-and-hepatology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology"
+  }
+}

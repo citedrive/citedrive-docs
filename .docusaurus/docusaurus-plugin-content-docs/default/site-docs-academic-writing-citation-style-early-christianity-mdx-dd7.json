@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/early-christianity",
+  "id": "academic-writing/citation-style/early-christianity",
+  "isDocsHomePage": false,
+  "title": "early-christianity",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/early-christianity.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/early-christianity",
+  "permalink": "/support/docs/academic-writing/citation-style/early-christianity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/early-christianity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ear-and-hearing",
+    "permalink": "/support/docs/academic-writing/citation-style/ear-and-hearing"
+  },
+  "next": {
+    "title": "early-medieval-europe",
+    "permalink": "/support/docs/academic-writing/citation-style/early-medieval-europe"
+  }
+}

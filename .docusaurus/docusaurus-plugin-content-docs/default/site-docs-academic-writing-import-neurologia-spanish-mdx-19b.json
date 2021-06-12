@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/neurologia-spanish",
+  "id": "academic-writing/import/neurologia-spanish",
+  "isDocsHomePage": false,
+  "title": "neurologia-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/neurologia-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/neurologia-spanish",
+  "permalink": "/support/docs/academic-writing/import/neurologia-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/neurologia-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurologia-argentina-spanish",
+    "permalink": "/support/docs/academic-writing/import/neurologia-argentina-spanish"
+  },
+  "next": {
+    "title": "neurology-india",
+    "permalink": "/support/docs/academic-writing/import/neurology-india"
+  }
+}

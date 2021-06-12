@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/taxon",
+  "id": "academic-writing/import/taxon",
+  "isDocsHomePage": false,
+  "title": "taxon",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/taxon.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/taxon",
+  "permalink": "/support/docs/academic-writing/import/taxon",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/taxon.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+    "permalink": "/support/docs/academic-writing/import/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis"
+  },
+  "next": {
+    "title": "taylor-and-francis--american-chemical-society",
+    "permalink": "/support/docs/academic-writing/import/taylor-and-francis--american-chemical-society"
+  }
+}

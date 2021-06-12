@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/elsevier--harvard-2",
+  "id": "academic-writing/import/elsevier--harvard-2",
+  "isDocsHomePage": false,
+  "title": "elsevier--harvard-2",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/elsevier--harvard-2.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/elsevier--harvard-2",
+  "permalink": "/support/docs/academic-writing/import/elsevier--harvard-2",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/elsevier--harvard-2.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elife",
+    "permalink": "/support/docs/academic-writing/import/elife"
+  },
+  "next": {
+    "title": "elsevier--harvard-with-titles",
+    "permalink": "/support/docs/academic-writing/import/elsevier--harvard-with-titles"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/archaeonautica",
+  "id": "academic-writing/citation-style/archaeonautica",
+  "isDocsHomePage": false,
+  "title": "archaeonautica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/archaeonautica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/archaeonautica",
+  "permalink": "/support/docs/academic-writing/citation-style/archaeonautica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archaeonautica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archaeometry",
+    "permalink": "/support/docs/academic-writing/citation-style/archaeometry"
+  },
+  "next": {
+    "title": "archeologia-classica-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologia-classica-italian"
+  }
+}

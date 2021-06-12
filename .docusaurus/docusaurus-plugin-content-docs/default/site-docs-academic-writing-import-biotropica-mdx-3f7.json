@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biotropica",
+  "id": "academic-writing/import/biotropica",
+  "isDocsHomePage": false,
+  "title": "biotropica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biotropica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biotropica",
+  "permalink": "/support/docs/academic-writing/import/biotropica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biotropica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biotechnology-and-bioengineering",
+    "permalink": "/support/docs/academic-writing/import/biotechnology-and-bioengineering"
+  },
+  "next": {
+    "title": "bitonline-note-german",
+    "permalink": "/support/docs/academic-writing/import/bitonline-note-german"
+  }
+}

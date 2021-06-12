@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/knee-surgery-and-related-research",
+  "id": "academic-writing/citation-style/knee-surgery-and-related-research",
+  "isDocsHomePage": false,
+  "title": "knee-surgery-and-related-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/knee-surgery-and-related-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/knee-surgery-and-related-research",
+  "permalink": "/support/docs/academic-writing/citation-style/knee-surgery-and-related-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/knee-surgery-and-related-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kings-college-london--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/kings-college-london--harvard"
+  },
+  "next": {
+    "title": "knee-surgery-sports-traumatology-arthroscopy",
+    "permalink": "/support/docs/academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy"
+  }
+}

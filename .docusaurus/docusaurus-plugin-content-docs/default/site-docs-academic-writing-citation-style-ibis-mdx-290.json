@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ibis",
+  "id": "academic-writing/citation-style/ibis",
+  "isDocsHomePage": false,
+  "title": "ibis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ibis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ibis",
+  "permalink": "/support/docs/academic-writing/citation-style/ibis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ibis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ib-tauris-note",
+    "permalink": "/support/docs/academic-writing/citation-style/ib-tauris-note"
+  },
+  "next": {
+    "title": "ices-journal-of-marine-science",
+    "permalink": "/support/docs/academic-writing/citation-style/ices-journal-of-marine-science"
+  }
+}

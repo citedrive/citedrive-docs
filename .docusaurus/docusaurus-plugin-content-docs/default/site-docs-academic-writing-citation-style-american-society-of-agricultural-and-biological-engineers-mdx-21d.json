@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers",
+  "id": "academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers",
+  "isDocsHomePage": false,
+  "title": "american-society-of-agricultural-and-biological-engineers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers",
+  "permalink": "/support/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-society-for-pharmacology-and-experimental-therapeutics",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics"
+  },
+  "next": {
+    "title": "american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/american-society-of-agronomy-crop-science-society-of-america-soil-science-society-of-america"
+  }
+}

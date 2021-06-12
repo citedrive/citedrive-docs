@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/crustaceana",
+  "id": "academic-writing/import/crustaceana",
+  "isDocsHomePage": false,
+  "title": "crustaceana",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/crustaceana.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/crustaceana",
+  "permalink": "/support/docs/academic-writing/import/crustaceana",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/crustaceana.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "crop-breeding-and-applied-biotechnology",
+    "permalink": "/support/docs/academic-writing/import/crop-breeding-and-applied-biotechnology"
+  },
+  "next": {
+    "title": "cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+    "permalink": "/support/docs/academic-writing/import/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish"
+  }
+}

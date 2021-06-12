@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+  "id": "academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+  "isDocsHomePage": false,
+  "title": "osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+  "permalink": "/support/docs/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities",
+    "permalink": "/support/docs/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities"
+  },
+  "next": {
+    "title": "ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric"
+  }
+}

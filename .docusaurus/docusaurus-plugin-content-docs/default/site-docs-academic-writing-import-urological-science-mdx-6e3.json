@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/urological-science",
+  "id": "academic-writing/import/urological-science",
+  "isDocsHomePage": false,
+  "title": "urological-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/urological-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/urological-science",
+  "permalink": "/support/docs/academic-writing/import/urological-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/urological-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urbani-izziv-urban-challenge-slovenian",
+    "permalink": "/support/docs/academic-writing/import/urbani-izziv-urban-challenge-slovenian"
+  },
+  "next": {
+    "title": "us-geological-survey",
+    "permalink": "/support/docs/academic-writing/import/us-geological-survey"
+  }
+}

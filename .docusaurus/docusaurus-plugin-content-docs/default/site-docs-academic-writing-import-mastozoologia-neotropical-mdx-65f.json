@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mastozoologia-neotropical",
+  "id": "academic-writing/import/mastozoologia-neotropical",
+  "isDocsHomePage": false,
+  "title": "mastozoologia-neotropical",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mastozoologia-neotropical.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mastozoologia-neotropical",
+  "permalink": "/support/docs/academic-writing/import/mastozoologia-neotropical",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mastozoologia-neotropical.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/import/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish"
+  },
+  "next": {
+    "title": "materials-express",
+    "permalink": "/support/docs/academic-writing/import/materials-express"
+  }
+}

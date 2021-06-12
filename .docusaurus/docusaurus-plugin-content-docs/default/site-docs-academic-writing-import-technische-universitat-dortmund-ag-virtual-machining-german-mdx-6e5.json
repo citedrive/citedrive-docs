@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german",
+  "id": "academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dortmund--ag-virtual-machining-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german",
+  "permalink": "/support/docs/academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/technische-universitat-dortmund--ag-virtual-machining-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "techniquesandculture-french",
+    "permalink": "/support/docs/academic-writing/import/techniquesandculture-french"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+    "permalink": "/support/docs/academic-writing/import/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate"
+  }
+}

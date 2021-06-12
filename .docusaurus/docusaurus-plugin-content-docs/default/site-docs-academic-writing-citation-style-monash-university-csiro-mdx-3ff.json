@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/monash-university--csiro",
+  "id": "academic-writing/citation-style/monash-university--csiro",
+  "isDocsHomePage": false,
+  "title": "monash-university--csiro",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/monash-university--csiro.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/monash-university--csiro",
+  "permalink": "/support/docs/academic-writing/citation-style/monash-university--csiro",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/monash-university--csiro.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-psychiatry"
+  },
+  "next": {
+    "title": "monash-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/monash-university--harvard"
+  }
+}

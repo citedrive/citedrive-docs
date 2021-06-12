@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/archeosciences-french",
+  "id": "academic-writing/import/archeosciences-french",
+  "isDocsHomePage": false,
+  "title": "archeosciences-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/archeosciences-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/archeosciences-french",
+  "permalink": "/support/docs/academic-writing/import/archeosciences-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/archeosciences-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeologies-et-sciences-de-lantiquite-french",
+    "permalink": "/support/docs/academic-writing/import/archeologies-et-sciences-de-lantiquite-french"
+  },
+  "next": {
+    "title": "archiv-fur-die-civilistische-praxis-german",
+    "permalink": "/support/docs/academic-writing/import/archiv-fur-die-civilistische-praxis-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cape-peninsula-university-of-technology--harvard",
+  "id": "academic-writing/import/cape-peninsula-university-of-technology--harvard",
+  "isDocsHomePage": false,
+  "title": "cape-peninsula-university-of-technology--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cape-peninsula-university-of-technology--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cape-peninsula-university-of-technology--harvard",
+  "permalink": "/support/docs/academic-writing/import/cape-peninsula-university-of-technology--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cape-peninsula-university-of-technology--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cancer-translational-medicine",
+    "permalink": "/support/docs/academic-writing/import/cancer-translational-medicine"
+  },
+  "next": {
+    "title": "carcinogenesis",
+    "permalink": "/support/docs/academic-writing/import/carcinogenesis"
+  }
+}

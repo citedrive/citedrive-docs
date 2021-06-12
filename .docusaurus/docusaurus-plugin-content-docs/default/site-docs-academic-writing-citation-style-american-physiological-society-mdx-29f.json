@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-physiological-society",
+  "id": "academic-writing/citation-style/american-physiological-society",
+  "isDocsHomePage": false,
+  "title": "american-physiological-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-physiological-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-physiological-society",
+  "permalink": "/support/docs/academic-writing/citation-style/american-physiological-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-physiological-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-physical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/american-physical-society"
+  },
+  "next": {
+    "title": "american-phytopathological-society",
+    "permalink": "/support/docs/academic-writing/citation-style/american-phytopathological-society"
+  }
+}

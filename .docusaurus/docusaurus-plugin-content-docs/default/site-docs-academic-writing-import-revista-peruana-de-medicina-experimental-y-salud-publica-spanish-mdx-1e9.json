@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "id": "academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "permalink": "/support/docs/academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revista-peruana-de-medicina-experimental-y-salud-publica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-noesis",
+    "permalink": "/support/docs/academic-writing/import/revista-noesis"
+  },
+  "next": {
+    "title": "revista-portuguesa-de-arqueologia",
+    "permalink": "/support/docs/academic-writing/import/revista-portuguesa-de-arqueologia"
+  }
+}

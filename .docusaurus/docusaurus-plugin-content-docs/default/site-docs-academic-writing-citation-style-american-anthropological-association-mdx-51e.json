@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-anthropological-association",
+  "id": "academic-writing/citation-style/american-anthropological-association",
+  "isDocsHomePage": false,
+  "title": "american-anthropological-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-anthropological-association.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-anthropological-association",
+  "permalink": "/support/docs/academic-writing/citation-style/american-anthropological-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-anthropological-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ameghiniana",
+    "permalink": "/support/docs/academic-writing/citation-style/ameghiniana"
+  },
+  "next": {
+    "title": "american-association-for-cancer-research",
+    "permalink": "/support/docs/academic-writing/citation-style/american-association-for-cancer-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-veterinary-medical-association",
+  "id": "academic-writing/import/american-veterinary-medical-association",
+  "isDocsHomePage": false,
+  "title": "american-veterinary-medical-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-veterinary-medical-association.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-veterinary-medical-association",
+  "permalink": "/support/docs/academic-writing/import/american-veterinary-medical-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-veterinary-medical-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-statistical-association",
+    "permalink": "/support/docs/academic-writing/import/american-statistical-association"
+  },
+  "next": {
+    "title": "amerindia",
+    "permalink": "/support/docs/academic-writing/import/amerindia"
+  }
+}

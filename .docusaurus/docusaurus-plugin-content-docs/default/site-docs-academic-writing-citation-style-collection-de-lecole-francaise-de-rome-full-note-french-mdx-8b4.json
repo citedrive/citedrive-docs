@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french",
+  "id": "academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french",
+  "isDocsHomePage": false,
+  "title": "collection-de-lecole-francaise-de-rome-full-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french",
+  "permalink": "/support/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cold-spring-harbor-laboratory-press",
+    "permalink": "/support/docs/academic-writing/citation-style/cold-spring-harbor-laboratory-press"
+  },
+  "next": {
+    "title": "collection-de-lecole-francaise-de-rome-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french"
+  }
+}

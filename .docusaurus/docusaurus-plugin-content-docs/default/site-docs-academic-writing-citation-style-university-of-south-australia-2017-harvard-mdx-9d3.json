@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-south-australia-2017--harvard",
+  "id": "academic-writing/citation-style/university-of-south-australia-2017--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-south-australia-2017--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-south-australia-2017--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-south-australia-2017--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-south-australia-2017--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-south-australia-2017--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-south-australia-2013--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-south-australia-2013--harvard"
+  },
+  "next": {
+    "title": "university-of-technology-sydney--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-technology-sydney--harvard"
+  }
+}

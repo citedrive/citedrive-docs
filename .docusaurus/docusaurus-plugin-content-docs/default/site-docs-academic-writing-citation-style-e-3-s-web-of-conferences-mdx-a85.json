@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/e3s-web-of-conferences",
+  "id": "academic-writing/citation-style/e3s-web-of-conferences",
+  "isDocsHomePage": false,
+  "title": "e3s-web-of-conferences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/e3s-web-of-conferences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/e3s-web-of-conferences",
+  "permalink": "/support/docs/academic-writing/citation-style/e3s-web-of-conferences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/e3s-web-of-conferences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "durham-university-business-school--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/durham-university-business-school--harvard"
+  },
+  "next": {
+    "title": "ear-and-hearing",
+    "permalink": "/support/docs/academic-writing/citation-style/ear-and-hearing"
+  }
+}

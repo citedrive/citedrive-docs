@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-cells-and-materials",
+  "id": "academic-writing/citation-style/european-cells-and-materials",
+  "isDocsHomePage": false,
+  "title": "european-cells-and-materials",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-cells-and-materials.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-cells-and-materials",
+  "permalink": "/support/docs/academic-writing/citation-style/european-cells-and-materials",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-cells-and-materials.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-archaeology--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/european-archaeology--harvard"
+  },
+  "next": {
+    "title": "european-journal-for-philosophy-of-religion",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion"
+  }
+}

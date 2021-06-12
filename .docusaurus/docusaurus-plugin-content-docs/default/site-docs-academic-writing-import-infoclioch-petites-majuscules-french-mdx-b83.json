@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/infoclioch-petites-majuscules-french",
+  "id": "academic-writing/import/infoclioch-petites-majuscules-french",
+  "isDocsHomePage": false,
+  "title": "infoclioch-petites-majuscules-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/infoclioch-petites-majuscules-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/infoclioch-petites-majuscules-french",
+  "permalink": "/support/docs/academic-writing/import/infoclioch-petites-majuscules-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/infoclioch-petites-majuscules-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infoclioch-german--switzerland",
+    "permalink": "/support/docs/academic-writing/import/infoclioch-german--switzerland"
+  },
+  "next": {
+    "title": "infoclioch-sans-majuscules-french",
+    "permalink": "/support/docs/academic-writing/import/infoclioch-sans-majuscules-french"
+  }
+}

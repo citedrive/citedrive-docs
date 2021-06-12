@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/phytotaxa",
+  "id": "academic-writing/citation-style/phytotaxa",
+  "isDocsHomePage": false,
+  "title": "phytotaxa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/phytotaxa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/phytotaxa",
+  "permalink": "/support/docs/academic-writing/citation-style/phytotaxa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/phytotaxa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phytopathologia-mediterranea",
+    "permalink": "/support/docs/academic-writing/citation-style/phytopathologia-mediterranea"
+  },
+  "next": {
+    "title": "pisa-university-press",
+    "permalink": "/support/docs/academic-writing/citation-style/pisa-university-press"
+  }
+}

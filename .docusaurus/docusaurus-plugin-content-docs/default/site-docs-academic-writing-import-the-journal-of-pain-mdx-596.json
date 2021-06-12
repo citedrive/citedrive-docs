@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-pain",
+  "id": "academic-writing/import/the-journal-of-pain",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-pain",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-pain.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-pain",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-pain",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-pain.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-nutrition-health-and-aging",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-nutrition-health-and-aging"
+  },
+  "next": {
+    "title": "the-journal-of-parasitology",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-parasitology"
+  }
+}

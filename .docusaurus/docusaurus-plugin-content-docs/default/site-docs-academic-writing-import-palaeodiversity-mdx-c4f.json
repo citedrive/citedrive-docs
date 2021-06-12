@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/palaeodiversity",
+  "id": "academic-writing/import/palaeodiversity",
+  "isDocsHomePage": false,
+  "title": "palaeodiversity",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/palaeodiversity.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/palaeodiversity",
+  "permalink": "/support/docs/academic-writing/import/palaeodiversity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/palaeodiversity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pakistan-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/import/pakistan-veterinary-journal"
+  },
+  "next": {
+    "title": "palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+    "permalink": "/support/docs/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology"
+  }
+}

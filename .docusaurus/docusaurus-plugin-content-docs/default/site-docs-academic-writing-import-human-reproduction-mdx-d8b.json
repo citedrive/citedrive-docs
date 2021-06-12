@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/human-reproduction",
+  "id": "academic-writing/import/human-reproduction",
+  "isDocsHomePage": false,
+  "title": "human-reproduction",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/human-reproduction.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/human-reproduction",
+  "permalink": "/support/docs/academic-writing/import/human-reproduction",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/human-reproduction.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-reproduction-update",
+    "permalink": "/support/docs/academic-writing/import/human-reproduction-update"
+  },
+  "next": {
+    "title": "human-resource-management-journal",
+    "permalink": "/support/docs/academic-writing/import/human-resource-management-journal"
+  }
+}

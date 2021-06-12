@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-journal-of-circuit-theory-and-applications",
+  "id": "academic-writing/citation-style/international-journal-of-circuit-theory-and-applications",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-circuit-theory-and-applications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-journal-of-circuit-theory-and-applications.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-journal-of-circuit-theory-and-applications",
+  "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-circuit-theory-and-applications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-circuit-theory-and-applications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-cancer",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-cancer"
+  },
+  "next": {
+    "title": "international-journal-of-climatology",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-climatology"
+  }
+}

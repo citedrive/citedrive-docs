@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aging-cell",
+  "id": "academic-writing/import/aging-cell",
+  "isDocsHomePage": false,
+  "title": "aging-cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aging-cell.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aging-cell",
+  "permalink": "/support/docs/academic-writing/import/aging-cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aging-cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aging-and-disease",
+    "permalink": "/support/docs/academic-writing/import/aging-and-disease"
+  },
+  "next": {
+    "title": "aging",
+    "permalink": "/support/docs/academic-writing/import/aging"
+  }
+}

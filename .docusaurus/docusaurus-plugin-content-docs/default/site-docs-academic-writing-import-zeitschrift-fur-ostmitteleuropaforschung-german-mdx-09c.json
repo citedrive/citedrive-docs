@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german",
+  "id": "academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-ostmitteleuropaforschung-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-medienwissenschaft-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-medienwissenschaft-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-padagogik-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-padagogik-german"
+  }
+}

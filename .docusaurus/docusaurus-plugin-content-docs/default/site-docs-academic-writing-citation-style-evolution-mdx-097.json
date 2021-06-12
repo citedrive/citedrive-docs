@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/evolution",
+  "id": "academic-writing/citation-style/evolution",
+  "isDocsHomePage": false,
+  "title": "evolution",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/evolution.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/evolution",
+  "permalink": "/support/docs/academic-writing/citation-style/evolution",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/evolution.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolution-and-development",
+    "permalink": "/support/docs/academic-writing/citation-style/evolution-and-development"
+  },
+  "next": {
+    "title": "evolutionary-anthropology",
+    "permalink": "/support/docs/academic-writing/citation-style/evolutionary-anthropology"
+  }
+}

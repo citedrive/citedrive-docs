@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nucleic-acids-research--web-server-issue",
+  "id": "academic-writing/citation-style/nucleic-acids-research--web-server-issue",
+  "isDocsHomePage": false,
+  "title": "nucleic-acids-research--web-server-issue",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nucleic-acids-research--web-server-issue.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nucleic-acids-research--web-server-issue",
+  "permalink": "/support/docs/academic-writing/citation-style/nucleic-acids-research--web-server-issue",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nucleic-acids-research--web-server-issue.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nuclear-receptor-signaling",
+    "permalink": "/support/docs/academic-writing/citation-style/nuclear-receptor-signaling"
+  },
+  "next": {
+    "title": "nucleic-acids-research",
+    "permalink": "/support/docs/academic-writing/citation-style/nucleic-acids-research"
+  }
+}

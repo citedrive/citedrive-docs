@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biomed-research-international",
+  "id": "academic-writing/import/biomed-research-international",
+  "isDocsHomePage": false,
+  "title": "biomed-research-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biomed-research-international.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biomed-research-international",
+  "permalink": "/support/docs/academic-writing/import/biomed-research-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biomed-research-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biomed-central",
+    "permalink": "/support/docs/academic-writing/import/biomed-central"
+  },
+  "next": {
+    "title": "biometrics",
+    "permalink": "/support/docs/academic-writing/import/biometrics"
+  }
+}

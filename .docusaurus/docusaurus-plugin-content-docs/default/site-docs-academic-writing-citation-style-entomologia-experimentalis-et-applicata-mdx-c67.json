@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/entomologia-experimentalis-et-applicata",
+  "id": "academic-writing/citation-style/entomologia-experimentalis-et-applicata",
+  "isDocsHomePage": false,
+  "title": "entomologia-experimentalis-et-applicata",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/entomologia-experimentalis-et-applicata",
+  "permalink": "/support/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "entecho-czech",
+    "permalink": "/support/docs/academic-writing/citation-style/entecho-czech"
+  },
+  "next": {
+    "title": "entomological-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/entomological-society-of-america"
+  }
+}

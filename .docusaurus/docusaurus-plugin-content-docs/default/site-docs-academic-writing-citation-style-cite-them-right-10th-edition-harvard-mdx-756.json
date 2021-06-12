@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cite-them-right-10th-edition--harvard",
+  "id": "academic-writing/citation-style/cite-them-right-10th-edition--harvard",
+  "isDocsHomePage": false,
+  "title": "cite-them-right-10th-edition--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cite-them-right-10th-edition--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cite-them-right-10th-edition--harvard-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al"
+  },
+  "next": {
+    "title": "citizen-science-theory-and-practice",
+    "permalink": "/support/docs/academic-writing/citation-style/citizen-science-theory-and-practice"
+  }
+}

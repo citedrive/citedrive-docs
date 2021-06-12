@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ecology-and-society",
+  "id": "academic-writing/import/ecology-and-society",
+  "isDocsHomePage": false,
+  "title": "ecology-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ecology-and-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ecology-and-society",
+  "permalink": "/support/docs/academic-writing/import/ecology-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ecology-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecological-restoration",
+    "permalink": "/support/docs/academic-writing/import/ecological-restoration"
+  },
+  "next": {
+    "title": "ecology-letters",
+    "permalink": "/support/docs/academic-writing/import/ecology-letters"
+  }
+}

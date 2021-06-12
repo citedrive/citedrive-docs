@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+  "id": "academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+  "isDocsHomePage": false,
+  "title": "babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+  "permalink": "/support/docs/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria"
+  },
+  "next": {
+    "title": "baghdad-science-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/baghdad-science-journal"
+  }
+}

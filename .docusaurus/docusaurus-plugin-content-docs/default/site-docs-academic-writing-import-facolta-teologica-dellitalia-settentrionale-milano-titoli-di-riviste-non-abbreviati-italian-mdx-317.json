@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+  "id": "academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+  "isDocsHomePage": false,
+  "title": "facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+  "permalink": "/support/docs/academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "facial-plastic-surgery-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/facial-plastic-surgery-clinics-of-north-america"
+  },
+  "next": {
+    "title": "falmouth-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/falmouth-university--harvard"
+  }
+}

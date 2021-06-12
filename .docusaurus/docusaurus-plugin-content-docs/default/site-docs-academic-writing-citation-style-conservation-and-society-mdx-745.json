@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/conservation-and-society",
+  "id": "academic-writing/citation-style/conservation-and-society",
+  "isDocsHomePage": false,
+  "title": "conservation-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/conservation-and-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/conservation-and-society",
+  "permalink": "/support/docs/academic-writing/citation-style/conservation-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/conservation-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "computer-und-recht-german",
+    "permalink": "/support/docs/academic-writing/citation-style/computer-und-recht-german"
+  },
+  "next": {
+    "title": "conservation-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/conservation-biology"
+  }
+}

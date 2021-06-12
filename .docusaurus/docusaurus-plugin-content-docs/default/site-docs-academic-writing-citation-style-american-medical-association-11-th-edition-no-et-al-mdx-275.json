@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-medical-association-11th-edition-no-et-al",
+  "id": "academic-writing/citation-style/american-medical-association-11th-edition-no-et-al",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-11th-edition-no-et-al",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-et-al.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-medical-association-11th-edition-no-et-al",
+  "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-et-al",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-et-al.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-10th-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-10th-edition"
+  },
+  "next": {
+    "title": "american-medical-association-11th-edition-no-url",
+    "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/spie-journals",
+  "id": "academic-writing/import/spie-journals",
+  "isDocsHomePage": false,
+  "title": "spie-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/spie-journals.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/spie-journals",
+  "permalink": "/support/docs/academic-writing/import/spie-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/spie-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spie-conference-proceedings",
+    "permalink": "/support/docs/academic-writing/import/spie-conference-proceedings"
+  },
+  "next": {
+    "title": "spine",
+    "permalink": "/support/docs/academic-writing/import/spine"
+  }
+}

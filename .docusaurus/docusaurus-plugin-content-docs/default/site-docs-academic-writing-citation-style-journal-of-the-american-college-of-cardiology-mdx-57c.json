@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-american-college-of-cardiology",
+  "id": "academic-writing/citation-style/journal-of-the-american-college-of-cardiology",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-college-of-cardiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-college-of-cardiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-american-college-of-cardiology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-college-of-cardiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-college-of-cardiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-ceramic-society",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-ceramic-society"
+  },
+  "next": {
+    "title": "journal-of-the-american-college-of-surgeons",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-college-of-surgeons"
+  }
+}

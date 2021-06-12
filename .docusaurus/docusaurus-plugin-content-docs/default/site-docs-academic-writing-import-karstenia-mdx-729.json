@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/karstenia",
+  "id": "academic-writing/import/karstenia",
+  "isDocsHomePage": false,
+  "title": "karstenia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/karstenia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/karstenia",
+  "permalink": "/support/docs/academic-writing/import/karstenia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/karstenia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karlstad-universitet--harvard-swedish",
+    "permalink": "/support/docs/academic-writing/import/karlstad-universitet--harvard-swedish"
+  },
+  "next": {
+    "title": "keel-ja-kirjandus-estonian",
+    "permalink": "/support/docs/academic-writing/import/keel-ja-kirjandus-estonian"
+  }
+}

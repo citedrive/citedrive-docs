@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geochimica-et-cosmochimica-acta",
+  "id": "academic-writing/citation-style/geochimica-et-cosmochimica-acta",
+  "isDocsHomePage": false,
+  "title": "geochimica-et-cosmochimica-acta",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geochimica-et-cosmochimica-acta",
+  "permalink": "/support/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geochemical-perspectives-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/geochemical-perspectives-letters"
+  },
+  "next": {
+    "title": "geochronometria",
+    "permalink": "/support/docs/academic-writing/citation-style/geochronometria"
+  }
+}

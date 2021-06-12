@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/quaderni-materialisti-italian",
+  "id": "academic-writing/import/quaderni-materialisti-italian",
+  "isDocsHomePage": false,
+  "title": "quaderni-materialisti-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/quaderni-materialisti-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/quaderni-materialisti-italian",
+  "permalink": "/support/docs/academic-writing/import/quaderni-materialisti-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/quaderni-materialisti-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quaderni-degli-avogadro-colloquia",
+    "permalink": "/support/docs/academic-writing/import/quaderni-degli-avogadro-colloquia"
+  },
+  "next": {
+    "title": "quaternaire-french",
+    "permalink": "/support/docs/academic-writing/import/quaternaire-french"
+  }
+}

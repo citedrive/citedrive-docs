@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/freshwater-biology",
+  "id": "academic-writing/citation-style/freshwater-biology",
+  "isDocsHomePage": false,
+  "title": "freshwater-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/freshwater-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/freshwater-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/freshwater-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/freshwater-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "french-politics",
+    "permalink": "/support/docs/academic-writing/citation-style/french-politics"
+  },
+  "next": {
+    "title": "freshwater-crayfish",
+    "permalink": "/support/docs/academic-writing/citation-style/freshwater-crayfish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/foldandr-fasti-on-line-documents-and-research",
+  "id": "academic-writing/import/foldandr-fasti-on-line-documents-and-research",
+  "isDocsHomePage": false,
+  "title": "foldandr-fasti-on-line-documents-and-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/foldandr-fasti-on-line-documents-and-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/foldandr-fasti-on-line-documents-and-research",
+  "permalink": "/support/docs/academic-writing/import/foldandr-fasti-on-line-documents-and-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/foldandr-fasti-on-line-documents-and-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "florida-entomologist",
+    "permalink": "/support/docs/academic-writing/import/florida-entomologist"
+  },
+  "next": {
+    "title": "folia-biologica",
+    "permalink": "/support/docs/academic-writing/import/folia-biologica"
+  }
+}

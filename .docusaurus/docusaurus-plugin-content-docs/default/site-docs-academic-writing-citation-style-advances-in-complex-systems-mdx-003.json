@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/advances-in-complex-systems",
+  "id": "academic-writing/citation-style/advances-in-complex-systems",
+  "isDocsHomePage": false,
+  "title": "advances-in-complex-systems",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/advances-in-complex-systems.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/advances-in-complex-systems",
+  "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advances-in-complex-systems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "advances-in-alzheimers-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease"
+  },
+  "next": {
+    "title": "aerosol-and-air-quality-research",
+    "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research"
+  }
+}

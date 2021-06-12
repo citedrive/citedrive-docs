@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/photochemistry-and-photobiology",
+  "id": "academic-writing/citation-style/photochemistry-and-photobiology",
+  "isDocsHomePage": false,
+  "title": "photochemistry-and-photobiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/photochemistry-and-photobiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/photochemistry-and-photobiology",
+  "permalink": "/support/docs/academic-writing/citation-style/photochemistry-and-photobiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/photochemistry-and-photobiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philosophy-and-public-affairs",
+    "permalink": "/support/docs/academic-writing/citation-style/philosophy-and-public-affairs"
+  },
+  "next": {
+    "title": "photosynthetica",
+    "permalink": "/support/docs/academic-writing/citation-style/photosynthetica"
+  }
+}

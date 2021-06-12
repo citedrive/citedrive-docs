@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hpb",
+  "id": "academic-writing/citation-style/hpb",
+  "isDocsHomePage": false,
+  "title": "hpb",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hpb.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hpb",
+  "permalink": "/support/docs/academic-writing/citation-style/hpb",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hpb.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "housing-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/housing-studies"
+  },
+  "next": {
+    "title": "human-brain-mapping",
+    "permalink": "/support/docs/academic-writing/citation-style/human-brain-mapping"
+  }
+}

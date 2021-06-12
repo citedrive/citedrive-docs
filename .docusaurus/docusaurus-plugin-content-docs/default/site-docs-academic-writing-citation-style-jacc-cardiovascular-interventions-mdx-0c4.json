@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jacc-cardiovascular-interventions",
+  "id": "academic-writing/citation-style/jacc-cardiovascular-interventions",
+  "isDocsHomePage": false,
+  "title": "jacc-cardiovascular-interventions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jacc-cardiovascular-interventions.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jacc-cardiovascular-interventions",
+  "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-interventions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jacc-cardiovascular-interventions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jacc-cardiovascular-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-imaging"
+  },
+  "next": {
+    "title": "jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+    "permalink": "/support/docs/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft"
+  }
+}

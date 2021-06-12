@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/moore-theological-college",
+  "id": "academic-writing/citation-style/moore-theological-college",
+  "isDocsHomePage": false,
+  "title": "moore-theological-college",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/moore-theological-college.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/moore-theological-college",
+  "permalink": "/support/docs/academic-writing/citation-style/moore-theological-college",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/moore-theological-college.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mondes-en-developpement-french",
+    "permalink": "/support/docs/academic-writing/citation-style/mondes-en-developpement-french"
+  },
+  "next": {
+    "title": "moorlands-college",
+    "permalink": "/support/docs/academic-writing/citation-style/moorlands-college"
+  }
+}

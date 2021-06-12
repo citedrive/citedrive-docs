@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-phytopathological-society",
+  "id": "academic-writing/citation-style/american-phytopathological-society",
+  "isDocsHomePage": false,
+  "title": "american-phytopathological-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-phytopathological-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-phytopathological-society",
+  "permalink": "/support/docs/academic-writing/citation-style/american-phytopathological-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-phytopathological-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-physiological-society",
+    "permalink": "/support/docs/academic-writing/citation-style/american-physiological-society"
+  },
+  "next": {
+    "title": "american-political-science-association",
+    "permalink": "/support/docs/academic-writing/citation-style/american-political-science-association"
+  }
+}

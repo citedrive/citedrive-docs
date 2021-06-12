@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/college-of-naturopathic-medicine",
+  "id": "academic-writing/citation-style/college-of-naturopathic-medicine",
+  "isDocsHomePage": false,
+  "title": "college-of-naturopathic-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/college-of-naturopathic-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/college-of-naturopathic-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/college-of-naturopathic-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/college-of-naturopathic-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "college-montmorency-note-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/college-montmorency-note-french--canada"
+  },
+  "next": {
+    "title": "colombian-journal-of-anesthesiology",
+    "permalink": "/support/docs/academic-writing/citation-style/colombian-journal-of-anesthesiology"
+  }
+}

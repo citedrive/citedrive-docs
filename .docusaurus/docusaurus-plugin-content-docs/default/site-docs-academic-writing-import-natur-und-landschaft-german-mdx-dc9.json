@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/natur-und-landschaft-german",
+  "id": "academic-writing/import/natur-und-landschaft-german",
+  "isDocsHomePage": false,
+  "title": "natur-und-landschaft-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/natur-und-landschaft-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/natur-und-landschaft-german",
+  "permalink": "/support/docs/academic-writing/import/natur-und-landschaft-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/natur-und-landschaft-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nations-and-nationalism",
+    "permalink": "/support/docs/academic-writing/import/nations-and-nationalism"
+  },
+  "next": {
+    "title": "nature-neuroscience-brief-communications",
+    "permalink": "/support/docs/academic-writing/import/nature-neuroscience-brief-communications"
+  }
+}

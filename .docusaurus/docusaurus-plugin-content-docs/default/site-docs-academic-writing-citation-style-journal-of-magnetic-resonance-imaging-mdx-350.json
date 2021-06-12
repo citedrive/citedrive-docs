@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-magnetic-resonance-imaging",
+  "id": "academic-writing/citation-style/journal-of-magnetic-resonance-imaging",
+  "isDocsHomePage": false,
+  "title": "journal-of-magnetic-resonance-imaging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-magnetic-resonance-imaging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-magnetic-resonance-imaging",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-magnetic-resonance-imaging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-magnetic-resonance-imaging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-lipid-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-lipid-research"
+  },
+  "next": {
+    "title": "journal-of-mammalogy",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-mammalogy"
+  }
+}

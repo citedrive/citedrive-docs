@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/history-and-theory",
+  "id": "academic-writing/import/history-and-theory",
+  "isDocsHomePage": false,
+  "title": "history-and-theory",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/history-and-theory.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/history-and-theory",
+  "permalink": "/support/docs/academic-writing/import/history-and-theory",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/history-and-theory.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "historical-social-research",
+    "permalink": "/support/docs/academic-writing/import/historical-social-research"
+  },
+  "next": {
+    "title": "history-australia",
+    "permalink": "/support/docs/academic-writing/import/history-australia"
+  }
+}

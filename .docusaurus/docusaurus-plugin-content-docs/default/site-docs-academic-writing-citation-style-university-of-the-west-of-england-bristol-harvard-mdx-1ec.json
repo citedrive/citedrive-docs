@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard",
+  "id": "academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-the-west-of-england-bristol--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-technology-sydney--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-technology-sydney--harvard"
+  },
+  "next": {
+    "title": "university-of-the-west-of-scotland--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-scotland--harvard"
+  }
+}

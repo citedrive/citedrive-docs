@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene",
+  "id": "academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-tropical-medicine-and-hygiene",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene",
+  "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-american-journal-of-tropical-medicine-and-hygiene.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-psychiatry"
+  },
+  "next": {
+    "title": "the-american-midland-naturalist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-american-midland-naturalist"
+  }
+}

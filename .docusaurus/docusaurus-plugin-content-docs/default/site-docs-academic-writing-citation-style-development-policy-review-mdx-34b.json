@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/development-policy-review",
+  "id": "academic-writing/citation-style/development-policy-review",
+  "isDocsHomePage": false,
+  "title": "development-policy-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/development-policy-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/development-policy-review",
+  "permalink": "/support/docs/academic-writing/citation-style/development-policy-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/development-policy-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "development-and-change",
+    "permalink": "/support/docs/academic-writing/citation-style/development-and-change"
+  },
+  "next": {
+    "title": "developmental-neurobiology",
+    "permalink": "/support/docs/academic-writing/citation-style/developmental-neurobiology"
+  }
+}

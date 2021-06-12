@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/iso690-numeric-lithuanian",
+  "id": "academic-writing/import/iso690-numeric-lithuanian",
+  "isDocsHomePage": false,
+  "title": "iso690-numeric-lithuanian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/iso690-numeric-lithuanian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/iso690-numeric-lithuanian",
+  "permalink": "/support/docs/academic-writing/import/iso690-numeric-lithuanian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/iso690-numeric-lithuanian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-numeric-french",
+    "permalink": "/support/docs/academic-writing/import/iso690-numeric-french"
+  },
+  "next": {
+    "title": "iso690-numeric-parentheses-czech",
+    "permalink": "/support/docs/academic-writing/import/iso690-numeric-parentheses-czech"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/fishery-bulletin",
+  "id": "academic-writing/citation-style/fishery-bulletin",
+  "isDocsHomePage": false,
+  "title": "fishery-bulletin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/fishery-bulletin.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/fishery-bulletin",
+  "permalink": "/support/docs/academic-writing/citation-style/fishery-bulletin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fishery-bulletin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "first-monday",
+    "permalink": "/support/docs/academic-writing/citation-style/first-monday"
+  },
+  "next": {
+    "title": "flavour-and-fragrance-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/flavour-and-fragrance-journal"
+  }
+}

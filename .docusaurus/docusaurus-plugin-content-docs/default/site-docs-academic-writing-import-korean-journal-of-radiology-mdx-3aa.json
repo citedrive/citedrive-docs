@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/korean-journal-of-radiology",
+  "id": "academic-writing/import/korean-journal-of-radiology",
+  "isDocsHomePage": false,
+  "title": "korean-journal-of-radiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/korean-journal-of-radiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/korean-journal-of-radiology",
+  "permalink": "/support/docs/academic-writing/import/korean-journal-of-radiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/korean-journal-of-radiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "korean-journal-of-anesthesiology",
+    "permalink": "/support/docs/academic-writing/import/korean-journal-of-anesthesiology"
+  },
+  "next": {
+    "title": "kritische-ausgabe-german",
+    "permalink": "/support/docs/academic-writing/import/kritische-ausgabe-german"
+  }
+}

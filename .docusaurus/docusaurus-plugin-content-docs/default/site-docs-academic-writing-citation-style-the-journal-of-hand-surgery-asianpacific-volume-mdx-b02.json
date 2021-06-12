@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume",
+  "id": "academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-hand-surgery-asianpacific-volume",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-foot-and-ankle-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery"
+  },
+  "next": {
+    "title": "the-journal-of-hand-surgery-european-volume",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-hand-surgery-european-volume"
+  }
+}

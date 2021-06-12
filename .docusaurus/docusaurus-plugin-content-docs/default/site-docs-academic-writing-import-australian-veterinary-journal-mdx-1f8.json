@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/australian-veterinary-journal",
+  "id": "academic-writing/import/australian-veterinary-journal",
+  "isDocsHomePage": false,
+  "title": "australian-veterinary-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/australian-veterinary-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/australian-veterinary-journal",
+  "permalink": "/support/docs/academic-writing/import/australian-veterinary-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/australian-veterinary-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-journal-of-grape-and-wine-research",
+    "permalink": "/support/docs/academic-writing/import/australian-journal-of-grape-and-wine-research"
+  },
+  "next": {
+    "title": "austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+    "permalink": "/support/docs/academic-writing/import/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik"
+  }
+}

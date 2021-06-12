@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-new-england-journal-of-medicine",
+  "id": "academic-writing/citation-style/the-new-england-journal-of-medicine",
+  "isDocsHomePage": false,
+  "title": "the-new-england-journal-of-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-new-england-journal-of-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-new-england-journal-of-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/the-new-england-journal-of-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-new-england-journal-of-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-neuroscientist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-neuroscientist"
+  },
+  "next": {
+    "title": "the-oncologist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-oncologist"
+  }
+}

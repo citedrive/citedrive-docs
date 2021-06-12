@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sedimentology",
+  "id": "academic-writing/citation-style/sedimentology",
+  "isDocsHomePage": false,
+  "title": "sedimentology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sedimentology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sedimentology",
+  "permalink": "/support/docs/academic-writing/citation-style/sedimentology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sedimentology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scrinium",
+    "permalink": "/support/docs/academic-writing/citation-style/scrinium"
+  },
+  "next": {
+    "title": "seed-science-and-technology",
+    "permalink": "/support/docs/academic-writing/citation-style/seed-science-and-technology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/aging",
+  "id": "academic-writing/citation-style/aging",
+  "isDocsHomePage": false,
+  "title": "aging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/aging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/aging",
+  "permalink": "/support/docs/academic-writing/citation-style/aging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aging-cell",
+    "permalink": "/support/docs/academic-writing/citation-style/aging-cell"
+  },
+  "next": {
+    "title": "agora",
+    "permalink": "/support/docs/academic-writing/citation-style/agora"
+  }
+}

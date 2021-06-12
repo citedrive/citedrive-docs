@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie",
+  "id": "academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie",
+  "isDocsHomePage": false,
+  "title": "tijdschrift-voor-economische-en-sociale-geografie",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie",
+  "permalink": "/support/docs/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thyroid",
+    "permalink": "/support/docs/academic-writing/citation-style/thyroid"
+  },
+  "next": {
+    "title": "tijdschrift-voor-geneeskunde-dutch",
+    "permalink": "/support/docs/academic-writing/citation-style/tijdschrift-voor-geneeskunde-dutch"
+  }
+}

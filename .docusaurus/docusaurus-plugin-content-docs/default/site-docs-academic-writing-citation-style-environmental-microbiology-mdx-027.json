@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/environmental-microbiology",
+  "id": "academic-writing/citation-style/environmental-microbiology",
+  "isDocsHomePage": false,
+  "title": "environmental-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/environmental-microbiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/environmental-microbiology",
+  "permalink": "/support/docs/academic-writing/citation-style/environmental-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environmental-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-health-perspectives",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-health-perspectives"
+  },
+  "next": {
+    "title": "environmental-values",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-values"
+  }
+}

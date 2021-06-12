@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/rever--revista-de-estudos-da-religiao",
+  "id": "academic-writing/import/rever--revista-de-estudos-da-religiao",
+  "isDocsHomePage": false,
+  "title": "rever--revista-de-estudos-da-religiao",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/rever--revista-de-estudos-da-religiao.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/rever--revista-de-estudos-da-religiao",
+  "permalink": "/support/docs/academic-writing/import/rever--revista-de-estudos-da-religiao",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/rever--revista-de-estudos-da-religiao.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "restoration-ecology",
+    "permalink": "/support/docs/academic-writing/import/restoration-ecology"
+  },
+  "next": {
+    "title": "review-of-international-studies",
+    "permalink": "/support/docs/academic-writing/import/review-of-international-studies"
+  }
+}

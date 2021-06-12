@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-veterinary-medical-science",
+  "id": "academic-writing/import/the-journal-of-veterinary-medical-science",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-veterinary-medical-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-veterinary-medical-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-veterinary-medical-science",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-veterinary-medical-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-veterinary-medical-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-urology",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-urology"
+  },
+  "next": {
+    "title": "the-journal-of-wildlife-management",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-wildlife-management"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/spine",
+  "id": "academic-writing/citation-style/spine",
+  "isDocsHomePage": false,
+  "title": "spine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/spine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/spine",
+  "permalink": "/support/docs/academic-writing/citation-style/spine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spie-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/spie-journals"
+  },
+  "next": {
+    "title": "spip--cite-plugin",
+    "permalink": "/support/docs/academic-writing/citation-style/spip--cite-plugin"
+  }
+}

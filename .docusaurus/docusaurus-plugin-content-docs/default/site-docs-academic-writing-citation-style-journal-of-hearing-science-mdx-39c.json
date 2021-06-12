@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-hearing-science",
+  "id": "academic-writing/citation-style/journal-of-hearing-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-hearing-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-hearing-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-hearing-science",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-hearing-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-hearing-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-glaciology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-glaciology"
+  },
+  "next": {
+    "title": "journal-of-human-evolution",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-human-evolution"
+  }
+}

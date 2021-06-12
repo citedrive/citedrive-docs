@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/integrative-and-comparative-biology",
+  "id": "academic-writing/import/integrative-and-comparative-biology",
+  "isDocsHomePage": false,
+  "title": "integrative-and-comparative-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/integrative-and-comparative-biology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/integrative-and-comparative-biology",
+  "permalink": "/support/docs/academic-writing/import/integrative-and-comparative-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/integrative-and-comparative-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "integrated-science-publishing-journals",
+    "permalink": "/support/docs/academic-writing/import/integrated-science-publishing-journals"
+  },
+  "next": {
+    "title": "inter-romanian-review-for-theological-and-religious-studies",
+    "permalink": "/support/docs/academic-writing/import/inter-romanian-review-for-theological-and-religious-studies"
+  }
+}

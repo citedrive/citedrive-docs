@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/manchester-business-school--harvard",
+  "id": "academic-writing/citation-style/manchester-business-school--harvard",
+  "isDocsHomePage": false,
+  "title": "manchester-business-school--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/manchester-business-school--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/manchester-business-school--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/manchester-business-school--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/manchester-business-school--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "management-of-biological-invasions",
+    "permalink": "/support/docs/academic-writing/citation-style/management-of-biological-invasions"
+  },
+  "next": {
+    "title": "manchester-metropolitan-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/manchester-metropolitan-university--harvard"
+  }
+}

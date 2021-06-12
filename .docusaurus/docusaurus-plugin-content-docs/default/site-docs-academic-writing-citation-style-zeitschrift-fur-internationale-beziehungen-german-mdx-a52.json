@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german",
+  "id": "academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-internationale-beziehungen-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german",
+  "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-digitale-geisteswissenschaften-german",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-digitale-geisteswissenschaften-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-kunstgeschichte",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte"
+  }
+}

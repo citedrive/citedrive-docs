@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--medizin",
+  "id": "academic-writing/citation-style/technische-universitat-dresden--medizin",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--medizin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--medizin.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/technische-universitat-dresden--medizin",
+  "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--medizin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--medizin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--wirtschaftswissenschaften-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--wirtschaftswissenschaften-german"
+  }
+}

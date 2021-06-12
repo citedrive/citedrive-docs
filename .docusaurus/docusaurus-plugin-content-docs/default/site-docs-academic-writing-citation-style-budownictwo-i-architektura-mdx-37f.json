@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/budownictwo-i-architektura",
+  "id": "academic-writing/citation-style/budownictwo-i-architektura",
+  "isDocsHomePage": false,
+  "title": "budownictwo-i-architektura",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/budownictwo-i-architektura.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/budownictwo-i-architektura",
+  "permalink": "/support/docs/academic-writing/citation-style/budownictwo-i-architektura",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/budownictwo-i-architektura.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "british-journal-of-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-surgery"
+  },
+  "next": {
+    "title": "building-structure-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/building-structure-chinese"
+  }
+}

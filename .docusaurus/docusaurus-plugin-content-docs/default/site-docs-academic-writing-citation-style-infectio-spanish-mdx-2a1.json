@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/infectio-spanish",
+  "id": "academic-writing/citation-style/infectio-spanish",
+  "isDocsHomePage": false,
+  "title": "infectio-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/infectio-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/infectio-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/infectio-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/infectio-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "industrial-relations",
+    "permalink": "/support/docs/academic-writing/citation-style/industrial-relations"
+  },
+  "next": {
+    "title": "infectious-disease-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/infectious-disease-clinics-of-north-america"
+  }
+}

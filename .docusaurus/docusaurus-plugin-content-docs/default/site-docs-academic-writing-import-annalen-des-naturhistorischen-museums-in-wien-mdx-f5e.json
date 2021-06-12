@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/annalen-des-naturhistorischen-museums-in-wien",
+  "id": "academic-writing/import/annalen-des-naturhistorischen-museums-in-wien",
+  "isDocsHomePage": false,
+  "title": "annalen-des-naturhistorischen-museums-in-wien",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/annalen-des-naturhistorischen-museums-in-wien.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/annalen-des-naturhistorischen-museums-in-wien",
+  "permalink": "/support/docs/academic-writing/import/annalen-des-naturhistorischen-museums-in-wien",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/annalen-des-naturhistorischen-museums-in-wien.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "animal",
+    "permalink": "/support/docs/academic-writing/import/animal"
+  },
+  "next": {
+    "title": "annales-de-demographie-historique",
+    "permalink": "/support/docs/academic-writing/import/annales-de-demographie-historique"
+  }
+}

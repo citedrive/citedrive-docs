@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ausonius-editions-french",
+  "id": "academic-writing/import/ausonius-editions-french",
+  "isDocsHomePage": false,
+  "title": "ausonius-editions-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ausonius-editions-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ausonius-editions-french",
+  "permalink": "/support/docs/academic-writing/import/ausonius-editions-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ausonius-editions-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+    "permalink": "/support/docs/academic-writing/import/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology"
+  },
+  "next": {
+    "title": "austral-ecology",
+    "permalink": "/support/docs/academic-writing/import/austral-ecology"
+  }
+}

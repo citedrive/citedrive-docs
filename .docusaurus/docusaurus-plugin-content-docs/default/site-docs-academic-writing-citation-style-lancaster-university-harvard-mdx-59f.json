@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/lancaster-university--harvard",
+  "id": "academic-writing/citation-style/lancaster-university--harvard",
+  "isDocsHomePage": false,
+  "title": "lancaster-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/lancaster-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/lancaster-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/lancaster-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/lancaster-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "laboratory-animal-science-professional",
+    "permalink": "/support/docs/academic-writing/citation-style/laboratory-animal-science-professional"
+  },
+  "next": {
+    "title": "land-degradation-and-development",
+    "permalink": "/support/docs/academic-writing/citation-style/land-degradation-and-development"
+  }
+}

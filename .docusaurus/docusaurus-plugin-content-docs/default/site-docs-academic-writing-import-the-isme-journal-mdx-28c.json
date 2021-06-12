@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-isme-journal",
+  "id": "academic-writing/import/the-isme-journal",
+  "isDocsHomePage": false,
+  "title": "the-isme-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-isme-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-isme-journal",
+  "permalink": "/support/docs/academic-writing/import/the-isme-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-isme-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-international-journal-of-tuberculosis-and-lung-disease",
+    "permalink": "/support/docs/academic-writing/import/the-international-journal-of-tuberculosis-and-lung-disease"
+  },
+  "next": {
+    "title": "the-journal-of-adhesive-dentistry",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-adhesive-dentistry"
+  }
+}

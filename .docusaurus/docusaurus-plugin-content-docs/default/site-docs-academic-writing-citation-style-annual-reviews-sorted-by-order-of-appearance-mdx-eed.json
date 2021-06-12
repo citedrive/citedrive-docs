@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance",
+  "id": "academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance",
+  "isDocsHomePage": false,
+  "title": "annual-reviews-sorted-by-order-of-appearance",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance",
+  "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-reviews-sorted-by-order-of-appearance-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance-without-titles"
+  },
+  "next": {
+    "title": "anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil"
+  }
+}

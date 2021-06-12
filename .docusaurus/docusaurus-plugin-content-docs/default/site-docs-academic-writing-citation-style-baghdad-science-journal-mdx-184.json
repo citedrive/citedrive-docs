@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/baghdad-science-journal",
+  "id": "academic-writing/citation-style/baghdad-science-journal",
+  "isDocsHomePage": false,
+  "title": "baghdad-science-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/baghdad-science-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/baghdad-science-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/baghdad-science-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/baghdad-science-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+    "permalink": "/support/docs/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian"
+  },
+  "next": {
+    "title": "begell-house--apa",
+    "permalink": "/support/docs/academic-writing/citation-style/begell-house--apa"
+  }
+}

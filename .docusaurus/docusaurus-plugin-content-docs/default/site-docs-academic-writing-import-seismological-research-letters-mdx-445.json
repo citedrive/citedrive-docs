@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/seismological-research-letters",
+  "id": "academic-writing/import/seismological-research-letters",
+  "isDocsHomePage": false,
+  "title": "seismological-research-letters",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/seismological-research-letters.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/seismological-research-letters",
+  "permalink": "/support/docs/academic-writing/import/seismological-research-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/seismological-research-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seed-science-research",
+    "permalink": "/support/docs/academic-writing/import/seed-science-research"
+  },
+  "next": {
+    "title": "sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+    "permalink": "/support/docs/academic-writing/import/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian"
+  }
+}

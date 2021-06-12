@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vancouver",
+  "id": "academic-writing/citation-style/vancouver",
+  "isDocsHomePage": false,
+  "title": "vancouver",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vancouver.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vancouver",
+  "permalink": "/support/docs/academic-writing/citation-style/vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-superscript",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript"
+  },
+  "next": {
+    "title": "veterinaria-italiana",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinaria-italiana"
+  }
+}

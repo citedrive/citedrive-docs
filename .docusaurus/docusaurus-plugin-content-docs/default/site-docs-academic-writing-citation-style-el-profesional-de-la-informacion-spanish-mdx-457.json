@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
+  "id": "academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
+  "isDocsHomePage": false,
+  "title": "el-profesional-de-la-informacion-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+    "permalink": "/support/docs/academic-writing/citation-style/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english"
+  },
+  "next": {
+    "title": "electrophoresis",
+    "permalink": "/support/docs/academic-writing/citation-style/electrophoresis"
+  }
+}

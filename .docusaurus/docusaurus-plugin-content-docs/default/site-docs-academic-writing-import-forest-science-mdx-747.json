@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/forest-science",
+  "id": "academic-writing/import/forest-science",
+  "isDocsHomePage": false,
+  "title": "forest-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/forest-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/forest-science",
+  "permalink": "/support/docs/academic-writing/import/forest-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/forest-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forensic-science-review",
+    "permalink": "/support/docs/academic-writing/import/forensic-science-review"
+  },
+  "next": {
+    "title": "forum-qualitative-social-research-english",
+    "permalink": "/support/docs/academic-writing/import/forum-qualitative-social-research-english"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/health-policy-and-planning",
+  "id": "academic-writing/citation-style/health-policy-and-planning",
+  "isDocsHomePage": false,
+  "title": "health-policy-and-planning",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/health-policy-and-planning.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/health-policy-and-planning",
+  "permalink": "/support/docs/academic-writing/citation-style/health-policy-and-planning",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/health-policy-and-planning.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-education-research",
+    "permalink": "/support/docs/academic-writing/citation-style/health-education-research"
+  },
+  "next": {
+    "title": "health-reform-observer--observatoire-des-reformes-de-sante",
+    "permalink": "/support/docs/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/thyroid",
+  "id": "academic-writing/citation-style/thyroid",
+  "isDocsHomePage": false,
+  "title": "thyroid",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/thyroid.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/thyroid",
+  "permalink": "/support/docs/academic-writing/citation-style/thyroid",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/thyroid.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thrombosis-and-haemostasis",
+    "permalink": "/support/docs/academic-writing/citation-style/thrombosis-and-haemostasis"
+  },
+  "next": {
+    "title": "tijdschrift-voor-economische-en-sociale-geografie",
+    "permalink": "/support/docs/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie"
+  }
+}

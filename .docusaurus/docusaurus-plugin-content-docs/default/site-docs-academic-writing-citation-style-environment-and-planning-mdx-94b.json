@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/environment-and-planning",
+  "id": "academic-writing/citation-style/environment-and-planning",
+  "isDocsHomePage": false,
+  "title": "environment-and-planning",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/environment-and-planning.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/environment-and-planning",
+  "permalink": "/support/docs/academic-writing/citation-style/environment-and-planning",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environment-and-planning.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "entomological-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/entomological-society-of-america"
+  },
+  "next": {
+    "title": "environment-and-urbanization",
+    "permalink": "/support/docs/academic-writing/citation-style/environment-and-urbanization"
+  }
+}

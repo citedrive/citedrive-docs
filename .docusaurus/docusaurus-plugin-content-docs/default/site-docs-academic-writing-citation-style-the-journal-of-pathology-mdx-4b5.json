@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-pathology",
+  "id": "academic-writing/citation-style/the-journal-of-pathology",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-pathology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-pathology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-pathology",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-parasitology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-parasitology"
+  },
+  "next": {
+    "title": "the-journal-of-peasant-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-peasant-studies"
+  }
+}

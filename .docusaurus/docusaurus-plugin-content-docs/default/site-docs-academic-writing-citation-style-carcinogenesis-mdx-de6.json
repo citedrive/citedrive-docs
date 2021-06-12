@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/carcinogenesis",
+  "id": "academic-writing/citation-style/carcinogenesis",
+  "isDocsHomePage": false,
+  "title": "carcinogenesis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/carcinogenesis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/carcinogenesis",
+  "permalink": "/support/docs/academic-writing/citation-style/carcinogenesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/carcinogenesis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cape-peninsula-university-of-technology--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/cape-peninsula-university-of-technology--harvard"
+  },
+  "next": {
+    "title": "cardiff-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiff-university--harvard"
+  }
+}

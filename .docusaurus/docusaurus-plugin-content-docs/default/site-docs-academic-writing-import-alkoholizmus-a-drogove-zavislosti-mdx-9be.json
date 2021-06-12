@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/alkoholizmus-a-drogove-zavislosti",
+  "id": "academic-writing/import/alkoholizmus-a-drogove-zavislosti",
+  "isDocsHomePage": false,
+  "title": "alkoholizmus-a-drogove-zavislosti",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/alkoholizmus-a-drogove-zavislosti.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/alkoholizmus-a-drogove-zavislosti",
+  "permalink": "/support/docs/academic-writing/import/alkoholizmus-a-drogove-zavislosti",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/alkoholizmus-a-drogove-zavislosti.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aljamiah--journal-of-islamic-studies",
+    "permalink": "/support/docs/academic-writing/import/aljamiah--journal-of-islamic-studies"
+  },
+  "next": {
+    "title": "allergology-international",
+    "permalink": "/support/docs/academic-writing/import/allergology-international"
+  }
+}

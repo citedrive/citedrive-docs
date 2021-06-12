@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/archiv-fur-geschichte-der-philosophie",
+  "id": "academic-writing/import/archiv-fur-geschichte-der-philosophie",
+  "isDocsHomePage": false,
+  "title": "archiv-fur-geschichte-der-philosophie",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/archiv-fur-geschichte-der-philosophie.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/archiv-fur-geschichte-der-philosophie",
+  "permalink": "/support/docs/academic-writing/import/archiv-fur-geschichte-der-philosophie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/archiv-fur-geschichte-der-philosophie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archiv-fur-die-civilistische-praxis-german",
+    "permalink": "/support/docs/academic-writing/import/archiv-fur-die-civilistische-praxis-german"
+  },
+  "next": {
+    "title": "archives-of-physical-medicine-and-rehabilitation",
+    "permalink": "/support/docs/academic-writing/import/archives-of-physical-medicine-and-rehabilitation"
+  }
+}

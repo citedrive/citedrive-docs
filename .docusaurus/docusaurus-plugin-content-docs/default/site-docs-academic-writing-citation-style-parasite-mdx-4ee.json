@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/parasite",
+  "id": "academic-writing/citation-style/parasite",
+  "isDocsHomePage": false,
+  "title": "parasite",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/parasite.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/parasite",
+  "permalink": "/support/docs/academic-writing/citation-style/parasite",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/parasite.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "paleobiology",
+    "permalink": "/support/docs/academic-writing/citation-style/paleobiology"
+  },
+  "next": {
+    "title": "parasitology",
+    "permalink": "/support/docs/academic-writing/citation-style/parasitology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-early-christian-studies",
+  "id": "academic-writing/citation-style/journal-of-early-christian-studies",
+  "isDocsHomePage": false,
+  "title": "journal-of-early-christian-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-early-christian-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-early-christian-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-early-christian-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-early-christian-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-dairy-science",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-dairy-science"
+  },
+  "next": {
+    "title": "journal-of-egyptian-history",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-egyptian-history"
+  }
+}

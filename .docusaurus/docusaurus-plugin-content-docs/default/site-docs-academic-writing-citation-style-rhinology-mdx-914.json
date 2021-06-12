@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/rhinology",
+  "id": "academic-writing/citation-style/rhinology",
+  "isDocsHomePage": false,
+  "title": "rhinology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/rhinology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/rhinology",
+  "permalink": "/support/docs/academic-writing/citation-style/rhinology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rhinology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-francaise-de-sociologie-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-francaise-de-sociologie-french"
+  },
+  "next": {
+    "title": "rhodora",
+    "permalink": "/support/docs/academic-writing/citation-style/rhodora"
+  }
+}

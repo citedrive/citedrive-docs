@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/radiography",
+  "id": "academic-writing/citation-style/radiography",
+  "isDocsHomePage": false,
+  "title": "radiography",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/radiography.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/radiography",
+  "permalink": "/support/docs/academic-writing/citation-style/radiography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/radiography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "radiographics",
+    "permalink": "/support/docs/academic-writing/citation-style/radiographics"
+  },
+  "next": {
+    "title": "radiologic-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/radiologic-clinics-of-north-america"
+  }
+}

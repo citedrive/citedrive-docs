@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neurosurgery-clinics-of-north-america",
+  "id": "academic-writing/citation-style/neurosurgery-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "neurosurgery-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neurosurgery-clinics-of-north-america",
+  "permalink": "/support/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neuroreport",
+    "permalink": "/support/docs/academic-writing/citation-style/neuroreport"
+  },
+  "next": {
+    "title": "new-harts-rules-the-oxford-style-guide",
+    "permalink": "/support/docs/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide"
+  }
+}

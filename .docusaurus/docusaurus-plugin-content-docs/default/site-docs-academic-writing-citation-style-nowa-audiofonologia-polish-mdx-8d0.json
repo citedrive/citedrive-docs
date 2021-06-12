@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nowa-audiofonologia-polish",
+  "id": "academic-writing/citation-style/nowa-audiofonologia-polish",
+  "isDocsHomePage": false,
+  "title": "nowa-audiofonologia-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nowa-audiofonologia-polish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nowa-audiofonologia-polish",
+  "permalink": "/support/docs/academic-writing/citation-style/nowa-audiofonologia-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nowa-audiofonologia-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nouvelles-perspectives-en-sciences-sociales-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/nouvelles-perspectives-en-sciences-sociales-french--canada"
+  },
+  "next": {
+    "title": "nuclear-receptor-signaling",
+    "permalink": "/support/docs/academic-writing/citation-style/nuclear-receptor-signaling"
+  }
+}

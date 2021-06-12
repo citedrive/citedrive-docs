@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/representation",
+  "id": "academic-writing/import/representation",
+  "isDocsHomePage": false,
+  "title": "representation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/representation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/representation",
+  "permalink": "/support/docs/academic-writing/import/representation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/representation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "reports-of-practical-oncology-and-radiotherapy",
+    "permalink": "/support/docs/academic-writing/import/reports-of-practical-oncology-and-radiotherapy"
+  },
+  "next": {
+    "title": "reproduction-fertility-and-development",
+    "permalink": "/support/docs/academic-writing/import/reproduction-fertility-and-development"
+  }
+}

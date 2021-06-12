@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/meteorological-applications",
+  "id": "academic-writing/import/meteorological-applications",
+  "isDocsHomePage": false,
+  "title": "meteorological-applications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/meteorological-applications.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/meteorological-applications",
+  "permalink": "/support/docs/academic-writing/import/meteorological-applications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/meteorological-applications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "meteoritics-and-planetary-science",
+    "permalink": "/support/docs/academic-writing/import/meteoritics-and-planetary-science"
+  },
+  "next": {
+    "title": "method-and-theory-in-the-study-of-religion",
+    "permalink": "/support/docs/academic-writing/import/method-and-theory-in-the-study-of-religion"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/marine-turtle-newsletter",
+  "id": "academic-writing/import/marine-turtle-newsletter",
+  "isDocsHomePage": false,
+  "title": "marine-turtle-newsletter",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/marine-turtle-newsletter.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/marine-turtle-newsletter",
+  "permalink": "/support/docs/academic-writing/import/marine-turtle-newsletter",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/marine-turtle-newsletter.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marine-ornithology",
+    "permalink": "/support/docs/academic-writing/import/marine-ornithology"
+  },
+  "next": {
+    "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/import/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish"
+  }
+}

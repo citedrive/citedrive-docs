@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/citation-compass-kildekompasset--apa-note",
+  "id": "academic-writing/import/citation-compass-kildekompasset--apa-note",
+  "isDocsHomePage": false,
+  "title": "citation-compass-kildekompasset--apa-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/citation-compass-kildekompasset--apa-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/citation-compass-kildekompasset--apa-note",
+  "permalink": "/support/docs/academic-writing/import/citation-compass-kildekompasset--apa-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/citation-compass-kildekompasset--apa-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cirugia-cardiovascular-spanish",
+    "permalink": "/support/docs/academic-writing/import/cirugia-cardiovascular-spanish"
+  },
+  "next": {
+    "title": "cite-them-right-10th-edition--harvard-no-et-al",
+    "permalink": "/support/docs/academic-writing/import/cite-them-right-10th-edition--harvard-no-et-al"
+  }
+}

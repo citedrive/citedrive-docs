@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/epidemiologie-et-sante-animale",
+  "id": "academic-writing/citation-style/epidemiologie-et-sante-animale",
+  "isDocsHomePage": false,
+  "title": "epidemiologie-et-sante-animale",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/epidemiologie-et-sante-animale.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/epidemiologie-et-sante-animale",
+  "permalink": "/support/docs/academic-writing/citation-style/epidemiologie-et-sante-animale",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/epidemiologie-et-sante-animale.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ephemerides-theologicae-lovanienses",
+    "permalink": "/support/docs/academic-writing/citation-style/ephemerides-theologicae-lovanienses"
+  },
+  "next": {
+    "title": "epidemiology-and-infection",
+    "permalink": "/support/docs/academic-writing/citation-style/epidemiology-and-infection"
+  }
+}

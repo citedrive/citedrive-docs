@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
+  "id": "academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
+  "isDocsHomePage": false,
+  "title": "springer--lecture-notes-in-computer-science-sorted-alphabetically",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--imis-series-migrationsgesellschaften",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--imis-series-migrationsgesellschaften"
+  },
+  "next": {
+    "title": "springer--lecture-notes-in-computer-science",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science"
+  }
+}

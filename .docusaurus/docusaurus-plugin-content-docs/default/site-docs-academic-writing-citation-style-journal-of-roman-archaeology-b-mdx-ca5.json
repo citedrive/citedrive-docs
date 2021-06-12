@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-roman-archaeology-b",
+  "id": "academic-writing/citation-style/journal-of-roman-archaeology-b",
+  "isDocsHomePage": false,
+  "title": "journal-of-roman-archaeology-b",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-roman-archaeology-b.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-roman-archaeology-b",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-b",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-roman-archaeology-b.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-roman-archaeology-a",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-a"
+  },
+  "next": {
+    "title": "journal-of-science-and-medicine-in-sport",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-science-and-medicine-in-sport"
+  }
+}

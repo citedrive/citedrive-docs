@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/data-science-journal",
+  "id": "academic-writing/citation-style/data-science-journal",
+  "isDocsHomePage": false,
+  "title": "data-science-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/data-science-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/data-science-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/data-science-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/data-science-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cytometry",
+    "permalink": "/support/docs/academic-writing/citation-style/cytometry"
+  },
+  "next": {
+    "title": "database",
+    "permalink": "/support/docs/academic-writing/citation-style/database"
+  }
+}

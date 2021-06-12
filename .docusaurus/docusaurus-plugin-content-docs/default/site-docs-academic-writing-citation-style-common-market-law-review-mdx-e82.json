@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/common-market-law-review",
+  "id": "academic-writing/citation-style/common-market-law-review",
+  "isDocsHomePage": false,
+  "title": "common-market-law-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/common-market-law-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/common-market-law-review",
+  "permalink": "/support/docs/academic-writing/citation-style/common-market-law-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/common-market-law-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "comision-economica-para-america-latina-y-el-caribe-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/comision-economica-para-america-latina-y-el-caribe-spanish"
+  },
+  "next": {
+    "title": "communication-et-langages",
+    "permalink": "/support/docs/academic-writing/citation-style/communication-et-langages"
+  }
+}

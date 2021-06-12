@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/first-monday",
+  "id": "academic-writing/citation-style/first-monday",
+  "isDocsHomePage": false,
+  "title": "first-monday",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/first-monday.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/first-monday",
+  "permalink": "/support/docs/academic-writing/citation-style/first-monday",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/first-monday.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "first-break",
+    "permalink": "/support/docs/academic-writing/citation-style/first-break"
+  },
+  "next": {
+    "title": "fishery-bulletin",
+    "permalink": "/support/docs/academic-writing/citation-style/fishery-bulletin"
+  }
+}

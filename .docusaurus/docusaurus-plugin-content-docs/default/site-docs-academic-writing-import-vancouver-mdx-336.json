@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/vancouver",
+  "id": "academic-writing/import/vancouver",
+  "isDocsHomePage": false,
+  "title": "vancouver",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/vancouver.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/vancouver",
+  "permalink": "/support/docs/academic-writing/import/vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-superscript",
+    "permalink": "/support/docs/academic-writing/import/vancouver-superscript"
+  },
+  "next": {
+    "title": "veterinaria-italiana",
+    "permalink": "/support/docs/academic-writing/import/veterinaria-italiana"
+  }
+}

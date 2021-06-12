@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+  "id": "academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+  "isDocsHomePage": false,
+  "title": "contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+  "permalink": "/support/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "continuity-and-change",
+    "permalink": "/support/docs/academic-writing/citation-style/continuity-and-change"
+  },
+  "next": {
+    "title": "copeia",
+    "permalink": "/support/docs/academic-writing/citation-style/copeia"
+  }
+}

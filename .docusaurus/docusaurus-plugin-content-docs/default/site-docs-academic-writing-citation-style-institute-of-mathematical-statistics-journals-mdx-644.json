@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/institute-of-mathematical-statistics-journals",
+  "id": "academic-writing/citation-style/institute-of-mathematical-statistics-journals",
+  "isDocsHomePage": false,
+  "title": "institute-of-mathematical-statistics-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/institute-of-mathematical-statistics-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/institute-of-mathematical-statistics-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/institute-of-mathematical-statistics-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institute-of-mathematical-statistics-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institute-for-operations-research-and-the-management-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/institute-for-operations-research-and-the-management-sciences"
+  },
+  "next": {
+    "title": "institute-of-mathematics-and-its-applications",
+    "permalink": "/support/docs/academic-writing/citation-style/institute-of-mathematics-and-its-applications"
+  }
+}

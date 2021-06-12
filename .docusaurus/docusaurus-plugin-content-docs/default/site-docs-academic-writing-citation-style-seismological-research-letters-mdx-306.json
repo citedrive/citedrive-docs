@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/seismological-research-letters",
+  "id": "academic-writing/citation-style/seismological-research-letters",
+  "isDocsHomePage": false,
+  "title": "seismological-research-letters",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/seismological-research-letters.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/seismological-research-letters",
+  "permalink": "/support/docs/academic-writing/citation-style/seismological-research-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/seismological-research-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seed-science-research",
+    "permalink": "/support/docs/academic-writing/citation-style/seed-science-research"
+  },
+  "next": {
+    "title": "sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian"
+  }
+}

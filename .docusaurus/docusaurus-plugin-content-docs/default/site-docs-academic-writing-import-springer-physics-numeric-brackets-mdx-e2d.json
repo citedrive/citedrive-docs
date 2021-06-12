@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer--physics-numeric-brackets",
+  "id": "academic-writing/import/springer--physics-numeric-brackets",
+  "isDocsHomePage": false,
+  "title": "springer--physics-numeric-brackets",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer--physics-numeric-brackets.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer--physics-numeric-brackets",
+  "permalink": "/support/docs/academic-writing/import/springer--physics-numeric-brackets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer--physics-numeric-brackets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--physics-authordate",
+    "permalink": "/support/docs/academic-writing/import/springer--physics-authordate"
+  },
+  "next": {
+    "title": "springer--socpsych-authordate",
+    "permalink": "/support/docs/academic-writing/import/springer--socpsych-authordate"
+  }
+}

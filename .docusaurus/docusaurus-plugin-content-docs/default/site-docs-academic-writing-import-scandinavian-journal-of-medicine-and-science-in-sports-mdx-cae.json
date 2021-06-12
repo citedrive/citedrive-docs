@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports",
+  "id": "academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports",
+  "isDocsHomePage": false,
+  "title": "scandinavian-journal-of-medicine-and-science-in-sports",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports",
+  "permalink": "/support/docs/academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/scandinavian-journal-of-medicine-and-science-in-sports.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scandinavian-journal-of-infectious-diseases",
+    "permalink": "/support/docs/academic-writing/import/scandinavian-journal-of-infectious-diseases"
+  },
+  "next": {
+    "title": "scandinavian-journal-of-rheumatology",
+    "permalink": "/support/docs/academic-writing/import/scandinavian-journal-of-rheumatology"
+  }
+}

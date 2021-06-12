@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iso690-authordate-english",
+  "id": "academic-writing/citation-style/iso690-authordate-english",
+  "isDocsHomePage": false,
+  "title": "iso690-authordate-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iso690-authordate-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iso690-authordate-english",
+  "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-authordate-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-authordate-czech",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-czech"
+  },
+  "next": {
+    "title": "iso690-authordate-french",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-french"
+  }
+}

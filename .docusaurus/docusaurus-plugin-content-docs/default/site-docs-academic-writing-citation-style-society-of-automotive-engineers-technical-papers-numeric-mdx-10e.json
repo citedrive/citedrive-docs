@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric",
+  "id": "academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric",
+  "isDocsHomePage": false,
+  "title": "society-of-automotive-engineers-technical-papers-numeric",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric",
+  "permalink": "/support/docs/academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-for-laboratory-automation-and-screening",
+    "permalink": "/support/docs/academic-writing/citation-style/society-for-laboratory-automation-and-screening"
+  },
+  "next": {
+    "title": "society-of-biblical-literature-2nd-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-neuroscience",
+  "id": "academic-writing/import/the-journal-of-neuroscience",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-neuroscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-neuroscience.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-neuroscience",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-neuroscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-neuroscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-neuropsychiatry-and-clinical-neurosciences",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-neuropsychiatry-and-clinical-neurosciences"
+  },
+  "next": {
+    "title": "the-journal-of-nuclear-medicine",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-nuclear-medicine"
+  }
+}

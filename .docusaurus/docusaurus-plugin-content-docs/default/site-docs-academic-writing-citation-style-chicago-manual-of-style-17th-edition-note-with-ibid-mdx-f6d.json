@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid",
+  "id": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-note-with-ibid",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid",
+  "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-with-ibid.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-annotated-bibliography"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-note",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note"
+  }
+}

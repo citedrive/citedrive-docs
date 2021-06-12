@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/plant-biology",
+  "id": "academic-writing/import/plant-biology",
+  "isDocsHomePage": false,
+  "title": "plant-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/plant-biology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/plant-biology",
+  "permalink": "/support/docs/academic-writing/import/plant-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/plant-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-and-cell-physiology",
+    "permalink": "/support/docs/academic-writing/import/plant-and-cell-physiology"
+  },
+  "next": {
+    "title": "plant-biotechnology-journal",
+    "permalink": "/support/docs/academic-writing/import/plant-biotechnology-journal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-physical-society-without-titles",
+  "id": "academic-writing/citation-style/american-physical-society-without-titles",
+  "isDocsHomePage": false,
+  "title": "american-physical-society-without-titles",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-physical-society-without-titles.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-physical-society-without-titles",
+  "permalink": "/support/docs/academic-writing/citation-style/american-physical-society-without-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-physical-society-without-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-physical-society--et-al-if-more-than-3-authors",
+    "permalink": "/support/docs/academic-writing/citation-style/american-physical-society--et-al-if-more-than-3-authors"
+  },
+  "next": {
+    "title": "american-physical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/american-physical-society"
+  }
+}

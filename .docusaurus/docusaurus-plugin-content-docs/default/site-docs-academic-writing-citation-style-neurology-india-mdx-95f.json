@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neurology-india",
+  "id": "academic-writing/citation-style/neurology-india",
+  "isDocsHomePage": false,
+  "title": "neurology-india",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neurology-india.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neurology-india",
+  "permalink": "/support/docs/academic-writing/citation-style/neurology-india",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurology-india.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurologia-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/neurologia-spanish"
+  },
+  "next": {
+    "title": "neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/neurology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/myrmecological-news",
+  "id": "academic-writing/import/myrmecological-news",
+  "isDocsHomePage": false,
+  "title": "myrmecological-news",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/myrmecological-news.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/myrmecological-news",
+  "permalink": "/support/docs/academic-writing/import/myrmecological-news",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/myrmecological-news.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mycologia",
+    "permalink": "/support/docs/academic-writing/import/mycologia"
+  },
+  "next": {
+    "title": "nano-biomedicine-and-engineering",
+    "permalink": "/support/docs/academic-writing/import/nano-biomedicine-and-engineering"
+  }
+}

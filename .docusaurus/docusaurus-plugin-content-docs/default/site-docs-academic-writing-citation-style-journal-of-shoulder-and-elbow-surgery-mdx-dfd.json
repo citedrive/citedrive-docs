@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery",
+  "id": "academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery",
+  "isDocsHomePage": false,
+  "title": "journal-of-shoulder-and-elbow-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-separation-science",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-separation-science"
+  },
+  "next": {
+    "title": "journal-of-simulation",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-simulation"
+  }
+}

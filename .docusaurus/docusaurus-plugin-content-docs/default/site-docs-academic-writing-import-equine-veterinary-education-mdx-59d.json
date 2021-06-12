@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/equine-veterinary-education",
+  "id": "academic-writing/import/equine-veterinary-education",
+  "isDocsHomePage": false,
+  "title": "equine-veterinary-education",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/equine-veterinary-education.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/equine-veterinary-education",
+  "permalink": "/support/docs/academic-writing/import/equine-veterinary-education",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/equine-veterinary-education.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "epilepsia",
+    "permalink": "/support/docs/academic-writing/import/epilepsia"
+  },
+  "next": {
+    "title": "equine-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/import/equine-veterinary-journal"
+  }
+}

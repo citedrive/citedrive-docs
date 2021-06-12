@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/animal",
+  "id": "academic-writing/citation-style/animal",
+  "isDocsHomePage": false,
+  "title": "animal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/animal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/animal",
+  "permalink": "/support/docs/academic-writing/citation-style/animal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/animal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "animal-welfare",
+    "permalink": "/support/docs/academic-writing/citation-style/animal-welfare"
+  },
+  "next": {
+    "title": "annalen-des-naturhistorischen-museums-in-wien",
+    "permalink": "/support/docs/academic-writing/citation-style/annalen-des-naturhistorischen-museums-in-wien"
+  }
+}

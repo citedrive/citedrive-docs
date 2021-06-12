@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/quaderni-degli-avogadro-colloquia",
+  "id": "academic-writing/import/quaderni-degli-avogadro-colloquia",
+  "isDocsHomePage": false,
+  "title": "quaderni-degli-avogadro-colloquia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/quaderni-degli-avogadro-colloquia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/quaderni-degli-avogadro-colloquia",
+  "permalink": "/support/docs/academic-writing/import/quaderni-degli-avogadro-colloquia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/quaderni-degli-avogadro-colloquia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pure-and-applied-geophysics",
+    "permalink": "/support/docs/academic-writing/import/pure-and-applied-geophysics"
+  },
+  "next": {
+    "title": "quaderni-materialisti-italian",
+    "permalink": "/support/docs/academic-writing/import/quaderni-materialisti-italian"
+  }
+}

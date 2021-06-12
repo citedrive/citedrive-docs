@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/climate-change-economics",
+  "id": "academic-writing/citation-style/climate-change-economics",
+  "isDocsHomePage": false,
+  "title": "climate-change-economics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/climate-change-economics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/climate-change-economics",
+  "permalink": "/support/docs/academic-writing/citation-style/climate-change-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/climate-change-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clays-and-clay-minerals",
+    "permalink": "/support/docs/academic-writing/citation-style/clays-and-clay-minerals"
+  },
+  "next": {
+    "title": "clinica-e-investigacion-en-arteriosclerosis-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/clinica-e-investigacion-en-arteriosclerosis-spanish"
+  }
+}

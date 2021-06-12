@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/land-degradation-and-development",
+  "id": "academic-writing/citation-style/land-degradation-and-development",
+  "isDocsHomePage": false,
+  "title": "land-degradation-and-development",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/land-degradation-and-development.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/land-degradation-and-development",
+  "permalink": "/support/docs/academic-writing/citation-style/land-degradation-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/land-degradation-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lancaster-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/lancaster-university--harvard"
+  },
+  "next": {
+    "title": "landes-bioscience-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/landes-bioscience-journals"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/wader-study",
+  "id": "academic-writing/citation-style/wader-study",
+  "isDocsHomePage": false,
+  "title": "wader-study",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/wader-study.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/wader-study",
+  "permalink": "/support/docs/academic-writing/citation-style/wader-study",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wader-study.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vodohospodarske-technickoekonomicke-informace-english",
+    "permalink": "/support/docs/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english"
+  },
+  "next": {
+    "title": "water-alternatives",
+    "permalink": "/support/docs/academic-writing/citation-style/water-alternatives"
+  }
+}

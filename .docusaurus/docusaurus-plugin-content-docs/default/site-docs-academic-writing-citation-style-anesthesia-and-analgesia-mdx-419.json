@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/anesthesia-and-analgesia",
+  "id": "academic-writing/citation-style/anesthesia-and-analgesia",
+  "isDocsHomePage": false,
+  "title": "anesthesia-and-analgesia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/anesthesia-and-analgesia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/anesthesia-and-analgesia",
+  "permalink": "/support/docs/academic-writing/citation-style/anesthesia-and-analgesia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anesthesia-and-analgesia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "andean-geology",
+    "permalink": "/support/docs/academic-writing/citation-style/andean-geology"
+  },
+  "next": {
+    "title": "anesthesiology",
+    "permalink": "/support/docs/academic-writing/citation-style/anesthesiology"
+  }
+}

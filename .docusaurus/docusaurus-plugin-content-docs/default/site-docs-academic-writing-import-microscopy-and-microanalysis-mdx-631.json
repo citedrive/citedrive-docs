@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/microscopy-and-microanalysis",
+  "id": "academic-writing/import/microscopy-and-microanalysis",
+  "isDocsHomePage": false,
+  "title": "microscopy-and-microanalysis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/microscopy-and-microanalysis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/microscopy-and-microanalysis",
+  "permalink": "/support/docs/academic-writing/import/microscopy-and-microanalysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/microscopy-and-microanalysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microbiology-society",
+    "permalink": "/support/docs/academic-writing/import/microbiology-society"
+  },
+  "next": {
+    "title": "middle-east-critique",
+    "permalink": "/support/docs/academic-writing/import/middle-east-critique"
+  }
+}

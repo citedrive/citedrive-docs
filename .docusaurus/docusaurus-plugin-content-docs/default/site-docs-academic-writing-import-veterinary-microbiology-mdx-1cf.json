@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/veterinary-microbiology",
+  "id": "academic-writing/import/veterinary-microbiology",
+  "isDocsHomePage": false,
+  "title": "veterinary-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/veterinary-microbiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/veterinary-microbiology",
+  "permalink": "/support/docs/academic-writing/import/veterinary-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/veterinary-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veterinary-medicine-austria-wiener-tierarztliche-monatsschrift",
+    "permalink": "/support/docs/academic-writing/import/veterinary-medicine-austria-wiener-tierarztliche-monatsschrift"
+  },
+  "next": {
+    "title": "veterinary-pathology",
+    "permalink": "/support/docs/academic-writing/import/veterinary-pathology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/exercer-french",
+  "id": "academic-writing/import/exercer-french",
+  "isDocsHomePage": false,
+  "title": "exercer-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/exercer-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/exercer-french",
+  "permalink": "/support/docs/academic-writing/import/exercer-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/exercer-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "excli-journal",
+    "permalink": "/support/docs/academic-writing/import/excli-journal"
+  },
+  "next": {
+    "title": "experimental-biomedical-research",
+    "permalink": "/support/docs/academic-writing/import/experimental-biomedical-research"
+  }
+}

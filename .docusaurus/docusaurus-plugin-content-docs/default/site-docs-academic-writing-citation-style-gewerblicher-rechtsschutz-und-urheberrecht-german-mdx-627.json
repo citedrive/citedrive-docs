@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
+  "id": "academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
+  "isDocsHomePage": false,
+  "title": "gewerblicher-rechtsschutz-und-urheberrecht-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
+  "permalink": "/support/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gesellschaft-fur-popularmusikforschung-german",
+    "permalink": "/support/docs/academic-writing/citation-style/gesellschaft-fur-popularmusikforschung-german"
+  },
+  "next": {
+    "title": "gigascience",
+    "permalink": "/support/docs/academic-writing/citation-style/gigascience"
+  }
+}

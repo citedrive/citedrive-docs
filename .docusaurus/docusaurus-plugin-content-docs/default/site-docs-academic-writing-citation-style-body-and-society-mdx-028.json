@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/body-and-society",
+  "id": "academic-writing/citation-style/body-and-society",
+  "isDocsHomePage": false,
+  "title": "body-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/body-and-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/body-and-society",
+  "permalink": "/support/docs/academic-writing/citation-style/body-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/body-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bmj",
+    "permalink": "/support/docs/academic-writing/citation-style/bmj"
+  },
+  "next": {
+    "title": "boletin-de-pediatria-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/boletin-de-pediatria-spanish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-molecular-endocrinology",
+  "id": "academic-writing/citation-style/journal-of-molecular-endocrinology",
+  "isDocsHomePage": false,
+  "title": "journal-of-molecular-endocrinology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-molecular-endocrinology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-molecular-endocrinology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-endocrinology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-molecular-endocrinology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-molecular-cell-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-cell-biology"
+  },
+  "next": {
+    "title": "journal-of-molecular-recognition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-recognition"
+  }
+}

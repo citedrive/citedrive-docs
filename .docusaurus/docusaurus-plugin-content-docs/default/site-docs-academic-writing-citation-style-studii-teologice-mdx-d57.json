@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/studii-teologice",
+  "id": "academic-writing/citation-style/studii-teologice",
+  "isDocsHomePage": false,
+  "title": "studii-teologice",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/studii-teologice.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/studii-teologice",
+  "permalink": "/support/docs/academic-writing/citation-style/studii-teologice",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/studii-teologice.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "studia-bas-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/studia-bas-polish"
+  },
+  "next": {
+    "title": "style-manual--australian-government-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-authordate"
+  }
+}

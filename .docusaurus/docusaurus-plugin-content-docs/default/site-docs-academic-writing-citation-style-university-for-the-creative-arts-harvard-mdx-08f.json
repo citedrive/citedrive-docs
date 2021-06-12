@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-for-the-creative-arts--harvard",
+  "id": "academic-writing/citation-style/university-for-the-creative-arts--harvard",
+  "isDocsHomePage": false,
+  "title": "university-for-the-creative-arts--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-for-the-creative-arts--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-for-the-creative-arts--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-for-the-creative-arts--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-for-the-creative-arts--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-college-lilleblt--apa-danish",
+    "permalink": "/support/docs/academic-writing/citation-style/university-college-lilleblt--apa-danish"
+  },
+  "next": {
+    "title": "university-of-aberdeen--school-of-education--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-aberdeen--school-of-education--harvard"
+  }
+}

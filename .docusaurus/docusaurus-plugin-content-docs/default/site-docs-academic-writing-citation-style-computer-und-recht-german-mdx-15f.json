@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/computer-und-recht-german",
+  "id": "academic-writing/citation-style/computer-und-recht-german",
+  "isDocsHomePage": false,
+  "title": "computer-und-recht-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/computer-und-recht-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/computer-und-recht-german",
+  "permalink": "/support/docs/academic-writing/citation-style/computer-und-recht-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/computer-und-recht-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "comparative-population-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/comparative-population-studies"
+  },
+  "next": {
+    "title": "conservation-and-society",
+    "permalink": "/support/docs/academic-writing/citation-style/conservation-and-society"
+  }
+}

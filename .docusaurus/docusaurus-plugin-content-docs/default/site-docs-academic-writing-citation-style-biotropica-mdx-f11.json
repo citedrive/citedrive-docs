@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biotropica",
+  "id": "academic-writing/citation-style/biotropica",
+  "isDocsHomePage": false,
+  "title": "biotropica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biotropica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biotropica",
+  "permalink": "/support/docs/academic-writing/citation-style/biotropica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biotropica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biotechnology-and-bioengineering",
+    "permalink": "/support/docs/academic-writing/citation-style/biotechnology-and-bioengineering"
+  },
+  "next": {
+    "title": "bitonline-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/bitonline-note-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ethnomusicology",
+  "id": "academic-writing/citation-style/ethnomusicology",
+  "isDocsHomePage": false,
+  "title": "ethnomusicology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ethnomusicology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ethnomusicology",
+  "permalink": "/support/docs/academic-writing/citation-style/ethnomusicology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ethnomusicology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethnologie-francaise-french",
+    "permalink": "/support/docs/academic-writing/citation-style/ethnologie-francaise-french"
+  },
+  "next": {
+    "title": "ets--ecole-de-technologie-superieure-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada"
+  }
+}

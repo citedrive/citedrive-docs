@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ophthalmic-genetics",
+  "id": "academic-writing/citation-style/ophthalmic-genetics",
+  "isDocsHomePage": false,
+  "title": "ophthalmic-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ophthalmic-genetics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ophthalmic-genetics",
+  "permalink": "/support/docs/academic-writing/citation-style/ophthalmic-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ophthalmic-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "operative-dentistry",
+    "permalink": "/support/docs/academic-writing/citation-style/operative-dentistry"
+  },
+  "next": {
+    "title": "ophthalmology-retina",
+    "permalink": "/support/docs/academic-writing/citation-style/ophthalmology-retina"
+  }
+}

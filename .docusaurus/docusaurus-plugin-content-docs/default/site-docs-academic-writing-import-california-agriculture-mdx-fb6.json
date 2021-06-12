@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/california-agriculture",
+  "id": "academic-writing/import/california-agriculture",
+  "isDocsHomePage": false,
+  "title": "california-agriculture",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/california-agriculture.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/california-agriculture",
+  "permalink": "/support/docs/academic-writing/import/california-agriculture",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/california-agriculture.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cahiers-du-centre-gustaveglotz-french",
+    "permalink": "/support/docs/academic-writing/import/cahiers-du-centre-gustaveglotz-french"
+  },
+  "next": {
+    "title": "cambridge-journal-of-economics",
+    "permalink": "/support/docs/academic-writing/import/cambridge-journal-of-economics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
+  "id": "academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-foot-and-ankle-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-eukaryotic-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology"
+  },
+  "next": {
+    "title": "the-journal-of-hand-surgery-asianpacific-volume",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume"
+  }
+}

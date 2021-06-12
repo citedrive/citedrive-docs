@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elementa",
+  "id": "academic-writing/citation-style/elementa",
+  "isDocsHomePage": false,
+  "title": "elementa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elementa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elementa",
+  "permalink": "/support/docs/academic-writing/citation-style/elementa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elementa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "electrophoresis",
+    "permalink": "/support/docs/academic-writing/citation-style/electrophoresis"
+  },
+  "next": {
+    "title": "elife",
+    "permalink": "/support/docs/academic-writing/citation-style/elife"
+  }
+}

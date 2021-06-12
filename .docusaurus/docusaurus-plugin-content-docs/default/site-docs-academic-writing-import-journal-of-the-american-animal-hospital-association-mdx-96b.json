@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-the-american-animal-hospital-association",
+  "id": "academic-writing/import/journal-of-the-american-animal-hospital-association",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-animal-hospital-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-the-american-animal-hospital-association.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-the-american-animal-hospital-association",
+  "permalink": "/support/docs/academic-writing/import/journal-of-the-american-animal-hospital-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-the-american-animal-hospital-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-academy-of-orthopaedic-surgeons",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-american-academy-of-orthopaedic-surgeons"
+  },
+  "next": {
+    "title": "journal-of-the-american-association-of-laboratory-animal-science",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science"
+  }
+}

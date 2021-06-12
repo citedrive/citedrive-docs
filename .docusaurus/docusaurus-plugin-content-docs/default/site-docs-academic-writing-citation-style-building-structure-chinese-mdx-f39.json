@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/building-structure-chinese",
+  "id": "academic-writing/citation-style/building-structure-chinese",
+  "isDocsHomePage": false,
+  "title": "building-structure-chinese",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/building-structure-chinese.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/building-structure-chinese",
+  "permalink": "/support/docs/academic-writing/citation-style/building-structure-chinese",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/building-structure-chinese.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "budownictwo-i-architektura",
+    "permalink": "/support/docs/academic-writing/citation-style/budownictwo-i-architektura"
+  },
+  "next": {
+    "title": "buletin-agrohorti",
+    "permalink": "/support/docs/academic-writing/citation-style/buletin-agrohorti"
+  }
+}

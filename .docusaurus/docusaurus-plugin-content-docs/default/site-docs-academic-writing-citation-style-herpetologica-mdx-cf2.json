@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/herpetologica",
+  "id": "academic-writing/citation-style/herpetologica",
+  "isDocsHomePage": false,
+  "title": "herpetologica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/herpetologica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/herpetologica",
+  "permalink": "/support/docs/academic-writing/citation-style/herpetologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/herpetologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "heredity",
+    "permalink": "/support/docs/academic-writing/citation-style/heredity"
+  },
+  "next": {
+    "title": "high-altitude-medicine-and-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/high-altitude-medicine-and-biology"
+  }
+}

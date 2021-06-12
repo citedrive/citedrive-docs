@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ieee",
+  "id": "academic-writing/import/ieee",
+  "isDocsHomePage": false,
+  "title": "ieee",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ieee.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ieee",
+  "permalink": "/support/docs/academic-writing/import/ieee",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ieee.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-with-url",
+    "permalink": "/support/docs/academic-writing/import/ieee-with-url"
+  },
+  "next": {
+    "title": "iforest",
+    "permalink": "/support/docs/academic-writing/import/iforest"
+  }
+}

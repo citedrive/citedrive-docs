@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/urban-geography",
+  "id": "academic-writing/citation-style/urban-geography",
+  "isDocsHomePage": false,
+  "title": "urban-geography",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/urban-geography.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/urban-geography",
+  "permalink": "/support/docs/academic-writing/citation-style/urban-geography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/urban-geography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uppsala-universitet-institutionen-for-biologisk-grundutbildning",
+    "permalink": "/support/docs/academic-writing/citation-style/uppsala-universitet-institutionen-for-biologisk-grundutbildning"
+  },
+  "next": {
+    "title": "urban-habitats",
+    "permalink": "/support/docs/academic-writing/citation-style/urban-habitats"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/urban-habitats",
+  "id": "academic-writing/import/urban-habitats",
+  "isDocsHomePage": false,
+  "title": "urban-habitats",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/urban-habitats.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/urban-habitats",
+  "permalink": "/support/docs/academic-writing/import/urban-habitats",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/urban-habitats.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urban-geography",
+    "permalink": "/support/docs/academic-writing/import/urban-geography"
+  },
+  "next": {
+    "title": "urban-studies",
+    "permalink": "/support/docs/academic-writing/import/urban-studies"
+  }
+}

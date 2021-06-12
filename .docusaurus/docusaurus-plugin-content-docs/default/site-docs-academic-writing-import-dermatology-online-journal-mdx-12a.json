@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/dermatology-online-journal",
+  "id": "academic-writing/import/dermatology-online-journal",
+  "isDocsHomePage": false,
+  "title": "dermatology-online-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/dermatology-online-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/dermatology-online-journal",
+  "permalink": "/support/docs/academic-writing/import/dermatology-online-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/dermatology-online-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "der-moderne-staat-german",
+    "permalink": "/support/docs/academic-writing/import/der-moderne-staat-german"
+  },
+  "next": {
+    "title": "deutsche-gesellschaft-fur-psychologie-german",
+    "permalink": "/support/docs/academic-writing/import/deutsche-gesellschaft-fur-psychologie-german"
+  }
+}

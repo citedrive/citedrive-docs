@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cambridge-journal-of-economics",
+  "id": "academic-writing/citation-style/cambridge-journal-of-economics",
+  "isDocsHomePage": false,
+  "title": "cambridge-journal-of-economics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cambridge-journal-of-economics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cambridge-journal-of-economics",
+  "permalink": "/support/docs/academic-writing/citation-style/cambridge-journal-of-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cambridge-journal-of-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "california-agriculture",
+    "permalink": "/support/docs/academic-writing/citation-style/california-agriculture"
+  },
+  "next": {
+    "title": "cambridge-university-press--law-note",
+    "permalink": "/support/docs/academic-writing/citation-style/cambridge-university-press--law-note"
+  }
+}

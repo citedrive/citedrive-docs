@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/new-phytologist",
+  "id": "academic-writing/citation-style/new-phytologist",
+  "isDocsHomePage": false,
+  "title": "new-phytologist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/new-phytologist.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/new-phytologist",
+  "permalink": "/support/docs/academic-writing/citation-style/new-phytologist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-phytologist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "new-harts-rules-the-oxford-style-guide",
+    "permalink": "/support/docs/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide"
+  },
+  "next": {
+    "title": "new-solutions",
+    "permalink": "/support/docs/academic-writing/citation-style/new-solutions"
+  }
+}

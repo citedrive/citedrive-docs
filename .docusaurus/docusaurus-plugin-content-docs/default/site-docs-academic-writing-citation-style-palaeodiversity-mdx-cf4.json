@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/palaeodiversity",
+  "id": "academic-writing/citation-style/palaeodiversity",
+  "isDocsHomePage": false,
+  "title": "palaeodiversity",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/palaeodiversity.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/palaeodiversity",
+  "permalink": "/support/docs/academic-writing/citation-style/palaeodiversity",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/palaeodiversity.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pakistan-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/pakistan-veterinary-journal"
+  },
+  "next": {
+    "title": "palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+    "permalink": "/support/docs/academic-writing/citation-style/palaeontographica-abteilung-b-palaeobotany--palaeophytology"
+  }
+}

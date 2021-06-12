@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/australian-historical-studies",
+  "id": "academic-writing/citation-style/australian-historical-studies",
+  "isDocsHomePage": false,
+  "title": "australian-historical-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/australian-historical-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/australian-historical-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/australian-historical-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-historical-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-guide-to-legal-citation-4th-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition"
+  },
+  "next": {
+    "title": "australian-journal-of-earth-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-journal-of-earth-sciences"
+  }
+}

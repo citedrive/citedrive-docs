@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/g3-genes-genomes-genetics",
+  "id": "academic-writing/import/g3-genes-genomes-genetics",
+  "isDocsHomePage": false,
+  "title": "g3-genes-genomes-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/g3-genes-genomes-genetics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/g3-genes-genomes-genetics",
+  "permalink": "/support/docs/academic-writing/import/g3-genes-genomes-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/g3-genes-genomes-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "g-giappichelli-editore-italian",
+    "permalink": "/support/docs/academic-writing/import/g-giappichelli-editore-italian"
+  },
+  "next": {
+    "title": "gaceta-sanitaria",
+    "permalink": "/support/docs/academic-writing/import/gaceta-sanitaria"
+  }
+}

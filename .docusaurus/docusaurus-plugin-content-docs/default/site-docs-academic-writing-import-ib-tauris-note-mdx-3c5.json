@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ib-tauris-note",
+  "id": "academic-writing/import/ib-tauris-note",
+  "isDocsHomePage": false,
+  "title": "ib-tauris-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ib-tauris-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ib-tauris-note",
+  "permalink": "/support/docs/academic-writing/import/ib-tauris-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ib-tauris-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hypotheses-in-the-life-sciences",
+    "permalink": "/support/docs/academic-writing/import/hypotheses-in-the-life-sciences"
+  },
+  "next": {
+    "title": "ibis",
+    "permalink": "/support/docs/academic-writing/import/ibis"
+  }
+}

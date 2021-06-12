@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/enfermeria-intensiva-spanish",
+  "id": "academic-writing/citation-style/enfermeria-intensiva-spanish",
+  "isDocsHomePage": false,
+  "title": "enfermeria-intensiva-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/enfermeria-intensiva-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/enfermeria-intensiva-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/enfermeria-intensiva-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/enfermeria-intensiva-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "enfermeria-clinica-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/enfermeria-clinica-spanish"
+  },
+  "next": {
+    "title": "engineering-in-life-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/engineering-in-life-sciences"
+  }
+}

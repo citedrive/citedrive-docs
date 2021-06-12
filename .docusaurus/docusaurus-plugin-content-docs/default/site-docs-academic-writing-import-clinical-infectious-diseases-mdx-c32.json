@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-infectious-diseases",
+  "id": "academic-writing/import/clinical-infectious-diseases",
+  "isDocsHomePage": false,
+  "title": "clinical-infectious-diseases",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-infectious-diseases.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-infectious-diseases",
+  "permalink": "/support/docs/academic-writing/import/clinical-infectious-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-infectious-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-hemorheology-and-microcirculation",
+    "permalink": "/support/docs/academic-writing/import/clinical-hemorheology-and-microcirculation"
+  },
+  "next": {
+    "title": "clinical-journal-of-sport-medicine",
+    "permalink": "/support/docs/academic-writing/import/clinical-journal-of-sport-medicine"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/indiana",
+  "id": "academic-writing/citation-style/indiana",
+  "isDocsHomePage": false,
+  "title": "indiana",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/indiana.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/indiana",
+  "permalink": "/support/docs/academic-writing/citation-style/indiana",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/indiana.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indian-journal-of-traditional-knowledge",
+    "permalink": "/support/docs/academic-writing/citation-style/indian-journal-of-traditional-knowledge"
+  },
+  "next": {
+    "title": "indoor-air",
+    "permalink": "/support/docs/academic-writing/citation-style/indoor-air"
+  }
+}

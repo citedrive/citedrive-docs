@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+  "id": "academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+  "isDocsHomePage": false,
+  "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+  "permalink": "/support/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marine-turtle-newsletter",
+    "permalink": "/support/docs/academic-writing/citation-style/marine-turtle-newsletter"
+  },
+  "next": {
+    "title": "mastozoologia-neotropical",
+    "permalink": "/support/docs/academic-writing/citation-style/mastozoologia-neotropical"
+  }
+}

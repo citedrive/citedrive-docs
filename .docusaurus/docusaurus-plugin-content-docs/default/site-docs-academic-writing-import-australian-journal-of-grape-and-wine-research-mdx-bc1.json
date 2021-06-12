@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/australian-journal-of-grape-and-wine-research",
+  "id": "academic-writing/import/australian-journal-of-grape-and-wine-research",
+  "isDocsHomePage": false,
+  "title": "australian-journal-of-grape-and-wine-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/australian-journal-of-grape-and-wine-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/australian-journal-of-grape-and-wine-research",
+  "permalink": "/support/docs/academic-writing/import/australian-journal-of-grape-and-wine-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/australian-journal-of-grape-and-wine-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-journal-of-earth-sciences",
+    "permalink": "/support/docs/academic-writing/import/australian-journal-of-earth-sciences"
+  },
+  "next": {
+    "title": "australian-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/import/australian-veterinary-journal"
+  }
+}

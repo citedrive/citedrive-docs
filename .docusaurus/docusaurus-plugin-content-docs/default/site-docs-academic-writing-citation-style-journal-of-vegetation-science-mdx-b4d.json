@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-vegetation-science",
+  "id": "academic-writing/citation-style/journal-of-vegetation-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-vegetation-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-vegetation-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-vegetation-science",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-vegetation-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-vegetation-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-urban-technology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-urban-technology"
+  },
+  "next": {
+    "title": "journal-of-vertebrate-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-vertebrate-biology"
+  }
+}

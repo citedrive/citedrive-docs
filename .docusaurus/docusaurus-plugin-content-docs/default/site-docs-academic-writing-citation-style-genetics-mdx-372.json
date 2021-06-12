@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/genetics",
+  "id": "academic-writing/citation-style/genetics",
+  "isDocsHomePage": false,
+  "title": "genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/genetics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/genetics",
+  "permalink": "/support/docs/academic-writing/citation-style/genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "genetics-and-molecular-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/genetics-and-molecular-biology"
+  },
+  "next": {
+    "title": "genome-biology-and-evolution",
+    "permalink": "/support/docs/academic-writing/citation-style/genome-biology-and-evolution"
+  }
+}

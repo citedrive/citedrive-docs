@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/spie-conference-proceedings",
+  "id": "academic-writing/citation-style/spie-conference-proceedings",
+  "isDocsHomePage": false,
+  "title": "spie-conference-proceedings",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/spie-conference-proceedings.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/spie-conference-proceedings",
+  "permalink": "/support/docs/academic-writing/citation-style/spie-conference-proceedings",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spie-conference-proceedings.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spie-bios",
+    "permalink": "/support/docs/academic-writing/citation-style/spie-bios"
+  },
+  "next": {
+    "title": "spie-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/spie-journals"
+  }
+}

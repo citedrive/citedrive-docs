@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-astrophysical-journal",
+  "id": "academic-writing/citation-style/the-astrophysical-journal",
+  "isDocsHomePage": false,
+  "title": "the-astrophysical-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-astrophysical-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-astrophysical-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-astrophysical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-astrophysical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-naturalist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-american-naturalist"
+  },
+  "next": {
+    "title": "the-auk",
+    "permalink": "/support/docs/academic-writing/citation-style/the-auk"
+  }
+}

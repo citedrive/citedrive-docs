@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/coventry-university--harvard",
+  "id": "academic-writing/citation-style/coventry-university--harvard",
+  "isDocsHomePage": false,
+  "title": "coventry-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/coventry-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/coventry-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/coventry-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/coventry-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "council-of-science-editors-nameyear-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/council-of-science-editors-nameyear-authordate"
+  },
+  "next": {
+    "title": "cranfield-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/cranfield-university--harvard"
+  }
+}

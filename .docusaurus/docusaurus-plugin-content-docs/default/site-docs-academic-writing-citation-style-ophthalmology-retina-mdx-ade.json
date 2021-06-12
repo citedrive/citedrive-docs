@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ophthalmology-retina",
+  "id": "academic-writing/citation-style/ophthalmology-retina",
+  "isDocsHomePage": false,
+  "title": "ophthalmology-retina",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ophthalmology-retina.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ophthalmology-retina",
+  "permalink": "/support/docs/academic-writing/citation-style/ophthalmology-retina",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ophthalmology-retina.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmic-genetics",
+    "permalink": "/support/docs/academic-writing/citation-style/ophthalmic-genetics"
+  },
+  "next": {
+    "title": "ophthalmology",
+    "permalink": "/support/docs/academic-writing/citation-style/ophthalmology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revista-materia",
+  "id": "academic-writing/citation-style/revista-materia",
+  "isDocsHomePage": false,
+  "title": "revista-materia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revista-materia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revista-materia",
+  "permalink": "/support/docs/academic-writing/citation-style/revista-materia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-materia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-latinoamericana-de-recursos-naturales",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-latinoamericana-de-recursos-naturales"
+  },
+  "next": {
+    "title": "revista-noesis",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-noesis"
+  }
+}

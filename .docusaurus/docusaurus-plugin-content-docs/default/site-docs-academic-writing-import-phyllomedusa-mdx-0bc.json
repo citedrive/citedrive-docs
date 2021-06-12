@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/phyllomedusa",
+  "id": "academic-writing/import/phyllomedusa",
+  "isDocsHomePage": false,
+  "title": "phyllomedusa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/phyllomedusa.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/phyllomedusa",
+  "permalink": "/support/docs/academic-writing/import/phyllomedusa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/phyllomedusa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phycological-research",
+    "permalink": "/support/docs/academic-writing/import/phycological-research"
+  },
+  "next": {
+    "title": "physiological-and-biochemical-zoology",
+    "permalink": "/support/docs/academic-writing/import/physiological-and-biochemical-zoology"
+  }
+}

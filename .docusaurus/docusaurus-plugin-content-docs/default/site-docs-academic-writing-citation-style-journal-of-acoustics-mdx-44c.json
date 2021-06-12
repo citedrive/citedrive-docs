@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-acoustics",
+  "id": "academic-writing/citation-style/journal-of-acoustics",
+  "isDocsHomePage": false,
+  "title": "journal-of-acoustics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-acoustics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-acoustics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-acoustics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-acoustics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-fur-kunstgeschichte",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-fur-kunstgeschichte"
+  },
+  "next": {
+    "title": "journal-of-adolescent-health",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-adolescent-health"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
+  "id": "academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
+  "isDocsHomePage": false,
+  "title": "the-canadian-journal-of-chemical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-canadian-geographer-le-geographe-canadien",
+    "permalink": "/support/docs/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien"
+  },
+  "next": {
+    "title": "the-canadian-journal-of-psychiatry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry"
+  }
+}

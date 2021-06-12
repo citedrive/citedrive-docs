@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/phyllomedusa",
+  "id": "academic-writing/citation-style/phyllomedusa",
+  "isDocsHomePage": false,
+  "title": "phyllomedusa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/phyllomedusa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/phyllomedusa",
+  "permalink": "/support/docs/academic-writing/citation-style/phyllomedusa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/phyllomedusa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phycological-research",
+    "permalink": "/support/docs/academic-writing/citation-style/phycological-research"
+  },
+  "next": {
+    "title": "physiological-and-biochemical-zoology",
+    "permalink": "/support/docs/academic-writing/citation-style/physiological-and-biochemical-zoology"
+  }
+}

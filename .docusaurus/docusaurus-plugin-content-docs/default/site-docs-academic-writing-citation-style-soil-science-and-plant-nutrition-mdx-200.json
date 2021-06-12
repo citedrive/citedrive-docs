@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/soil-science-and-plant-nutrition",
+  "id": "academic-writing/citation-style/soil-science-and-plant-nutrition",
+  "isDocsHomePage": false,
+  "title": "soil-science-and-plant-nutrition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/soil-science-and-plant-nutrition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/soil-science-and-plant-nutrition",
+  "permalink": "/support/docs/academic-writing/citation-style/soil-science-and-plant-nutrition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/soil-science-and-plant-nutrition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soil-biology-and-biochemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/soil-biology-and-biochemistry"
+  },
+  "next": {
+    "title": "solent-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/solent-university--harvard"
+  }
+}

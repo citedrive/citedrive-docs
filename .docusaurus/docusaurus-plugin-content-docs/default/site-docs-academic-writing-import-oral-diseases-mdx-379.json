@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oral-diseases",
+  "id": "academic-writing/import/oral-diseases",
+  "isDocsHomePage": false,
+  "title": "oral-diseases",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oral-diseases.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oral-diseases",
+  "permalink": "/support/docs/academic-writing/import/oral-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oral-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "opuscula",
+    "permalink": "/support/docs/academic-writing/import/opuscula"
+  },
+  "next": {
+    "title": "organic-geochemistry",
+    "permalink": "/support/docs/academic-writing/import/organic-geochemistry"
+  }
+}

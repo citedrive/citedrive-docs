@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ucl-university-college--harvard-danish",
+  "id": "academic-writing/import/ucl-university-college--harvard-danish",
+  "isDocsHomePage": false,
+  "title": "ucl-university-college--harvard-danish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ucl-university-college--harvard-danish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ucl-university-college--harvard-danish",
+  "permalink": "/support/docs/academic-writing/import/ucl-university-college--harvard-danish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ucl-university-college--harvard-danish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "u-schyku-starozytnosci-polish",
+    "permalink": "/support/docs/academic-writing/import/u-schyku-starozytnosci-polish"
+  },
+  "next": {
+    "title": "ucl-university-college--vancouver-english",
+    "permalink": "/support/docs/academic-writing/import/ucl-university-college--vancouver-english"
+  }
+}

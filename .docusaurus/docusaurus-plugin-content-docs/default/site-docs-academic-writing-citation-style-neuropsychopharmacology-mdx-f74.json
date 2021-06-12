@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neuropsychopharmacology",
+  "id": "academic-writing/citation-style/neuropsychopharmacology",
+  "isDocsHomePage": false,
+  "title": "neuropsychopharmacology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neuropsychopharmacology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neuropsychopharmacology",
+  "permalink": "/support/docs/academic-writing/citation-style/neuropsychopharmacology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuropsychopharmacology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/neurology"
+  },
+  "next": {
+    "title": "neurorehabilitation-and-neural-repair",
+    "permalink": "/support/docs/academic-writing/citation-style/neurorehabilitation-and-neural-repair"
+  }
+}

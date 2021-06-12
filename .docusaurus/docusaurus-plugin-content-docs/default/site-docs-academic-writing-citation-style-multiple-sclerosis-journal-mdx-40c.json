@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/multiple-sclerosis-journal",
+  "id": "academic-writing/citation-style/multiple-sclerosis-journal",
+  "isDocsHomePage": false,
+  "title": "multiple-sclerosis-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/multiple-sclerosis-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/multiple-sclerosis-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/multiple-sclerosis-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/multiple-sclerosis-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "multimed-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/multimed-spanish"
+  },
+  "next": {
+    "title": "muscle-and-nerve",
+    "permalink": "/support/docs/academic-writing/citation-style/muscle-and-nerve"
+  }
+}

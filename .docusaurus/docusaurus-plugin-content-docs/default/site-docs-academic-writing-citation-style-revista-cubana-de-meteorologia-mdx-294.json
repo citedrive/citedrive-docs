@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revista-cubana-de-meteorologia",
+  "id": "academic-writing/citation-style/revista-cubana-de-meteorologia",
+  "isDocsHomePage": false,
+  "title": "revista-cubana-de-meteorologia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revista-cubana-de-meteorologia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revista-cubana-de-meteorologia",
+  "permalink": "/support/docs/academic-writing/citation-style/revista-cubana-de-meteorologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-cubana-de-meteorologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-ciencias-tecnicas-agropecuarias-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-ciencias-tecnicas-agropecuarias-spanish"
+  },
+  "next": {
+    "title": "revista-de-biologia-marina-y-oceanografia",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-de-biologia-marina-y-oceanografia"
+  }
+}

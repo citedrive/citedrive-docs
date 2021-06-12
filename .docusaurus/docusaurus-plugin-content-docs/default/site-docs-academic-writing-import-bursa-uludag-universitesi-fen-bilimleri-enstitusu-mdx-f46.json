@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+  "id": "academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+  "isDocsHomePage": false,
+  "title": "bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+  "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bursa-uludag-universitesi-fen-bilimleri-enstitusu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bursa-uludag-universitesi--sosyal-bilimler-enstitusu",
+    "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi--sosyal-bilimler-enstitusu"
+  },
+  "next": {
+    "title": "business-ethics-a-european-review",
+    "permalink": "/support/docs/academic-writing/import/business-ethics-a-european-review"
+  }
+}

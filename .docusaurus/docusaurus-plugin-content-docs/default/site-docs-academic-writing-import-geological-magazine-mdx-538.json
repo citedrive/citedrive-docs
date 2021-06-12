@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/geological-magazine",
+  "id": "academic-writing/import/geological-magazine",
+  "isDocsHomePage": false,
+  "title": "geological-magazine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/geological-magazine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/geological-magazine",
+  "permalink": "/support/docs/academic-writing/import/geological-magazine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/geological-magazine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geographische-zeitschrift",
+    "permalink": "/support/docs/academic-writing/import/geographische-zeitschrift"
+  },
+  "next": {
+    "title": "geophysical-journal-international",
+    "permalink": "/support/docs/academic-writing/import/geophysical-journal-international"
+  }
+}

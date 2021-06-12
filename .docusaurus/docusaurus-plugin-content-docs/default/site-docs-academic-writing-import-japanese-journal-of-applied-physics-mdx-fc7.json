@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/japanese-journal-of-applied-physics",
+  "id": "academic-writing/import/japanese-journal-of-applied-physics",
+  "isDocsHomePage": false,
+  "title": "japanese-journal-of-applied-physics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/japanese-journal-of-applied-physics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/japanese-journal-of-applied-physics",
+  "permalink": "/support/docs/academic-writing/import/japanese-journal-of-applied-physics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/japanese-journal-of-applied-physics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jahrbuch-fur-evangelikale-theologie-german",
+    "permalink": "/support/docs/academic-writing/import/jahrbuch-fur-evangelikale-theologie-german"
+  },
+  "next": {
+    "title": "javnost--the-public",
+    "permalink": "/support/docs/academic-writing/import/javnost--the-public"
+  }
+}

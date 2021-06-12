@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pediatric-pulmonology",
+  "id": "academic-writing/import/pediatric-pulmonology",
+  "isDocsHomePage": false,
+  "title": "pediatric-pulmonology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pediatric-pulmonology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pediatric-pulmonology",
+  "permalink": "/support/docs/academic-writing/import/pediatric-pulmonology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pediatric-pulmonology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-practice-and-research",
+    "permalink": "/support/docs/academic-writing/import/pediatric-practice-and-research"
+  },
+  "next": {
+    "title": "pediatric-research",
+    "permalink": "/support/docs/academic-writing/import/pediatric-research"
+  }
+}

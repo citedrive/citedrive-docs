@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/econometrica",
+  "id": "academic-writing/import/econometrica",
+  "isDocsHomePage": false,
+  "title": "econometrica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/econometrica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/econometrica",
+  "permalink": "/support/docs/academic-writing/import/econometrica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/econometrica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology",
+    "permalink": "/support/docs/academic-writing/import/ecology"
+  },
+  "next": {
+    "title": "economia-y-politica-spanish--chile",
+    "permalink": "/support/docs/academic-writing/import/economia-y-politica-spanish--chile"
+  }
+}

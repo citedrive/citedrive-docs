@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/annals-of-botany",
+  "id": "academic-writing/import/annals-of-botany",
+  "isDocsHomePage": false,
+  "title": "annals-of-botany",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/annals-of-botany.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/annals-of-botany",
+  "permalink": "/support/docs/academic-writing/import/annals-of-botany",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/annals-of-botany.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/import/annals-of-biomedical-engineering"
+  },
+  "next": {
+    "title": "annals-of-joint",
+    "permalink": "/support/docs/academic-writing/import/annals-of-joint"
+  }
+}

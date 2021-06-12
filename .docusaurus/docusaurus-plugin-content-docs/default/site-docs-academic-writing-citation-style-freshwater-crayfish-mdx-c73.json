@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/freshwater-crayfish",
+  "id": "academic-writing/citation-style/freshwater-crayfish",
+  "isDocsHomePage": false,
+  "title": "freshwater-crayfish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/freshwater-crayfish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/freshwater-crayfish",
+  "permalink": "/support/docs/academic-writing/citation-style/freshwater-crayfish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/freshwater-crayfish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "freshwater-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/freshwater-biology"
+  },
+  "next": {
+    "title": "freshwater-science",
+    "permalink": "/support/docs/academic-writing/citation-style/freshwater-science"
+  }
+}

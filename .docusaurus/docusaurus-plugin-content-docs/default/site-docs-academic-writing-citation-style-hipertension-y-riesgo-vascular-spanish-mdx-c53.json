@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
+  "id": "academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
+  "isDocsHomePage": false,
+  "title": "hipertension-y-riesgo-vascular-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies"
+  },
+  "next": {
+    "title": "histoire-and-mesure-french",
+    "permalink": "/support/docs/academic-writing/citation-style/histoire-and-mesure-french"
+  }
+}

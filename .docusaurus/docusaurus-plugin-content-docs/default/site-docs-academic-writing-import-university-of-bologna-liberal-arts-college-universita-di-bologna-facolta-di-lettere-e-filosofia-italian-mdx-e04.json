@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+  "id": "academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+  "isDocsHomePage": false,
+  "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+  "permalink": "/support/docs/academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-birmingham--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-of-birmingham--harvard"
+  },
+  "next": {
+    "title": "university-of-bradford--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-of-bradford--harvard"
+  }
+}

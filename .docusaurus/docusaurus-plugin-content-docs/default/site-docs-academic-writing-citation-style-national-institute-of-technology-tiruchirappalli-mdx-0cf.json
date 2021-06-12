@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/national-institute-of-technology-tiruchirappalli",
+  "id": "academic-writing/citation-style/national-institute-of-technology-tiruchirappalli",
+  "isDocsHomePage": false,
+  "title": "national-institute-of-technology-tiruchirappalli",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/national-institute-of-technology-tiruchirappalli.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/national-institute-of-technology-tiruchirappalli",
+  "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-technology-tiruchirappalli",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-institute-of-technology-tiruchirappalli.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-institute-of-technology-karnataka",
+    "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-technology-karnataka"
+  },
+  "next": {
+    "title": "national-library-of-medicine-grant-proposals-with-pmcidpmid",
+    "permalink": "/support/docs/academic-writing/citation-style/national-library-of-medicine-grant-proposals-with-pmcidpmid"
+  }
+}

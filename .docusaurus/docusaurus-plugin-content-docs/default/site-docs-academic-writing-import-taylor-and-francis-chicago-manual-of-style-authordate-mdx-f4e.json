@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate",
+  "id": "academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate",
+  "isDocsHomePage": false,
+  "title": "taylor-and-francis--chicago-manual-of-style-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate",
+  "permalink": "/support/docs/academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/taylor-and-francis--chicago-manual-of-style-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "taylor-and-francis--chicago-f",
+    "permalink": "/support/docs/academic-writing/import/taylor-and-francis--chicago-f"
+  },
+  "next": {
+    "title": "taylor-and-francis--council-of-science-editors-authordate",
+    "permalink": "/support/docs/academic-writing/import/taylor-and-francis--council-of-science-editors-authordate"
+  }
+}

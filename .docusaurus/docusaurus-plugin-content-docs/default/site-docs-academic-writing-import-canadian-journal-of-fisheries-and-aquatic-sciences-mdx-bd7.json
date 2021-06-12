@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "id": "academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "isDocsHomePage": false,
+  "title": "canadian-journal-of-fisheries-and-aquatic-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "permalink": "/support/docs/academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-economics",
+    "permalink": "/support/docs/academic-writing/import/canadian-journal-of-economics"
+  },
+  "next": {
+    "title": "canadian-journal-of-physics",
+    "permalink": "/support/docs/academic-writing/import/canadian-journal-of-physics"
+  }
+}

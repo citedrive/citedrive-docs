@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil",
+  "id": "academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universidade-federal-de-minas-gerais--faculdade-de-ciencias-economicas--abnt-autoria-abreviada-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidade-estadual-do-oeste-do-parana--programa-institucional-de-bolsas-de-iniciacao-cientifica-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/universidade-estadual-do-oeste-do-parana--programa-institucional-de-bolsas-de-iniciacao-cientifica-portuguese--brazil"
+  },
+  "next": {
+    "title": "universidade-federal-de-sergipe--abnt-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/universidade-federal-de-sergipe--abnt-portuguese--brazil"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-threatened-taxa",
+  "id": "academic-writing/citation-style/journal-of-threatened-taxa",
+  "isDocsHomePage": false,
+  "title": "journal-of-threatened-taxa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-threatened-taxa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-threatened-taxa",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-threatened-taxa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-threatened-taxa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-thermal-spray-technology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-thermal-spray-technology"
+  },
+  "next": {
+    "title": "journal-of-thrombosis-and-haemostasis",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "id": "academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "isDocsHomePage": false,
+  "title": "proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "permalink": "/support/docs/academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "primary-care-clinics-in-office-practice",
+    "permalink": "/support/docs/academic-writing/import/primary-care-clinics-in-office-practice"
+  },
+  "next": {
+    "title": "proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america",
+    "permalink": "/support/docs/academic-writing/import/proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america"
+  }
+}

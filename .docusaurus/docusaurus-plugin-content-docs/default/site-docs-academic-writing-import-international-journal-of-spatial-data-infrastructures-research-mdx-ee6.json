@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-spatial-data-infrastructures-research",
+  "id": "academic-writing/import/international-journal-of-spatial-data-infrastructures-research",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-spatial-data-infrastructures-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-spatial-data-infrastructures-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-spatial-data-infrastructures-research",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-spatial-data-infrastructures-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-spatial-data-infrastructures-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-simulation-modelling",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-simulation-modelling"
+  },
+  "next": {
+    "title": "international-journal-of-sport-medicine",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-sport-medicine"
+  }
+}

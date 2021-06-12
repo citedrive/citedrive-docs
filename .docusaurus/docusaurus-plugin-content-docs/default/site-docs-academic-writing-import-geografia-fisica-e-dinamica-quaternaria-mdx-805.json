@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/geografia-fisica-e-dinamica-quaternaria",
+  "id": "academic-writing/import/geografia-fisica-e-dinamica-quaternaria",
+  "isDocsHomePage": false,
+  "title": "geografia-fisica-e-dinamica-quaternaria",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/geografia-fisica-e-dinamica-quaternaria.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/geografia-fisica-e-dinamica-quaternaria",
+  "permalink": "/support/docs/academic-writing/import/geografia-fisica-e-dinamica-quaternaria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/geografia-fisica-e-dinamica-quaternaria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geochronometria",
+    "permalink": "/support/docs/academic-writing/import/geochronometria"
+  },
+  "next": {
+    "title": "geografie-sbornik-cgs",
+    "permalink": "/support/docs/academic-writing/import/geografie-sbornik-cgs"
+  }
+}

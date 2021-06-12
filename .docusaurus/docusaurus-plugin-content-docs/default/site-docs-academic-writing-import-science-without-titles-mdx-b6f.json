@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/science-without-titles",
+  "id": "academic-writing/import/science-without-titles",
+  "isDocsHomePage": false,
+  "title": "science-without-titles",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/science-without-titles.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/science-without-titles",
+  "permalink": "/support/docs/academic-writing/import/science-without-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/science-without-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-translational-medicine",
+    "permalink": "/support/docs/academic-writing/import/science-translational-medicine"
+  },
+  "next": {
+    "title": "science",
+    "permalink": "/support/docs/academic-writing/import/science"
+  }
+}

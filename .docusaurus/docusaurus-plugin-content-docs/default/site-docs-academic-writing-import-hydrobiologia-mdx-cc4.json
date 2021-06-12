@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/hydrobiologia",
+  "id": "academic-writing/import/hydrobiologia",
+  "isDocsHomePage": false,
+  "title": "hydrobiologia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/hydrobiologia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/hydrobiologia",
+  "permalink": "/support/docs/academic-writing/import/hydrobiologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/hydrobiologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "humboldt-state-university--environmental-resources-engineering",
+    "permalink": "/support/docs/academic-writing/import/humboldt-state-university--environmental-resources-engineering"
+  },
+  "next": {
+    "title": "hydrological-processes",
+    "permalink": "/support/docs/academic-writing/import/hydrological-processes"
+  }
+}

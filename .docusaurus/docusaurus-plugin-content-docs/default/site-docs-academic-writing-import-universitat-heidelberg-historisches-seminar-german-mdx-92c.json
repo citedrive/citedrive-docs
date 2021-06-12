@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universitat-heidelberg--historisches-seminar-german",
+  "id": "academic-writing/import/universitat-heidelberg--historisches-seminar-german",
+  "isDocsHomePage": false,
+  "title": "universitat-heidelberg--historisches-seminar-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universitat-heidelberg--historisches-seminar-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universitat-heidelberg--historisches-seminar-german",
+  "permalink": "/support/docs/academic-writing/import/universitat-heidelberg--historisches-seminar-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universitat-heidelberg--historisches-seminar-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german"
+  },
+  "next": {
+    "title": "universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german"
+  }
+}

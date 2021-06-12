@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery",
+  "id": "academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery",
+  "isDocsHomePage": false,
+  "title": "journal-of-oral-and-maxillofacial-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-nutrition"
+  },
+  "next": {
+    "title": "journal-of-orthopaedic-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-orthopaedic-research"
+  }
+}

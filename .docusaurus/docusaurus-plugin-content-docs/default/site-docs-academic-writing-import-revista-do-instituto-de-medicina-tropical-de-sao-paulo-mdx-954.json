@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "id": "academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "isDocsHomePage": false,
+  "title": "revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "permalink": "/support/docs/academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-de-filologia-espanola-spanish",
+    "permalink": "/support/docs/academic-writing/import/revista-de-filologia-espanola-spanish"
+  },
+  "next": {
+    "title": "revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+    "permalink": "/support/docs/academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish"
+  }
+}

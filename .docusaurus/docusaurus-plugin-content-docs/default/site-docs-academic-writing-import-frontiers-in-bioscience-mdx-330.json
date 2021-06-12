@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/frontiers-in-bioscience",
+  "id": "academic-writing/import/frontiers-in-bioscience",
+  "isDocsHomePage": false,
+  "title": "frontiers-in-bioscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/frontiers-in-bioscience.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/frontiers-in-bioscience",
+  "permalink": "/support/docs/academic-writing/import/frontiers-in-bioscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/frontiers-in-bioscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "friedrichschilleruniversitat-jena--medizinische-fakultat-german",
+    "permalink": "/support/docs/academic-writing/import/friedrichschilleruniversitat-jena--medizinische-fakultat-german"
+  },
+  "next": {
+    "title": "frontiers-in-ecology-and-the-environment",
+    "permalink": "/support/docs/academic-writing/import/frontiers-in-ecology-and-the-environment"
+  }
+}

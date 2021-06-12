@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-archaeological-research",
+  "id": "academic-writing/import/journal-of-archaeological-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-archaeological-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-archaeological-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-archaeological-research",
+  "permalink": "/support/docs/academic-writing/import/journal-of-archaeological-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-archaeological-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-applied-polymer-science",
+    "permalink": "/support/docs/academic-writing/import/journal-of-applied-polymer-science"
+  },
+  "next": {
+    "title": "journal-of-atrial-fibrillation",
+    "permalink": "/support/docs/academic-writing/import/journal-of-atrial-fibrillation"
+  }
+}

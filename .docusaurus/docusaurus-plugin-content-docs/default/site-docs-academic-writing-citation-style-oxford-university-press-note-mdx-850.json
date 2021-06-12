@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/oxford-university-press-note",
+  "id": "academic-writing/citation-style/oxford-university-press-note",
+  "isDocsHomePage": false,
+  "title": "oxford-university-press-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/oxford-university-press-note.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/oxford-university-press-note",
+  "permalink": "/support/docs/academic-writing/citation-style/oxford-university-press-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/oxford-university-press-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-university-press-humsoc",
+    "permalink": "/support/docs/academic-writing/citation-style/oxford-university-press-humsoc"
+  },
+  "next": {
+    "title": "oxford-university-press-scimed-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/oxford-university-press-scimed-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/kunstakademie-munster-german",
+  "id": "academic-writing/import/kunstakademie-munster-german",
+  "isDocsHomePage": false,
+  "title": "kunstakademie-munster-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/kunstakademie-munster-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/kunstakademie-munster-german",
+  "permalink": "/support/docs/academic-writing/import/kunstakademie-munster-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/kunstakademie-munster-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+    "permalink": "/support/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication"
+  },
+  "next": {
+    "title": "la-revue-des-sciences-de-gestion-french",
+    "permalink": "/support/docs/academic-writing/import/la-revue-des-sciences-de-gestion-french"
+  }
+}

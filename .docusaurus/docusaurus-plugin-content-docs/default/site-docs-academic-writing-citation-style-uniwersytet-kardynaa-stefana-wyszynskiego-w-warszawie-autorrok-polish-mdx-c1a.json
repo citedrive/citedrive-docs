@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
+  "id": "academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
+  "isDocsHomePage": false,
+  "title": "uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
+  "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uniwersytet-im-adama-mickiewicza-w-poznaniu--wydzia-anglistyki-english",
+    "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-im-adama-mickiewicza-w-poznaniu--wydzia-anglistyki-english"
+  },
+  "next": {
+    "title": "uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish"
+  }
+}

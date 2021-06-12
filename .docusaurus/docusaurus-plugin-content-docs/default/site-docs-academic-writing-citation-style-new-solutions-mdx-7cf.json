@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/new-solutions",
+  "id": "academic-writing/citation-style/new-solutions",
+  "isDocsHomePage": false,
+  "title": "new-solutions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/new-solutions.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/new-solutions",
+  "permalink": "/support/docs/academic-writing/citation-style/new-solutions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-solutions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "new-phytologist",
+    "permalink": "/support/docs/academic-writing/citation-style/new-phytologist"
+  },
+  "next": {
+    "title": "new-testament-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/new-testament-studies"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/infomin",
+  "id": "academic-writing/import/infomin",
+  "isDocsHomePage": false,
+  "title": "infomin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/infomin.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/infomin",
+  "permalink": "/support/docs/academic-writing/import/infomin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/infomin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infoclioch-sans-majuscules-french",
+    "permalink": "/support/docs/academic-writing/import/infoclioch-sans-majuscules-french"
+  },
+  "next": {
+    "title": "informal-logic",
+    "permalink": "/support/docs/academic-writing/import/informal-logic"
+  }
+}

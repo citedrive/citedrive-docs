@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/victoria-university--harvard",
+  "id": "academic-writing/import/victoria-university--harvard",
+  "isDocsHomePage": false,
+  "title": "victoria-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/victoria-university--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/victoria-university--harvard",
+  "permalink": "/support/docs/academic-writing/import/victoria-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/victoria-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veterinary-record",
+    "permalink": "/support/docs/academic-writing/import/veterinary-record"
+  },
+  "next": {
+    "title": "vienna-legal",
+    "permalink": "/support/docs/academic-writing/import/vienna-legal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+  "id": "academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+  "isDocsHomePage": false,
+  "title": "universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+  "permalink": "/support/docs/academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+    "permalink": "/support/docs/academic-writing/import/universite-nangui-abrogoua--sciences-de-la-nature--apa-french"
+  },
+  "next": {
+    "title": "universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+    "permalink": "/support/docs/academic-writing/import/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal"
+  }
+}

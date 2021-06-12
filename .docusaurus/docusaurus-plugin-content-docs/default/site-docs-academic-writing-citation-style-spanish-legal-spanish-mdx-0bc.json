@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/spanish-legal-spanish",
+  "id": "academic-writing/citation-style/spanish-legal-spanish",
+  "isDocsHomePage": false,
+  "title": "spanish-legal-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/spanish-legal-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/spanish-legal-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/spanish-legal-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spanish-legal-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spandidos-publications",
+    "permalink": "/support/docs/academic-writing/citation-style/spandidos-publications"
+  },
+  "next": {
+    "title": "spectroscopy-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/spectroscopy-letters"
+  }
+}

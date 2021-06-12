@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/genes-brain-and-behavior",
+  "id": "academic-writing/citation-style/genes-brain-and-behavior",
+  "isDocsHomePage": false,
+  "title": "genes-brain-and-behavior",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/genes-brain-and-behavior.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/genes-brain-and-behavior",
+  "permalink": "/support/docs/academic-writing/citation-style/genes-brain-and-behavior",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genes-brain-and-behavior.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "generic-style-rules-for-linguistics",
+    "permalink": "/support/docs/academic-writing/citation-style/generic-style-rules-for-linguistics"
+  },
+  "next": {
+    "title": "genes-to-cells",
+    "permalink": "/support/docs/academic-writing/citation-style/genes-to-cells"
+  }
+}

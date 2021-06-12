@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-bone-and-joint-journal",
+  "id": "academic-writing/citation-style/the-bone-and-joint-journal",
+  "isDocsHomePage": false,
+  "title": "the-bone-and-joint-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-bone-and-joint-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-bone-and-joint-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-bone-and-joint-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-bone-and-joint-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-biological-bulletin",
+    "permalink": "/support/docs/academic-writing/citation-style/the-biological-bulletin"
+  },
+  "next": {
+    "title": "the-botanical-review",
+    "permalink": "/support/docs/academic-writing/citation-style/the-botanical-review"
+  }
+}

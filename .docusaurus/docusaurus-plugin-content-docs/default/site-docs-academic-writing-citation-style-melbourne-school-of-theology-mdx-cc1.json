@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/melbourne-school-of-theology",
+  "id": "academic-writing/citation-style/melbourne-school-of-theology",
+  "isDocsHomePage": false,
+  "title": "melbourne-school-of-theology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/melbourne-school-of-theology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/melbourne-school-of-theology",
+  "permalink": "/support/docs/academic-writing/citation-style/melbourne-school-of-theology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/melbourne-school-of-theology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "melbourne-polytechnic--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/melbourne-polytechnic--harvard"
+  },
+  "next": {
+    "title": "memorias-do-instituto-oswaldo-cruz",
+    "permalink": "/support/docs/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz"
+  }
+}

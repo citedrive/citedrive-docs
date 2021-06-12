@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+  "id": "academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+  "isDocsHomePage": false,
+  "title": "austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+  "permalink": "/support/docs/academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/austrian-journal-of-development-studies-journal-fur-entwicklungspolitik.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/australian-veterinary-journal"
+  },
+  "next": {
+    "title": "austrian-legal-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/austrian-legal-german--austria"
+  }
+}

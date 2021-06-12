@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/evolutionary-ecology-research",
+  "id": "academic-writing/citation-style/evolutionary-ecology-research",
+  "isDocsHomePage": false,
+  "title": "evolutionary-ecology-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/evolutionary-ecology-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/evolutionary-ecology-research",
+  "permalink": "/support/docs/academic-writing/citation-style/evolutionary-ecology-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/evolutionary-ecology-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolutionary-anthropology",
+    "permalink": "/support/docs/academic-writing/citation-style/evolutionary-anthropology"
+  },
+  "next": {
+    "title": "excli-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/excli-journal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aljamiah--journal-of-islamic-studies",
+  "id": "academic-writing/import/aljamiah--journal-of-islamic-studies",
+  "isDocsHomePage": false,
+  "title": "aljamiah--journal-of-islamic-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aljamiah--journal-of-islamic-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aljamiah--journal-of-islamic-studies",
+  "permalink": "/support/docs/academic-writing/import/aljamiah--journal-of-islamic-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aljamiah--journal-of-islamic-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alcoholism-clinical-and-experimental-research",
+    "permalink": "/support/docs/academic-writing/import/alcoholism-clinical-and-experimental-research"
+  },
+  "next": {
+    "title": "alkoholizmus-a-drogove-zavislosti",
+    "permalink": "/support/docs/academic-writing/import/alkoholizmus-a-drogove-zavislosti"
+  }
+}

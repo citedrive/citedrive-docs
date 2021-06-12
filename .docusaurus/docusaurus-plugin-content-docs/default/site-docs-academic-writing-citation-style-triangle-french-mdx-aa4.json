@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/triangle-french",
+  "id": "academic-writing/citation-style/triangle-french",
+  "isDocsHomePage": false,
+  "title": "triangle-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/triangle-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/triangle-french",
+  "permalink": "/support/docs/academic-writing/citation-style/triangle-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/triangle-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trends-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/trends-journals"
+  },
+  "next": {
+    "title": "tropical-animal-health-and-production",
+    "permalink": "/support/docs/academic-writing/citation-style/tropical-animal-health-and-production"
+  }
+}

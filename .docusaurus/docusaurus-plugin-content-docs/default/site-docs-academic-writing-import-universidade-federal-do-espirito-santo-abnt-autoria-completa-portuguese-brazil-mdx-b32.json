@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil",
+  "id": "academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-completa-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidade-federal-do-espirito-santo--abnt-autoria-abreviada-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/universidade-federal-do-espirito-santo--abnt-autoria-abreviada-portuguese--brazil"
+  },
+  "next": {
+    "title": "universidade-federal-do-rio-de-janeiro--instituto-alberto-luiz-coimbra-de-posgraduacao-e-pesquisa-de-engenharia--abnt-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/universidade-federal-do-rio-de-janeiro--instituto-alberto-luiz-coimbra-de-posgraduacao-e-pesquisa-de-engenharia--abnt-portuguese--brazil"
+  }
+}

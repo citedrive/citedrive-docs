@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+  "id": "academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+  "isDocsHomePage": false,
+  "title": "heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+  "permalink": "/support/docs/academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "heart-rhythm",
+    "permalink": "/support/docs/academic-writing/citation-style/heart-rhythm"
+  },
+  "next": {
+    "title": "heiliger-dienst-german",
+    "permalink": "/support/docs/academic-writing/citation-style/heiliger-dienst-german"
+  }
+}

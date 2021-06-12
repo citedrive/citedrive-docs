@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ethics-for-book-reviews",
+  "id": "academic-writing/citation-style/ethics-for-book-reviews",
+  "isDocsHomePage": false,
+  "title": "ethics-for-book-reviews",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ethics-for-book-reviews.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ethics-for-book-reviews",
+  "permalink": "/support/docs/academic-writing/citation-style/ethics-for-book-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ethics-for-book-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "estudios-hispanicos-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/estudios-hispanicos-spanish"
+  },
+  "next": {
+    "title": "ethnobiology-and-conservation",
+    "permalink": "/support/docs/academic-writing/citation-style/ethnobiology-and-conservation"
+  }
+}

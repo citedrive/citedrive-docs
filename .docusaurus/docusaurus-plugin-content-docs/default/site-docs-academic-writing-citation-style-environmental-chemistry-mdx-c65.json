@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/environmental-chemistry",
+  "id": "academic-writing/citation-style/environmental-chemistry",
+  "isDocsHomePage": false,
+  "title": "environmental-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/environmental-chemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/environmental-chemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/environmental-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environmental-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-and-engineering-geoscience",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-and-engineering-geoscience"
+  },
+  "next": {
+    "title": "environmental-conservation",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-conservation"
+  }
+}

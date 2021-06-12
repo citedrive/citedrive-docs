@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/occupational-medicine",
+  "id": "academic-writing/citation-style/occupational-medicine",
+  "isDocsHomePage": false,
+  "title": "occupational-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/occupational-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/occupational-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/occupational-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/occupational-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obstetrics-and-gynecology-science",
+    "permalink": "/support/docs/academic-writing/citation-style/obstetrics-and-gynecology-science"
+  },
+  "next": {
+    "title": "oceanography",
+    "permalink": "/support/docs/academic-writing/citation-style/oceanography"
+  }
+}

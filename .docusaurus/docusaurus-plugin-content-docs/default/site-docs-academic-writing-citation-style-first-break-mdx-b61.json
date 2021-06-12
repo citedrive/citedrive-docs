@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/first-break",
+  "id": "academic-writing/citation-style/first-break",
+  "isDocsHomePage": false,
+  "title": "first-break",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/first-break.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/first-break",
+  "permalink": "/support/docs/academic-writing/citation-style/first-break",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/first-break.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fine-focus",
+    "permalink": "/support/docs/academic-writing/citation-style/fine-focus"
+  },
+  "next": {
+    "title": "first-monday",
+    "permalink": "/support/docs/academic-writing/citation-style/first-monday"
+  }
+}

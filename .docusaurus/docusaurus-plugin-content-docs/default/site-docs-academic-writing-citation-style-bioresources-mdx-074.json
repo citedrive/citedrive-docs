@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bioresources",
+  "id": "academic-writing/citation-style/bioresources",
+  "isDocsHomePage": false,
+  "title": "bioresources",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bioresources.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bioresources",
+  "permalink": "/support/docs/academic-writing/citation-style/bioresources",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioresources.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biopolymers",
+    "permalink": "/support/docs/academic-writing/citation-style/biopolymers"
+  },
+  "next": {
+    "title": "bioscience",
+    "permalink": "/support/docs/academic-writing/citation-style/bioscience"
+  }
+}

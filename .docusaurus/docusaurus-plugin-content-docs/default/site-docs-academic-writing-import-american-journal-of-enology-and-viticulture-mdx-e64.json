@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-journal-of-enology-and-viticulture",
+  "id": "academic-writing/import/american-journal-of-enology-and-viticulture",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-enology-and-viticulture",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-journal-of-enology-and-viticulture.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-journal-of-enology-and-viticulture",
+  "permalink": "/support/docs/academic-writing/import/american-journal-of-enology-and-viticulture",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-journal-of-enology-and-viticulture.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-clinical-pathology",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-clinical-pathology"
+  },
+  "next": {
+    "title": "american-journal-of-epidemiology",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-epidemiology"
+  }
+}

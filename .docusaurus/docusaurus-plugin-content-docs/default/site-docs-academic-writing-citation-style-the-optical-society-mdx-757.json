@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-optical-society",
+  "id": "academic-writing/citation-style/the-optical-society",
+  "isDocsHomePage": false,
+  "title": "the-optical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-optical-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-optical-society",
+  "permalink": "/support/docs/academic-writing/citation-style/the-optical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-optical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-open-university-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/the-open-university-numeric"
+  },
+  "next": {
+    "title": "the-pan-african-medical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-pan-african-medical-journal"
+  }
+}

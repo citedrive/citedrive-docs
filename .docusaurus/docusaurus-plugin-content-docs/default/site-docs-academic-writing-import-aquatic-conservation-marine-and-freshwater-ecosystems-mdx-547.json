@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "id": "academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "isDocsHomePage": false,
+  "title": "aquatic-conservation-marine-and-freshwater-ecosystems",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "permalink": "/support/docs/academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aquatic-conservation-marine-and-freshwater-ecosystems.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applied-spectroscopy",
+    "permalink": "/support/docs/academic-writing/import/applied-spectroscopy"
+  },
+  "next": {
+    "title": "aquatic-invasions",
+    "permalink": "/support/docs/academic-writing/import/aquatic-invasions"
+  }
+}

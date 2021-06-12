@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/quaternaire-french",
+  "id": "academic-writing/citation-style/quaternaire-french",
+  "isDocsHomePage": false,
+  "title": "quaternaire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/quaternaire-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/quaternaire-french",
+  "permalink": "/support/docs/academic-writing/citation-style/quaternaire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/quaternaire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quaderni-materialisti-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/quaderni-materialisti-italian"
+  },
+  "next": {
+    "title": "quaternary-international",
+    "permalink": "/support/docs/academic-writing/citation-style/quaternary-international"
+  }
+}

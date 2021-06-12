@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-archaeology--harvard",
+  "id": "academic-writing/citation-style/european-archaeology--harvard",
+  "isDocsHomePage": false,
+  "title": "european-archaeology--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-archaeology--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-archaeology--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/european-archaeology--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-archaeology--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "europace",
+    "permalink": "/support/docs/academic-writing/citation-style/europace"
+  },
+  "next": {
+    "title": "european-cells-and-materials",
+    "permalink": "/support/docs/academic-writing/citation-style/european-cells-and-materials"
+  }
+}

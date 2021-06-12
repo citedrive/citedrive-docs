@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/arachne",
+  "id": "academic-writing/import/arachne",
+  "isDocsHomePage": false,
+  "title": "arachne",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/arachne.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/arachne",
+  "permalink": "/support/docs/academic-writing/import/arachne",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/arachne.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquitania-french",
+    "permalink": "/support/docs/academic-writing/import/aquitania-french"
+  },
+  "next": {
+    "title": "arachnology",
+    "permalink": "/support/docs/academic-writing/import/arachnology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-fur-kunstgeschichte",
+  "id": "academic-writing/citation-style/journal-fur-kunstgeschichte",
+  "isDocsHomePage": false,
+  "title": "journal-fur-kunstgeschichte",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-fur-kunstgeschichte.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-fur-kunstgeschichte",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-fur-kunstgeschichte",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-fur-kunstgeschichte.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-for-veterinary-medicine-biotechnology-and-biosafety",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-for-veterinary-medicine-biotechnology-and-biosafety"
+  },
+  "next": {
+    "title": "journal-of-acoustics",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-acoustics"
+  }
+}

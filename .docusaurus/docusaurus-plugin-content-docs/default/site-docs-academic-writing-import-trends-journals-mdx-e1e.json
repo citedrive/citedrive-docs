@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/trends-journals",
+  "id": "academic-writing/import/trends-journals",
+  "isDocsHomePage": false,
+  "title": "trends-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/trends-journals.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/trends-journals",
+  "permalink": "/support/docs/academic-writing/import/trends-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/trends-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trends-in-glycoscience-and-glycotechnology",
+    "permalink": "/support/docs/academic-writing/import/trends-in-glycoscience-and-glycotechnology"
+  },
+  "next": {
+    "title": "triangle-french",
+    "permalink": "/support/docs/academic-writing/import/triangle-french"
+  }
+}

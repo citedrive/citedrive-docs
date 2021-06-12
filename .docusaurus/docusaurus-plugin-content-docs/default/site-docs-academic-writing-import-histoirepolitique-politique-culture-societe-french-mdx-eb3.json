@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/histoirepolitique-politique-culture-societe-french",
+  "id": "academic-writing/import/histoirepolitique-politique-culture-societe-french",
+  "isDocsHomePage": false,
+  "title": "histoirepolitique-politique-culture-societe-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/histoirepolitique-politique-culture-societe-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/histoirepolitique-politique-culture-societe-french",
+  "permalink": "/support/docs/academic-writing/import/histoirepolitique-politique-culture-societe-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/histoirepolitique-politique-culture-societe-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "histoire-and-mesure-french",
+    "permalink": "/support/docs/academic-writing/import/histoire-and-mesure-french"
+  },
+  "next": {
+    "title": "histopathology",
+    "permalink": "/support/docs/academic-writing/import/histopathology"
+  }
+}

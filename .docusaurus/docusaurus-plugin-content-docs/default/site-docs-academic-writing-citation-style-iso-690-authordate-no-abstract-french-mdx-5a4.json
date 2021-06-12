@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iso690-authordate-no-abstract-french",
+  "id": "academic-writing/citation-style/iso690-authordate-no-abstract-french",
+  "isDocsHomePage": false,
+  "title": "iso690-authordate-no-abstract-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iso690-authordate-no-abstract-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iso690-authordate-no-abstract-french",
+  "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-no-abstract-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-authordate-no-abstract-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-authordate-german",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-german"
+  },
+  "next": {
+    "title": "iso690-authordate-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-portuguese--brazil"
+  }
+}

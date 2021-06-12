@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-linguistics",
+  "id": "academic-writing/citation-style/journal-of-linguistics",
+  "isDocsHomePage": false,
+  "title": "journal-of-linguistics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-linguistics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-linguistics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-linguistics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-linguistics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-limnology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-limnology"
+  },
+  "next": {
+    "title": "journal-of-lipid-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-lipid-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/molecular-psychiatry",
+  "id": "academic-writing/citation-style/molecular-psychiatry",
+  "isDocsHomePage": false,
+  "title": "molecular-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/molecular-psychiatry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/molecular-psychiatry",
+  "permalink": "/support/docs/academic-writing/citation-style/molecular-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-psychiatry-letters-to-the-editor",
+    "permalink": "/support/docs/academic-writing/citation-style/molecular-psychiatry-letters-to-the-editor"
+  },
+  "next": {
+    "title": "monash-university--csiro",
+    "permalink": "/support/docs/academic-writing/citation-style/monash-university--csiro"
+  }
+}

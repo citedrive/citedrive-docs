@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/finanzarchiv--public-finance-analysis",
+  "id": "academic-writing/import/finanzarchiv--public-finance-analysis",
+  "isDocsHomePage": false,
+  "title": "finanzarchiv--public-finance-analysis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/finanzarchiv--public-finance-analysis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/finanzarchiv--public-finance-analysis",
+  "permalink": "/support/docs/academic-writing/import/finanzarchiv--public-finance-analysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/finanzarchiv--public-finance-analysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finance-and-society",
+    "permalink": "/support/docs/academic-writing/import/finance-and-society"
+  },
+  "next": {
+    "title": "fine-focus",
+    "permalink": "/support/docs/academic-writing/import/fine-focus"
+  }
+}

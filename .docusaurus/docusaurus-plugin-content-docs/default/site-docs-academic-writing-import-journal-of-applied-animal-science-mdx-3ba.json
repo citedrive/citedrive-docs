@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-applied-animal-science",
+  "id": "academic-writing/import/journal-of-applied-animal-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-applied-animal-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-applied-animal-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-applied-animal-science",
+  "permalink": "/support/docs/academic-writing/import/journal-of-applied-animal-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-applied-animal-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-aoac-international",
+    "permalink": "/support/docs/academic-writing/import/journal-of-aoac-international"
+  },
+  "next": {
+    "title": "journal-of-applied-clinical-medical-physics",
+    "permalink": "/support/docs/academic-writing/import/journal-of-applied-clinical-medical-physics"
+  }
+}

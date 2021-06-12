@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ecclesial-practices",
+  "id": "academic-writing/citation-style/ecclesial-practices",
+  "isDocsHomePage": false,
+  "title": "ecclesial-practices",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ecclesial-practices.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ecclesial-practices",
+  "permalink": "/support/docs/academic-writing/citation-style/ecclesial-practices",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecclesial-practices.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "earthquake-spectra",
+    "permalink": "/support/docs/academic-writing/citation-style/earthquake-spectra"
+  },
+  "next": {
+    "title": "ecole-de-technologie-superieure--apa-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada"
+  }
+}

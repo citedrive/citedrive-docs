@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/engineering-technology-and-applied-science-research",
+  "id": "academic-writing/import/engineering-technology-and-applied-science-research",
+  "isDocsHomePage": false,
+  "title": "engineering-technology-and-applied-science-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/engineering-technology-and-applied-science-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/engineering-technology-and-applied-science-research",
+  "permalink": "/support/docs/academic-writing/import/engineering-technology-and-applied-science-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/engineering-technology-and-applied-science-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "engineering-in-life-sciences",
+    "permalink": "/support/docs/academic-writing/import/engineering-in-life-sciences"
+  },
+  "next": {
+    "title": "entecho-czech",
+    "permalink": "/support/docs/academic-writing/import/entecho-czech"
+  }
+}

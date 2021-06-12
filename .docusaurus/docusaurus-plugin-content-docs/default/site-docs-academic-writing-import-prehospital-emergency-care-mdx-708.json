@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/prehospital-emergency-care",
+  "id": "academic-writing/import/prehospital-emergency-care",
+  "isDocsHomePage": false,
+  "title": "prehospital-emergency-care",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/prehospital-emergency-care.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/prehospital-emergency-care",
+  "permalink": "/support/docs/academic-writing/import/prehospital-emergency-care",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/prehospital-emergency-care.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "prehistoires-mediterraneennes",
+    "permalink": "/support/docs/academic-writing/import/prehistoires-mediterraneennes"
+  },
+  "next": {
+    "title": "preslia--the-journal-of-the-czech-botanical-society",
+    "permalink": "/support/docs/academic-writing/import/preslia--the-journal-of-the-czech-botanical-society"
+  }
+}

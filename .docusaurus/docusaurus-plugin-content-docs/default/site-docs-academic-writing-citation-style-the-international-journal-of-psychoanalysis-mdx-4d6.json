@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-international-journal-of-psychoanalysis",
+  "id": "academic-writing/citation-style/the-international-journal-of-psychoanalysis",
+  "isDocsHomePage": false,
+  "title": "the-international-journal-of-psychoanalysis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-international-journal-of-psychoanalysis",
+  "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-international-journal-of-developmental-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-developmental-biology"
+  },
+  "next": {
+    "title": "the-international-journal-of-tuberculosis-and-lung-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease"
+  }
+}

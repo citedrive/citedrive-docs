@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science",
+  "id": "academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-association-of-laboratory-animal-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science",
+  "permalink": "/support/docs/academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-the-american-association-of-laboratory-animal-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-animal-hospital-association",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-american-animal-hospital-association"
+  },
+  "next": {
+    "title": "journal-of-the-american-ceramic-society",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-american-ceramic-society"
+  }
+}

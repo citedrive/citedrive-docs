@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/palaeontology",
+  "id": "academic-writing/citation-style/palaeontology",
+  "isDocsHomePage": false,
+  "title": "palaeontology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/palaeontology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/palaeontology",
+  "permalink": "/support/docs/academic-writing/citation-style/palaeontology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/palaeontology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeontologia-electronica",
+    "permalink": "/support/docs/academic-writing/citation-style/palaeontologia-electronica"
+  },
+  "next": {
+    "title": "palaeovertebrata",
+    "permalink": "/support/docs/academic-writing/citation-style/palaeovertebrata"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/currents-in-biblical-research",
+  "id": "academic-writing/citation-style/currents-in-biblical-research",
+  "isDocsHomePage": false,
+  "title": "currents-in-biblical-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/currents-in-biblical-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/currents-in-biblical-research",
+  "permalink": "/support/docs/academic-writing/citation-style/currents-in-biblical-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/currents-in-biblical-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-topics-in-medicinal-chemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry"
+  },
+  "next": {
+    "title": "cyberpsychology-behavior-and-social-networking",
+    "permalink": "/support/docs/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking"
+  }
+}

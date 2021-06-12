@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/new-testament-studies",
+  "id": "academic-writing/citation-style/new-testament-studies",
+  "isDocsHomePage": false,
+  "title": "new-testament-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/new-testament-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/new-testament-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/new-testament-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-testament-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "new-solutions",
+    "permalink": "/support/docs/academic-writing/citation-style/new-solutions"
+  },
+  "next": {
+    "title": "new-zealand-dental-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/new-zealand-dental-journal"
+  }
+}

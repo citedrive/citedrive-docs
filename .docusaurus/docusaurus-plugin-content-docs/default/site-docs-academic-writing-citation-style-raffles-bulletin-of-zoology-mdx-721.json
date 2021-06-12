@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/raffles-bulletin-of-zoology",
+  "id": "academic-writing/citation-style/raffles-bulletin-of-zoology",
+  "isDocsHomePage": false,
+  "title": "raffles-bulletin-of-zoology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/raffles-bulletin-of-zoology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/raffles-bulletin-of-zoology",
+  "permalink": "/support/docs/academic-writing/citation-style/raffles-bulletin-of-zoology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/raffles-bulletin-of-zoology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "radiopaediaorg",
+    "permalink": "/support/docs/academic-writing/citation-style/radiopaediaorg"
+  },
+  "next": {
+    "title": "randd-management",
+    "permalink": "/support/docs/academic-writing/citation-style/randd-management"
+  }
+}

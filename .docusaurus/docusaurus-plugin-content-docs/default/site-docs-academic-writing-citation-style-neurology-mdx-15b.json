@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neurology",
+  "id": "academic-writing/citation-style/neurology",
+  "isDocsHomePage": false,
+  "title": "neurology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neurology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neurology",
+  "permalink": "/support/docs/academic-writing/citation-style/neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurology-india",
+    "permalink": "/support/docs/academic-writing/citation-style/neurology-india"
+  },
+  "next": {
+    "title": "neuropsychopharmacology",
+    "permalink": "/support/docs/academic-writing/citation-style/neuropsychopharmacology"
+  }
+}

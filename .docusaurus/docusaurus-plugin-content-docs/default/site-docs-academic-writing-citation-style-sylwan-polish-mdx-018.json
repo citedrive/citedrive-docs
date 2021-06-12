@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sylwan-polish",
+  "id": "academic-writing/citation-style/sylwan-polish",
+  "isDocsHomePage": false,
+  "title": "sylwan-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sylwan-polish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sylwan-polish",
+  "permalink": "/support/docs/academic-writing/citation-style/sylwan-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sylwan-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "swiss-political-science-review",
+    "permalink": "/support/docs/academic-writing/citation-style/swiss-political-science-review"
+  },
+  "next": {
+    "title": "synthesis",
+    "permalink": "/support/docs/academic-writing/citation-style/synthesis"
+  }
+}

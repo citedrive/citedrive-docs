@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/st-patricks-college",
+  "id": "academic-writing/import/st-patricks-college",
+  "isDocsHomePage": false,
+  "title": "st-patricks-college",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/st-patricks-college.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/st-patricks-college",
+  "permalink": "/support/docs/academic-writing/import/st-patricks-college",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/st-patricks-college.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springerprotocols",
+    "permalink": "/support/docs/academic-writing/import/springerprotocols"
+  },
+  "next": {
+    "title": "staffordshire-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/staffordshire-university--harvard"
+  }
+}

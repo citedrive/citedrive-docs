@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iranian-journal-of-basic-medical-sciences",
+  "id": "academic-writing/citation-style/iranian-journal-of-basic-medical-sciences",
+  "isDocsHomePage": false,
+  "title": "iranian-journal-of-basic-medical-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ipag-business-school--apa",
+    "permalink": "/support/docs/academic-writing/citation-style/ipag-business-school--apa"
+  },
+  "next": {
+    "title": "iranian-journal-of-pharmaceutical-research",
+    "permalink": "/support/docs/academic-writing/citation-style/iranian-journal-of-pharmaceutical-research"
+  }
+}

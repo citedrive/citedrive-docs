@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy",
+  "id": "academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy",
+  "isDocsHomePage": false,
+  "title": "knee-surgery-sports-traumatology-arthroscopy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy",
+  "permalink": "/support/docs/academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/knee-surgery-sports-traumatology-arthroscopy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "knee-surgery-and-related-research",
+    "permalink": "/support/docs/academic-writing/citation-style/knee-surgery-and-related-research"
+  },
+  "next": {
+    "title": "knowledge-and-management-of-aquatic-ecosystems",
+    "permalink": "/support/docs/academic-writing/citation-style/knowledge-and-management-of-aquatic-ecosystems"
+  }
+}

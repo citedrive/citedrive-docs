@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/palaeontology",
+  "id": "academic-writing/import/palaeontology",
+  "isDocsHomePage": false,
+  "title": "palaeontology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/palaeontology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/palaeontology",
+  "permalink": "/support/docs/academic-writing/import/palaeontology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/palaeontology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeontologia-electronica",
+    "permalink": "/support/docs/academic-writing/import/palaeontologia-electronica"
+  },
+  "next": {
+    "title": "palaeovertebrata",
+    "permalink": "/support/docs/academic-writing/import/palaeovertebrata"
+  }
+}

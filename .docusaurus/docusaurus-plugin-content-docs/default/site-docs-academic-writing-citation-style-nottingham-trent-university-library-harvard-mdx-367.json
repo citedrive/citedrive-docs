@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nottingham-trent-university-library--harvard",
+  "id": "academic-writing/citation-style/nottingham-trent-university-library--harvard",
+  "isDocsHomePage": false,
+  "title": "nottingham-trent-university-library--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nottingham-trent-university-library--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "northwest-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/northwest-university--harvard"
+  },
+  "next": {
+    "title": "nouvelles-perspectives-en-sciences-sociales-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/nouvelles-perspectives-en-sciences-sociales-french--canada"
+  }
+}

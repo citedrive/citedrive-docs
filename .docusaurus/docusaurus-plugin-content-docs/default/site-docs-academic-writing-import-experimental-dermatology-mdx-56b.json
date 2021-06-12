@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/experimental-dermatology",
+  "id": "academic-writing/import/experimental-dermatology",
+  "isDocsHomePage": false,
+  "title": "experimental-dermatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/experimental-dermatology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/experimental-dermatology",
+  "permalink": "/support/docs/academic-writing/import/experimental-dermatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/experimental-dermatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "experimental-biomedical-research",
+    "permalink": "/support/docs/academic-writing/import/experimental-biomedical-research"
+  },
+  "next": {
+    "title": "express-polymer-letters",
+    "permalink": "/support/docs/academic-writing/import/express-polymer-letters"
+  }
+}

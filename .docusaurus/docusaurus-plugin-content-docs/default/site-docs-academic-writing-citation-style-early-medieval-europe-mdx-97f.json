@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/early-medieval-europe",
+  "id": "academic-writing/citation-style/early-medieval-europe",
+  "isDocsHomePage": false,
+  "title": "early-medieval-europe",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/early-medieval-europe.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/early-medieval-europe",
+  "permalink": "/support/docs/academic-writing/citation-style/early-medieval-europe",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/early-medieval-europe.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "early-christianity",
+    "permalink": "/support/docs/academic-writing/citation-style/early-christianity"
+  },
+  "next": {
+    "title": "earth-surface-processes-and-landforms",
+    "permalink": "/support/docs/academic-writing/citation-style/earth-surface-processes-and-landforms"
+  }
+}

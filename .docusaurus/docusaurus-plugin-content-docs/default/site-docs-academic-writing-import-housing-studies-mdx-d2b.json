@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/housing-studies",
+  "id": "academic-writing/import/housing-studies",
+  "isDocsHomePage": false,
+  "title": "housing-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/housing-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/housing-studies",
+  "permalink": "/support/docs/academic-writing/import/housing-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/housing-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hong-kong-journal-of-radiology",
+    "permalink": "/support/docs/academic-writing/import/hong-kong-journal-of-radiology"
+  },
+  "next": {
+    "title": "hpb",
+    "permalink": "/support/docs/academic-writing/import/hpb"
+  }
+}

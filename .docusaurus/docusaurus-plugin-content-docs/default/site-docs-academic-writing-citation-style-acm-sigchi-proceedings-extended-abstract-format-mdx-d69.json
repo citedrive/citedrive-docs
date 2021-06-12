@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format",
+  "id": "academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format",
+  "isDocsHomePage": false,
+  "title": "acm-sigchi-proceedings--extended-abstract-format",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format",
+  "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acm-sig-proceedings-et-al-for-3-authors",
+    "permalink": "/support/docs/academic-writing/citation-style/acm-sig-proceedings-et-al-for-3-authors"
+  },
+  "next": {
+    "title": "acm-sigchi-proceedings-2016",
+    "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016"
+  }
+}

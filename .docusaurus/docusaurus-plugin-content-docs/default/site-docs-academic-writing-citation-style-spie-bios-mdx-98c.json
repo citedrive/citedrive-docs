@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/spie-bios",
+  "id": "academic-writing/citation-style/spie-bios",
+  "isDocsHomePage": false,
+  "title": "spie-bios",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/spie-bios.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/spie-bios",
+  "permalink": "/support/docs/academic-writing/citation-style/spie-bios",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spie-bios.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "speculum",
+    "permalink": "/support/docs/academic-writing/citation-style/speculum"
+  },
+  "next": {
+    "title": "spie-conference-proceedings",
+    "permalink": "/support/docs/academic-writing/citation-style/spie-conference-proceedings"
+  }
+}

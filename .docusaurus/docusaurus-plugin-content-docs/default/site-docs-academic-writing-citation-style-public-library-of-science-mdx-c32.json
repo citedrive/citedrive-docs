@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/public-library-of-science",
+  "id": "academic-writing/citation-style/public-library-of-science",
+  "isDocsHomePage": false,
+  "title": "public-library-of-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/public-library-of-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/public-library-of-science",
+  "permalink": "/support/docs/academic-writing/citation-style/public-library-of-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/public-library-of-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "public-health-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/public-health-nutrition"
+  },
+  "next": {
+    "title": "pure-and-applied-geophysics",
+    "permalink": "/support/docs/academic-writing/citation-style/pure-and-applied-geophysics"
+  }
+}

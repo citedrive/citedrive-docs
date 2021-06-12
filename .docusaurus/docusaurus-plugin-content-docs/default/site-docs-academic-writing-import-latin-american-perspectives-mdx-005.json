@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/latin-american-perspectives",
+  "id": "academic-writing/import/latin-american-perspectives",
+  "isDocsHomePage": false,
+  "title": "latin-american-perspectives",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/latin-american-perspectives.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/latin-american-perspectives",
+  "permalink": "/support/docs/academic-writing/import/latin-american-perspectives",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/latin-american-perspectives.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "laser-and-photonics-reviews",
+    "permalink": "/support/docs/academic-writing/import/laser-and-photonics-reviews"
+  },
+  "next": {
+    "title": "latin-american-research-review",
+    "permalink": "/support/docs/academic-writing/import/latin-american-research-review"
+  }
+}

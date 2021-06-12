@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german",
+  "id": "academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german",
+  "isDocsHomePage": false,
+  "title": "lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german",
+  "permalink": "/support/docs/academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/lauterbornia--internationale-zeitschrift-fur-faunistik-und-floristik-des-suwassers-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "latin-american-research-review",
+    "permalink": "/support/docs/academic-writing/citation-style/latin-american-research-review"
+  },
+  "next": {
+    "title": "law-and-society-review",
+    "permalink": "/support/docs/academic-writing/citation-style/law-and-society-review"
+  }
+}

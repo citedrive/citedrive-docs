@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-management-issues",
+  "id": "academic-writing/import/clinical-management-issues",
+  "isDocsHomePage": false,
+  "title": "clinical-management-issues",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-management-issues.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-management-issues",
+  "permalink": "/support/docs/academic-writing/import/clinical-management-issues",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-management-issues.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-journal-of-the-american-society-of-nephrology",
+    "permalink": "/support/docs/academic-writing/import/clinical-journal-of-the-american-society-of-nephrology"
+  },
+  "next": {
+    "title": "clinical-nuclear-medicine",
+    "permalink": "/support/docs/academic-writing/import/clinical-nuclear-medicine"
+  }
+}

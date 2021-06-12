@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+  "id": "academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+  "isDocsHomePage": false,
+  "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+  "permalink": "/support/docs/academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ultrasound-in-medicine-and-biology",
+    "permalink": "/support/docs/academic-writing/import/ultrasound-in-medicine-and-biology"
+  },
+  "next": {
+    "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+    "permalink": "/support/docs/academic-writing/import/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish"
+  }
+}

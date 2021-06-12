@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oxford-studies-in-ancient-philosophy",
+  "id": "academic-writing/import/oxford-studies-in-ancient-philosophy",
+  "isDocsHomePage": false,
+  "title": "oxford-studies-in-ancient-philosophy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oxford-studies-in-ancient-philosophy.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oxford-studies-in-ancient-philosophy",
+  "permalink": "/support/docs/academic-writing/import/oxford-studies-in-ancient-philosophy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oxford-studies-in-ancient-philosophy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+    "permalink": "/support/docs/academic-writing/import/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard"
+  },
+  "next": {
+    "title": "oxford-studies-on-the-roman-economy",
+    "permalink": "/support/docs/academic-writing/import/oxford-studies-on-the-roman-economy"
+  }
+}

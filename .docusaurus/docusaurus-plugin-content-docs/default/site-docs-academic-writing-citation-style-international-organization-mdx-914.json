@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-organization",
+  "id": "academic-writing/citation-style/international-organization",
+  "isDocsHomePage": false,
+  "title": "international-organization",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-organization.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-organization",
+  "permalink": "/support/docs/academic-writing/citation-style/international-organization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-organization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/international-microbiology"
+  },
+  "next": {
+    "title": "international-pig-veterinary-society-congress-proceedings",
+    "permalink": "/support/docs/academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings"
+  }
+}

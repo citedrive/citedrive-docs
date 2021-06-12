@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hydrological-processes",
+  "id": "academic-writing/citation-style/hydrological-processes",
+  "isDocsHomePage": false,
+  "title": "hydrological-processes",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hydrological-processes.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hydrological-processes",
+  "permalink": "/support/docs/academic-writing/citation-style/hydrological-processes",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hydrological-processes.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hydrobiologia",
+    "permalink": "/support/docs/academic-writing/citation-style/hydrobiologia"
+  },
+  "next": {
+    "title": "hydrological-sciences-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/hydrological-sciences-journal"
+  }
+}

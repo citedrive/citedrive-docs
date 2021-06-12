@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/environmental-conservation",
+  "id": "academic-writing/citation-style/environmental-conservation",
+  "isDocsHomePage": false,
+  "title": "environmental-conservation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/environmental-conservation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/environmental-conservation",
+  "permalink": "/support/docs/academic-writing/citation-style/environmental-conservation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environmental-conservation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-chemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-chemistry"
+  },
+  "next": {
+    "title": "environmental-health-perspectives",
+    "permalink": "/support/docs/academic-writing/citation-style/environmental-health-perspectives"
+  }
+}

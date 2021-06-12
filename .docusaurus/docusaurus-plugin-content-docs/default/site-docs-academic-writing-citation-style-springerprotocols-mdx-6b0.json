@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springerprotocols",
+  "id": "academic-writing/citation-style/springerprotocols",
+  "isDocsHomePage": false,
+  "title": "springerprotocols",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springerprotocols.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springerprotocols",
+  "permalink": "/support/docs/academic-writing/citation-style/springerprotocols",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springerprotocols.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer-vs-authordate-german",
+    "permalink": "/support/docs/academic-writing/citation-style/springer-vs-authordate-german"
+  },
+  "next": {
+    "title": "st-patricks-college",
+    "permalink": "/support/docs/academic-writing/citation-style/st-patricks-college"
+  }
+}

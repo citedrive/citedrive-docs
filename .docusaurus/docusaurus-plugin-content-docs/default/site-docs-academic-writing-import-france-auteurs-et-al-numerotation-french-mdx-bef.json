@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/france-auteurs-et-al-numerotation-french",
+  "id": "academic-writing/import/france-auteurs-et-al-numerotation-french",
+  "isDocsHomePage": false,
+  "title": "france-auteurs-et-al-numerotation-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/france-auteurs-et-al-numerotation-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/france-auteurs-et-al-numerotation-french",
+  "permalink": "/support/docs/academic-writing/import/france-auteurs-et-al-numerotation-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/france-auteurs-et-al-numerotation-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "france-auteurs-et-al-auteurdate-french",
+    "permalink": "/support/docs/academic-writing/import/france-auteurs-et-al-auteurdate-french"
+  },
+  "next": {
+    "title": "france-tous-les-auteurs-auteurdate-french",
+    "permalink": "/support/docs/academic-writing/import/france-tous-les-auteurs-auteurdate-french"
+  }
+}

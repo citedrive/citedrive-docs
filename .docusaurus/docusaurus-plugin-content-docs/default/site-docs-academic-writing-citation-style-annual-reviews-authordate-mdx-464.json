@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annual-reviews-authordate",
+  "id": "academic-writing/citation-style/annual-reviews-authordate",
+  "isDocsHomePage": false,
+  "title": "annual-reviews-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annual-reviews-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annual-reviews-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-reviews-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-review-of-nuclear-and-particle-science",
+    "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science"
+  },
+  "next": {
+    "title": "annual-reviews-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically"
+  }
+}

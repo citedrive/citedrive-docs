@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
+  "id": "academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
+  "isDocsHomePage": false,
+  "title": "springer--basic-authordate-no-et-al-with-issue-numbers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "spip--cite-plugin",
+    "permalink": "/support/docs/academic-writing/citation-style/spip--cite-plugin"
+  },
+  "next": {
+    "title": "springer--basic-authordate-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al"
+  }
+}

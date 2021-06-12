@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ultrasound-in-medicine-and-biology",
+  "id": "academic-writing/citation-style/ultrasound-in-medicine-and-biology",
+  "isDocsHomePage": false,
+  "title": "ultrasound-in-medicine-and-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ultrasound-in-medicine-and-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ultrasound-in-medicine-and-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/ultrasound-in-medicine-and-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ultrasound-in-medicine-and-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ugeskrift-for-lger-danish",
+    "permalink": "/support/docs/academic-writing/citation-style/ugeskrift-for-lger-danish"
+  },
+  "next": {
+    "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish"
+  }
+}

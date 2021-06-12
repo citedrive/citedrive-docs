@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-padagogik-german",
+  "id": "academic-writing/import/zeitschrift-fur-padagogik-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-padagogik-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-padagogik-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-padagogik-german",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-padagogik-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-padagogik-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-ostmitteleuropaforschung-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-ostmitteleuropaforschung-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-parlamentsfragen-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-parlamentsfragen-german"
+  }
+}

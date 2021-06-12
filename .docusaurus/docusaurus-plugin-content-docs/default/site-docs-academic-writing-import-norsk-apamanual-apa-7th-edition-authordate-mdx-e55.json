@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/norsk-apamanual--apa-7th-edition-authordate",
+  "id": "academic-writing/import/norsk-apamanual--apa-7th-edition-authordate",
+  "isDocsHomePage": false,
+  "title": "norsk-apamanual--apa-7th-edition-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/norsk-apamanual--apa-7th-edition-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/norsk-apamanual--apa-7th-edition-authordate",
+  "permalink": "/support/docs/academic-writing/import/norsk-apamanual--apa-7th-edition-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/norsk-apamanual--apa-7th-edition-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "norois-french",
+    "permalink": "/support/docs/academic-writing/import/norois-french"
+  },
+  "next": {
+    "title": "norsk-apamanual--apa-7th-edition-note",
+    "permalink": "/support/docs/academic-writing/import/norsk-apamanual--apa-7th-edition-note"
+  }
+}

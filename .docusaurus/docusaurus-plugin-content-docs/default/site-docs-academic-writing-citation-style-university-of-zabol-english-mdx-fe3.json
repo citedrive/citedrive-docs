@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-zabol-english",
+  "id": "academic-writing/citation-style/university-of-zabol-english",
+  "isDocsHomePage": false,
+  "title": "university-of-zabol-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-zabol-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-zabol-english",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-zabol-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-zabol-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--vancouver"
+  },
+  "next": {
+    "title": "university-of-zabol-persian",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-zabol-persian"
+  }
+}

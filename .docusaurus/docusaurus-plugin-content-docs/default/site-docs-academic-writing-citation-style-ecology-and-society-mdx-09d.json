@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ecology-and-society",
+  "id": "academic-writing/citation-style/ecology-and-society",
+  "isDocsHomePage": false,
+  "title": "ecology-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ecology-and-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ecology-and-society",
+  "permalink": "/support/docs/academic-writing/citation-style/ecology-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecology-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecological-restoration",
+    "permalink": "/support/docs/academic-writing/citation-style/ecological-restoration"
+  },
+  "next": {
+    "title": "ecology-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/ecology-letters"
+  }
+}

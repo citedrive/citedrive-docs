@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/british-journal-of-political-science",
+  "id": "academic-writing/citation-style/british-journal-of-political-science",
+  "isDocsHomePage": false,
+  "title": "british-journal-of-political-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/british-journal-of-political-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/british-journal-of-political-science",
+  "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-political-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/british-journal-of-political-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "british-journal-of-pharmacology",
+    "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-pharmacology"
+  },
+  "next": {
+    "title": "british-journal-of-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-surgery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
+  "id": "academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-kunstgeschichte",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
+  "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-internationale-beziehungen-german",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-medien-und-kulturforschung-german",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-medien-und-kulturforschung-german"
+  }
+}

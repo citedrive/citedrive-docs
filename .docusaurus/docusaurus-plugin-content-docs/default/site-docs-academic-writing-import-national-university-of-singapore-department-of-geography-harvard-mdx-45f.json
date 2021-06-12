@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/national-university-of-singapore--department-of-geography--harvard",
+  "id": "academic-writing/import/national-university-of-singapore--department-of-geography--harvard",
+  "isDocsHomePage": false,
+  "title": "national-university-of-singapore--department-of-geography--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/national-university-of-singapore--department-of-geography--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/national-university-of-singapore--department-of-geography--harvard",
+  "permalink": "/support/docs/academic-writing/import/national-university-of-singapore--department-of-geography--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/national-university-of-singapore--department-of-geography--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-science-foundation-grant-proposals",
+    "permalink": "/support/docs/academic-writing/import/national-science-foundation-grant-proposals"
+  },
+  "next": {
+    "title": "nations-and-nationalism",
+    "permalink": "/support/docs/academic-writing/import/nations-and-nationalism"
+  }
+}

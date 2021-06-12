@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bioelectromagnetics",
+  "id": "academic-writing/citation-style/bioelectromagnetics",
+  "isDocsHomePage": false,
+  "title": "bioelectromagnetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bioelectromagnetics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bioelectromagnetics",
+  "permalink": "/support/docs/academic-writing/citation-style/bioelectromagnetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioelectromagnetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochimica-et-biophysica-acta",
+    "permalink": "/support/docs/academic-writing/citation-style/biochimica-et-biophysica-acta"
+  },
+  "next": {
+    "title": "bioinformatics",
+    "permalink": "/support/docs/academic-writing/citation-style/bioinformatics"
+  }
+}

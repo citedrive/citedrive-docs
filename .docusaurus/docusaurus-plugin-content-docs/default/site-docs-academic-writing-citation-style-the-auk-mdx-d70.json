@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-auk",
+  "id": "academic-writing/citation-style/the-auk",
+  "isDocsHomePage": false,
+  "title": "the-auk",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-auk.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-auk",
+  "permalink": "/support/docs/academic-writing/citation-style/the-auk",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-auk.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-astrophysical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-astrophysical-journal"
+  },
+  "next": {
+    "title": "the-australian-journal-of-agricultural-and-resource-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/the-australian-journal-of-agricultural-and-resource-economics"
+  }
+}

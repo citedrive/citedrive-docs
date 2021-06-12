@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/southeastern-geographer",
+  "id": "academic-writing/citation-style/southeastern-geographer",
+  "isDocsHomePage": false,
+  "title": "southeastern-geographer",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/southeastern-geographer.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/southeastern-geographer",
+  "permalink": "/support/docs/academic-writing/citation-style/southeastern-geographer",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/southeastern-geographer.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "south-african-theological-seminary",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-theological-seminary"
+  },
+  "next": {
+    "title": "southern-african-journal-of-critical-care",
+    "permalink": "/support/docs/academic-writing/citation-style/southern-african-journal-of-critical-care"
+  }
+}

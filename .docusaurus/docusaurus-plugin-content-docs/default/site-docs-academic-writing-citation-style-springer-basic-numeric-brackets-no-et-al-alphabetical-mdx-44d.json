@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical",
+  "id": "academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical",
+  "isDocsHomePage": false,
+  "title": "springer--basic-numeric-brackets-no-et-al-alphabetical",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al-alphabetical.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-note",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-note"
+  },
+  "next": {
+    "title": "springer--basic-numeric-brackets-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al"
+  }
+}

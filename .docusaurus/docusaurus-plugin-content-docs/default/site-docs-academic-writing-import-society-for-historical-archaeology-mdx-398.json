@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/society-for-historical-archaeology",
+  "id": "academic-writing/import/society-for-historical-archaeology",
+  "isDocsHomePage": false,
+  "title": "society-for-historical-archaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/society-for-historical-archaeology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/society-for-historical-archaeology",
+  "permalink": "/support/docs/academic-writing/import/society-for-historical-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/society-for-historical-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-for-american-archaeology",
+    "permalink": "/support/docs/academic-writing/import/society-for-american-archaeology"
+  },
+  "next": {
+    "title": "society-for-laboratory-automation-and-screening",
+    "permalink": "/support/docs/academic-writing/import/society-for-laboratory-automation-and-screening"
+  }
+}

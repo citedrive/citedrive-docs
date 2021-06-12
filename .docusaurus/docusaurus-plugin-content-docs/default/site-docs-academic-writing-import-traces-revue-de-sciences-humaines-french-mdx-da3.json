@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/traces-revue-de-sciences-humaines-french",
+  "id": "academic-writing/import/traces-revue-de-sciences-humaines-french",
+  "isDocsHomePage": false,
+  "title": "traces-revue-de-sciences-humaines-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/traces-revue-de-sciences-humaines-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/traces-revue-de-sciences-humaines-french",
+  "permalink": "/support/docs/academic-writing/import/traces-revue-de-sciences-humaines-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/traces-revue-de-sciences-humaines-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trabajos-de-prehistoria-spanish",
+    "permalink": "/support/docs/academic-writing/import/trabajos-de-prehistoria-spanish"
+  },
+  "next": {
+    "title": "traffic-injury-prevention",
+    "permalink": "/support/docs/academic-writing/import/traffic-injury-prevention"
+  }
+}

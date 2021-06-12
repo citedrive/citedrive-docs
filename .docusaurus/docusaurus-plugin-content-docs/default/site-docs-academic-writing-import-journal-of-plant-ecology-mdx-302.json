@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-plant-ecology",
+  "id": "academic-writing/import/journal-of-plant-ecology",
+  "isDocsHomePage": false,
+  "title": "journal-of-plant-ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-plant-ecology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-plant-ecology",
+  "permalink": "/support/docs/academic-writing/import/journal-of-plant-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-plant-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-plankton-research",
+    "permalink": "/support/docs/academic-writing/import/journal-of-plankton-research"
+  },
+  "next": {
+    "title": "journal-of-plant-nutrition-and-soil-science",
+    "permalink": "/support/docs/academic-writing/import/journal-of-plant-nutrition-and-soil-science"
+  }
+}

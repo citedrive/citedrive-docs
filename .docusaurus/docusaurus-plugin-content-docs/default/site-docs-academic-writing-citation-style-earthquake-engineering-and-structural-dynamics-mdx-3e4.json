@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/earthquake-engineering-and-structural-dynamics",
+  "id": "academic-writing/citation-style/earthquake-engineering-and-structural-dynamics",
+  "isDocsHomePage": false,
+  "title": "earthquake-engineering-and-structural-dynamics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/earthquake-engineering-and-structural-dynamics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/earthquake-engineering-and-structural-dynamics",
+  "permalink": "/support/docs/academic-writing/citation-style/earthquake-engineering-and-structural-dynamics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/earthquake-engineering-and-structural-dynamics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "earth-surface-processes-and-landforms",
+    "permalink": "/support/docs/academic-writing/citation-style/earth-surface-processes-and-landforms"
+  },
+  "next": {
+    "title": "earthquake-spectra",
+    "permalink": "/support/docs/academic-writing/citation-style/earthquake-spectra"
+  }
+}

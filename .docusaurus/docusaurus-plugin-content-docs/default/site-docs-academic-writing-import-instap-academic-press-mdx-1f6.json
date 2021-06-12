@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/instap-academic-press",
+  "id": "academic-writing/import/instap-academic-press",
+  "isDocsHomePage": false,
+  "title": "instap-academic-press",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/instap-academic-press.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/instap-academic-press",
+  "permalink": "/support/docs/academic-writing/import/instap-academic-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/instap-academic-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ingenieria-agricola-spanish",
+    "permalink": "/support/docs/academic-writing/import/ingenieria-agricola-spanish"
+  },
+  "next": {
+    "title": "institut-francais-darcheologie-orientale-english",
+    "permalink": "/support/docs/academic-writing/import/institut-francais-darcheologie-orientale-english"
+  }
+}

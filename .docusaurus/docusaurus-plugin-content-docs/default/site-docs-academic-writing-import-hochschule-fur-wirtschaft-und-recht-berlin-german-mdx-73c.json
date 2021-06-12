@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "id": "academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "permalink": "/support/docs/academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-fur-soziale-arbeit-fhnw-german--switzerland",
+    "permalink": "/support/docs/academic-writing/import/hochschule-fur-soziale-arbeit-fhnw-german--switzerland"
+  },
+  "next": {
+    "title": "hochschule-hannover--soziale-arbeit-german",
+    "permalink": "/support/docs/academic-writing/import/hochschule-hannover--soziale-arbeit-german"
+  }
+}

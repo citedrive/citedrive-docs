@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pacific-science",
+  "id": "academic-writing/import/pacific-science",
+  "isDocsHomePage": false,
+  "title": "pacific-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pacific-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pacific-science",
+  "permalink": "/support/docs/academic-writing/import/pacific-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pacific-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pacific-conservation-biology",
+    "permalink": "/support/docs/academic-writing/import/pacific-conservation-biology"
+  },
+  "next": {
+    "title": "padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+    "permalink": "/support/docs/academic-writing/import/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe"
+  }
+}

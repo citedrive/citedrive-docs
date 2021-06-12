@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia",
+  "id": "academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia",
+  "isDocsHomePage": false,
+  "title": "thomson-reuters--legal-tax-and-accounting-australia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia",
+  "permalink": "/support/docs/academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/thomson-reuters--legal-tax-and-accounting-australia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "thiemegerman-german",
+    "permalink": "/support/docs/academic-writing/import/thiemegerman-german"
+  },
+  "next": {
+    "title": "thrombosis-and-haemostasis",
+    "permalink": "/support/docs/academic-writing/import/thrombosis-and-haemostasis"
+  }
+}

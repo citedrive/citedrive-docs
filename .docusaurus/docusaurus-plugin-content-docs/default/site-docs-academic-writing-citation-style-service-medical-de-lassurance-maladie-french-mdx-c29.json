@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/service-medical-de-lassurance-maladie-french",
+  "id": "academic-writing/citation-style/service-medical-de-lassurance-maladie-french",
+  "isDocsHomePage": false,
+  "title": "service-medical-de-lassurance-maladie-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/service-medical-de-lassurance-maladie-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/service-medical-de-lassurance-maladie-french",
+  "permalink": "/support/docs/academic-writing/citation-style/service-medical-de-lassurance-maladie-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/service-medical-de-lassurance-maladie-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "serdica-journal-of-computing",
+    "permalink": "/support/docs/academic-writing/citation-style/serdica-journal-of-computing"
+  },
+  "next": {
+    "title": "sexual-development",
+    "permalink": "/support/docs/academic-writing/citation-style/sexual-development"
+  }
+}

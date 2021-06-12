@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/neurorehabilitation-and-neural-repair",
+  "id": "academic-writing/import/neurorehabilitation-and-neural-repair",
+  "isDocsHomePage": false,
+  "title": "neurorehabilitation-and-neural-repair",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/neurorehabilitation-and-neural-repair.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/neurorehabilitation-and-neural-repair",
+  "permalink": "/support/docs/academic-writing/import/neurorehabilitation-and-neural-repair",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/neurorehabilitation-and-neural-repair.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neuropsychopharmacology",
+    "permalink": "/support/docs/academic-writing/import/neuropsychopharmacology"
+  },
+  "next": {
+    "title": "neuroreport",
+    "permalink": "/support/docs/academic-writing/import/neuroreport"
+  }
+}

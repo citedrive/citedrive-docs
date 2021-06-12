@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer--mathphys-authordate",
+  "id": "academic-writing/import/springer--mathphys-authordate",
+  "isDocsHomePage": false,
+  "title": "springer--mathphys-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer--mathphys-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer--mathphys-authordate",
+  "permalink": "/support/docs/academic-writing/import/springer--mathphys-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer--mathphys-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--lecture-notes-in-computer-science",
+    "permalink": "/support/docs/academic-writing/import/springer--lecture-notes-in-computer-science"
+  },
+  "next": {
+    "title": "springer--mathphys-numeric-brackets",
+    "permalink": "/support/docs/academic-writing/import/springer--mathphys-numeric-brackets"
+  }
+}

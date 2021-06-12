@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-british-journal-of-sociology",
+  "id": "academic-writing/import/the-british-journal-of-sociology",
+  "isDocsHomePage": false,
+  "title": "the-british-journal-of-sociology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-british-journal-of-sociology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-british-journal-of-sociology",
+  "permalink": "/support/docs/academic-writing/import/the-british-journal-of-sociology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-british-journal-of-sociology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-british-journal-of-psychiatry",
+    "permalink": "/support/docs/academic-writing/import/the-british-journal-of-psychiatry"
+  },
+  "next": {
+    "title": "the-canadian-geographer-le-geographe-canadien",
+    "permalink": "/support/docs/academic-writing/import/the-canadian-geographer-le-geographe-canadien"
+  }
+}

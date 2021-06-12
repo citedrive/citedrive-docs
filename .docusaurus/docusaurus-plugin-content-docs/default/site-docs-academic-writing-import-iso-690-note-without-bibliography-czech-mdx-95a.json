@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/iso690-note-without-bibliography-czech",
+  "id": "academic-writing/import/iso690-note-without-bibliography-czech",
+  "isDocsHomePage": false,
+  "title": "iso690-note-without-bibliography-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/iso690-note-without-bibliography-czech.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/iso690-note-without-bibliography-czech",
+  "permalink": "/support/docs/academic-writing/import/iso690-note-without-bibliography-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/iso690-note-without-bibliography-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-note-no-abstract-french",
+    "permalink": "/support/docs/academic-writing/import/iso690-note-no-abstract-french"
+  },
+  "next": {
+    "title": "iso690-numeric-brackets-czech",
+    "permalink": "/support/docs/academic-writing/import/iso690-numeric-brackets-czech"
+  }
+}

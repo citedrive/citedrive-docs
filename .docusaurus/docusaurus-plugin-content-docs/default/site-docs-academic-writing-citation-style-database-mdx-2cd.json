@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/database",
+  "id": "academic-writing/citation-style/database",
+  "isDocsHomePage": false,
+  "title": "database",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/database.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/database",
+  "permalink": "/support/docs/academic-writing/citation-style/database",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/database.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "data-science-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/data-science-journal"
+  },
+  "next": {
+    "title": "de-montfort-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/de-montfort-university--harvard"
+  }
+}

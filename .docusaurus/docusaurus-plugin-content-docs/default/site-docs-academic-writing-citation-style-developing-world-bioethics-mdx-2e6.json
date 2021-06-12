@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/developing-world-bioethics",
+  "id": "academic-writing/citation-style/developing-world-bioethics",
+  "isDocsHomePage": false,
+  "title": "developing-world-bioethics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/developing-world-bioethics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/developing-world-bioethics",
+  "permalink": "/support/docs/academic-writing/citation-style/developing-world-bioethics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/developing-world-bioethics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deutsches-arzteblatt",
+    "permalink": "/support/docs/academic-writing/citation-style/deutsches-arzteblatt"
+  },
+  "next": {
+    "title": "development-and-change",
+    "permalink": "/support/docs/academic-writing/citation-style/development-and-change"
+  }
+}

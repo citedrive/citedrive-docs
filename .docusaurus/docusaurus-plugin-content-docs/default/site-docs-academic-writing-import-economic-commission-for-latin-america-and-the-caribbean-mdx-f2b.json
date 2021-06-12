@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/economic-commission-for-latin-america-and-the-caribbean",
+  "id": "academic-writing/import/economic-commission-for-latin-america-and-the-caribbean",
+  "isDocsHomePage": false,
+  "title": "economic-commission-for-latin-america-and-the-caribbean",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/economic-commission-for-latin-america-and-the-caribbean.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/economic-commission-for-latin-america-and-the-caribbean",
+  "permalink": "/support/docs/academic-writing/import/economic-commission-for-latin-america-and-the-caribbean",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/economic-commission-for-latin-america-and-the-caribbean.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "economia-y-politica-spanish--chile",
+    "permalink": "/support/docs/academic-writing/import/economia-y-politica-spanish--chile"
+  },
+  "next": {
+    "title": "economic-geology",
+    "permalink": "/support/docs/academic-writing/import/economic-geology"
+  }
+}

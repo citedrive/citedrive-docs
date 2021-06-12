@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+  "id": "academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+  "isDocsHomePage": false,
+  "title": "research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+  "permalink": "/support/docs/academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "research-and-education-promotion-association",
+    "permalink": "/support/docs/academic-writing/citation-style/research-and-education-promotion-association"
+  },
+  "next": {
+    "title": "research-on-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/research-on-biomedical-engineering"
+  }
+}

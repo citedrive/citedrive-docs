@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/management-and-avenir-french",
+  "id": "academic-writing/import/management-and-avenir-french",
+  "isDocsHomePage": false,
+  "title": "management-and-avenir-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/management-and-avenir-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/management-and-avenir-french",
+  "permalink": "/support/docs/academic-writing/import/management-and-avenir-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/management-and-avenir-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mammalogy-notes",
+    "permalink": "/support/docs/academic-writing/import/mammalogy-notes"
+  },
+  "next": {
+    "title": "management-international",
+    "permalink": "/support/docs/academic-writing/import/management-international"
+  }
+}

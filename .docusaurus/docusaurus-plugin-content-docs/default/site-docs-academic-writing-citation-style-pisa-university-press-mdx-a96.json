@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pisa-university-press",
+  "id": "academic-writing/citation-style/pisa-university-press",
+  "isDocsHomePage": false,
+  "title": "pisa-university-press",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pisa-university-press.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pisa-university-press",
+  "permalink": "/support/docs/academic-writing/citation-style/pisa-university-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pisa-university-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "phytotaxa",
+    "permalink": "/support/docs/academic-writing/citation-style/phytotaxa"
+  },
+  "next": {
+    "title": "planning-practice-and-research",
+    "permalink": "/support/docs/academic-writing/citation-style/planning-practice-and-research"
+  }
+}

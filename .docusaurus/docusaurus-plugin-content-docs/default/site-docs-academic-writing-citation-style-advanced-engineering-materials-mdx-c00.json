@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/advanced-engineering-materials",
+  "id": "academic-writing/citation-style/advanced-engineering-materials",
+  "isDocsHomePage": false,
+  "title": "advanced-engineering-materials",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/advanced-engineering-materials",
+  "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "administrative-science-quarterly",
+    "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly"
+  },
+  "next": {
+    "title": "advanced-functional-materials",
+    "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials"
+  }
+}

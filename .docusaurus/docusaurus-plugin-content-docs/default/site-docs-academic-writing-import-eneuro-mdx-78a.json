@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/eneuro",
+  "id": "academic-writing/import/eneuro",
+  "isDocsHomePage": false,
+  "title": "eneuro",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/eneuro.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/eneuro",
+  "permalink": "/support/docs/academic-writing/import/eneuro",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/eneuro.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "endoscopia-spanish",
+    "permalink": "/support/docs/academic-writing/import/endoscopia-spanish"
+  },
+  "next": {
+    "title": "enfermeria-clinica-spanish",
+    "permalink": "/support/docs/academic-writing/import/enfermeria-clinica-spanish"
+  }
+}

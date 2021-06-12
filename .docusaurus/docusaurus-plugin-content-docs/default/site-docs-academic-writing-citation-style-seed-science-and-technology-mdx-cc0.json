@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/seed-science-and-technology",
+  "id": "academic-writing/citation-style/seed-science-and-technology",
+  "isDocsHomePage": false,
+  "title": "seed-science-and-technology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/seed-science-and-technology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/seed-science-and-technology",
+  "permalink": "/support/docs/academic-writing/citation-style/seed-science-and-technology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/seed-science-and-technology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sedimentology",
+    "permalink": "/support/docs/academic-writing/citation-style/sedimentology"
+  },
+  "next": {
+    "title": "seed-science-research",
+    "permalink": "/support/docs/academic-writing/citation-style/seed-science-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
+  "id": "academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
+  "isDocsHomePage": false,
+  "title": "institut-teknologi-bandung--sekolah-pascasarjana",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
+  "permalink": "/support/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian"
+  },
+  "next": {
+    "title": "institute-for-operations-research-and-the-management-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/institute-for-operations-research-and-the-management-sciences"
+  }
+}

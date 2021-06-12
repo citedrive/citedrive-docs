@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ibis",
+  "id": "academic-writing/import/ibis",
+  "isDocsHomePage": false,
+  "title": "ibis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ibis.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ibis",
+  "permalink": "/support/docs/academic-writing/import/ibis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ibis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ib-tauris-note",
+    "permalink": "/support/docs/academic-writing/import/ib-tauris-note"
+  },
+  "next": {
+    "title": "ices-journal-of-marine-science",
+    "permalink": "/support/docs/academic-writing/import/ices-journal-of-marine-science"
+  }
+}

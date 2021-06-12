@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-hastings-center-report",
+  "id": "academic-writing/citation-style/the-hastings-center-report",
+  "isDocsHomePage": false,
+  "title": "the-hastings-center-report",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-hastings-center-report.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-hastings-center-report",
+  "permalink": "/support/docs/academic-writing/citation-style/the-hastings-center-report",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-hastings-center-report.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-geological-society-of-london",
+    "permalink": "/support/docs/academic-writing/citation-style/the-geological-society-of-london"
+  },
+  "next": {
+    "title": "the-historical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-historical-journal"
+  }
+}

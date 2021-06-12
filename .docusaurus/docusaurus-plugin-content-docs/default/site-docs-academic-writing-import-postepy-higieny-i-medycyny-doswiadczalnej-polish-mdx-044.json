@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish",
+  "id": "academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish",
+  "isDocsHomePage": false,
+  "title": "postepy-higieny-i-medycyny-doswiadczalnej-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish",
+  "permalink": "/support/docs/academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/postepy-higieny-i-medycyny-doswiadczalnej-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "population-space-and-place",
+    "permalink": "/support/docs/academic-writing/import/population-space-and-place"
+  },
+  "next": {
+    "title": "poultry-science",
+    "permalink": "/support/docs/academic-writing/import/poultry-science"
+  }
+}

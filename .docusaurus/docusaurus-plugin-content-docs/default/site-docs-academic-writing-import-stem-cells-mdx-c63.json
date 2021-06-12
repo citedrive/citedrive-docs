@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/stem-cells",
+  "id": "academic-writing/import/stem-cells",
+  "isDocsHomePage": false,
+  "title": "stem-cells",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/stem-cells.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/stem-cells",
+  "permalink": "/support/docs/academic-writing/import/stem-cells",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/stem-cells.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stem-cells-and-development",
+    "permalink": "/support/docs/academic-writing/import/stem-cells-and-development"
+  },
+  "next": {
+    "title": "strategic-design-research-journal",
+    "permalink": "/support/docs/academic-writing/import/strategic-design-research-journal"
+  }
+}

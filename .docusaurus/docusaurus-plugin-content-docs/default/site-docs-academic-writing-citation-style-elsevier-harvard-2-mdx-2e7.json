@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elsevier--harvard-2",
+  "id": "academic-writing/citation-style/elsevier--harvard-2",
+  "isDocsHomePage": false,
+  "title": "elsevier--harvard-2",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elsevier--harvard-2.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elsevier--harvard-2",
+  "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-2",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier--harvard-2.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elife",
+    "permalink": "/support/docs/academic-writing/citation-style/elife"
+  },
+  "next": {
+    "title": "elsevier--harvard-with-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-with-titles"
+  }
+}

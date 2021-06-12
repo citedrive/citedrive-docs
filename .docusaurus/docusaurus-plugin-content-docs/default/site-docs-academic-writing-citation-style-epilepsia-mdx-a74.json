@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/epilepsia",
+  "id": "academic-writing/citation-style/epilepsia",
+  "isDocsHomePage": false,
+  "title": "epilepsia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/epilepsia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/epilepsia",
+  "permalink": "/support/docs/academic-writing/citation-style/epilepsia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/epilepsia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "epidemiology-and-infection",
+    "permalink": "/support/docs/academic-writing/citation-style/epidemiology-and-infection"
+  },
+  "next": {
+    "title": "equine-veterinary-education",
+    "permalink": "/support/docs/academic-writing/citation-style/equine-veterinary-education"
+  }
+}

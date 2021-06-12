@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/atlande-authordate-french",
+  "id": "academic-writing/import/atlande-authordate-french",
+  "isDocsHomePage": false,
+  "title": "atlande-authordate-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/atlande-authordate-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/atlande-authordate-french",
+  "permalink": "/support/docs/academic-writing/import/atlande-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/atlande-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "association-for-computing-machinery",
+    "permalink": "/support/docs/academic-writing/import/association-for-computing-machinery"
+  },
+  "next": {
+    "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+    "permalink": "/support/docs/academic-writing/import/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology"
+  }
+}

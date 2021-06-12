@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+  "id": "academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+  "isDocsHomePage": false,
+  "title": "idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+  "permalink": "/support/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ices-journal-of-marine-science",
+    "permalink": "/support/docs/academic-writing/citation-style/ices-journal-of-marine-science"
+  },
+  "next": {
+    "title": "ie-comunicaciones",
+    "permalink": "/support/docs/academic-writing/citation-style/ie-comunicaciones"
+  }
+}

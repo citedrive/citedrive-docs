@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mycologia",
+  "id": "academic-writing/import/mycologia",
+  "isDocsHomePage": false,
+  "title": "mycologia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mycologia.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mycologia",
+  "permalink": "/support/docs/academic-writing/import/mycologia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mycologia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mutagenesis",
+    "permalink": "/support/docs/academic-writing/import/mutagenesis"
+  },
+  "next": {
+    "title": "myrmecological-news",
+    "permalink": "/support/docs/academic-writing/import/myrmecological-news"
+  }
+}

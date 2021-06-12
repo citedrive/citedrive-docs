@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/government-and-opposition",
+  "id": "academic-writing/citation-style/government-and-opposition",
+  "isDocsHomePage": false,
+  "title": "government-and-opposition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/government-and-opposition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/government-and-opposition",
+  "permalink": "/support/docs/academic-writing/citation-style/government-and-opposition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/government-and-opposition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "glossa",
+    "permalink": "/support/docs/academic-writing/citation-style/glossa"
+  },
+  "next": {
+    "title": "grasas-y-aceites",
+    "permalink": "/support/docs/academic-writing/citation-style/grasas-y-aceites"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+  "id": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dortmund--ag-virtual-machining-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate"
+  }
+}

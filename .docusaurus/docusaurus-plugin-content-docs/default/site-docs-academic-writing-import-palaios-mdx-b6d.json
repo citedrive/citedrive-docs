@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/palaios",
+  "id": "academic-writing/import/palaios",
+  "isDocsHomePage": false,
+  "title": "palaios",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/palaios.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/palaios",
+  "permalink": "/support/docs/academic-writing/import/palaios",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/palaios.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeovertebrata",
+    "permalink": "/support/docs/academic-writing/import/palaeovertebrata"
+  },
+  "next": {
+    "title": "paleobiology",
+    "permalink": "/support/docs/academic-writing/import/paleobiology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/microbiology-society",
+  "id": "academic-writing/import/microbiology-society",
+  "isDocsHomePage": false,
+  "title": "microbiology-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/microbiology-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/microbiology-society",
+  "permalink": "/support/docs/academic-writing/import/microbiology-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/microbiology-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microbial-drug-resistance",
+    "permalink": "/support/docs/academic-writing/import/microbial-drug-resistance"
+  },
+  "next": {
+    "title": "microscopy-and-microanalysis",
+    "permalink": "/support/docs/academic-writing/import/microscopy-and-microanalysis"
+  }
+}

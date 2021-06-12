@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/canadian-biosystems-engineering",
+  "id": "academic-writing/citation-style/canadian-biosystems-engineering",
+  "isDocsHomePage": false,
+  "title": "canadian-biosystems-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/canadian-biosystems-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/canadian-biosystems-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/canadian-biosystems-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-biosystems-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cambridge-university-press-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/cambridge-university-press-numeric"
+  },
+  "next": {
+    "title": "canadian-geotechnical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-geotechnical-journal"
+  }
+}

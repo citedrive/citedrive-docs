@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/brachytherapy",
+  "id": "academic-writing/import/brachytherapy",
+  "isDocsHomePage": false,
+  "title": "brachytherapy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/brachytherapy.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/brachytherapy",
+  "permalink": "/support/docs/academic-writing/import/brachytherapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/brachytherapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bournemouth-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/bournemouth-university--harvard"
+  },
+  "next": {
+    "title": "brain-behavior-and-evolution",
+    "permalink": "/support/docs/academic-writing/import/brain-behavior-and-evolution"
+  }
+}

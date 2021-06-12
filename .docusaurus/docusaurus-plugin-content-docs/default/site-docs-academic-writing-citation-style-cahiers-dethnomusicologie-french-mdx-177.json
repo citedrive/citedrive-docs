@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cahiers-dethnomusicologie-french",
+  "id": "academic-writing/citation-style/cahiers-dethnomusicologie-french",
+  "isDocsHomePage": false,
+  "title": "cahiers-dethnomusicologie-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cahiers-dethnomusicologie-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cahiers-dethnomusicologie-french",
+  "permalink": "/support/docs/academic-writing/citation-style/cahiers-dethnomusicologie-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cahiers-dethnomusicologie-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "byzantine-and-modern-greek-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/byzantine-and-modern-greek-studies"
+  },
+  "next": {
+    "title": "cahiers-du-centre-gustaveglotz-french",
+    "permalink": "/support/docs/academic-writing/citation-style/cahiers-du-centre-gustaveglotz-french"
+  }
+}

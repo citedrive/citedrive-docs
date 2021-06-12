@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/german-yearbook-of-international-law",
+  "id": "academic-writing/citation-style/german-yearbook-of-international-law",
+  "isDocsHomePage": false,
+  "title": "german-yearbook-of-international-law",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/german-yearbook-of-international-law.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/german-yearbook-of-international-law",
+  "permalink": "/support/docs/academic-writing/citation-style/german-yearbook-of-international-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/german-yearbook-of-international-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "german-council-of-economic-experts",
+    "permalink": "/support/docs/academic-writing/citation-style/german-council-of-economic-experts"
+  },
+  "next": {
+    "title": "gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
+    "permalink": "/support/docs/academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german"
+  }
+}

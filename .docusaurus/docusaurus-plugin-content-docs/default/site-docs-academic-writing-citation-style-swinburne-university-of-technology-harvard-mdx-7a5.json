@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/swinburne-university-of-technology--harvard",
+  "id": "academic-writing/citation-style/swinburne-university-of-technology--harvard",
+  "isDocsHomePage": false,
+  "title": "swinburne-university-of-technology--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/swinburne-university-of-technology--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/swinburne-university-of-technology--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/swinburne-university-of-technology--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/swinburne-university-of-technology--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "swedish-legal-swedish",
+    "permalink": "/support/docs/academic-writing/citation-style/swedish-legal-swedish"
+  },
+  "next": {
+    "title": "swiss-political-science-review",
+    "permalink": "/support/docs/academic-writing/citation-style/swiss-political-science-review"
+  }
+}

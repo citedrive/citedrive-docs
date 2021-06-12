@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/planning-practice-and-research",
+  "id": "academic-writing/citation-style/planning-practice-and-research",
+  "isDocsHomePage": false,
+  "title": "planning-practice-and-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/planning-practice-and-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/planning-practice-and-research",
+  "permalink": "/support/docs/academic-writing/citation-style/planning-practice-and-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/planning-practice-and-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pisa-university-press",
+    "permalink": "/support/docs/academic-writing/citation-style/pisa-university-press"
+  },
+  "next": {
+    "title": "plant-and-cell-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/plant-and-cell-physiology"
+  }
+}

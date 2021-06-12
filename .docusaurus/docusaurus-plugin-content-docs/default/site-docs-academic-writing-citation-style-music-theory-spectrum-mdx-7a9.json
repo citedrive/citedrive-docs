@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/music-theory-spectrum",
+  "id": "academic-writing/citation-style/music-theory-spectrum",
+  "isDocsHomePage": false,
+  "title": "music-theory-spectrum",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/music-theory-spectrum.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/music-theory-spectrum",
+  "permalink": "/support/docs/academic-writing/citation-style/music-theory-spectrum",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/music-theory-spectrum.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "muscle-and-nerve",
+    "permalink": "/support/docs/academic-writing/citation-style/muscle-and-nerve"
+  },
+  "next": {
+    "title": "mutagenesis",
+    "permalink": "/support/docs/academic-writing/citation-style/mutagenesis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ius-ecclesiae",
+  "id": "academic-writing/citation-style/ius-ecclesiae",
+  "isDocsHomePage": false,
+  "title": "ius-ecclesiae",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ius-ecclesiae.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ius-ecclesiae",
+  "permalink": "/support/docs/academic-writing/citation-style/ius-ecclesiae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ius-ecclesiae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iubmb-life",
+    "permalink": "/support/docs/academic-writing/citation-style/iubmb-life"
+  },
+  "next": {
+    "title": "izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish"
+  }
+}

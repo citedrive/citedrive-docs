@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/blood",
+  "id": "academic-writing/citation-style/blood",
+  "isDocsHomePage": false,
+  "title": "blood",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/blood.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/blood",
+  "permalink": "/support/docs/academic-writing/citation-style/blood",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/blood.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish"
+  },
+  "next": {
+    "title": "bluebook-inline",
+    "permalink": "/support/docs/academic-writing/citation-style/bluebook-inline"
+  }
+}

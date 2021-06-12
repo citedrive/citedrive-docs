@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-anaesthesiologica-taiwanica",
+  "id": "academic-writing/import/acta-anaesthesiologica-taiwanica",
+  "isDocsHomePage": false,
+  "title": "acta-anaesthesiologica-taiwanica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-anaesthesiologica-taiwanica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-anaesthesiologica-taiwanica",
+  "permalink": "/support/docs/academic-writing/import/acta-anaesthesiologica-taiwanica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-anaesthesiologica-taiwanica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-anaesthesiologica-scandinavica",
+    "permalink": "/support/docs/academic-writing/import/acta-anaesthesiologica-scandinavica"
+  },
+  "next": {
+    "title": "acta-botanica-croatica",
+    "permalink": "/support/docs/academic-writing/import/acta-botanica-croatica"
+  }
+}

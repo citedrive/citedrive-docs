@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/heiliger-dienst-german",
+  "id": "academic-writing/citation-style/heiliger-dienst-german",
+  "isDocsHomePage": false,
+  "title": "heiliger-dienst-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/heiliger-dienst-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/heiliger-dienst-german",
+  "permalink": "/support/docs/academic-writing/citation-style/heiliger-dienst-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/heiliger-dienst-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg",
+    "permalink": "/support/docs/academic-writing/citation-style/heidelberg-university--faculty-of-medicine-universitat-heidelberg--medizinische-fakultat-heidelberg"
+  },
+  "next": {
+    "title": "helsingin-yliopisto--teologinen-tiedekunta-finnish",
+    "permalink": "/support/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish"
+  }
+}

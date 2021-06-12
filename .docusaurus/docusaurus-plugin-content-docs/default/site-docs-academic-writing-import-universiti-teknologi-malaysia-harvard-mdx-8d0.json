@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universiti-teknologi-malaysia--harvard",
+  "id": "academic-writing/import/universiti-teknologi-malaysia--harvard",
+  "isDocsHomePage": false,
+  "title": "universiti-teknologi-malaysia--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universiti-teknologi-malaysia--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universiti-teknologi-malaysia--harvard",
+  "permalink": "/support/docs/academic-writing/import/universiti-teknologi-malaysia--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universiti-teknologi-malaysia--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universiti-kebangsaan-malaysia-malay",
+    "permalink": "/support/docs/academic-writing/import/universiti-kebangsaan-malaysia-malay"
+  },
+  "next": {
+    "title": "universiti-tunku-abdul-rahman--harvard",
+    "permalink": "/support/docs/academic-writing/import/universiti-tunku-abdul-rahman--harvard"
+  }
+}

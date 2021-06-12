@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pakistan-journal-of-agricultural-sciences",
+  "id": "academic-writing/citation-style/pakistan-journal-of-agricultural-sciences",
+  "isDocsHomePage": false,
+  "title": "pakistan-journal-of-agricultural-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pakistan-journal-of-agricultural-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pakistan-journal-of-agricultural-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/pakistan-journal-of-agricultural-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pakistan-journal-of-agricultural-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pain",
+    "permalink": "/support/docs/academic-writing/citation-style/pain"
+  },
+  "next": {
+    "title": "pakistan-veterinary-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/pakistan-veterinary-journal"
+  }
+}

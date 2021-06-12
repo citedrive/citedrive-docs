@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ius-ecclesiae",
+  "id": "academic-writing/import/ius-ecclesiae",
+  "isDocsHomePage": false,
+  "title": "ius-ecclesiae",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ius-ecclesiae.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ius-ecclesiae",
+  "permalink": "/support/docs/academic-writing/import/ius-ecclesiae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ius-ecclesiae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iubmb-life",
+    "permalink": "/support/docs/academic-writing/import/iubmb-life"
+  },
+  "next": {
+    "title": "izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/import/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish"
+  }
+}

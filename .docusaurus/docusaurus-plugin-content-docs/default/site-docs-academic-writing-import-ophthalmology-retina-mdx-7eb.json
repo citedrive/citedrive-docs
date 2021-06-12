@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ophthalmology-retina",
+  "id": "academic-writing/import/ophthalmology-retina",
+  "isDocsHomePage": false,
+  "title": "ophthalmology-retina",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ophthalmology-retina.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ophthalmology-retina",
+  "permalink": "/support/docs/academic-writing/import/ophthalmology-retina",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ophthalmology-retina.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmic-genetics",
+    "permalink": "/support/docs/academic-writing/import/ophthalmic-genetics"
+  },
+  "next": {
+    "title": "ophthalmology",
+    "permalink": "/support/docs/academic-writing/import/ophthalmology"
+  }
+}

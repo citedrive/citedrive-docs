@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard",
+  "id": "academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard",
+  "isDocsHomePage": false,
+  "title": "the-university-of-sheffield--school-of-east-asian-studies--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-university-of-sheffield--school-of-east-asian-studies--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-northampton--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-university-of-northampton--harvard"
+  },
+  "next": {
+    "title": "the-university-of-sheffield--town-and-regional-planning--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-university-of-sheffield--town-and-regional-planning--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elsevier--harvard-with-titles",
+  "id": "academic-writing/citation-style/elsevier--harvard-with-titles",
+  "isDocsHomePage": false,
+  "title": "elsevier--harvard-with-titles",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elsevier--harvard-with-titles.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elsevier--harvard-with-titles",
+  "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-with-titles",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier--harvard-with-titles.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier--harvard-2",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-2"
+  },
+  "next": {
+    "title": "elsevier--harvard-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-without-titles"
+  }
+}

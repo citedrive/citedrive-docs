@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/psychosomatic-medicine",
+  "id": "academic-writing/import/psychosomatic-medicine",
+  "isDocsHomePage": false,
+  "title": "psychosomatic-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/psychosomatic-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/psychosomatic-medicine",
+  "permalink": "/support/docs/academic-writing/import/psychosomatic-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/psychosomatic-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "psychological-medicine",
+    "permalink": "/support/docs/academic-writing/import/psychological-medicine"
+  },
+  "next": {
+    "title": "psychosomatics",
+    "permalink": "/support/docs/academic-writing/import/psychosomatics"
+  }
+}

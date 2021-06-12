@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish",
+  "id": "academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish",
+  "isDocsHomePage": false,
+  "title": "jyvaskylan-yliopisto--kemian-laitos-finnish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish",
+  "permalink": "/support/docs/academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/jyvaskylan-yliopisto--kemian-laitos-finnish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jurnal-sains-farmasi-and-klinis",
+    "permalink": "/support/docs/academic-writing/import/jurnal-sains-farmasi-and-klinis"
+  },
+  "next": {
+    "title": "karabuk-university--graduate-school-of-natural-and-applied-sciences",
+    "permalink": "/support/docs/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences"
+  }
+}

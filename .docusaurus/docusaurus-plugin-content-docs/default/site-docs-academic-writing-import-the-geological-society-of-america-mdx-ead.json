@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-geological-society-of-america",
+  "id": "academic-writing/import/the-geological-society-of-america",
+  "isDocsHomePage": false,
+  "title": "the-geological-society-of-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-geological-society-of-america.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-geological-society-of-america",
+  "permalink": "/support/docs/academic-writing/import/the-geological-society-of-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-geological-society-of-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-febs-journal",
+    "permalink": "/support/docs/academic-writing/import/the-febs-journal"
+  },
+  "next": {
+    "title": "the-geological-society-of-london",
+    "permalink": "/support/docs/academic-writing/import/the-geological-society-of-london"
+  }
+}

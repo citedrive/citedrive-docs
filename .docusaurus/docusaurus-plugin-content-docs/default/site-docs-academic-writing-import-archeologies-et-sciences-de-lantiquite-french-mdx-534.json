@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/archeologies-et-sciences-de-lantiquite-french",
+  "id": "academic-writing/import/archeologies-et-sciences-de-lantiquite-french",
+  "isDocsHomePage": false,
+  "title": "archeologies-et-sciences-de-lantiquite-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/archeologies-et-sciences-de-lantiquite-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/archeologies-et-sciences-de-lantiquite-french",
+  "permalink": "/support/docs/academic-writing/import/archeologies-et-sciences-de-lantiquite-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/archeologies-et-sciences-de-lantiquite-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeologie-medievale-french",
+    "permalink": "/support/docs/academic-writing/import/archeologie-medievale-french"
+  },
+  "next": {
+    "title": "archeosciences-french",
+    "permalink": "/support/docs/academic-writing/import/archeosciences-french"
+  }
+}

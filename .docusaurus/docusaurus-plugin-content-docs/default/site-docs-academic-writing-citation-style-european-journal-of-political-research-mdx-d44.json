@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-of-political-research",
+  "id": "academic-writing/citation-style/european-journal-of-political-research",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-political-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-of-political-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-of-political-research",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-political-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-political-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-pain",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-pain"
+  },
+  "next": {
+    "title": "european-journal-of-public-health",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-public-health"
+  }
+}

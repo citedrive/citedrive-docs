@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-journal-of-soil-science",
+  "id": "academic-writing/import/european-journal-of-soil-science",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-soil-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-journal-of-soil-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-journal-of-soil-science",
+  "permalink": "/support/docs/academic-writing/import/european-journal-of-soil-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-journal-of-soil-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-public-health",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-public-health"
+  },
+  "next": {
+    "title": "european-journal-of-taxonomy",
+    "permalink": "/support/docs/academic-writing/import/european-journal-of-taxonomy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/genome-biology-and-evolution",
+  "id": "academic-writing/import/genome-biology-and-evolution",
+  "isDocsHomePage": false,
+  "title": "genome-biology-and-evolution",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/genome-biology-and-evolution.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/genome-biology-and-evolution",
+  "permalink": "/support/docs/academic-writing/import/genome-biology-and-evolution",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/genome-biology-and-evolution.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "genetics",
+    "permalink": "/support/docs/academic-writing/import/genetics"
+  },
+  "next": {
+    "title": "genomics-and-informatics",
+    "permalink": "/support/docs/academic-writing/import/genomics-and-informatics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/mathematical-geosciences",
+  "id": "academic-writing/import/mathematical-geosciences",
+  "isDocsHomePage": false,
+  "title": "mathematical-geosciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/mathematical-geosciences.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/mathematical-geosciences",
+  "permalink": "/support/docs/academic-writing/import/mathematical-geosciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/mathematical-geosciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "materials-express",
+    "permalink": "/support/docs/academic-writing/import/materials-express"
+  },
+  "next": {
+    "title": "mathematics-and-computers-in-simulation",
+    "permalink": "/support/docs/academic-writing/import/mathematics-and-computers-in-simulation"
+  }
+}

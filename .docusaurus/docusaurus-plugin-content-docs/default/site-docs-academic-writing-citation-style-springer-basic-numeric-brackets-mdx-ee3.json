@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/springer--basic-numeric-brackets",
+  "id": "academic-writing/citation-style/springer--basic-numeric-brackets",
+  "isDocsHomePage": false,
+  "title": "springer--basic-numeric-brackets",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/springer--basic-numeric-brackets.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/springer--basic-numeric-brackets",
+  "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-numeric-brackets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-numeric-brackets-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al"
+  },
+  "next": {
+    "title": "springer--fachzeitschriften-medizin-psychologie-german",
+    "permalink": "/support/docs/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german"
+  }
+}

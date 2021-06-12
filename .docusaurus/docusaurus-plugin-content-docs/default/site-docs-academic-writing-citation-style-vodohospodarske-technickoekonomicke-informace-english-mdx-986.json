@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english",
+  "id": "academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english",
+  "isDocsHomePage": false,
+  "title": "vodohospodarske-technickoekonomicke-informace-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english",
+  "permalink": "/support/docs/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vodohospodarske-technickoekonomicke-informace-czech",
+    "permalink": "/support/docs/academic-writing/citation-style/vodohospodarske-technickoekonomicke-informace-czech"
+  },
+  "next": {
+    "title": "wader-study",
+    "permalink": "/support/docs/academic-writing/citation-style/wader-study"
+  }
+}

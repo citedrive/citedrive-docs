@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies",
+  "id": "academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies",
+  "isDocsHomePage": false,
+  "title": "humanistica-lovaniensia-journal-of-neolatin-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "human-resource-management-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/human-resource-management-journal"
+  },
+  "next": {
+    "title": "humanwildlife-interactions",
+    "permalink": "/support/docs/academic-writing/citation-style/humanwildlife-interactions"
+  }
+}

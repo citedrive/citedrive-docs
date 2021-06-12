@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/frontiers-medical-journals",
+  "id": "academic-writing/citation-style/frontiers-medical-journals",
+  "isDocsHomePage": false,
+  "title": "frontiers-medical-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/frontiers-medical-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/frontiers-medical-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/frontiers-medical-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/frontiers-medical-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-journals"
+  },
+  "next": {
+    "title": "frontiers-of-biogeography",
+    "permalink": "/support/docs/academic-writing/citation-style/frontiers-of-biogeography"
+  }
+}

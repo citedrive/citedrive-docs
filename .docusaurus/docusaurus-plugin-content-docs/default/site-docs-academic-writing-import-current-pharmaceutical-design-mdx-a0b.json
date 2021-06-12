@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/current-pharmaceutical-design",
+  "id": "academic-writing/import/current-pharmaceutical-design",
+  "isDocsHomePage": false,
+  "title": "current-pharmaceutical-design",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/current-pharmaceutical-design.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/current-pharmaceutical-design",
+  "permalink": "/support/docs/academic-writing/import/current-pharmaceutical-design",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/current-pharmaceutical-design.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-opinion-journals",
+    "permalink": "/support/docs/academic-writing/import/current-opinion-journals"
+  },
+  "next": {
+    "title": "current-proteomics",
+    "permalink": "/support/docs/academic-writing/import/current-proteomics"
+  }
+}

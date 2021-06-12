@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice",
+  "id": "academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice",
+  "isDocsHomePage": false,
+  "title": "zastosowania-komputerow-w-elektrotechnice",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice",
+  "permalink": "/support/docs/academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zastosowania-komputerow-w-elektrotechnice.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish"
+  },
+  "next": {
+    "title": "zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/zdfm--zeitschrift-fur-diversitatsforschung-und-management-german--austria"
+  }
+}

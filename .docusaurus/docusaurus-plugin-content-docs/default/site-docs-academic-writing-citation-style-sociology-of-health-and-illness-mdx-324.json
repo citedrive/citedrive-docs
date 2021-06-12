@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sociology-of-health-and-illness",
+  "id": "academic-writing/citation-style/sociology-of-health-and-illness",
+  "isDocsHomePage": false,
+  "title": "sociology-of-health-and-illness",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sociology-of-health-and-illness.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sociology-of-health-and-illness",
+  "permalink": "/support/docs/academic-writing/citation-style/sociology-of-health-and-illness",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sociology-of-health-and-illness.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "socioeconomic-review",
+    "permalink": "/support/docs/academic-writing/citation-style/socioeconomic-review"
+  },
+  "next": {
+    "title": "sodertorns-hogskola--harvard-with-ibid",
+    "permalink": "/support/docs/academic-writing/citation-style/sodertorns-hogskola--harvard-with-ibid"
+  }
+}

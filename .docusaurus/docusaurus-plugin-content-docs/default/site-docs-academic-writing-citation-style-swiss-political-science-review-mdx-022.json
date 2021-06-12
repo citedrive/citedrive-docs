@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/swiss-political-science-review",
+  "id": "academic-writing/citation-style/swiss-political-science-review",
+  "isDocsHomePage": false,
+  "title": "swiss-political-science-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/swiss-political-science-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/swiss-political-science-review",
+  "permalink": "/support/docs/academic-writing/citation-style/swiss-political-science-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/swiss-political-science-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "swinburne-university-of-technology--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/swinburne-university-of-technology--harvard"
+  },
+  "next": {
+    "title": "sylwan-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/sylwan-polish"
+  }
+}

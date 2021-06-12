@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hematologyoncology-clinics-of-north-america",
+  "id": "academic-writing/citation-style/hematologyoncology-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "hematologyoncology-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hematologyoncology-clinics-of-north-america",
+  "permalink": "/support/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "helvetica-chimica-acta",
+    "permalink": "/support/docs/academic-writing/citation-style/helvetica-chimica-acta"
+  },
+  "next": {
+    "title": "henoch",
+    "permalink": "/support/docs/academic-writing/citation-style/henoch"
+  }
+}

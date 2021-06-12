@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/xenotransplantation",
+  "id": "academic-writing/import/xenotransplantation",
+  "isDocsHomePage": false,
+  "title": "xenotransplantation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/xenotransplantation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/xenotransplantation",
+  "permalink": "/support/docs/academic-writing/import/xenotransplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/xenotransplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "worlds-poultry-science-journal",
+    "permalink": "/support/docs/academic-writing/import/worlds-poultry-science-journal"
+  },
+  "next": {
+    "title": "yeast",
+    "permalink": "/support/docs/academic-writing/import/yeast"
+  }
+}

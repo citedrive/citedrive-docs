@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/government-and-opposition",
+  "id": "academic-writing/import/government-and-opposition",
+  "isDocsHomePage": false,
+  "title": "government-and-opposition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/government-and-opposition.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/government-and-opposition",
+  "permalink": "/support/docs/academic-writing/import/government-and-opposition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/government-and-opposition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "glossa",
+    "permalink": "/support/docs/academic-writing/import/glossa"
+  },
+  "next": {
+    "title": "grasas-y-aceites",
+    "permalink": "/support/docs/academic-writing/import/grasas-y-aceites"
+  }
+}

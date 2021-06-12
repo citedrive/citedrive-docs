@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/queen-margaret-university--harvard",
+  "id": "academic-writing/citation-style/queen-margaret-university--harvard",
+  "isDocsHomePage": false,
+  "title": "queen-margaret-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/queen-margaret-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/queen-margaret-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/queen-margaret-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/queen-margaret-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quaternary-international",
+    "permalink": "/support/docs/academic-writing/citation-style/quaternary-international"
+  },
+  "next": {
+    "title": "radiochimica-acta",
+    "permalink": "/support/docs/academic-writing/citation-style/radiochimica-acta"
+  }
+}

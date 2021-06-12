@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/henoch",
+  "id": "academic-writing/citation-style/henoch",
+  "isDocsHomePage": false,
+  "title": "henoch",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/henoch.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/henoch",
+  "permalink": "/support/docs/academic-writing/citation-style/henoch",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/henoch.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hematologyoncology-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america"
+  },
+  "next": {
+    "title": "hepatology",
+    "permalink": "/support/docs/academic-writing/citation-style/hepatology"
+  }
+}

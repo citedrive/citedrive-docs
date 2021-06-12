@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/african-online-scientific-information-systems--harvard",
+  "id": "academic-writing/import/african-online-scientific-information-systems--harvard",
+  "isDocsHomePage": false,
+  "title": "african-online-scientific-information-systems--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/african-online-scientific-information-systems--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/african-online-scientific-information-systems--harvard",
+  "permalink": "/support/docs/academic-writing/import/african-online-scientific-information-systems--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/african-online-scientific-information-systems--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "african-journal-of-marine-science",
+    "permalink": "/support/docs/academic-writing/import/african-journal-of-marine-science"
+  },
+  "next": {
+    "title": "african-zoology",
+    "permalink": "/support/docs/academic-writing/import/african-zoology"
+  }
+}

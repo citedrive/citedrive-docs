@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/hochschule-bonnrheinsieg-german",
+  "id": "academic-writing/import/hochschule-bonnrheinsieg-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-bonnrheinsieg-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/hochschule-bonnrheinsieg-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/hochschule-bonnrheinsieg-german",
+  "permalink": "/support/docs/academic-writing/import/hochschule-bonnrheinsieg-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/hochschule-bonnrheinsieg-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "history-of-the-human-sciences",
+    "permalink": "/support/docs/academic-writing/import/history-of-the-human-sciences"
+  },
+  "next": {
+    "title": "hochschule-der-medien-stuttgart-german",
+    "permalink": "/support/docs/academic-writing/import/hochschule-der-medien-stuttgart-german"
+  }
+}

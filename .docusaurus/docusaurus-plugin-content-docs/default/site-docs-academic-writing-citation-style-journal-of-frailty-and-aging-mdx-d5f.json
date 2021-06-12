@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-frailty-and-aging",
+  "id": "academic-writing/citation-style/journal-of-frailty-and-aging",
+  "isDocsHomePage": false,
+  "title": "journal-of-frailty-and-aging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-frailty-and-aging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-frailty-and-aging",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-frailty-and-aging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-frailty-and-aging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-forensic-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-forensic-sciences"
+  },
+  "next": {
+    "title": "journal-of-geriatric-psychiatry-and-neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-geriatric-psychiatry-and-neurology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology",
+  "id": "academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology",
+  "isDocsHomePage": false,
+  "title": "trends-in-glycoscience-and-glycotechnology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology",
+  "permalink": "/support/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tree-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/tree-physiology"
+  },
+  "next": {
+    "title": "trends-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/trends-journals"
+  }
+}

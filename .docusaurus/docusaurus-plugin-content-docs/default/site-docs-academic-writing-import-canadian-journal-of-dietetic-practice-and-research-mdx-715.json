@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/canadian-journal-of-dietetic-practice-and-research",
+  "id": "academic-writing/import/canadian-journal-of-dietetic-practice-and-research",
+  "isDocsHomePage": false,
+  "title": "canadian-journal-of-dietetic-practice-and-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/canadian-journal-of-dietetic-practice-and-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/canadian-journal-of-dietetic-practice-and-research",
+  "permalink": "/support/docs/academic-writing/import/canadian-journal-of-dietetic-practice-and-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/canadian-journal-of-dietetic-practice-and-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-chemistry",
+    "permalink": "/support/docs/academic-writing/import/canadian-journal-of-chemistry"
+  },
+  "next": {
+    "title": "canadian-journal-of-earth-sciences",
+    "permalink": "/support/docs/academic-writing/import/canadian-journal-of-earth-sciences"
+  }
+}

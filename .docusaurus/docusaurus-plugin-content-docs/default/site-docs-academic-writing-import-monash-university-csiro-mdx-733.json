@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/monash-university--csiro",
+  "id": "academic-writing/import/monash-university--csiro",
+  "isDocsHomePage": false,
+  "title": "monash-university--csiro",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/monash-university--csiro.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/monash-university--csiro",
+  "permalink": "/support/docs/academic-writing/import/monash-university--csiro",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/monash-university--csiro.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-psychiatry",
+    "permalink": "/support/docs/academic-writing/import/molecular-psychiatry"
+  },
+  "next": {
+    "title": "monash-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/monash-university--harvard"
+  }
+}

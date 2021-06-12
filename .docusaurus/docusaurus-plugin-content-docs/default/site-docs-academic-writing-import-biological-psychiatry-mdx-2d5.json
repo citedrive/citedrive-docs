@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biological-psychiatry",
+  "id": "academic-writing/import/biological-psychiatry",
+  "isDocsHomePage": false,
+  "title": "biological-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biological-psychiatry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biological-psychiatry",
+  "permalink": "/support/docs/academic-writing/import/biological-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biological-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biological-and-pharmaceutical-bulletin",
+    "permalink": "/support/docs/academic-writing/import/biological-and-pharmaceutical-bulletin"
+  },
+  "next": {
+    "title": "biological-reviews",
+    "permalink": "/support/docs/academic-writing/import/biological-reviews"
+  }
+}

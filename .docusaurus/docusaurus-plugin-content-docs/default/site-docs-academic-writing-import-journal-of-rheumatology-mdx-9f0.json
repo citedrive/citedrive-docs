@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-rheumatology",
+  "id": "academic-writing/import/journal-of-rheumatology",
+  "isDocsHomePage": false,
+  "title": "journal-of-rheumatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-rheumatology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-rheumatology",
+  "permalink": "/support/docs/academic-writing/import/journal-of-rheumatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-rheumatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-retailing",
+    "permalink": "/support/docs/academic-writing/import/journal-of-retailing"
+  },
+  "next": {
+    "title": "journal-of-roman-archaeology-a",
+    "permalink": "/support/docs/academic-writing/import/journal-of-roman-archaeology-a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/historiascribere-german",
+  "id": "academic-writing/citation-style/historiascribere-german",
+  "isDocsHomePage": false,
+  "title": "historiascribere-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/historiascribere-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/historiascribere-german",
+  "permalink": "/support/docs/academic-writing/citation-style/historiascribere-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/historiascribere-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "histopathology",
+    "permalink": "/support/docs/academic-writing/citation-style/histopathology"
+  },
+  "next": {
+    "title": "historical-materialism",
+    "permalink": "/support/docs/academic-writing/citation-style/historical-materialism"
+  }
+}

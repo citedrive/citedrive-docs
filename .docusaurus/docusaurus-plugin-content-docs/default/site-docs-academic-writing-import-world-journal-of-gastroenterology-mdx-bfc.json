@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/world-journal-of-gastroenterology",
+  "id": "academic-writing/import/world-journal-of-gastroenterology",
+  "isDocsHomePage": false,
+  "title": "world-journal-of-gastroenterology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/world-journal-of-gastroenterology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/world-journal-of-gastroenterology",
+  "permalink": "/support/docs/academic-writing/import/world-journal-of-gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/world-journal-of-gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "world-congress-on-engineering-asset-management-2010",
+    "permalink": "/support/docs/academic-writing/import/world-congress-on-engineering-asset-management-2010"
+  },
+  "next": {
+    "title": "world-journal-of-hepatology",
+    "permalink": "/support/docs/academic-writing/import/world-journal-of-hepatology"
+  }
+}

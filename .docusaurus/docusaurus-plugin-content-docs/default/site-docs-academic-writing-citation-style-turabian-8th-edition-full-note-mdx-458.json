@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/turabian-8th-edition-full-note",
+  "id": "academic-writing/citation-style/turabian-8th-edition-full-note",
+  "isDocsHomePage": false,
+  "title": "turabian-8th-edition-full-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/turabian-8th-edition-full-note.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/turabian-8th-edition-full-note",
+  "permalink": "/support/docs/academic-writing/citation-style/turabian-8th-edition-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/turabian-8th-edition-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish"
+  },
+  "next": {
+    "title": "turabian-9th-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/turabian-9th-edition-authordate"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-integrated-omics",
+  "id": "academic-writing/citation-style/journal-of-integrated-omics",
+  "isDocsHomePage": false,
+  "title": "journal-of-integrated-omics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-integrated-omics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-integrated-omics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-integrated-omics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-integrated-omics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-instrumentation",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-instrumentation"
+  },
+  "next": {
+    "title": "journal-of-interactive-marketing",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-interactive-marketing"
+  }
+}

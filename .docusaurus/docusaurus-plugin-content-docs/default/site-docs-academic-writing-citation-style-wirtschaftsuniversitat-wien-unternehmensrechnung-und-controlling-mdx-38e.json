@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+  "id": "academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+  "isDocsHomePage": false,
+  "title": "wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+  "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria"
+  },
+  "next": {
+    "title": "wirtschaftsuniversitat-wien--wirtschaftspadagogik-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--wirtschaftspadagogik-german--austria"
+  }
+}

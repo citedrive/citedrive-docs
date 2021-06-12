@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/haute-ecole-pedagogique-fribourg-french",
+  "id": "academic-writing/import/haute-ecole-pedagogique-fribourg-french",
+  "isDocsHomePage": false,
+  "title": "haute-ecole-pedagogique-fribourg-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/haute-ecole-pedagogique-fribourg-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/haute-ecole-pedagogique-fribourg-french",
+  "permalink": "/support/docs/academic-writing/import/haute-ecole-pedagogique-fribourg-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/haute-ecole-pedagogique-fribourg-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "haute-ecole-de-gestion-de-geneve--iso690-english",
+    "permalink": "/support/docs/academic-writing/import/haute-ecole-de-gestion-de-geneve--iso690-english"
+  },
+  "next": {
+    "title": "hawaii-international-conference-on-system-sciences-proceedings",
+    "permalink": "/support/docs/academic-writing/import/hawaii-international-conference-on-system-sciences-proceedings"
+  }
+}

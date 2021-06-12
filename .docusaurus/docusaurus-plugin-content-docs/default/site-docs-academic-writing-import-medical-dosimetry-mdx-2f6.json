@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/medical-dosimetry",
+  "id": "academic-writing/import/medical-dosimetry",
+  "isDocsHomePage": false,
+  "title": "medical-dosimetry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/medical-dosimetry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/medical-dosimetry",
+  "permalink": "/support/docs/academic-writing/import/medical-dosimetry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/medical-dosimetry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mediaeval-studies",
+    "permalink": "/support/docs/academic-writing/import/mediaeval-studies"
+  },
+  "next": {
+    "title": "medical-history",
+    "permalink": "/support/docs/academic-writing/import/medical-history"
+  }
+}

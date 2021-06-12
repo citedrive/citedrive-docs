@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
+  "id": "academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
+  "isDocsHomePage": false,
+  "title": "international-journal-for-numerical-methods-in-biomedical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+    "permalink": "/support/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws"
+  },
+  "next": {
+    "title": "international-journal-of-audiology",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-audiology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-computational-chemistry",
+  "id": "academic-writing/citation-style/journal-of-computational-chemistry",
+  "isDocsHomePage": false,
+  "title": "journal-of-computational-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-computational-chemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-computational-chemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-computational-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-computational-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-comparative-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-comparative-pathology"
+  },
+  "next": {
+    "title": "journal-of-computer-applications-in-archaeology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-computer-applications-in-archaeology"
+  }
+}

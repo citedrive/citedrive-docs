@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/tsaqafah",
+  "id": "academic-writing/import/tsaqafah",
+  "isDocsHomePage": false,
+  "title": "tsaqafah",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/tsaqafah.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/tsaqafah",
+  "permalink": "/support/docs/academic-writing/import/tsaqafah",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/tsaqafah.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tropical-animal-health-and-production",
+    "permalink": "/support/docs/academic-writing/import/tropical-animal-health-and-production"
+  },
+  "next": {
+    "title": "tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
+    "permalink": "/support/docs/academic-writing/import/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish"
+  }
+}

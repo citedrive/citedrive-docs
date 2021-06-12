@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jacc-cardiovascular-imaging",
+  "id": "academic-writing/citation-style/jacc-cardiovascular-imaging",
+  "isDocsHomePage": false,
+  "title": "jacc-cardiovascular-imaging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jacc-cardiovascular-imaging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jacc-cardiovascular-imaging",
+  "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-imaging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jacc-cardiovascular-imaging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish"
+  },
+  "next": {
+    "title": "jacc-cardiovascular-interventions",
+    "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-interventions"
+  }
+}

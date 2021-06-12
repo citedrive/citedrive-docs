@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-york--harvard--archaeology",
+  "id": "academic-writing/citation-style/university-of-york--harvard--archaeology",
+  "isDocsHomePage": false,
+  "title": "university-of-york--harvard--archaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-york--harvard--archaeology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-york--harvard--archaeology",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard--archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--harvard--archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--chicago-manual-of-style-16th-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--chicago-manual-of-style-16th-edition"
+  },
+  "next": {
+    "title": "university-of-york--harvard--environment",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard--environment"
+  }
+}

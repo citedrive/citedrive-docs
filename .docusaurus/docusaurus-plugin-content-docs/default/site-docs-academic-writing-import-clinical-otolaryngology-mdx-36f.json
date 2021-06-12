@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-otolaryngology",
+  "id": "academic-writing/import/clinical-otolaryngology",
+  "isDocsHomePage": false,
+  "title": "clinical-otolaryngology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-otolaryngology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-otolaryngology",
+  "permalink": "/support/docs/academic-writing/import/clinical-otolaryngology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-otolaryngology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-orthopaedics-and-related-research",
+    "permalink": "/support/docs/academic-writing/import/clinical-orthopaedics-and-related-research"
+  },
+  "next": {
+    "title": "clinical-pharmacology-and-therapeutics",
+    "permalink": "/support/docs/academic-writing/import/clinical-pharmacology-and-therapeutics"
+  }
+}

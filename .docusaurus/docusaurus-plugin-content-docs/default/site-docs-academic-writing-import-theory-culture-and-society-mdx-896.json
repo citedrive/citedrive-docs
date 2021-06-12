@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/theory-culture-and-society",
+  "id": "academic-writing/import/theory-culture-and-society",
+  "isDocsHomePage": false,
+  "title": "theory-culture-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/theory-culture-and-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/theory-culture-and-society",
+  "permalink": "/support/docs/academic-writing/import/theory-culture-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/theory-culture-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "theologisches-seminar-adelshofen--harvard-german",
+    "permalink": "/support/docs/academic-writing/import/theologisches-seminar-adelshofen--harvard-german"
+  },
+  "next": {
+    "title": "theranostics",
+    "permalink": "/support/docs/academic-writing/import/theranostics"
+  }
+}

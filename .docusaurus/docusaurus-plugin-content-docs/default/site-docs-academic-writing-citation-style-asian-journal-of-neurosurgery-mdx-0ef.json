@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/asian-journal-of-neurosurgery",
+  "id": "academic-writing/citation-style/asian-journal-of-neurosurgery",
+  "isDocsHomePage": false,
+  "title": "asian-journal-of-neurosurgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/asian-journal-of-neurosurgery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/asian-journal-of-neurosurgery",
+  "permalink": "/support/docs/academic-writing/citation-style/asian-journal-of-neurosurgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asian-journal-of-neurosurgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "asia-pacific-journal-of-human-resources",
+    "permalink": "/support/docs/academic-writing/citation-style/asia-pacific-journal-of-human-resources"
+  },
+  "next": {
+    "title": "asian-studies-review",
+    "permalink": "/support/docs/academic-writing/citation-style/asian-studies-review"
+  }
+}

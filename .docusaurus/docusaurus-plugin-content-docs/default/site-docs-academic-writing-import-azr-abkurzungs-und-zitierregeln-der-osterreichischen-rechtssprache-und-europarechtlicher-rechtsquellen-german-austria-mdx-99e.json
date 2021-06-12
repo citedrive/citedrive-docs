@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+  "id": "academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+  "isDocsHomePage": false,
+  "title": "azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+  "permalink": "/support/docs/academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ayer-spanish",
+    "permalink": "/support/docs/academic-writing/import/ayer-spanish"
+  },
+  "next": {
+    "title": "babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+    "permalink": "/support/docs/academic-writing/import/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian"
+  }
+}

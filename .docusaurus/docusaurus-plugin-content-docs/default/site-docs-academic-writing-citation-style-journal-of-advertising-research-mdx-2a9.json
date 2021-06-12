@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-advertising-research",
+  "id": "academic-writing/citation-style/journal-of-advertising-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-advertising-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-advertising-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-advertising-research",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-advertising-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-advertising-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-adolescent-health",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-adolescent-health"
+  },
+  "next": {
+    "title": "journal-of-aerosol-medicine-and-pulmonary-drug-delivery",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-aerosol-medicine-and-pulmonary-drug-delivery"
+  }
+}

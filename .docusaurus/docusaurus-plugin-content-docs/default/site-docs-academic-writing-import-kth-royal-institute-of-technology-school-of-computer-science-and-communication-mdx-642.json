@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+  "id": "academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+  "isDocsHomePage": false,
+  "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+  "permalink": "/support/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+    "permalink": "/support/docs/academic-writing/import/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish"
+  },
+  "next": {
+    "title": "kunstakademie-munster-german",
+    "permalink": "/support/docs/academic-writing/import/kunstakademie-munster-german"
+  }
+}

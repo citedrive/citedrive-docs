@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-indian-law-institute",
+  "id": "academic-writing/citation-style/journal-of-the-indian-law-institute",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-indian-law-institute",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-indian-law-institute.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-indian-law-institute",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-indian-law-institute",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-indian-law-institute.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-european-academy-of-dermatology-and-venereology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology"
+  },
+  "next": {
+    "title": "journal-of-the-korean-society-of-civil-engineers",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers"
+  }
+}

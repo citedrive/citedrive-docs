@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french",
+  "id": "academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french",
+  "isDocsHomePage": false,
+  "title": "vingtieme-siecle-revue-dhistoire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french",
+  "permalink": "/support/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vigiliae-christianae",
+    "permalink": "/support/docs/academic-writing/citation-style/vigiliae-christianae"
+  },
+  "next": {
+    "title": "vita-latina-auteurs-anciens-french",
+    "permalink": "/support/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-oral-implants-research",
+  "id": "academic-writing/import/clinical-oral-implants-research",
+  "isDocsHomePage": false,
+  "title": "clinical-oral-implants-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-oral-implants-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-oral-implants-research",
+  "permalink": "/support/docs/academic-writing/import/clinical-oral-implants-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-oral-implants-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-nuclear-medicine",
+    "permalink": "/support/docs/academic-writing/import/clinical-nuclear-medicine"
+  },
+  "next": {
+    "title": "clinical-orthopaedics-and-related-research",
+    "permalink": "/support/docs/academic-writing/import/clinical-orthopaedics-and-related-research"
+  }
+}

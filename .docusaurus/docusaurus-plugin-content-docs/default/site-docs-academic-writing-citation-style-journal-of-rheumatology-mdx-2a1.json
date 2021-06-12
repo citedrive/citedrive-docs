@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-rheumatology",
+  "id": "academic-writing/citation-style/journal-of-rheumatology",
+  "isDocsHomePage": false,
+  "title": "journal-of-rheumatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-rheumatology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-rheumatology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-rheumatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-rheumatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-retailing",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-retailing"
+  },
+  "next": {
+    "title": "journal-of-roman-archaeology-a",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/organic-geochemistry",
+  "id": "academic-writing/import/organic-geochemistry",
+  "isDocsHomePage": false,
+  "title": "organic-geochemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/organic-geochemistry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/organic-geochemistry",
+  "permalink": "/support/docs/academic-writing/import/organic-geochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/organic-geochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oral-diseases",
+    "permalink": "/support/docs/academic-writing/import/oral-diseases"
+  },
+  "next": {
+    "title": "organised-sound",
+    "permalink": "/support/docs/academic-writing/import/organised-sound"
+  }
+}

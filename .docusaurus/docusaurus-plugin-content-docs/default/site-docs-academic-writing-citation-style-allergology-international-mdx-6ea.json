@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/allergology-international",
+  "id": "academic-writing/citation-style/allergology-international",
+  "isDocsHomePage": false,
+  "title": "allergology-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/allergology-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/allergology-international",
+  "permalink": "/support/docs/academic-writing/citation-style/allergology-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/allergology-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alkoholizmus-a-drogove-zavislosti",
+    "permalink": "/support/docs/academic-writing/citation-style/alkoholizmus-a-drogove-zavislosti"
+  },
+  "next": {
+    "title": "allergy",
+    "permalink": "/support/docs/academic-writing/citation-style/allergy"
+  }
+}

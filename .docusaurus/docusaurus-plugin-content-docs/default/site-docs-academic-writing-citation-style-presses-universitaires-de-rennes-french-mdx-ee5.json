@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/presses-universitaires-de-rennes-french",
+  "id": "academic-writing/citation-style/presses-universitaires-de-rennes-french",
+  "isDocsHomePage": false,
+  "title": "presses-universitaires-de-rennes-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/presses-universitaires-de-rennes-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/presses-universitaires-de-rennes-french",
+  "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/presses-universitaires-de-rennes-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "presses-universitaires-de-rennes--archeologie-et-culture-french",
+    "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french"
+  },
+  "next": {
+    "title": "presses-universitaires-de-strasbourg-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french"
+  }
+}

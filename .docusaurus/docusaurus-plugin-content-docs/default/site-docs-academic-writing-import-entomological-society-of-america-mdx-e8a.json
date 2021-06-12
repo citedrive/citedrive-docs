@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/entomological-society-of-america",
+  "id": "academic-writing/import/entomological-society-of-america",
+  "isDocsHomePage": false,
+  "title": "entomological-society-of-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/entomological-society-of-america.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/entomological-society-of-america",
+  "permalink": "/support/docs/academic-writing/import/entomological-society-of-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/entomological-society-of-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "entomologia-experimentalis-et-applicata",
+    "permalink": "/support/docs/academic-writing/import/entomologia-experimentalis-et-applicata"
+  },
+  "next": {
+    "title": "environment-and-planning",
+    "permalink": "/support/docs/academic-writing/import/environment-and-planning"
+  }
+}

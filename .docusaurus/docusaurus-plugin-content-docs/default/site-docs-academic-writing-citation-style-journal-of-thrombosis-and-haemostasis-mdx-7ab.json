@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
+  "id": "academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
+  "isDocsHomePage": false,
+  "title": "journal-of-thrombosis-and-haemostasis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-threatened-taxa",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-threatened-taxa"
+  },
+  "next": {
+    "title": "journal-of-tropical-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-ecology"
+  }
+}

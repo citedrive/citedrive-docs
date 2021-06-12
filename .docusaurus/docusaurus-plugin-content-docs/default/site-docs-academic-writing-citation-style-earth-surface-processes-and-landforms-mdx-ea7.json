@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/earth-surface-processes-and-landforms",
+  "id": "academic-writing/citation-style/earth-surface-processes-and-landforms",
+  "isDocsHomePage": false,
+  "title": "earth-surface-processes-and-landforms",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/earth-surface-processes-and-landforms.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/earth-surface-processes-and-landforms",
+  "permalink": "/support/docs/academic-writing/citation-style/earth-surface-processes-and-landforms",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/earth-surface-processes-and-landforms.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "early-medieval-europe",
+    "permalink": "/support/docs/academic-writing/citation-style/early-medieval-europe"
+  },
+  "next": {
+    "title": "earthquake-engineering-and-structural-dynamics",
+    "permalink": "/support/docs/academic-writing/citation-style/earthquake-engineering-and-structural-dynamics"
+  }
+}

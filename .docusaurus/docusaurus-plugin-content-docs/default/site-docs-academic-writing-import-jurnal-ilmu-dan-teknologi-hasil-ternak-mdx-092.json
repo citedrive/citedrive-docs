@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak",
+  "id": "academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak",
+  "isDocsHomePage": false,
+  "title": "jurnal-ilmu-dan-teknologi-hasil-ternak",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak",
+  "permalink": "/support/docs/academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/jurnal-ilmu-dan-teknologi-hasil-ternak.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "juristische-zitierweise-stuber-german",
+    "permalink": "/support/docs/academic-writing/import/juristische-zitierweise-stuber-german"
+  },
+  "next": {
+    "title": "jurnal-pangan-dan-agroindustri-indonesian",
+    "permalink": "/support/docs/academic-writing/import/jurnal-pangan-dan-agroindustri-indonesian"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-journal-of-lexicography",
+  "id": "academic-writing/citation-style/international-journal-of-lexicography",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-lexicography",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-journal-of-lexicography.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-journal-of-lexicography",
+  "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-lexicography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-lexicography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-language-and-communication-disorders",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-language-and-communication-disorders"
+  },
+  "next": {
+    "title": "international-journal-of-management-reviews",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-management-reviews"
+  }
+}

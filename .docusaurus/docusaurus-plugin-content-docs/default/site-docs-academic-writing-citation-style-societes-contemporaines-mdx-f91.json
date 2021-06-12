@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/societes-contemporaines",
+  "id": "academic-writing/citation-style/societes-contemporaines",
+  "isDocsHomePage": false,
+  "title": "societes-contemporaines",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/societes-contemporaines.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/societes-contemporaines",
+  "permalink": "/support/docs/academic-writing/citation-style/societes-contemporaines",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/societes-contemporaines.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "societe-nationale-des-groupements-techniques-veterinaires-french",
+    "permalink": "/support/docs/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french"
+  },
+  "next": {
+    "title": "society-for-american-archaeology",
+    "permalink": "/support/docs/academic-writing/citation-style/society-for-american-archaeology"
+  }
+}

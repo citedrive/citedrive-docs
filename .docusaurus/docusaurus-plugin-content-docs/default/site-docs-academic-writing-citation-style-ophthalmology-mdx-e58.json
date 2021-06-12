@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ophthalmology",
+  "id": "academic-writing/citation-style/ophthalmology",
+  "isDocsHomePage": false,
+  "title": "ophthalmology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ophthalmology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ophthalmology",
+  "permalink": "/support/docs/academic-writing/citation-style/ophthalmology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ophthalmology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmology-retina",
+    "permalink": "/support/docs/academic-writing/citation-style/ophthalmology-retina"
+  },
+  "next": {
+    "title": "optics-express",
+    "permalink": "/support/docs/academic-writing/citation-style/optics-express"
+  }
+}

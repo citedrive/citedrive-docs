@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-febs-journal",
+  "id": "academic-writing/citation-style/the-febs-journal",
+  "isDocsHomePage": false,
+  "title": "the-febs-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-febs-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-febs-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-febs-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-febs-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-faseb-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-faseb-journal"
+  },
+  "next": {
+    "title": "the-geological-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/the-geological-society-of-america"
+  }
+}

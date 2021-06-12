@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ie-comunicaciones",
+  "id": "academic-writing/citation-style/ie-comunicaciones",
+  "isDocsHomePage": false,
+  "title": "ie-comunicaciones",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ie-comunicaciones.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ie-comunicaciones",
+  "permalink": "/support/docs/academic-writing/citation-style/ie-comunicaciones",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ie-comunicaciones.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+    "permalink": "/support/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service"
+  },
+  "next": {
+    "title": "ieee-transactions-on-medical-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/ieee-transactions-on-medical-imaging"
+  }
+}

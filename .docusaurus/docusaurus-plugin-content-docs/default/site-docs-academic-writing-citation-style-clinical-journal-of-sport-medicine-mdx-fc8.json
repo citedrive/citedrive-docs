@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-journal-of-sport-medicine",
+  "id": "academic-writing/citation-style/clinical-journal-of-sport-medicine",
+  "isDocsHomePage": false,
+  "title": "clinical-journal-of-sport-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-journal-of-sport-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-journal-of-sport-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-journal-of-sport-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-journal-of-sport-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-infectious-diseases",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-infectious-diseases"
+  },
+  "next": {
+    "title": "clinical-journal-of-the-american-society-of-nephrology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology"
+  }
+}

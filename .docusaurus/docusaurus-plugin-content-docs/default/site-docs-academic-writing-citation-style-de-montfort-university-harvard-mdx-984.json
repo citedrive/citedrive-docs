@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/de-montfort-university--harvard",
+  "id": "academic-writing/citation-style/de-montfort-university--harvard",
+  "isDocsHomePage": false,
+  "title": "de-montfort-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/de-montfort-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/de-montfort-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/de-montfort-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/de-montfort-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "database",
+    "permalink": "/support/docs/academic-writing/citation-style/database"
+  },
+  "next": {
+    "title": "deakin-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/deakin-university--harvard"
+  }
+}

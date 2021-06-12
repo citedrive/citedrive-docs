@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-american-journal-of-cardiology",
+  "id": "academic-writing/import/the-american-journal-of-cardiology",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-cardiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-american-journal-of-cardiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-american-journal-of-cardiology",
+  "permalink": "/support/docs/academic-writing/import/the-american-journal-of-cardiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-american-journal-of-cardiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-bioethics",
+    "permalink": "/support/docs/academic-writing/import/the-american-journal-of-bioethics"
+  },
+  "next": {
+    "title": "the-american-journal-of-gastroenterology",
+    "permalink": "/support/docs/academic-writing/import/the-american-journal-of-gastroenterology"
+  }
+}

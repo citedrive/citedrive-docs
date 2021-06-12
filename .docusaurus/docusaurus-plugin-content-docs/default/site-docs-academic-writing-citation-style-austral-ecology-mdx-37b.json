@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/austral-ecology",
+  "id": "academic-writing/citation-style/austral-ecology",
+  "isDocsHomePage": false,
+  "title": "austral-ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/austral-ecology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/austral-ecology",
+  "permalink": "/support/docs/academic-writing/citation-style/austral-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/austral-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ausonius-editions-french",
+    "permalink": "/support/docs/academic-writing/citation-style/ausonius-editions-french"
+  },
+  "next": {
+    "title": "austral-entomology",
+    "permalink": "/support/docs/academic-writing/citation-style/austral-entomology"
+  }
+}

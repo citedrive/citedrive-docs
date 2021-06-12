@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cranfield-university-numeric",
+  "id": "academic-writing/import/cranfield-university-numeric",
+  "isDocsHomePage": false,
+  "title": "cranfield-university-numeric",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cranfield-university-numeric.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cranfield-university-numeric",
+  "permalink": "/support/docs/academic-writing/import/cranfield-university-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cranfield-university-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cranfield-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/cranfield-university--harvard"
+  },
+  "next": {
+    "title": "creativity-and-innovation-management",
+    "permalink": "/support/docs/academic-writing/import/creativity-and-innovation-management"
+  }
+}

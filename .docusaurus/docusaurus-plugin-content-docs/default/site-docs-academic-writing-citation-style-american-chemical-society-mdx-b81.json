@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-chemical-society",
+  "id": "academic-writing/citation-style/american-chemical-society",
+  "isDocsHomePage": false,
+  "title": "american-chemical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-chemical-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-chemical-society",
+  "permalink": "/support/docs/academic-writing/citation-style/american-chemical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-chemical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-association-of-petroleum-geologists",
+    "permalink": "/support/docs/academic-writing/citation-style/american-association-of-petroleum-geologists"
+  },
+  "next": {
+    "title": "american-fisheries-society",
+    "permalink": "/support/docs/academic-writing/citation-style/american-fisheries-society"
+  }
+}

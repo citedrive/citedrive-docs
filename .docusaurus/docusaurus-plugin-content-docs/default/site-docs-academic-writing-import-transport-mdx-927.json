@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/transport",
+  "id": "academic-writing/import/transport",
+  "isDocsHomePage": false,
+  "title": "transport",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/transport.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/transport",
+  "permalink": "/support/docs/academic-writing/import/transport",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/transport.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transplantation",
+    "permalink": "/support/docs/academic-writing/import/transplantation"
+  },
+  "next": {
+    "title": "transportation-research-record-journal-of-the-transportation-research-board",
+    "permalink": "/support/docs/academic-writing/import/transportation-research-record-journal-of-the-transportation-research-board"
+  }
+}

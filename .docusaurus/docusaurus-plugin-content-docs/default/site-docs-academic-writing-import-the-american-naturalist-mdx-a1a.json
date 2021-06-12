@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-american-naturalist",
+  "id": "academic-writing/import/the-american-naturalist",
+  "isDocsHomePage": false,
+  "title": "the-american-naturalist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-american-naturalist.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-american-naturalist",
+  "permalink": "/support/docs/academic-writing/import/the-american-naturalist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-american-naturalist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-midland-naturalist",
+    "permalink": "/support/docs/academic-writing/import/the-american-midland-naturalist"
+  },
+  "next": {
+    "title": "the-astrophysical-journal",
+    "permalink": "/support/docs/academic-writing/import/the-astrophysical-journal"
+  }
+}

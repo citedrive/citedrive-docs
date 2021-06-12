@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+  "id": "academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+  "isDocsHomePage": false,
+  "title": "acta-pharmaceutica-sinica-b",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-palaeontologica-polonica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica"
+  },
+  "next": {
+    "title": "acta-pharmaceutica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica"
+  }
+}

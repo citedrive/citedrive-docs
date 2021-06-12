@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bioarchaeology-of-the-near-east",
+  "id": "academic-writing/citation-style/bioarchaeology-of-the-near-east",
+  "isDocsHomePage": false,
+  "title": "bioarchaeology-of-the-near-east",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bioarchaeology-of-the-near-east",
+  "permalink": "/support/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioarchaeology-international",
+    "permalink": "/support/docs/academic-writing/citation-style/bioarchaeology-international"
+  },
+  "next": {
+    "title": "biochemical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/biochemical-journal"
+  }
+}

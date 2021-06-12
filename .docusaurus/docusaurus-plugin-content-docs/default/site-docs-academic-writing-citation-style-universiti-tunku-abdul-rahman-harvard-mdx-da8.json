@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard",
+  "id": "academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard",
+  "isDocsHomePage": false,
+  "title": "universiti-tunku-abdul-rahman--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universiti-teknologi-malaysia--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/universiti-teknologi-malaysia--harvard"
+  },
+  "next": {
+    "title": "university-college-dublin--school-of-history-and-archives",
+    "permalink": "/support/docs/academic-writing/citation-style/university-college-dublin--school-of-history-and-archives"
+  }
+}

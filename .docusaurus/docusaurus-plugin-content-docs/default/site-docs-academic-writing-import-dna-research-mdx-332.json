@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/dna-research",
+  "id": "academic-writing/import/dna-research",
+  "isDocsHomePage": false,
+  "title": "dna-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/dna-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/dna-research",
+  "permalink": "/support/docs/academic-writing/import/dna-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/dna-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "discovery-medicine",
+    "permalink": "/support/docs/academic-writing/import/discovery-medicine"
+  },
+  "next": {
+    "title": "documents-darcheologie-francaise-french",
+    "permalink": "/support/docs/academic-writing/import/documents-darcheologie-francaise-french"
+  }
+}

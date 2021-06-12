@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+  "id": "academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+  "isDocsHomePage": false,
+  "title": "universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+  "permalink": "/support/docs/academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidad-evangelica-del-paraguay-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/universidad-evangelica-del-paraguay-spanish"
+  },
+  "next": {
+    "title": "universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
+    "permalink": "/support/docs/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica"
+  }
+}

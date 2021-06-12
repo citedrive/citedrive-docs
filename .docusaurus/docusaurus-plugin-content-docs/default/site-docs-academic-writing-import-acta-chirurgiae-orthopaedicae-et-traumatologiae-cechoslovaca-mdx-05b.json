@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "id": "academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "isDocsHomePage": false,
+  "title": "acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "permalink": "/support/docs/academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-chiropterologica",
+    "permalink": "/support/docs/academic-writing/import/acta-chiropterologica"
+  },
+  "next": {
+    "title": "acta-ichthyologica-et-piscatoria",
+    "permalink": "/support/docs/academic-writing/import/acta-ichthyologica-et-piscatoria"
+  }
+}

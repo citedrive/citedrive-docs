@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geobiology",
+  "id": "academic-writing/citation-style/geobiology",
+  "isDocsHomePage": false,
+  "title": "geobiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geobiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geobiology",
+  "permalink": "/support/docs/academic-writing/citation-style/geobiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geobiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geoarchaeology",
+    "permalink": "/support/docs/academic-writing/citation-style/geoarchaeology"
+  },
+  "next": {
+    "title": "geochemical-perspectives-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/geochemical-perspectives-letters"
+  }
+}

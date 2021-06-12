@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/wetlands",
+  "id": "academic-writing/import/wetlands",
+  "isDocsHomePage": false,
+  "title": "wetlands",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/wetlands.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/wetlands",
+  "permalink": "/support/docs/academic-writing/import/wetlands",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/wetlands.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "westfalische-wilhelmsuniversitat-munster--medizinische-fakultat-german",
+    "permalink": "/support/docs/academic-writing/import/westfalische-wilhelmsuniversitat-munster--medizinische-fakultat-german"
+  },
+  "next": {
+    "title": "wheaton-college--phd-in-biblical-and-theological-studies",
+    "permalink": "/support/docs/academic-writing/import/wheaton-college--phd-in-biblical-and-theological-studies"
+  }
+}

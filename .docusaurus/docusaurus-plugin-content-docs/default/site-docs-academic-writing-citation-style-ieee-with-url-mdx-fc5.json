@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ieee-with-url",
+  "id": "academic-writing/citation-style/ieee-with-url",
+  "isDocsHomePage": false,
+  "title": "ieee-with-url",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ieee-with-url.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ieee-with-url",
+  "permalink": "/support/docs/academic-writing/citation-style/ieee-with-url",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ieee-with-url.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-transactions-on-medical-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/ieee-transactions-on-medical-imaging"
+  },
+  "next": {
+    "title": "ieee",
+    "permalink": "/support/docs/academic-writing/citation-style/ieee"
+  }
+}

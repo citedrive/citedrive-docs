@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada",
+  "id": "academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-laval--departement-dinformation-et-de-communication-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada",
+  "permalink": "/support/docs/academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universite-laval--departement-dinformation-et-de-communication-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-laval--departement-des-sciences-historiques-french--canada",
+    "permalink": "/support/docs/academic-writing/import/universite-laval--departement-des-sciences-historiques-french--canada"
+  },
+  "next": {
+    "title": "universite-laval--faculte-de-theologie-et-de-sciences-religieuses-french--canada",
+    "permalink": "/support/docs/academic-writing/import/universite-laval--faculte-de-theologie-et-de-sciences-religieuses-french--canada"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/chest",
+  "id": "academic-writing/import/chest",
+  "isDocsHomePage": false,
+  "title": "chest",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/chest.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/chest",
+  "permalink": "/support/docs/academic-writing/import/chest",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/chest.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemistry-education-research-and-practice",
+    "permalink": "/support/docs/academic-writing/import/chemistry-education-research-and-practice"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+    "permalink": "/support/docs/academic-writing/import/chicago-manual-of-style-16th-edition-authordate-basque"
+  }
+}

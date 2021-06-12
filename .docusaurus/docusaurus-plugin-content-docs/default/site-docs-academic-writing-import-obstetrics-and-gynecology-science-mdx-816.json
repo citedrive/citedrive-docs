@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/obstetrics-and-gynecology-science",
+  "id": "academic-writing/import/obstetrics-and-gynecology-science",
+  "isDocsHomePage": false,
+  "title": "obstetrics-and-gynecology-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/obstetrics-and-gynecology-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/obstetrics-and-gynecology-science",
+  "permalink": "/support/docs/academic-writing/import/obstetrics-and-gynecology-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/obstetrics-and-gynecology-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obesity",
+    "permalink": "/support/docs/academic-writing/import/obesity"
+  },
+  "next": {
+    "title": "occupational-medicine",
+    "permalink": "/support/docs/academic-writing/import/occupational-medicine"
+  }
+}

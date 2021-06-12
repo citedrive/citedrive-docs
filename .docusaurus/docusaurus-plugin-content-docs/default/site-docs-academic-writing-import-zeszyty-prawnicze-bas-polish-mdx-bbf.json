@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeszyty-prawnicze-bas-polish",
+  "id": "academic-writing/import/zeszyty-prawnicze-bas-polish",
+  "isDocsHomePage": false,
+  "title": "zeszyty-prawnicze-bas-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeszyty-prawnicze-bas-polish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeszyty-prawnicze-bas-polish",
+  "permalink": "/support/docs/academic-writing/import/zeszyty-prawnicze-bas-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeszyty-prawnicze-bas-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-zahnarztliche-implantologie-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german"
+  },
+  "next": {
+    "title": "zilsel-french",
+    "permalink": "/support/docs/academic-writing/import/zilsel-french"
+  }
+}

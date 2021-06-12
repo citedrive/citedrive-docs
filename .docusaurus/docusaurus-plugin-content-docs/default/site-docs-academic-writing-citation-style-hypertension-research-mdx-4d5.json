@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hypertension-research",
+  "id": "academic-writing/citation-style/hypertension-research",
+  "isDocsHomePage": false,
+  "title": "hypertension-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hypertension-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hypertension-research",
+  "permalink": "/support/docs/academic-writing/citation-style/hypertension-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hypertension-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hydrological-sciences-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/hydrological-sciences-journal"
+  },
+  "next": {
+    "title": "hypotheses-in-the-life-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/hypotheses-in-the-life-sciences"
+  }
+}

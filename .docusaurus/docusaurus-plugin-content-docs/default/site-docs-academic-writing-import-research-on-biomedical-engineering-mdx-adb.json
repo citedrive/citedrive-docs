@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/research-on-biomedical-engineering",
+  "id": "academic-writing/import/research-on-biomedical-engineering",
+  "isDocsHomePage": false,
+  "title": "research-on-biomedical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/research-on-biomedical-engineering.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/research-on-biomedical-engineering",
+  "permalink": "/support/docs/academic-writing/import/research-on-biomedical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/research-on-biomedical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+    "permalink": "/support/docs/academic-writing/import/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek"
+  },
+  "next": {
+    "title": "restoration-ecology",
+    "permalink": "/support/docs/academic-writing/import/restoration-ecology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists",
+  "id": "academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-association-of-environmental-and-resource-economists",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-association-for-information-systems",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-association-for-information-systems"
+  },
+  "next": {
+    "title": "journal-of-the-botanical-research-institute-of-texas",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas"
+  }
+}

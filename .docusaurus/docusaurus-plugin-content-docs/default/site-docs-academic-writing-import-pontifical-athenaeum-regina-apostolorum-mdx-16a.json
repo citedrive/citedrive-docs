@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pontifical-athenaeum-regina-apostolorum",
+  "id": "academic-writing/import/pontifical-athenaeum-regina-apostolorum",
+  "isDocsHomePage": false,
+  "title": "pontifical-athenaeum-regina-apostolorum",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pontifical-athenaeum-regina-apostolorum.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pontifical-athenaeum-regina-apostolorum",
+  "permalink": "/support/docs/academic-writing/import/pontifical-athenaeum-regina-apostolorum",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pontifical-athenaeum-regina-apostolorum.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "polymer-reviews",
+    "permalink": "/support/docs/academic-writing/import/polymer-reviews"
+  },
+  "next": {
+    "title": "pontifical-biblical-institute",
+    "permalink": "/support/docs/academic-writing/import/pontifical-biblical-institute"
+  }
+}

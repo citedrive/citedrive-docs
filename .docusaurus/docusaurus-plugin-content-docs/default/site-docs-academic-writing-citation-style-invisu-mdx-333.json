@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/invisu",
+  "id": "academic-writing/citation-style/invisu",
+  "isDocsHomePage": false,
+  "title": "invisu",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/invisu.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/invisu",
+  "permalink": "/support/docs/academic-writing/citation-style/invisu",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/invisu.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "investigative-radiology",
+    "permalink": "/support/docs/academic-writing/citation-style/investigative-radiology"
+  },
+  "next": {
+    "title": "ios-press-books",
+    "permalink": "/support/docs/academic-writing/citation-style/ios-press-books"
+  }
+}

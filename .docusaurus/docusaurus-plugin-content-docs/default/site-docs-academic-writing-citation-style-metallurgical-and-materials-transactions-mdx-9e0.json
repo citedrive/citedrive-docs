@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/metallurgical-and-materials-transactions",
+  "id": "academic-writing/citation-style/metallurgical-and-materials-transactions",
+  "isDocsHomePage": false,
+  "title": "metallurgical-and-materials-transactions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/metallurgical-and-materials-transactions.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/metallurgical-and-materials-transactions",
+  "permalink": "/support/docs/academic-writing/citation-style/metallurgical-and-materials-transactions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/metallurgical-and-materials-transactions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metallurgical-and-materials-transactions-a",
+    "permalink": "/support/docs/academic-writing/citation-style/metallurgical-and-materials-transactions-a"
+  },
+  "next": {
+    "title": "meteoritics-and-planetary-science",
+    "permalink": "/support/docs/academic-writing/citation-style/meteoritics-and-planetary-science"
+  }
+}

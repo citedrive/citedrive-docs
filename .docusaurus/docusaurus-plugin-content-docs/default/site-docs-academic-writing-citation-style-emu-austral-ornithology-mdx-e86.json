@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/emu--austral-ornithology",
+  "id": "academic-writing/citation-style/emu--austral-ornithology",
+  "isDocsHomePage": false,
+  "title": "emu--austral-ornithology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/emu--austral-ornithology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/emu--austral-ornithology",
+  "permalink": "/support/docs/academic-writing/citation-style/emu--austral-ornithology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/emu--austral-ornithology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "emerald--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/emerald--harvard"
+  },
+  "next": {
+    "title": "endocrine-press",
+    "permalink": "/support/docs/academic-writing/citation-style/endocrine-press"
+  }
+}

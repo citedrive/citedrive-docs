@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-botanical-review",
+  "id": "academic-writing/import/the-botanical-review",
+  "isDocsHomePage": false,
+  "title": "the-botanical-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-botanical-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-botanical-review",
+  "permalink": "/support/docs/academic-writing/import/the-botanical-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-botanical-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-bone-and-joint-journal",
+    "permalink": "/support/docs/academic-writing/import/the-bone-and-joint-journal"
+  },
+  "next": {
+    "title": "the-british-journal-for-the-philosophy-of-science",
+    "permalink": "/support/docs/academic-writing/import/the-british-journal-for-the-philosophy-of-science"
+  }
+}

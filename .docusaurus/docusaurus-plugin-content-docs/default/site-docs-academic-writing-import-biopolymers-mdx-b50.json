@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biopolymers",
+  "id": "academic-writing/import/biopolymers",
+  "isDocsHomePage": false,
+  "title": "biopolymers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biopolymers.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biopolymers",
+  "permalink": "/support/docs/academic-writing/import/biopolymers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biopolymers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biophysical-journal",
+    "permalink": "/support/docs/academic-writing/import/biophysical-journal"
+  },
+  "next": {
+    "title": "bioresources",
+    "permalink": "/support/docs/academic-writing/import/bioresources"
+  }
+}

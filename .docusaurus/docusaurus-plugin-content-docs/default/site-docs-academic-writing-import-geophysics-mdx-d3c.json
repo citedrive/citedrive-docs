@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/geophysics",
+  "id": "academic-writing/import/geophysics",
+  "isDocsHomePage": false,
+  "title": "geophysics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/geophysics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/geophysics",
+  "permalink": "/support/docs/academic-writing/import/geophysics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/geophysics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geophysical-journal-international",
+    "permalink": "/support/docs/academic-writing/import/geophysical-journal-international"
+  },
+  "next": {
+    "title": "geopolitics",
+    "permalink": "/support/docs/academic-writing/import/geopolitics"
+  }
+}

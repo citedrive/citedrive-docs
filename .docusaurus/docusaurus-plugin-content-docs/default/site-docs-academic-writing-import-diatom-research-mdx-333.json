@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/diatom-research",
+  "id": "academic-writing/import/diatom-research",
+  "isDocsHomePage": false,
+  "title": "diatom-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/diatom-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/diatom-research",
+  "permalink": "/support/docs/academic-writing/import/diatom-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/diatom-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dialisis-y-trasplante-spanish",
+    "permalink": "/support/docs/academic-writing/import/dialisis-y-trasplante-spanish"
+  },
+  "next": {
+    "title": "die-bachelorarbeit-samac-et-al-intext-german",
+    "permalink": "/support/docs/academic-writing/import/die-bachelorarbeit-samac-et-al-intext-german"
+  }
+}

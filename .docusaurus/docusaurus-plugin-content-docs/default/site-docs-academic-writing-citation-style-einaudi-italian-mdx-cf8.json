@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/einaudi-italian",
+  "id": "academic-writing/citation-style/einaudi-italian",
+  "isDocsHomePage": false,
+  "title": "einaudi-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/einaudi-italian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/einaudi-italian",
+  "permalink": "/support/docs/academic-writing/citation-style/einaudi-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/einaudi-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "egretta-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/egretta-german--austria"
+  },
+  "next": {
+    "title": "eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+    "permalink": "/support/docs/academic-writing/citation-style/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english"
+  }
+}

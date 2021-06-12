@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/metropol-verlag-german",
+  "id": "academic-writing/import/metropol-verlag-german",
+  "isDocsHomePage": false,
+  "title": "metropol-verlag-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/metropol-verlag-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/metropol-verlag-german",
+  "permalink": "/support/docs/academic-writing/import/metropol-verlag-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/metropol-verlag-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "methods-of-information-in-medicine",
+    "permalink": "/support/docs/academic-writing/import/methods-of-information-in-medicine"
+  },
+  "next": {
+    "title": "metropolia-university-of-applied-sciences--harvard-finnish",
+    "permalink": "/support/docs/academic-writing/import/metropolia-university-of-applied-sciences--harvard-finnish"
+  }
+}

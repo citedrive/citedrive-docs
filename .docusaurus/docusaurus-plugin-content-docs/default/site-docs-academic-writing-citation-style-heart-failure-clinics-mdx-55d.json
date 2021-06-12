@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/heart-failure-clinics",
+  "id": "academic-writing/citation-style/heart-failure-clinics",
+  "isDocsHomePage": false,
+  "title": "heart-failure-clinics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/heart-failure-clinics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/heart-failure-clinics",
+  "permalink": "/support/docs/academic-writing/citation-style/heart-failure-clinics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/heart-failure-clinics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-reform-observer--observatoire-des-reformes-de-sante",
+    "permalink": "/support/docs/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante"
+  },
+  "next": {
+    "title": "heart-rhythm",
+    "permalink": "/support/docs/academic-writing/citation-style/heart-rhythm"
+  }
+}

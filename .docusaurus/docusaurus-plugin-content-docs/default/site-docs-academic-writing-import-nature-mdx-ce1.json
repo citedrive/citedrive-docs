@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/nature",
+  "id": "academic-writing/import/nature",
+  "isDocsHomePage": false,
+  "title": "nature",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/nature.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/nature",
+  "permalink": "/support/docs/academic-writing/import/nature",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/nature.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nature-publishing-group--vancouver",
+    "permalink": "/support/docs/academic-writing/import/nature-publishing-group--vancouver"
+  },
+  "next": {
+    "title": "natures-sciences-societes",
+    "permalink": "/support/docs/academic-writing/import/natures-sciences-societes"
+  }
+}

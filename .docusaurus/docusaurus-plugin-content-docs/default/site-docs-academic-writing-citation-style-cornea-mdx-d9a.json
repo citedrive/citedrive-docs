@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cornea",
+  "id": "academic-writing/citation-style/cornea",
+  "isDocsHomePage": false,
+  "title": "cornea",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cornea.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cornea",
+  "permalink": "/support/docs/academic-writing/citation-style/cornea",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cornea.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "coral-reefs",
+    "permalink": "/support/docs/academic-writing/citation-style/coral-reefs"
+  },
+  "next": {
+    "title": "corrosion",
+    "permalink": "/support/docs/academic-writing/citation-style/corrosion"
+  }
+}

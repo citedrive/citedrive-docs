@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-molecular-signaling",
+  "id": "academic-writing/citation-style/journal-of-molecular-signaling",
+  "isDocsHomePage": false,
+  "title": "journal-of-molecular-signaling",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-molecular-signaling.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-molecular-signaling",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-signaling",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-molecular-signaling.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-molecular-recognition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-recognition"
+  },
+  "next": {
+    "title": "journal-of-musculoskeletal-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-musculoskeletal-research"
+  }
+}

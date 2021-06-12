@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/synthesis",
+  "id": "academic-writing/citation-style/synthesis",
+  "isDocsHomePage": false,
+  "title": "synthesis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/synthesis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/synthesis",
+  "permalink": "/support/docs/academic-writing/citation-style/synthesis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/synthesis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sylwan-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/sylwan-polish"
+  },
+  "next": {
+    "title": "systematic-and-applied-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/systematic-and-applied-microbiology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/karger-journals-authordate",
+  "id": "academic-writing/import/karger-journals-authordate",
+  "isDocsHomePage": false,
+  "title": "karger-journals-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/karger-journals-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/karger-journals-authordate",
+  "permalink": "/support/docs/academic-writing/import/karger-journals-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/karger-journals-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karabuk-university--graduate-school-of-natural-and-applied-sciences",
+    "permalink": "/support/docs/academic-writing/import/karabuk-university--graduate-school-of-natural-and-applied-sciences"
+  },
+  "next": {
+    "title": "karger-journals",
+    "permalink": "/support/docs/academic-writing/import/karger-journals"
+  }
+}

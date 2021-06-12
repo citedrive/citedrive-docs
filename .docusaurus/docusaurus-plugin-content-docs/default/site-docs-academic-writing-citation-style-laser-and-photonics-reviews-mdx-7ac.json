@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/laser-and-photonics-reviews",
+  "id": "academic-writing/citation-style/laser-and-photonics-reviews",
+  "isDocsHomePage": false,
+  "title": "laser-and-photonics-reviews",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/laser-and-photonics-reviews.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/laser-and-photonics-reviews",
+  "permalink": "/support/docs/academic-writing/citation-style/laser-and-photonics-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/laser-and-photonics-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lannee-sociologique-french",
+    "permalink": "/support/docs/academic-writing/citation-style/lannee-sociologique-french"
+  },
+  "next": {
+    "title": "latin-american-perspectives",
+    "permalink": "/support/docs/academic-writing/citation-style/latin-american-perspectives"
+  }
+}

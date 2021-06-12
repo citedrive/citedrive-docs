@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/human-brain-mapping",
+  "id": "academic-writing/citation-style/human-brain-mapping",
+  "isDocsHomePage": false,
+  "title": "human-brain-mapping",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/human-brain-mapping.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/human-brain-mapping",
+  "permalink": "/support/docs/academic-writing/citation-style/human-brain-mapping",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-brain-mapping.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hpb",
+    "permalink": "/support/docs/academic-writing/citation-style/hpb"
+  },
+  "next": {
+    "title": "human-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/human-ecology"
+  }
+}

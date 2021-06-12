@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici",
+  "id": "academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici",
+  "isDocsHomePage": false,
+  "title": "isnad-atf-sistemi-2-edisyon-metinici",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici",
+  "permalink": "/support/docs/academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-metinici.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "isnad-atf-sistemi-2-edisyon-dipnotlu",
+    "permalink": "/support/docs/academic-writing/citation-style/isnad-atf-sistemi-2-edisyon-dipnotlu"
+  },
+  "next": {
+    "title": "iso690-authordate-czech",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-czech"
+  }
+}

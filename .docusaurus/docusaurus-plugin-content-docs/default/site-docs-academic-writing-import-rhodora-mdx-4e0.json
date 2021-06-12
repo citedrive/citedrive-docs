@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/rhodora",
+  "id": "academic-writing/import/rhodora",
+  "isDocsHomePage": false,
+  "title": "rhodora",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/rhodora.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/rhodora",
+  "permalink": "/support/docs/academic-writing/import/rhodora",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/rhodora.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rhinology",
+    "permalink": "/support/docs/academic-writing/import/rhinology"
+  },
+  "next": {
+    "title": "risk-analysis",
+    "permalink": "/support/docs/academic-writing/import/risk-analysis"
+  }
+}

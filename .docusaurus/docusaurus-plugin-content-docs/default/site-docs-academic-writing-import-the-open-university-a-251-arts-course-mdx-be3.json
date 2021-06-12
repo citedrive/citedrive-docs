@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-open-university--a251--arts-course",
+  "id": "academic-writing/import/the-open-university--a251--arts-course",
+  "isDocsHomePage": false,
+  "title": "the-open-university--a251--arts-course",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-open-university--a251--arts-course.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-open-university--a251--arts-course",
+  "permalink": "/support/docs/academic-writing/import/the-open-university--a251--arts-course",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-open-university--a251--arts-course.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-oncologist",
+    "permalink": "/support/docs/academic-writing/import/the-oncologist"
+  },
+  "next": {
+    "title": "the-open-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/the-open-university--harvard"
+  }
+}

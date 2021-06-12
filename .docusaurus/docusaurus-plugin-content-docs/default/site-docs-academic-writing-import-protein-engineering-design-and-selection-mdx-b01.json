@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/protein-engineering-design-and-selection",
+  "id": "academic-writing/import/protein-engineering-design-and-selection",
+  "isDocsHomePage": false,
+  "title": "protein-engineering-design-and-selection",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/protein-engineering-design-and-selection.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/protein-engineering-design-and-selection",
+  "permalink": "/support/docs/academic-writing/import/protein-engineering-design-and-selection",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/protein-engineering-design-and-selection.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "proinflow-note-czech",
+    "permalink": "/support/docs/academic-writing/import/proinflow-note-czech"
+  },
+  "next": {
+    "title": "protein-science",
+    "permalink": "/support/docs/academic-writing/import/protein-science"
+  }
+}

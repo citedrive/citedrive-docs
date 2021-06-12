@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+  "id": "academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+  "isDocsHomePage": false,
+  "title": "jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+  "permalink": "/support/docs/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jacc-cardiovascular-interventions",
+    "permalink": "/support/docs/academic-writing/citation-style/jacc-cardiovascular-interventions"
+  },
+  "next": {
+    "title": "jahrbuch-fur-evangelikale-theologie-german",
+    "permalink": "/support/docs/academic-writing/citation-style/jahrbuch-fur-evangelikale-theologie-german"
+  }
+}

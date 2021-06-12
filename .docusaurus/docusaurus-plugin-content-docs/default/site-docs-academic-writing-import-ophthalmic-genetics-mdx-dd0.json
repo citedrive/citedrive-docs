@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ophthalmic-genetics",
+  "id": "academic-writing/import/ophthalmic-genetics",
+  "isDocsHomePage": false,
+  "title": "ophthalmic-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ophthalmic-genetics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ophthalmic-genetics",
+  "permalink": "/support/docs/academic-writing/import/ophthalmic-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ophthalmic-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "operative-dentistry",
+    "permalink": "/support/docs/academic-writing/import/operative-dentistry"
+  },
+  "next": {
+    "title": "ophthalmology-retina",
+    "permalink": "/support/docs/academic-writing/import/ophthalmology-retina"
+  }
+}

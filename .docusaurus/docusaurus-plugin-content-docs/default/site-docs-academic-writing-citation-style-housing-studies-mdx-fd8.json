@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/housing-studies",
+  "id": "academic-writing/citation-style/housing-studies",
+  "isDocsHomePage": false,
+  "title": "housing-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/housing-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/housing-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/housing-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/housing-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hong-kong-journal-of-radiology",
+    "permalink": "/support/docs/academic-writing/citation-style/hong-kong-journal-of-radiology"
+  },
+  "next": {
+    "title": "hpb",
+    "permalink": "/support/docs/academic-writing/citation-style/hpb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/royal-college-of-nursing--harvard",
+  "id": "academic-writing/citation-style/royal-college-of-nursing--harvard",
+  "isDocsHomePage": false,
+  "title": "royal-college-of-nursing--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/royal-college-of-nursing--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/royal-college-of-nursing--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/royal-college-of-nursing--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/royal-college-of-nursing--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rose-school",
+    "permalink": "/support/docs/academic-writing/citation-style/rose-school"
+  },
+  "next": {
+    "title": "royal-society-of-chemistry-with-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/royal-society-of-chemistry-with-titles"
+  }
+}

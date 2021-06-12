@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/infoclioch-sans-majuscules-french",
+  "id": "academic-writing/import/infoclioch-sans-majuscules-french",
+  "isDocsHomePage": false,
+  "title": "infoclioch-sans-majuscules-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/infoclioch-sans-majuscules-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/infoclioch-sans-majuscules-french",
+  "permalink": "/support/docs/academic-writing/import/infoclioch-sans-majuscules-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/infoclioch-sans-majuscules-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "infoclioch-petites-majuscules-french",
+    "permalink": "/support/docs/academic-writing/import/infoclioch-petites-majuscules-french"
+  },
+  "next": {
+    "title": "infomin",
+    "permalink": "/support/docs/academic-writing/import/infomin"
+  }
+}

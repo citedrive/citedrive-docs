@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/quaternary-international",
+  "id": "academic-writing/import/quaternary-international",
+  "isDocsHomePage": false,
+  "title": "quaternary-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/quaternary-international.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/quaternary-international",
+  "permalink": "/support/docs/academic-writing/import/quaternary-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/quaternary-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quaternaire-french",
+    "permalink": "/support/docs/academic-writing/import/quaternaire-french"
+  },
+  "next": {
+    "title": "queen-margaret-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/queen-margaret-university--harvard"
+  }
+}

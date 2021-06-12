@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+  "id": "academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+  "isDocsHomePage": false,
+  "title": "sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+  "permalink": "/support/docs/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "seismological-research-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/seismological-research-letters"
+  },
+  "next": {
+    "title": "seminars-in-pediatric-neurology",
+    "permalink": "/support/docs/academic-writing/citation-style/seminars-in-pediatric-neurology"
+  }
+}

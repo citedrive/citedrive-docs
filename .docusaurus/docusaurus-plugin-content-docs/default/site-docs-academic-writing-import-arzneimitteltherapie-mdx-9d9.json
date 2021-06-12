@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/arzneimitteltherapie",
+  "id": "academic-writing/import/arzneimitteltherapie",
+  "isDocsHomePage": false,
+  "title": "arzneimitteltherapie",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/arzneimitteltherapie.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/arzneimitteltherapie",
+  "permalink": "/support/docs/academic-writing/import/arzneimitteltherapie",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/arzneimitteltherapie.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arts-university-bournemouth",
+    "permalink": "/support/docs/academic-writing/import/arts-university-bournemouth"
+  },
+  "next": {
+    "title": "asaio-journal-american-society-for-artificial-internal-organs",
+    "permalink": "/support/docs/academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs"
+  }
+}

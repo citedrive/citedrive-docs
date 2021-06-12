@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cardiocore-spanish",
+  "id": "academic-writing/citation-style/cardiocore-spanish",
+  "isDocsHomePage": false,
+  "title": "cardiocore-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cardiocore-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cardiocore-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/cardiocore-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cardiocore-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardiff-university-biosi-and-carbs--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard"
+  },
+  "next": {
+    "title": "cath-lab-digest",
+    "permalink": "/support/docs/academic-writing/citation-style/cath-lab-digest"
+  }
+}

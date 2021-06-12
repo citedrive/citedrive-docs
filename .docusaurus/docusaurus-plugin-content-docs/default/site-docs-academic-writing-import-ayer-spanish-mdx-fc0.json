@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ayer-spanish",
+  "id": "academic-writing/import/ayer-spanish",
+  "isDocsHomePage": false,
+  "title": "ayer-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ayer-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ayer-spanish",
+  "permalink": "/support/docs/academic-writing/import/ayer-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ayer-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aviation-space-and-environmental-medicine",
+    "permalink": "/support/docs/academic-writing/import/aviation-space-and-environmental-medicine"
+  },
+  "next": {
+    "title": "azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+    "permalink": "/support/docs/academic-writing/import/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria"
+  }
+}

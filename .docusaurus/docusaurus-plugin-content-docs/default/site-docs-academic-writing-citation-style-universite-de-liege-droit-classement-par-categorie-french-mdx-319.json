@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french",
+  "id": "academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french",
+  "isDocsHomePage": false,
+  "title": "universite-de-liege--droit-classement-par-categorie-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french",
+  "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-lausanne--histoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french"
+  },
+  "next": {
+    "title": "universite-de-liege--droit-french",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--droit-french"
+  }
+}

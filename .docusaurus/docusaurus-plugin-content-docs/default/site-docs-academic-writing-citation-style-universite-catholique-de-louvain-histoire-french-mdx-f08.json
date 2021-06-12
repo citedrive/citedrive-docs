@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
+  "id": "academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
+  "isDocsHomePage": false,
+  "title": "universite-catholique-de-louvain--histoire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
+  "permalink": "/support/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitatsmedizin-gottingen-german",
+    "permalink": "/support/docs/academic-writing/citation-style/universitatsmedizin-gottingen-german"
+  },
+  "next": {
+    "title": "universite-de-lausanne--histoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french"
+  }
+}

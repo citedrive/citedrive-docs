@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-mammalogy",
+  "id": "academic-writing/citation-style/journal-of-mammalogy",
+  "isDocsHomePage": false,
+  "title": "journal-of-mammalogy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-mammalogy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-mammalogy",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-mammalogy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-mammalogy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-magnetic-resonance-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-magnetic-resonance-imaging"
+  },
+  "next": {
+    "title": "journal-of-management-information-systems",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-management-information-systems"
+  }
+}

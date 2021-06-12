@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/discovery-medicine",
+  "id": "academic-writing/import/discovery-medicine",
+  "isDocsHomePage": false,
+  "title": "discovery-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/discovery-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/discovery-medicine",
+  "permalink": "/support/docs/academic-writing/import/discovery-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/discovery-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "disability-and-rehabilitation",
+    "permalink": "/support/docs/academic-writing/import/disability-and-rehabilitation"
+  },
+  "next": {
+    "title": "dna-research",
+    "permalink": "/support/docs/academic-writing/import/dna-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+  "id": "academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+  "isDocsHomePage": false,
+  "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+  "permalink": "/support/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada"
+  },
+  "next": {
+    "title": "instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish"
+  }
+}

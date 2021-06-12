@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/comparative-politics",
+  "id": "academic-writing/citation-style/comparative-politics",
+  "isDocsHomePage": false,
+  "title": "comparative-politics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/comparative-politics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/comparative-politics",
+  "permalink": "/support/docs/academic-writing/citation-style/comparative-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/comparative-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "communication-et-langages",
+    "permalink": "/support/docs/academic-writing/citation-style/communication-et-langages"
+  },
+  "next": {
+    "title": "comparative-population-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/comparative-population-studies"
+  }
+}

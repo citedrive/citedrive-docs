@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development",
+  "id": "academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development",
+  "isDocsHomePage": false,
+  "title": "international-energy-agency--organisation-for-economic-cooperation-and-development",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development",
+  "permalink": "/support/docs/academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-development-policy",
+    "permalink": "/support/docs/academic-writing/citation-style/international-development-policy"
+  },
+  "next": {
+    "title": "international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+    "permalink": "/support/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws"
+  }
+}

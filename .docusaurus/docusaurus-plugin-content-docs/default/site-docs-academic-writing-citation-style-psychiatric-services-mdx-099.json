@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/psychiatric-services",
+  "id": "academic-writing/citation-style/psychiatric-services",
+  "isDocsHomePage": false,
+  "title": "psychiatric-services",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/psychiatric-services.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/psychiatric-services",
+  "permalink": "/support/docs/academic-writing/citation-style/psychiatric-services",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/psychiatric-services.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "psychiatric-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/psychiatric-clinics-of-north-america"
+  },
+  "next": {
+    "title": "psychiatry-and-clinical-neurosciences",
+    "permalink": "/support/docs/academic-writing/citation-style/psychiatry-and-clinical-neurosciences"
+  }
+}

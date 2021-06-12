@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/kommunikation-und-recht-german",
+  "id": "academic-writing/import/kommunikation-und-recht-german",
+  "isDocsHomePage": false,
+  "title": "kommunikation-und-recht-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/kommunikation-und-recht-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/kommunikation-und-recht-german",
+  "permalink": "/support/docs/academic-writing/import/kommunikation-und-recht-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/kommunikation-und-recht-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german",
+    "permalink": "/support/docs/academic-writing/import/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie-german"
+  },
+  "next": {
+    "title": "kona-powder-and-particle-journal",
+    "permalink": "/support/docs/academic-writing/import/kona-powder-and-particle-journal"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/handbook-of-clinical-neurology",
+  "id": "academic-writing/citation-style/handbook-of-clinical-neurology",
+  "isDocsHomePage": false,
+  "title": "handbook-of-clinical-neurology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/handbook-of-clinical-neurology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/handbook-of-clinical-neurology",
+  "permalink": "/support/docs/academic-writing/citation-style/handbook-of-clinical-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/handbook-of-clinical-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hand",
+    "permalink": "/support/docs/academic-writing/citation-style/hand"
+  },
+  "next": {
+    "title": "harper-adams-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/harper-adams-university--harvard"
+  }
+}

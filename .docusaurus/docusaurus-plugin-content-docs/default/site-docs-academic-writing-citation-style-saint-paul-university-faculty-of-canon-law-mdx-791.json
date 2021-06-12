@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/saint-paul-university--faculty-of-canon-law",
+  "id": "academic-writing/citation-style/saint-paul-university--faculty-of-canon-law",
+  "isDocsHomePage": false,
+  "title": "saint-paul-university--faculty-of-canon-law",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/saint-paul-university--faculty-of-canon-law.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/saint-paul-university--faculty-of-canon-law",
+  "permalink": "/support/docs/academic-writing/citation-style/saint-paul-university--faculty-of-canon-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/saint-paul-university--faculty-of-canon-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sage--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/sage--vancouver"
+  },
+  "next": {
+    "title": "sanamed",
+    "permalink": "/support/docs/academic-writing/citation-style/sanamed"
+  }
+}

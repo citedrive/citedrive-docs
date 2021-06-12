@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/future-medicine-journals",
+  "id": "academic-writing/import/future-medicine-journals",
+  "isDocsHomePage": false,
+  "title": "future-medicine-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/future-medicine-journals.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/future-medicine-journals",
+  "permalink": "/support/docs/academic-writing/import/future-medicine-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/future-medicine-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "frontiers-of-biogeography",
+    "permalink": "/support/docs/academic-writing/import/frontiers-of-biogeography"
+  },
+  "next": {
+    "title": "future-science-group",
+    "permalink": "/support/docs/academic-writing/import/future-science-group"
+  }
+}

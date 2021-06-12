@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/anthropologie-et-societes-french",
+  "id": "academic-writing/citation-style/anthropologie-et-societes-french",
+  "isDocsHomePage": false,
+  "title": "anthropologie-et-societes-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/anthropologie-et-societes-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/anthropologie-et-societes-french",
+  "permalink": "/support/docs/academic-writing/citation-style/anthropologie-et-societes-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anthropologie-et-societes-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antarctic-science",
+    "permalink": "/support/docs/academic-writing/citation-style/antarctic-science"
+  },
+  "next": {
+    "title": "anticancer-research",
+    "permalink": "/support/docs/academic-writing/citation-style/anticancer-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bulletin-of-the-seismological-society-of-america",
+  "id": "academic-writing/import/bulletin-of-the-seismological-society-of-america",
+  "isDocsHomePage": false,
+  "title": "bulletin-of-the-seismological-society-of-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bulletin-of-the-seismological-society-of-america.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bulletin-of-the-seismological-society-of-america",
+  "permalink": "/support/docs/academic-writing/import/bulletin-of-the-seismological-society-of-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bulletin-of-the-seismological-society-of-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bulletin-of-the-american-schools-of-oriental-research",
+    "permalink": "/support/docs/academic-writing/import/bulletin-of-the-american-schools-of-oriental-research"
+  },
+  "next": {
+    "title": "bursa-uludag-universitesi--egitim-bilimleri-enstitusu",
+    "permalink": "/support/docs/academic-writing/import/bursa-uludag-universitesi--egitim-bilimleri-enstitusu"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian",
+  "id": "academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian",
+  "isDocsHomePage": false,
+  "title": "universita-cattolica-del-sacro-cuore-note-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian",
+  "permalink": "/support/docs/academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universita-cattolica-del-sacro-cuore-note-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universidade-federal-do-rio-de-janeiro--instituto-alberto-luiz-coimbra-de-posgraduacao-e-pesquisa-de-engenharia--abnt-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/import/universidade-federal-do-rio-de-janeiro--instituto-alberto-luiz-coimbra-de-posgraduacao-e-pesquisa-de-engenharia--abnt-portuguese--brazil"
+  },
+  "next": {
+    "title": "universita-pontificia-salesiana-italian",
+    "permalink": "/support/docs/academic-writing/import/universita-pontificia-salesiana-italian"
+  }
+}

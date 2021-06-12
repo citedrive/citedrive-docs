@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/interdisziplinare-anthropologie-german",
+  "id": "academic-writing/import/interdisziplinare-anthropologie-german",
+  "isDocsHomePage": false,
+  "title": "interdisziplinare-anthropologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/interdisziplinare-anthropologie-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/interdisziplinare-anthropologie-german",
+  "permalink": "/support/docs/academic-writing/import/interdisziplinare-anthropologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/interdisziplinare-anthropologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interactive-cardiovascular-and-thoracic-surgery",
+    "permalink": "/support/docs/academic-writing/import/interactive-cardiovascular-and-thoracic-surgery"
+  },
+  "next": {
+    "title": "interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+    "permalink": "/support/docs/academic-writing/import/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german"
+  }
+}

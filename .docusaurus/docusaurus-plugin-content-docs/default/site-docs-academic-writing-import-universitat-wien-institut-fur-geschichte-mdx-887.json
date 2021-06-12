@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universitat-wien--institut-fur-geschichte",
+  "id": "academic-writing/import/universitat-wien--institut-fur-geschichte",
+  "isDocsHomePage": false,
+  "title": "universitat-wien--institut-fur-geschichte",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universitat-wien--institut-fur-geschichte.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universitat-wien--institut-fur-geschichte",
+  "permalink": "/support/docs/academic-writing/import/universitat-wien--institut-fur-geschichte",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universitat-wien--institut-fur-geschichte.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-stuttgart--planung-und-partizipation-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-stuttgart--planung-und-partizipation-german"
+  },
+  "next": {
+    "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german"
+  }
+}

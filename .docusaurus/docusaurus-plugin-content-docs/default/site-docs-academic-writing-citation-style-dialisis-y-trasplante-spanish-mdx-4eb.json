@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/dialisis-y-trasplante-spanish",
+  "id": "academic-writing/citation-style/dialisis-y-trasplante-spanish",
+  "isDocsHomePage": false,
+  "title": "dialisis-y-trasplante-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/dialisis-y-trasplante-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "diagnostico-prenatal-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/diagnostico-prenatal-spanish"
+  },
+  "next": {
+    "title": "diatom-research",
+    "permalink": "/support/docs/academic-writing/citation-style/diatom-research"
+  }
+}

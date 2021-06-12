@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-peasant-studies",
+  "id": "academic-writing/citation-style/the-journal-of-peasant-studies",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-peasant-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-peasant-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-peasant-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-peasant-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-peasant-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-pathology"
+  },
+  "next": {
+    "title": "the-journal-of-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-physiology"
+  }
+}

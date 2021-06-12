@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-adolescent-health",
+  "id": "academic-writing/citation-style/journal-of-adolescent-health",
+  "isDocsHomePage": false,
+  "title": "journal-of-adolescent-health",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-adolescent-health.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-adolescent-health",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-adolescent-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-adolescent-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-acoustics",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-acoustics"
+  },
+  "next": {
+    "title": "journal-of-advertising-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-advertising-research"
+  }
+}

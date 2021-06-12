@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/animal-migration",
+  "id": "academic-writing/import/animal-migration",
+  "isDocsHomePage": false,
+  "title": "animal-migration",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/animal-migration.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/animal-migration",
+  "permalink": "/support/docs/academic-writing/import/animal-migration",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/animal-migration.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "animal-conservation",
+    "permalink": "/support/docs/academic-writing/import/animal-conservation"
+  },
+  "next": {
+    "title": "animal-welfare",
+    "permalink": "/support/docs/academic-writing/import/animal-welfare"
+  }
+}

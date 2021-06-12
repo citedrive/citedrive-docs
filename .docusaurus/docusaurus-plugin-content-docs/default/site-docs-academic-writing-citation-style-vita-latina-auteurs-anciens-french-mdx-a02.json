@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vita-latina-auteurs-anciens-french",
+  "id": "academic-writing/citation-style/vita-latina-auteurs-anciens-french",
+  "isDocsHomePage": false,
+  "title": "vita-latina-auteurs-anciens-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vita-latina-auteurs-anciens-french",
+  "permalink": "/support/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vingtieme-siecle-revue-dhistoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french"
+  },
+  "next": {
+    "title": "vita-latina-french",
+    "permalink": "/support/docs/academic-writing/citation-style/vita-latina-french"
+  }
+}

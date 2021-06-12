@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/karlstad-universitet--harvard-swedish",
+  "id": "academic-writing/import/karlstad-universitet--harvard-swedish",
+  "isDocsHomePage": false,
+  "title": "karlstad-universitet--harvard-swedish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/karlstad-universitet--harvard-swedish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/karlstad-universitet--harvard-swedish",
+  "permalink": "/support/docs/academic-writing/import/karlstad-universitet--harvard-swedish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/karlstad-universitet--harvard-swedish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "karger-journals",
+    "permalink": "/support/docs/academic-writing/import/karger-journals"
+  },
+  "next": {
+    "title": "karstenia",
+    "permalink": "/support/docs/academic-writing/import/karstenia"
+  }
+}

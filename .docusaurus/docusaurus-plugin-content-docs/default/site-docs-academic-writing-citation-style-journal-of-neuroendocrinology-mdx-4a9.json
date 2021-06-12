@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-neuroendocrinology",
+  "id": "academic-writing/citation-style/journal-of-neuroendocrinology",
+  "isDocsHomePage": false,
+  "title": "journal-of-neuroendocrinology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-neuroendocrinology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-neuroendocrinology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-neuroendocrinology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neuroendocrinology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-neurochemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurochemistry"
+  },
+  "next": {
+    "title": "journal-of-neurological-disorders",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurological-disorders"
+  }
+}

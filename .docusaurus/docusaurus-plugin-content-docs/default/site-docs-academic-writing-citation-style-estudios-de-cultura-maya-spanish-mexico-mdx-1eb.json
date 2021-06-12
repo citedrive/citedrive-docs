@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico",
+  "id": "academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico",
+  "isDocsHomePage": false,
+  "title": "estudios-de-cultura-maya-spanish--mexico",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico",
+  "permalink": "/support/docs/academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/estudios-de-cultura-maya-spanish--mexico.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "escuela-nacional-de-antropologia-e-historia-nota-corta-spanish--mexico",
+    "permalink": "/support/docs/academic-writing/citation-style/escuela-nacional-de-antropologia-e-historia-nota-corta-spanish--mexico"
+  },
+  "next": {
+    "title": "estudios-de-fonetica-experimental",
+    "permalink": "/support/docs/academic-writing/citation-style/estudios-de-fonetica-experimental"
+  }
+}

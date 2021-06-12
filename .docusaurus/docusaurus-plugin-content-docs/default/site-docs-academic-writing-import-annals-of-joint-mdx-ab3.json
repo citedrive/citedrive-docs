@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/annals-of-joint",
+  "id": "academic-writing/import/annals-of-joint",
+  "isDocsHomePage": false,
+  "title": "annals-of-joint",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/annals-of-joint.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/annals-of-joint",
+  "permalink": "/support/docs/academic-writing/import/annals-of-joint",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/annals-of-joint.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-botany",
+    "permalink": "/support/docs/academic-writing/import/annals-of-botany"
+  },
+  "next": {
+    "title": "annals-of-neurology",
+    "permalink": "/support/docs/academic-writing/import/annals-of-neurology"
+  }
+}

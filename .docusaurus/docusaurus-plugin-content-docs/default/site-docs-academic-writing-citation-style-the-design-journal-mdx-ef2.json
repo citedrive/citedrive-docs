@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-design-journal",
+  "id": "academic-writing/citation-style/the-design-journal",
+  "isDocsHomePage": false,
+  "title": "the-design-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-design-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-design-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-design-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-design-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-company-of-biologists",
+    "permalink": "/support/docs/academic-writing/citation-style/the-company-of-biologists"
+  },
+  "next": {
+    "title": "the-economic-history-review",
+    "permalink": "/support/docs/academic-writing/citation-style/the-economic-history-review"
+  }
+}

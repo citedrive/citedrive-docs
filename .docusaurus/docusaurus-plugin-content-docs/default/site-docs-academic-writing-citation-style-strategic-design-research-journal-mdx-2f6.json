@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/strategic-design-research-journal",
+  "id": "academic-writing/citation-style/strategic-design-research-journal",
+  "isDocsHomePage": false,
+  "title": "strategic-design-research-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/strategic-design-research-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/strategic-design-research-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/strategic-design-research-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/strategic-design-research-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "stem-cells",
+    "permalink": "/support/docs/academic-writing/citation-style/stem-cells"
+  },
+  "next": {
+    "title": "strategic-entrepreneurship-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/strategic-entrepreneurship-journal"
+  }
+}

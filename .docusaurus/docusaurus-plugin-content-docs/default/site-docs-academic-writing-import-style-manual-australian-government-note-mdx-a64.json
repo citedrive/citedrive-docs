@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/style-manual--australian-government-note",
+  "id": "academic-writing/import/style-manual--australian-government-note",
+  "isDocsHomePage": false,
+  "title": "style-manual--australian-government-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/style-manual--australian-government-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/style-manual--australian-government-note",
+  "permalink": "/support/docs/academic-writing/import/style-manual--australian-government-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/style-manual--australian-government-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "style-manual--australian-government-authordate",
+    "permalink": "/support/docs/academic-writing/import/style-manual--australian-government-authordate"
+  },
+  "next": {
+    "title": "suburban--zeitschrift-fur-kritische-stadtforschung-german",
+    "permalink": "/support/docs/academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german"
+  }
+}

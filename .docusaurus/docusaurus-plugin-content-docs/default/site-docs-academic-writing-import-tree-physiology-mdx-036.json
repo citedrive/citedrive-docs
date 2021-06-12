@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/tree-physiology",
+  "id": "academic-writing/import/tree-physiology",
+  "isDocsHomePage": false,
+  "title": "tree-physiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/tree-physiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/tree-physiology",
+  "permalink": "/support/docs/academic-writing/import/tree-physiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/tree-physiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transposition-musique-et-sciences-sociales",
+    "permalink": "/support/docs/academic-writing/import/transposition-musique-et-sciences-sociales"
+  },
+  "next": {
+    "title": "trends-in-glycoscience-and-glycotechnology",
+    "permalink": "/support/docs/academic-writing/import/trends-in-glycoscience-and-glycotechnology"
+  }
+}

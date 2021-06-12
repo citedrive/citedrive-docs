@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
+  "id": "academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
+  "isDocsHomePage": false,
+  "title": "social-cognitive-and-affective-neuroscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
+  "permalink": "/support/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "smyrna-tp-dergisi-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/smyrna-tp-dergisi-turkish"
+  },
+  "next": {
+    "title": "societe-archeologique-de-bordeaux-french",
+    "permalink": "/support/docs/academic-writing/citation-style/societe-archeologique-de-bordeaux-french"
+  }
+}

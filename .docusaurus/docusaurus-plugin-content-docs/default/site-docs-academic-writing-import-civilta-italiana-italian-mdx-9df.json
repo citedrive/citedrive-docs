@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/civilta-italiana-italian",
+  "id": "academic-writing/import/civilta-italiana-italian",
+  "isDocsHomePage": false,
+  "title": "civilta-italiana-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/civilta-italiana-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/civilta-italiana-italian",
+  "permalink": "/support/docs/academic-writing/import/civilta-italiana-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/civilta-italiana-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "citizen-science-theory-and-practice",
+    "permalink": "/support/docs/academic-writing/import/citizen-science-theory-and-practice"
+  },
+  "next": {
+    "title": "cladistics",
+    "permalink": "/support/docs/academic-writing/import/cladistics"
+  }
+}

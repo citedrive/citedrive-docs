@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+  "id": "academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+  "isDocsHomePage": false,
+  "title": "universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+  "permalink": "/support/docs/academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "united-nations-framework-convention-on-climate-change",
+    "permalink": "/support/docs/academic-writing/import/united-nations-framework-convention-on-climate-change"
+  },
+  "next": {
+    "title": "universidad-de-leon-espana--harvard",
+    "permalink": "/support/docs/academic-writing/import/universidad-de-leon-espana--harvard"
+  }
+}

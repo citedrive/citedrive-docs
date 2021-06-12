@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+  "id": "academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+  "isDocsHomePage": false,
+  "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+  "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish"
+  },
+  "next": {
+    "title": "uludag-universitesi--sosyal-bilimler-enstitusu-authordate-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu-authordate-turkish"
+  }
+}

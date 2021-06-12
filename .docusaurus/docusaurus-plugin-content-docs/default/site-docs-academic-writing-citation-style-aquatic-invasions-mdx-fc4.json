@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/aquatic-invasions",
+  "id": "academic-writing/citation-style/aquatic-invasions",
+  "isDocsHomePage": false,
+  "title": "aquatic-invasions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/aquatic-invasions.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/aquatic-invasions",
+  "permalink": "/support/docs/academic-writing/citation-style/aquatic-invasions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aquatic-invasions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aquatic-conservation-marine-and-freshwater-ecosystems",
+    "permalink": "/support/docs/academic-writing/citation-style/aquatic-conservation-marine-and-freshwater-ecosystems"
+  },
+  "next": {
+    "title": "aquatic-living-resources",
+    "permalink": "/support/docs/academic-writing/citation-style/aquatic-living-resources"
+  }
+}

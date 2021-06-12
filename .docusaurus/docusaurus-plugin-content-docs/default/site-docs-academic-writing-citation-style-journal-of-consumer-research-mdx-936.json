@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-consumer-research",
+  "id": "academic-writing/citation-style/journal-of-consumer-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-consumer-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-consumer-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-consumer-research",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-consumer-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-consumer-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-computer-information-systems",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-computer-information-systems"
+  },
+  "next": {
+    "title": "journal-of-contemporary-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-contemporary-medicine"
+  }
+}

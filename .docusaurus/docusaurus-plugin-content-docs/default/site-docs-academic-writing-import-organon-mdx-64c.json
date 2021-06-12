@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/organon",
+  "id": "academic-writing/import/organon",
+  "isDocsHomePage": false,
+  "title": "organon",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/organon.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/organon",
+  "permalink": "/support/docs/academic-writing/import/organon",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/organon.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organization",
+    "permalink": "/support/docs/academic-writing/import/organization"
+  },
+  "next": {
+    "title": "ornitologia-neotropical",
+    "permalink": "/support/docs/academic-writing/import/ornitologia-neotropical"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/chemical-engineering-progress",
+  "id": "academic-writing/import/chemical-engineering-progress",
+  "isDocsHomePage": false,
+  "title": "chemical-engineering-progress",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/chemical-engineering-progress.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/chemical-engineering-progress",
+  "permalink": "/support/docs/academic-writing/import/chemical-engineering-progress",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/chemical-engineering-progress.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemical-biology-and-drug-design",
+    "permalink": "/support/docs/academic-writing/import/chemical-biology-and-drug-design"
+  },
+  "next": {
+    "title": "chemical-senses",
+    "permalink": "/support/docs/academic-writing/import/chemical-senses"
+  }
+}

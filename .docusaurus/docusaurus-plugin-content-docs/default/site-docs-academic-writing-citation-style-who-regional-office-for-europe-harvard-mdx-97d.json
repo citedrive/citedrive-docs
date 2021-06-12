@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/who-regional-office-for-europe--harvard",
+  "id": "academic-writing/citation-style/who-regional-office-for-europe--harvard",
+  "isDocsHomePage": false,
+  "title": "who-regional-office-for-europe--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/who-regional-office-for-europe--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/who-regional-office-for-europe--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/who-regional-office-for-europe--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/who-regional-office-for-europe--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wheaton-college--phd-in-biblical-and-theological-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/wheaton-college--phd-in-biblical-and-theological-studies"
+  },
+  "next": {
+    "title": "who-regional-office-for-europe-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/who-regional-office-for-europe-numeric"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/conservation-letters",
+  "id": "academic-writing/citation-style/conservation-letters",
+  "isDocsHomePage": false,
+  "title": "conservation-letters",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/conservation-letters.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/conservation-letters",
+  "permalink": "/support/docs/academic-writing/citation-style/conservation-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/conservation-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "conservation-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/conservation-biology"
+  },
+  "next": {
+    "title": "conservation-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/conservation-physiology"
+  }
+}

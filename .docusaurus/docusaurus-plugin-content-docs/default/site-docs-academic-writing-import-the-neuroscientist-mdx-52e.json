@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-neuroscientist",
+  "id": "academic-writing/import/the-neuroscientist",
+  "isDocsHomePage": false,
+  "title": "the-neuroscientist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-neuroscientist.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-neuroscientist",
+  "permalink": "/support/docs/academic-writing/import/the-neuroscientist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-neuroscientist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-national-medical-journal-of-india",
+    "permalink": "/support/docs/academic-writing/import/the-national-medical-journal-of-india"
+  },
+  "next": {
+    "title": "the-new-england-journal-of-medicine",
+    "permalink": "/support/docs/academic-writing/import/the-new-england-journal-of-medicine"
+  }
+}

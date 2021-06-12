@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-basic-microbiology",
+  "id": "academic-writing/citation-style/journal-of-basic-microbiology",
+  "isDocsHomePage": false,
+  "title": "journal-of-basic-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-basic-microbiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-basic-microbiology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-basic-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-basic-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-avian-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-avian-biology"
+  },
+  "next": {
+    "title": "journal-of-biological-regulators-and-homeostatic-agents",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-biological-regulators-and-homeostatic-agents"
+  }
+}

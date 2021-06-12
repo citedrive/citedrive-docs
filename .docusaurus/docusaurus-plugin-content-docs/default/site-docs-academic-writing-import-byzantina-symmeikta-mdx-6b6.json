@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/byzantina-symmeikta",
+  "id": "academic-writing/import/byzantina-symmeikta",
+  "isDocsHomePage": false,
+  "title": "byzantina-symmeikta",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/byzantina-symmeikta.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/byzantina-symmeikta",
+  "permalink": "/support/docs/academic-writing/import/byzantina-symmeikta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/byzantina-symmeikta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "business-ethics-a-european-review",
+    "permalink": "/support/docs/academic-writing/import/business-ethics-a-european-review"
+  },
+  "next": {
+    "title": "byzantine-and-modern-greek-studies",
+    "permalink": "/support/docs/academic-writing/import/byzantine-and-modern-greek-studies"
+  }
+}

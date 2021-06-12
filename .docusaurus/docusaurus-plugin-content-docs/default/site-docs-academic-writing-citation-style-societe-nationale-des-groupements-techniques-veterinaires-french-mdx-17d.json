@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french",
+  "id": "academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french",
+  "isDocsHomePage": false,
+  "title": "societe-nationale-des-groupements-techniques-veterinaires-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french",
+  "permalink": "/support/docs/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
+    "permalink": "/support/docs/academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french"
+  },
+  "next": {
+    "title": "societes-contemporaines",
+    "permalink": "/support/docs/academic-writing/citation-style/societes-contemporaines"
+  }
+}

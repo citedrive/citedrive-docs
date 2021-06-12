@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-economic-history-review",
+  "id": "academic-writing/citation-style/the-economic-history-review",
+  "isDocsHomePage": false,
+  "title": "the-economic-history-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-economic-history-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-economic-history-review",
+  "permalink": "/support/docs/academic-writing/citation-style/the-economic-history-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-economic-history-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-design-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-design-journal"
+  },
+  "next": {
+    "title": "the-european-research-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-european-research-journal"
+  }
+}

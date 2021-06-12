@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-orthopaedica",
+  "id": "academic-writing/citation-style/acta-orthopaedica",
+  "isDocsHomePage": false,
+  "title": "acta-orthopaedica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-orthopaedica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-ornithologica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
+  },
+  "next": {
+    "title": "acta-orthopdica-belgica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
+  }
+}

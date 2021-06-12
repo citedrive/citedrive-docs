@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/evolutionary-anthropology",
+  "id": "academic-writing/citation-style/evolutionary-anthropology",
+  "isDocsHomePage": false,
+  "title": "evolutionary-anthropology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/evolutionary-anthropology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/evolutionary-anthropology",
+  "permalink": "/support/docs/academic-writing/citation-style/evolutionary-anthropology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/evolutionary-anthropology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolution",
+    "permalink": "/support/docs/academic-writing/citation-style/evolution"
+  },
+  "next": {
+    "title": "evolutionary-ecology-research",
+    "permalink": "/support/docs/academic-writing/citation-style/evolutionary-ecology-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+  "id": "academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+  "isDocsHomePage": false,
+  "title": "manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+  "permalink": "/support/docs/academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/manuel-canadien-de-la-reference-juridique-9e-edition-guide-mcgill-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "manchester-university-press-monographs-note",
+    "permalink": "/support/docs/academic-writing/citation-style/manchester-university-press-monographs-note"
+  },
+  "next": {
+    "title": "marine-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/marine-biology"
+  }
+}

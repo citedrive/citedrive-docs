@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revue-de-qumran",
+  "id": "academic-writing/citation-style/revue-de-qumran",
+  "isDocsHomePage": false,
+  "title": "revue-de-qumran",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revue-de-qumran.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revue-de-qumran",
+  "permalink": "/support/docs/academic-writing/citation-style/revue-de-qumran",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-de-qumran.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-de-medecine-veterinaire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-de-medecine-veterinaire-french"
+  },
+  "next": {
+    "title": "revue-delevage-et-de-medecine-veterinaire-des-pays-tropicaux-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-delevage-et-de-medecine-veterinaire-des-pays-tropicaux-french"
+  }
+}

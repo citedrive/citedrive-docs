@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bourgognefranchecomte-nature-french",
+  "id": "academic-writing/import/bourgognefranchecomte-nature-french",
+  "isDocsHomePage": false,
+  "title": "bourgognefranchecomte-nature-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bourgognefranchecomte-nature-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bourgognefranchecomte-nature-french",
+  "permalink": "/support/docs/academic-writing/import/bourgognefranchecomte-nature-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bourgognefranchecomte-nature-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "boreal-environment-research",
+    "permalink": "/support/docs/academic-writing/import/boreal-environment-research"
+  },
+  "next": {
+    "title": "bournemouth-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/bournemouth-university--harvard"
+  }
+}

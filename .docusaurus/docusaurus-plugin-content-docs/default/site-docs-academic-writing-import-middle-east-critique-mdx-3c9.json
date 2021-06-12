@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/middle-east-critique",
+  "id": "academic-writing/import/middle-east-critique",
+  "isDocsHomePage": false,
+  "title": "middle-east-critique",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/middle-east-critique.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/middle-east-critique",
+  "permalink": "/support/docs/academic-writing/import/middle-east-critique",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/middle-east-critique.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "microscopy-and-microanalysis",
+    "permalink": "/support/docs/academic-writing/import/microscopy-and-microanalysis"
+  },
+  "next": {
+    "title": "midwestern-baptist-theological-seminary",
+    "permalink": "/support/docs/academic-writing/import/midwestern-baptist-theological-seminary"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/turabian-9th-edition-authordate",
+  "id": "academic-writing/import/turabian-9th-edition-authordate",
+  "isDocsHomePage": false,
+  "title": "turabian-9th-edition-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/turabian-9th-edition-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/turabian-9th-edition-authordate",
+  "permalink": "/support/docs/academic-writing/import/turabian-9th-edition-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/turabian-9th-edition-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "turabian-8th-edition-full-note",
+    "permalink": "/support/docs/academic-writing/import/turabian-8th-edition-full-note"
+  },
+  "next": {
+    "title": "twentiethcentury-music",
+    "permalink": "/support/docs/academic-writing/import/twentiethcentury-music"
+  }
+}

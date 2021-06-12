@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/data-science-journal",
+  "id": "academic-writing/import/data-science-journal",
+  "isDocsHomePage": false,
+  "title": "data-science-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/data-science-journal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/data-science-journal",
+  "permalink": "/support/docs/academic-writing/import/data-science-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/data-science-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cytometry",
+    "permalink": "/support/docs/academic-writing/import/cytometry"
+  },
+  "next": {
+    "title": "database",
+    "permalink": "/support/docs/academic-writing/import/database"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian",
+  "id": "academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian",
+  "isDocsHomePage": false,
+  "title": "universitas-gadjah-mada--departemen-sejarah-indonesian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian",
+  "permalink": "/support/docs/academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universita-pontificia-salesiana",
+    "permalink": "/support/docs/academic-writing/citation-style/universita-pontificia-salesiana"
+  },
+  "next": {
+    "title": "universitas-negeri-semarang--fakultas-matematika-dan-ilmu-pengetahuan-alam-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/universitas-negeri-semarang--fakultas-matematika-dan-ilmu-pengetahuan-alam-indonesian"
+  }
+}

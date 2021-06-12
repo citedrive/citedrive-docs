@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/norois-french",
+  "id": "academic-writing/import/norois-french",
+  "isDocsHomePage": false,
+  "title": "norois-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/norois-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/norois-french",
+  "permalink": "/support/docs/academic-writing/import/norois-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/norois-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nordic-pulp-and-paper-research-journal",
+    "permalink": "/support/docs/academic-writing/import/nordic-pulp-and-paper-research-journal"
+  },
+  "next": {
+    "title": "norsk-apamanual--apa-7th-edition-authordate",
+    "permalink": "/support/docs/academic-writing/import/norsk-apamanual--apa-7th-edition-authordate"
+  }
+}

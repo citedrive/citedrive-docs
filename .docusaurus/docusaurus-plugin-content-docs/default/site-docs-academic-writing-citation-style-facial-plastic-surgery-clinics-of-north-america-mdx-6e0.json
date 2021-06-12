@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america",
+  "id": "academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america",
+  "isDocsHomePage": false,
+  "title": "facial-plastic-surgery-clinics-of-north-america",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america",
+  "permalink": "/support/docs/academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "fachhochschule-vorarlberg-note",
+    "permalink": "/support/docs/academic-writing/citation-style/fachhochschule-vorarlberg-note"
+  },
+  "next": {
+    "title": "facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian"
+  }
+}

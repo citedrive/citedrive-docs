@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-phytopathological-society",
+  "id": "academic-writing/import/american-phytopathological-society",
+  "isDocsHomePage": false,
+  "title": "american-phytopathological-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-phytopathological-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-phytopathological-society",
+  "permalink": "/support/docs/academic-writing/import/american-phytopathological-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-phytopathological-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-physiological-society",
+    "permalink": "/support/docs/academic-writing/import/american-physiological-society"
+  },
+  "next": {
+    "title": "american-political-science-association",
+    "permalink": "/support/docs/academic-writing/import/american-political-science-association"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/current-science",
+  "id": "academic-writing/import/current-science",
+  "isDocsHomePage": false,
+  "title": "current-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/current-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/current-science",
+  "permalink": "/support/docs/academic-writing/import/current-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/current-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-protocols-journals",
+    "permalink": "/support/docs/academic-writing/import/current-protocols-journals"
+  },
+  "next": {
+    "title": "current-topics-in-medicinal-chemistry",
+    "permalink": "/support/docs/academic-writing/import/current-topics-in-medicinal-chemistry"
+  }
+}

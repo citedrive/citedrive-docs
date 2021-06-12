@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/anabases-french",
+  "id": "academic-writing/import/anabases-french",
+  "isDocsHomePage": false,
+  "title": "anabases-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/anabases-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/anabases-french",
+  "permalink": "/support/docs/academic-writing/import/anabases-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/anabases-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "amphibiareptilia",
+    "permalink": "/support/docs/academic-writing/import/amphibiareptilia"
+  },
+  "next": {
+    "title": "anaesthesia",
+    "permalink": "/support/docs/academic-writing/import/anaesthesia"
+  }
+}

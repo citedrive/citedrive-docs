@@ -1,0 +1,19 @@
+{
+  "unversionedId": "academic-writing/import/zwitschermaschine",
+  "id": "academic-writing/import/zwitschermaschine",
+  "isDocsHomePage": false,
+  "title": "zwitschermaschine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zwitschermaschine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zwitschermaschine",
+  "permalink": "/support/docs/academic-writing/import/zwitschermaschine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zwitschermaschine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zootaxa",
+    "permalink": "/support/docs/academic-writing/import/zootaxa"
+  }
+}

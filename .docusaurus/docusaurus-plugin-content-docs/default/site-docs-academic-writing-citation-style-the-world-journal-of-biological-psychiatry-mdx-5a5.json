@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-world-journal-of-biological-psychiatry",
+  "id": "academic-writing/citation-style/the-world-journal-of-biological-psychiatry",
+  "isDocsHomePage": false,
+  "title": "the-world-journal-of-biological-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-world-journal-of-biological-psychiatry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-world-journal-of-biological-psychiatry",
+  "permalink": "/support/docs/academic-writing/citation-style/the-world-journal-of-biological-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-world-journal-of-biological-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-university-of-winchester--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-university-of-winchester--harvard"
+  },
+  "next": {
+    "title": "theologie-und-philosophie-german",
+    "permalink": "/support/docs/academic-writing/citation-style/theologie-und-philosophie-german"
+  }
+}

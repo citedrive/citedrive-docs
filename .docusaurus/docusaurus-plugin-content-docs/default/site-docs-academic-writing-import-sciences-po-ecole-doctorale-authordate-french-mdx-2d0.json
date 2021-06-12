@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/sciences-po--ecole-doctorale-authordate-french",
+  "id": "academic-writing/import/sciences-po--ecole-doctorale-authordate-french",
+  "isDocsHomePage": false,
+  "title": "sciences-po--ecole-doctorale-authordate-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/sciences-po--ecole-doctorale-authordate-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/sciences-po--ecole-doctorale-authordate-french",
+  "permalink": "/support/docs/academic-writing/import/sciences-po--ecole-doctorale-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/sciences-po--ecole-doctorale-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "scienceasia",
+    "permalink": "/support/docs/academic-writing/import/scienceasia"
+  },
+  "next": {
+    "title": "sciences-po--ecole-doctorale-note-french",
+    "permalink": "/support/docs/academic-writing/import/sciences-po--ecole-doctorale-note-french"
+  }
+}

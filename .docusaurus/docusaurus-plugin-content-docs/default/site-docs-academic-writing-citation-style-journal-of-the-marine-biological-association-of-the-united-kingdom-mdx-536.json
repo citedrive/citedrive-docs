@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom",
+  "id": "academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-marine-biological-association-of-the-united-kingdom",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-korean-society-of-civil-engineers",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers"
+  },
+  "next": {
+    "title": "journal-of-the-royal-anthropological-institute",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-anthropological-institute"
+  }
+}

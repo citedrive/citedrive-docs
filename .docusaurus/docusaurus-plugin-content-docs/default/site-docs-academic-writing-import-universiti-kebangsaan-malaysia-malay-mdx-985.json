@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universiti-kebangsaan-malaysia-malay",
+  "id": "academic-writing/import/universiti-kebangsaan-malaysia-malay",
+  "isDocsHomePage": false,
+  "title": "universiti-kebangsaan-malaysia-malay",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universiti-kebangsaan-malaysia-malay.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universiti-kebangsaan-malaysia-malay",
+  "permalink": "/support/docs/academic-writing/import/universiti-kebangsaan-malaysia-malay",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universiti-kebangsaan-malaysia-malay.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+    "permalink": "/support/docs/academic-writing/import/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal"
+  },
+  "next": {
+    "title": "universiti-teknologi-malaysia--harvard",
+    "permalink": "/support/docs/academic-writing/import/universiti-teknologi-malaysia--harvard"
+  }
+}

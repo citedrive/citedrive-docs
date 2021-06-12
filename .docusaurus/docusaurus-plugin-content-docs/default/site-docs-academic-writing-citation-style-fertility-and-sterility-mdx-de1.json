@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/fertility-and-sterility",
+  "id": "academic-writing/citation-style/fertility-and-sterility",
+  "isDocsHomePage": false,
+  "title": "fertility-and-sterility",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/fertility-and-sterility.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/fertility-and-sterility",
+  "permalink": "/support/docs/academic-writing/citation-style/fertility-and-sterility",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fertility-and-sterility.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ferdinand-porsche-fernfachhochschule-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/ferdinand-porsche-fernfachhochschule-german--austria"
+  },
+  "next": {
+    "title": "finance-and-society",
+    "permalink": "/support/docs/academic-writing/citation-style/finance-and-society"
+  }
+}

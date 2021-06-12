@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/forum-qualitative-social-research-english",
+  "id": "academic-writing/import/forum-qualitative-social-research-english",
+  "isDocsHomePage": false,
+  "title": "forum-qualitative-social-research-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/forum-qualitative-social-research-english.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/forum-qualitative-social-research-english",
+  "permalink": "/support/docs/academic-writing/import/forum-qualitative-social-research-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/forum-qualitative-social-research-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forest-science",
+    "permalink": "/support/docs/academic-writing/import/forest-science"
+  },
+  "next": {
+    "title": "forum-qualitative-sozialforschung-german",
+    "permalink": "/support/docs/academic-writing/import/forum-qualitative-sozialforschung-german"
+  }
+}

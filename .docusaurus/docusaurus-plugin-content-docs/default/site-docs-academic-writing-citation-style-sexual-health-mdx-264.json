@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sexual-health",
+  "id": "academic-writing/citation-style/sexual-health",
+  "isDocsHomePage": false,
+  "title": "sexual-health",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sexual-health.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sexual-health",
+  "permalink": "/support/docs/academic-writing/citation-style/sexual-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sexual-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sexual-development",
+    "permalink": "/support/docs/academic-writing/citation-style/sexual-development"
+  },
+  "next": {
+    "title": "sheffield-hallam-university--history",
+    "permalink": "/support/docs/academic-writing/citation-style/sheffield-hallam-university--history"
+  }
+}

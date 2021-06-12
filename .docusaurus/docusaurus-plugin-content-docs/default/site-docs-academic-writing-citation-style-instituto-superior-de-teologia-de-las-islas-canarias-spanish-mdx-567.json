@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+  "id": "academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+  "isDocsHomePage": false,
+  "title": "instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+    "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisas-tecnologicas-portuguese--brazil"
+  },
+  "next": {
+    "title": "integrated-science-publishing-journals",
+    "permalink": "/support/docs/academic-writing/citation-style/integrated-science-publishing-journals"
+  }
+}

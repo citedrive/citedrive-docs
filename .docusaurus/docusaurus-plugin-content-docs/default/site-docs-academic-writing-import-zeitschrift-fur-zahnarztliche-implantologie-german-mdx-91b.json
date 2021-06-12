@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german",
+  "id": "academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-zahnarztliche-implantologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-zahnarztliche-implantologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-theologie-und-philosophie",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-theologie-und-philosophie"
+  },
+  "next": {
+    "title": "zeszyty-prawnicze-bas-polish",
+    "permalink": "/support/docs/academic-writing/import/zeszyty-prawnicze-bas-polish"
+  }
+}

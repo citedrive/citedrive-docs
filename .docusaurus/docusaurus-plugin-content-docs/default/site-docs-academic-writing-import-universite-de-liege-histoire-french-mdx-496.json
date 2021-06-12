@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universite-de-liege--histoire-french",
+  "id": "academic-writing/import/universite-de-liege--histoire-french",
+  "isDocsHomePage": false,
+  "title": "universite-de-liege--histoire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universite-de-liege--histoire-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universite-de-liege--histoire-french",
+  "permalink": "/support/docs/academic-writing/import/universite-de-liege--histoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universite-de-liege--histoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-liege--droit-french",
+    "permalink": "/support/docs/academic-writing/import/universite-de-liege--droit-french"
+  },
+  "next": {
+    "title": "universite-de-montreal--apa-french--canada",
+    "permalink": "/support/docs/academic-writing/import/universite-de-montreal--apa-french--canada"
+  }
+}

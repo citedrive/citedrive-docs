@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-transport-history",
+  "id": "academic-writing/citation-style/the-journal-of-transport-history",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-transport-history",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-transport-history.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-transport-history",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-transport-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-transport-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-the-torrey-botanical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-the-torrey-botanical-society"
+  },
+  "next": {
+    "title": "the-journal-of-trauma-and-acute-care-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery"
+  }
+}

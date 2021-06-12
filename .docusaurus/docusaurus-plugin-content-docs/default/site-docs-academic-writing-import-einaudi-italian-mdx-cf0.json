@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/einaudi-italian",
+  "id": "academic-writing/import/einaudi-italian",
+  "isDocsHomePage": false,
+  "title": "einaudi-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/einaudi-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/einaudi-italian",
+  "permalink": "/support/docs/academic-writing/import/einaudi-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/einaudi-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "egretta-german--austria",
+    "permalink": "/support/docs/academic-writing/import/egretta-german--austria"
+  },
+  "next": {
+    "title": "eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+    "permalink": "/support/docs/academic-writing/import/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english"
+  }
+}

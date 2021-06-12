@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pontifical-biblical-institute",
+  "id": "academic-writing/import/pontifical-biblical-institute",
+  "isDocsHomePage": false,
+  "title": "pontifical-biblical-institute",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pontifical-biblical-institute.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pontifical-biblical-institute",
+  "permalink": "/support/docs/academic-writing/import/pontifical-biblical-institute",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pontifical-biblical-institute.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pontifical-athenaeum-regina-apostolorum",
+    "permalink": "/support/docs/academic-writing/import/pontifical-athenaeum-regina-apostolorum"
+  },
+  "next": {
+    "title": "pontifical-gregorian-university-italian",
+    "permalink": "/support/docs/academic-writing/import/pontifical-gregorian-university-italian"
+  }
+}

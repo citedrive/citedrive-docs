@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/veterinary-pathology",
+  "id": "academic-writing/citation-style/veterinary-pathology",
+  "isDocsHomePage": false,
+  "title": "veterinary-pathology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/veterinary-pathology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/veterinary-pathology",
+  "permalink": "/support/docs/academic-writing/citation-style/veterinary-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/veterinary-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veterinary-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinary-microbiology"
+  },
+  "next": {
+    "title": "veterinary-radiology-and-ultrasound",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound"
+  }
+}

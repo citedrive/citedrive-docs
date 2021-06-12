@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bibtex-generic-citation-style",
+  "id": "academic-writing/citation-style/bibtex-generic-citation-style",
+  "isDocsHomePage": false,
+  "title": "bibtex-generic-citation-style",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bibtex-generic-citation-style.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bibtex-generic-citation-style",
+  "permalink": "/support/docs/academic-writing/citation-style/bibtex-generic-citation-style",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bibtex-generic-citation-style.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bibliotheque-universitaire-de-medecine--vancouver-french",
+    "permalink": "/support/docs/academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french"
+  },
+  "next": {
+    "title": "biens-symboliques--symbolic-goods",
+    "permalink": "/support/docs/academic-writing/citation-style/biens-symboliques--symbolic-goods"
+  }
+}

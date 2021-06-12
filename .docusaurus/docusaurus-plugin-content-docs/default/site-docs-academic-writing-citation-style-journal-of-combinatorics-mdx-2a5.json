@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-combinatorics",
+  "id": "academic-writing/citation-style/journal-of-combinatorics",
+  "isDocsHomePage": false,
+  "title": "journal-of-combinatorics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-combinatorics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-combinatorics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-combinatorics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-combinatorics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-clinical-sleep-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-sleep-medicine"
+  },
+  "next": {
+    "title": "journal-of-common-market-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-common-market-studies"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies",
+  "id": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies",
+  "isDocsHomePage": false,
+  "title": "hiob-ludolf-centre-for-ethiopian-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+    "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi"
+  },
+  "next": {
+    "title": "hipertension-y-riesgo-vascular-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mondes-en-developpement-french",
+  "id": "academic-writing/citation-style/mondes-en-developpement-french",
+  "isDocsHomePage": false,
+  "title": "mondes-en-developpement-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mondes-en-developpement-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mondes-en-developpement-french",
+  "permalink": "/support/docs/academic-writing/citation-style/mondes-en-developpement-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mondes-en-developpement-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "monash-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/monash-university--harvard"
+  },
+  "next": {
+    "title": "moore-theological-college",
+    "permalink": "/support/docs/academic-writing/citation-style/moore-theological-college"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/economic-geology",
+  "id": "academic-writing/import/economic-geology",
+  "isDocsHomePage": false,
+  "title": "economic-geology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/economic-geology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/economic-geology",
+  "permalink": "/support/docs/academic-writing/import/economic-geology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/economic-geology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "economic-commission-for-latin-america-and-the-caribbean",
+    "permalink": "/support/docs/academic-writing/import/economic-commission-for-latin-america-and-the-caribbean"
+  },
+  "next": {
+    "title": "economie-et-statistique-french",
+    "permalink": "/support/docs/academic-writing/import/economie-et-statistique-french"
+  }
+}

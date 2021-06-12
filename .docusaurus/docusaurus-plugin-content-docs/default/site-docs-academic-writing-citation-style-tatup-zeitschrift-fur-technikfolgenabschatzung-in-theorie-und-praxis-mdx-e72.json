@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+  "id": "academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+  "isDocsHomePage": false,
+  "title": "tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+  "permalink": "/support/docs/academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tatup--zeitschrift-fur-technikfolgenabschatzung-in-theorie-und-praxis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tagungsberichte-der-historischen-kommission-fur-ost-und-westpreuische-landesforschung-german",
+    "permalink": "/support/docs/academic-writing/citation-style/tagungsberichte-der-historischen-kommission-fur-ost-und-westpreuische-landesforschung-german"
+  },
+  "next": {
+    "title": "taxon",
+    "permalink": "/support/docs/academic-writing/citation-style/taxon"
+  }
+}

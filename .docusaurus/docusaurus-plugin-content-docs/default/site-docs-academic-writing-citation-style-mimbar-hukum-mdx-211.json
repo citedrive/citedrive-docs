@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mimbar-hukum",
+  "id": "academic-writing/citation-style/mimbar-hukum",
+  "isDocsHomePage": false,
+  "title": "mimbar-hukum",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mimbar-hukum.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mimbar-hukum",
+  "permalink": "/support/docs/academic-writing/citation-style/mimbar-hukum",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mimbar-hukum.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "midwestern-baptist-theological-seminary",
+    "permalink": "/support/docs/academic-writing/citation-style/midwestern-baptist-theological-seminary"
+  },
+  "next": {
+    "title": "mimesis-edizioni-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian"
+  }
+}

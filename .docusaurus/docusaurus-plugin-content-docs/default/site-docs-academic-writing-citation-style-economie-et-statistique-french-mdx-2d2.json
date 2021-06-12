@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/economie-et-statistique-french",
+  "id": "academic-writing/citation-style/economie-et-statistique-french",
+  "isDocsHomePage": false,
+  "title": "economie-et-statistique-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/economie-et-statistique-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/economie-et-statistique-french",
+  "permalink": "/support/docs/academic-writing/citation-style/economie-et-statistique-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/economie-et-statistique-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "economic-geology",
+    "permalink": "/support/docs/academic-writing/citation-style/economic-geology"
+  },
+  "next": {
+    "title": "ecoscience",
+    "permalink": "/support/docs/academic-writing/citation-style/ecoscience"
+  }
+}

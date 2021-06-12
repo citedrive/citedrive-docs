@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/clinical-anatomy",
+  "id": "academic-writing/import/clinical-anatomy",
+  "isDocsHomePage": false,
+  "title": "clinical-anatomy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/clinical-anatomy.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/clinical-anatomy",
+  "permalink": "/support/docs/academic-writing/import/clinical-anatomy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/clinical-anatomy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinica-e-investigacion-en-arteriosclerosis-spanish",
+    "permalink": "/support/docs/academic-writing/import/clinica-e-investigacion-en-arteriosclerosis-spanish"
+  },
+  "next": {
+    "title": "clinical-dysmorphology",
+    "permalink": "/support/docs/academic-writing/import/clinical-dysmorphology"
+  }
+}

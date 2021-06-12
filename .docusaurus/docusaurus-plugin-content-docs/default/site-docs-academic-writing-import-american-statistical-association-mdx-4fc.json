@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-statistical-association",
+  "id": "academic-writing/import/american-statistical-association",
+  "isDocsHomePage": false,
+  "title": "american-statistical-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-statistical-association.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-statistical-association",
+  "permalink": "/support/docs/academic-writing/import/american-statistical-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-statistical-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-sociological-association-6th-edition",
+    "permalink": "/support/docs/academic-writing/import/american-sociological-association-6th-edition"
+  },
+  "next": {
+    "title": "american-veterinary-medical-association",
+    "permalink": "/support/docs/academic-writing/import/american-veterinary-medical-association"
+  }
+}

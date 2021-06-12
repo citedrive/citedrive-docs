@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acm-sigchi-proceedings-2016",
+  "id": "academic-writing/import/acm-sigchi-proceedings-2016",
+  "isDocsHomePage": false,
+  "title": "acm-sigchi-proceedings-2016",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acm-sigchi-proceedings-2016.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acm-sigchi-proceedings-2016",
+  "permalink": "/support/docs/academic-writing/import/acm-sigchi-proceedings-2016",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acm-sigchi-proceedings-2016.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acm-sigchi-proceedings--extended-abstract-format",
+    "permalink": "/support/docs/academic-writing/import/acm-sigchi-proceedings--extended-abstract-format"
+  },
+  "next": {
+    "title": "acm-siggraph",
+    "permalink": "/support/docs/academic-writing/import/acm-siggraph"
+  }
+}

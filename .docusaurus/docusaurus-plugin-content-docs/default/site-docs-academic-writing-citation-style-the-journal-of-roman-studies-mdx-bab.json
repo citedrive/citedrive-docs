@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-roman-studies",
+  "id": "academic-writing/citation-style/the-journal-of-roman-studies",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-roman-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-roman-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-roman-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-roman-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-roman-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-pure-and-applied-chemistry-research",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-pure-and-applied-chemistry-research"
+  },
+  "next": {
+    "title": "the-journal-of-the-acoustical-society-of-america",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-the-acoustical-society-of-america"
+  }
+}

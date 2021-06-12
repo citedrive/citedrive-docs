@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+  "id": "academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+  "isDocsHomePage": false,
+  "title": "john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+  "permalink": "/support/docs/academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/john-benjamins-publishing-company--linguistik-aktuelllinguistics-today.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "john-benjamins-publishing-company--iconicity-in-language-and-literature",
+    "permalink": "/support/docs/academic-writing/citation-style/john-benjamins-publishing-company--iconicity-in-language-and-literature"
+  },
+  "next": {
+    "title": "johnson-matthey-technology-review",
+    "permalink": "/support/docs/academic-writing/citation-style/johnson-matthey-technology-review"
+  }
+}

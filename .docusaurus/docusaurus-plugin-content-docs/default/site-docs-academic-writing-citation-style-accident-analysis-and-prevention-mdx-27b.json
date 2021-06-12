@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/accident-analysis-and-prevention",
+  "id": "academic-writing/citation-style/accident-analysis-and-prevention",
+  "isDocsHomePage": false,
+  "title": "accident-analysis-and-prevention",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/accident-analysis-and-prevention.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/accident-analysis-and-prevention",
+  "permalink": "/support/docs/academic-writing/citation-style/accident-analysis-and-prevention",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/accident-analysis-and-prevention.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "academy-of-management-review",
+    "permalink": "/support/docs/academic-writing/citation-style/academy-of-management-review"
+  },
+  "next": {
+    "title": "aci-materials-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/aci-materials-journal"
+  }
+}

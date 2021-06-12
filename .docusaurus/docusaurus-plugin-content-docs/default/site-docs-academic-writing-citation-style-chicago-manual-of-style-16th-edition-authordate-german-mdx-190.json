@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
+  "id": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-16th-edition-authordate-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
+  "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-16th-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate"
+  }
+}

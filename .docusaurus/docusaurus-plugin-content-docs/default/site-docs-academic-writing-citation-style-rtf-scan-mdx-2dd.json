@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/rtf-scan",
+  "id": "academic-writing/citation-style/rtf-scan",
+  "isDocsHomePage": false,
+  "title": "rtf-scan",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/rtf-scan.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/rtf-scan",
+  "permalink": "/support/docs/academic-writing/citation-style/rtf-scan",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rtf-scan.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "royal-society-of-chemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/royal-society-of-chemistry"
+  },
+  "next": {
+    "title": "ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering"
+  }
+}

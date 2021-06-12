@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+  "id": "academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+  "permalink": "/support/docs/academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revista-espanola-de-nutricion-humana-y-dietetica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+    "permalink": "/support/docs/academic-writing/import/revista-do-instituto-de-medicina-tropical-de-sao-paulo"
+  },
+  "next": {
+    "title": "revista-fave--seccion-ciencias-agrarias-spanish",
+    "permalink": "/support/docs/academic-writing/import/revista-fave--seccion-ciencias-agrarias-spanish"
+  }
+}

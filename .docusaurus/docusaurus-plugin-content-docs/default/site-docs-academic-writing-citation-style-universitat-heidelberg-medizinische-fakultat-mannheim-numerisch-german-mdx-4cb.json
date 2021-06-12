@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+  "id": "academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+  "isDocsHomePage": false,
+  "title": "universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+  "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-heidelberg--historisches-seminar-german",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german"
+  },
+  "next": {
+    "title": "universitat-mainz--geographisches-institut-german",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german"
+  }
+}

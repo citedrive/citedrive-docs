@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/high-altitude-medicine-and-biology",
+  "id": "academic-writing/import/high-altitude-medicine-and-biology",
+  "isDocsHomePage": false,
+  "title": "high-altitude-medicine-and-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/high-altitude-medicine-and-biology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/high-altitude-medicine-and-biology",
+  "permalink": "/support/docs/academic-writing/import/high-altitude-medicine-and-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/high-altitude-medicine-and-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "herpetologica",
+    "permalink": "/support/docs/academic-writing/import/herpetologica"
+  },
+  "next": {
+    "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
+    "permalink": "/support/docs/academic-writing/import/hiob-ludolf-centre-for-ethiopian-studies-long-names"
+  }
+}

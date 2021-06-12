@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/juristische-schulung-german",
+  "id": "academic-writing/citation-style/juristische-schulung-german",
+  "isDocsHomePage": false,
+  "title": "juristische-schulung-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/juristische-schulung-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/juristische-schulung-german",
+  "permalink": "/support/docs/academic-writing/citation-style/juristische-schulung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/juristische-schulung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journalistica-danish",
+    "permalink": "/support/docs/academic-writing/citation-style/journalistica-danish"
+  },
+  "next": {
+    "title": "juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland",
+    "permalink": "/support/docs/academic-writing/citation-style/juristische-zitierweise-schweizer-ryser-buschi-et-al-german--switzerland"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/navigation",
+  "id": "academic-writing/citation-style/navigation",
+  "isDocsHomePage": false,
+  "title": "navigation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/navigation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/navigation",
+  "permalink": "/support/docs/academic-writing/citation-style/navigation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/navigation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nauplius",
+    "permalink": "/support/docs/academic-writing/citation-style/nauplius"
+  },
+  "next": {
+    "title": "nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+    "permalink": "/support/docs/academic-writing/citation-style/nccr-mediality-medienwandel--medienwechsel--medienwissen-german"
+  }
+}

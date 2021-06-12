@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/comparative-population-studies",
+  "id": "academic-writing/citation-style/comparative-population-studies",
+  "isDocsHomePage": false,
+  "title": "comparative-population-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/comparative-population-studies.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/comparative-population-studies",
+  "permalink": "/support/docs/academic-writing/citation-style/comparative-population-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/comparative-population-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "comparative-politics",
+    "permalink": "/support/docs/academic-writing/citation-style/comparative-politics"
+  },
+  "next": {
+    "title": "computer-und-recht-german",
+    "permalink": "/support/docs/academic-writing/citation-style/computer-und-recht-german"
+  }
+}

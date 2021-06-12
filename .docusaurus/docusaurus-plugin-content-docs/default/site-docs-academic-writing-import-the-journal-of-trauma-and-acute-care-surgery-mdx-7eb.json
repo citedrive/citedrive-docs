@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-trauma-and-acute-care-surgery",
+  "id": "academic-writing/import/the-journal-of-trauma-and-acute-care-surgery",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-trauma-and-acute-care-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-trauma-and-acute-care-surgery.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-trauma-and-acute-care-surgery",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-trauma-and-acute-care-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-trauma-and-acute-care-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-transport-history",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-transport-history"
+  },
+  "next": {
+    "title": "the-journal-of-urology",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-urology"
+  }
+}

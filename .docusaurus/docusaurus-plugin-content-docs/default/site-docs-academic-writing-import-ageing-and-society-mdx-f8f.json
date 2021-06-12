@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ageing-and-society",
+  "id": "academic-writing/import/ageing-and-society",
+  "isDocsHomePage": false,
+  "title": "ageing-and-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ageing-and-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ageing-and-society",
+  "permalink": "/support/docs/academic-writing/import/ageing-and-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ageing-and-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "age-and-ageing",
+    "permalink": "/support/docs/academic-writing/import/age-and-ageing"
+  },
+  "next": {
+    "title": "aging-and-disease",
+    "permalink": "/support/docs/academic-writing/import/aging-and-disease"
+  }
+}

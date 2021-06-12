@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cyberpsychology-behavior-and-social-networking",
+  "id": "academic-writing/import/cyberpsychology-behavior-and-social-networking",
+  "isDocsHomePage": false,
+  "title": "cyberpsychology-behavior-and-social-networking",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cyberpsychology-behavior-and-social-networking.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cyberpsychology-behavior-and-social-networking",
+  "permalink": "/support/docs/academic-writing/import/cyberpsychology-behavior-and-social-networking",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cyberpsychology-behavior-and-social-networking.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "currents-in-biblical-research",
+    "permalink": "/support/docs/academic-writing/import/currents-in-biblical-research"
+  },
+  "next": {
+    "title": "cybium",
+    "permalink": "/support/docs/academic-writing/import/cybium"
+  }
+}

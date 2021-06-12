@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german",
+  "id": "academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german",
+  "isDocsHomePage": false,
+  "title": "suburban--zeitschrift-fur-kritische-stadtforschung-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german",
+  "permalink": "/support/docs/academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/suburban--zeitschrift-fur-kritische-stadtforschung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "style-manual--australian-government-note",
+    "permalink": "/support/docs/academic-writing/import/style-manual--australian-government-note"
+  },
+  "next": {
+    "title": "sunway-college-johor-bahru--harvard",
+    "permalink": "/support/docs/academic-writing/import/sunway-college-johor-bahru--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oncotarget",
+  "id": "academic-writing/import/oncotarget",
+  "isDocsHomePage": false,
+  "title": "oncotarget",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oncotarget.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oncotarget",
+  "permalink": "/support/docs/academic-writing/import/oncotarget",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oncotarget.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oncoimmunology",
+    "permalink": "/support/docs/academic-writing/import/oncoimmunology"
+  },
+  "next": {
+    "title": "onderstepoort-journal-of-veterinary-research",
+    "permalink": "/support/docs/academic-writing/import/onderstepoort-journal-of-veterinary-research"
+  }
+}

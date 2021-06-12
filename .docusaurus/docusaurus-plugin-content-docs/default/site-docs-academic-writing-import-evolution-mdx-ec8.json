@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/evolution",
+  "id": "academic-writing/import/evolution",
+  "isDocsHomePage": false,
+  "title": "evolution",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/evolution.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/evolution",
+  "permalink": "/support/docs/academic-writing/import/evolution",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/evolution.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolution-and-development",
+    "permalink": "/support/docs/academic-writing/import/evolution-and-development"
+  },
+  "next": {
+    "title": "evolutionary-anthropology",
+    "permalink": "/support/docs/academic-writing/import/evolutionary-anthropology"
+  }
+}

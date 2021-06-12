@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/neuropsychopharmacology",
+  "id": "academic-writing/import/neuropsychopharmacology",
+  "isDocsHomePage": false,
+  "title": "neuropsychopharmacology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/neuropsychopharmacology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/neuropsychopharmacology",
+  "permalink": "/support/docs/academic-writing/import/neuropsychopharmacology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/neuropsychopharmacology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurology",
+    "permalink": "/support/docs/academic-writing/import/neurology"
+  },
+  "next": {
+    "title": "neurorehabilitation-and-neural-repair",
+    "permalink": "/support/docs/academic-writing/import/neurorehabilitation-and-neural-repair"
+  }
+}

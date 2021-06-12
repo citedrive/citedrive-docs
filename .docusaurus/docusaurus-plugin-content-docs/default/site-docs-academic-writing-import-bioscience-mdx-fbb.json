@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bioscience",
+  "id": "academic-writing/import/bioscience",
+  "isDocsHomePage": false,
+  "title": "bioscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bioscience.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bioscience",
+  "permalink": "/support/docs/academic-writing/import/bioscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bioscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bioresources",
+    "permalink": "/support/docs/academic-writing/import/bioresources"
+  },
+  "next": {
+    "title": "biosocieties",
+    "permalink": "/support/docs/academic-writing/import/biosocieties"
+  }
+}

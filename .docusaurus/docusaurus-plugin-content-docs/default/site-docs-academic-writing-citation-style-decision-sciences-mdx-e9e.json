@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/decision-sciences",
+  "id": "academic-writing/citation-style/decision-sciences",
+  "isDocsHomePage": false,
+  "title": "decision-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/decision-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/decision-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/decision-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/decision-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "deakin-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/deakin-university--harvard"
+  },
+  "next": {
+    "title": "demographic-research",
+    "permalink": "/support/docs/academic-writing/citation-style/demographic-research"
+  }
+}

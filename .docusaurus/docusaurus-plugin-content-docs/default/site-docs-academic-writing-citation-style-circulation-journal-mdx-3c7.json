@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/circulation-journal",
+  "id": "academic-writing/citation-style/circulation-journal",
+  "isDocsHomePage": false,
+  "title": "circulation-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/circulation-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/circulation-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/circulation-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/circulation-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chungara-revista-de-antropologia-chilena-spanish--chile",
+    "permalink": "/support/docs/academic-writing/citation-style/chungara-revista-de-antropologia-chilena-spanish--chile"
+  },
+  "next": {
+    "title": "circulation",
+    "permalink": "/support/docs/academic-writing/citation-style/circulation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-york--ieee",
+  "id": "academic-writing/citation-style/university-of-york--ieee",
+  "isDocsHomePage": false,
+  "title": "university-of-york--ieee",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-york--ieee.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-york--ieee",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-york--ieee",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--ieee.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard"
+  },
+  "next": {
+    "title": "university-of-york--modern-humanities-research-association-3rd-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition"
+  }
+}

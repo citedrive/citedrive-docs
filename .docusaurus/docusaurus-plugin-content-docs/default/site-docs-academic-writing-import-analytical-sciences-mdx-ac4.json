@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/analytical-sciences",
+  "id": "academic-writing/import/analytical-sciences",
+  "isDocsHomePage": false,
+  "title": "analytical-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/analytical-sciences.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/analytical-sciences",
+  "permalink": "/support/docs/academic-writing/import/analytical-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/analytical-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "anaesthesia",
+    "permalink": "/support/docs/academic-writing/import/anaesthesia"
+  },
+  "next": {
+    "title": "anatomical-sciences-education",
+    "permalink": "/support/docs/academic-writing/import/anatomical-sciences-education"
+  }
+}

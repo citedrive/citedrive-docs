@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/freshwater-biology",
+  "id": "academic-writing/import/freshwater-biology",
+  "isDocsHomePage": false,
+  "title": "freshwater-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/freshwater-biology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/freshwater-biology",
+  "permalink": "/support/docs/academic-writing/import/freshwater-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/freshwater-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "french-politics",
+    "permalink": "/support/docs/academic-writing/import/french-politics"
+  },
+  "next": {
+    "title": "freshwater-crayfish",
+    "permalink": "/support/docs/academic-writing/import/freshwater-crayfish"
+  }
+}

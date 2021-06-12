@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/association-for-computational-linguistics--conference-proceedings",
+  "id": "academic-writing/import/association-for-computational-linguistics--conference-proceedings",
+  "isDocsHomePage": false,
+  "title": "association-for-computational-linguistics--conference-proceedings",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/association-for-computational-linguistics--conference-proceedings.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/association-for-computational-linguistics--conference-proceedings",
+  "permalink": "/support/docs/academic-writing/import/association-for-computational-linguistics--conference-proceedings",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/association-for-computational-linguistics--conference-proceedings.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "association-de-science-regionale-de-langue-francaise-french",
+    "permalink": "/support/docs/academic-writing/import/association-de-science-regionale-de-langue-francaise-french"
+  },
+  "next": {
+    "title": "association-for-computing-machinery",
+    "permalink": "/support/docs/academic-writing/import/association-for-computing-machinery"
+  }
+}

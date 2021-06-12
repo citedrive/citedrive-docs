@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/advanced-optical-materials",
+  "id": "academic-writing/citation-style/advanced-optical-materials",
+  "isDocsHomePage": false,
+  "title": "advanced-optical-materials",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/advanced-optical-materials.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/advanced-optical-materials",
+  "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-optical-materials.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "advanced-materials",
+    "permalink": "/support/docs/academic-writing/citation-style/advanced-materials"
+  },
+  "next": {
+    "title": "advances-in-alzheimers-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease"
+  }
+}

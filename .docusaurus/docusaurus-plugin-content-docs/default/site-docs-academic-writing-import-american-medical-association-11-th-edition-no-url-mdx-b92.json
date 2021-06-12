@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-medical-association-11th-edition-no-url",
+  "id": "academic-writing/import/american-medical-association-11th-edition-no-url",
+  "isDocsHomePage": false,
+  "title": "american-medical-association-11th-edition-no-url",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-medical-association-11th-edition-no-url.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-medical-association-11th-edition-no-url",
+  "permalink": "/support/docs/academic-writing/import/american-medical-association-11th-edition-no-url",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-medical-association-11th-edition-no-url.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-medical-association-11th-edition-no-et-al",
+    "permalink": "/support/docs/academic-writing/import/american-medical-association-11th-edition-no-et-al"
+  },
+  "next": {
+    "title": "american-medical-association-11th-edition-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/import/american-medical-association-11th-edition-sorted-alphabetically"
+  }
+}

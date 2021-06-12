@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-management-issues",
+  "id": "academic-writing/citation-style/clinical-management-issues",
+  "isDocsHomePage": false,
+  "title": "clinical-management-issues",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-management-issues.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-management-issues",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-management-issues",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-management-issues.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-journal-of-the-american-society-of-nephrology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology"
+  },
+  "next": {
+    "title": "clinical-nuclear-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-nuclear-medicine"
+  }
+}

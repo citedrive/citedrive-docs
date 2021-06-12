@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/evolutionary-ecology-research",
+  "id": "academic-writing/import/evolutionary-ecology-research",
+  "isDocsHomePage": false,
+  "title": "evolutionary-ecology-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/evolutionary-ecology-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/evolutionary-ecology-research",
+  "permalink": "/support/docs/academic-writing/import/evolutionary-ecology-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/evolutionary-ecology-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evolutionary-anthropology",
+    "permalink": "/support/docs/academic-writing/import/evolutionary-anthropology"
+  },
+  "next": {
+    "title": "excli-journal",
+    "permalink": "/support/docs/academic-writing/import/excli-journal"
+  }
+}

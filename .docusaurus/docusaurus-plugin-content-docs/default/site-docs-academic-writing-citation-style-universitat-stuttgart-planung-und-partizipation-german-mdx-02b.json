@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german",
+  "id": "academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german",
+  "isDocsHomePage": false,
+  "title": "universitat-stuttgart--planung-und-partizipation-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german",
+  "permalink": "/support/docs/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-mainz--geographisches-institut-german",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german"
+  },
+  "next": {
+    "title": "universitat-wien--institut-fur-geschichte",
+    "permalink": "/support/docs/academic-writing/citation-style/universitat-wien--institut-fur-geschichte"
+  }
+}

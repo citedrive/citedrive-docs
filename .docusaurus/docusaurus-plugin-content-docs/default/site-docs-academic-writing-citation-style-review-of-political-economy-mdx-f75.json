@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/review-of-political-economy",
+  "id": "academic-writing/citation-style/review-of-political-economy",
+  "isDocsHomePage": false,
+  "title": "review-of-political-economy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/review-of-political-economy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/review-of-political-economy",
+  "permalink": "/support/docs/academic-writing/citation-style/review-of-political-economy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/review-of-political-economy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "review-of-international-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/review-of-international-studies"
+  },
+  "next": {
+    "title": "reviews-of-modern-physics-with-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/reviews-of-modern-physics-with-titles"
+  }
+}

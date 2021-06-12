@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universite-de-montreal--apa-french--canada",
+  "id": "academic-writing/citation-style/universite-de-montreal--apa-french--canada",
+  "isDocsHomePage": false,
+  "title": "universite-de-montreal--apa-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universite-de-montreal--apa-french--canada.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universite-de-montreal--apa-french--canada",
+  "permalink": "/support/docs/academic-writing/citation-style/universite-de-montreal--apa-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-de-montreal--apa-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-liege--histoire-french",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--histoire-french"
+  },
+  "next": {
+    "title": "universite-de-montreal--faculte-de-musique-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-montreal--faculte-de-musique-french--canada"
+  }
+}

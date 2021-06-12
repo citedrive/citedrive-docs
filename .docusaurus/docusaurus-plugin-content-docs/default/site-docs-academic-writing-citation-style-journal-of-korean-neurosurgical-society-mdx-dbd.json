@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-korean-neurosurgical-society",
+  "id": "academic-writing/citation-style/journal-of-korean-neurosurgical-society",
+  "isDocsHomePage": false,
+  "title": "journal-of-korean-neurosurgical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-korean-neurosurgical-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-korean-neurosurgical-society",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-korean-neurosurgical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-korean-neurosurgical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-jewish-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-jewish-studies"
+  },
+  "next": {
+    "title": "journal-of-leukocyte-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-leukocyte-biology"
+  }
+}

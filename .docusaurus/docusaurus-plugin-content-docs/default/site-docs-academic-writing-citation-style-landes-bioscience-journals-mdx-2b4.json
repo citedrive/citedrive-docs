@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/landes-bioscience-journals",
+  "id": "academic-writing/citation-style/landes-bioscience-journals",
+  "isDocsHomePage": false,
+  "title": "landes-bioscience-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/landes-bioscience-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/landes-bioscience-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/landes-bioscience-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/landes-bioscience-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "land-degradation-and-development",
+    "permalink": "/support/docs/academic-writing/citation-style/land-degradation-and-development"
+  },
+  "next": {
+    "title": "language-in-society",
+    "permalink": "/support/docs/academic-writing/citation-style/language-in-society"
+  }
+}

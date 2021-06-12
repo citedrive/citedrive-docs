@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-auckland--history",
+  "id": "academic-writing/import/university-of-auckland--history",
+  "isDocsHomePage": false,
+  "title": "university-of-auckland--history",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-auckland--history.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-auckland--history",
+  "permalink": "/support/docs/academic-writing/import/university-of-auckland--history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-auckland--history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-aleppo--faculty-of-medicine",
+    "permalink": "/support/docs/academic-writing/import/university-of-aleppo--faculty-of-medicine"
+  },
+  "next": {
+    "title": "university-of-bath--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-of-bath--harvard"
+  }
+}

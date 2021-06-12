@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pediatric-blood-and-cancer",
+  "id": "academic-writing/import/pediatric-blood-and-cancer",
+  "isDocsHomePage": false,
+  "title": "pediatric-blood-and-cancer",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pediatric-blood-and-cancer.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pediatric-blood-and-cancer",
+  "permalink": "/support/docs/academic-writing/import/pediatric-blood-and-cancer",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pediatric-blood-and-cancer.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-anesthesia",
+    "permalink": "/support/docs/academic-writing/import/pediatric-anesthesia"
+  },
+  "next": {
+    "title": "pediatric-infectious-disease-journal",
+    "permalink": "/support/docs/academic-writing/import/pediatric-infectious-disease-journal"
+  }
+}

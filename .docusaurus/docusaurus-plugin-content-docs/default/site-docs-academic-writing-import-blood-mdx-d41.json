@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/blood",
+  "id": "academic-writing/import/blood",
+  "isDocsHomePage": false,
+  "title": "blood",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/blood.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/blood",
+  "permalink": "/support/docs/academic-writing/import/blood",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/blood.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+    "permalink": "/support/docs/academic-writing/import/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish"
+  },
+  "next": {
+    "title": "bluebook-inline",
+    "permalink": "/support/docs/academic-writing/import/bluebook-inline"
+  }
+}

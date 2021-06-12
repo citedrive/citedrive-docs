@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-of-anaesthesiology",
+  "id": "academic-writing/citation-style/european-journal-of-anaesthesiology",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-anaesthesiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-of-anaesthesiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-of-anaesthesiology",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-anaesthesiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-anaesthesiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-for-philosophy-of-religion",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion"
+  },
+  "next": {
+    "title": "european-journal-of-clinical-microbiology-and-infectious-diseases",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-clinical-microbiology-and-infectious-diseases"
+  }
+}

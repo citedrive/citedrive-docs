@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish",
+  "id": "academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish",
+  "isDocsHomePage": false,
+  "title": "comision-economica-para-america-latina-y-el-caribe-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish",
+  "permalink": "/support/docs/academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/comision-economica-para-america-latina-y-el-caribe-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "colorado-state-university--school-of-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/import/colorado-state-university--school-of-biomedical-engineering"
+  },
+  "next": {
+    "title": "common-market-law-review",
+    "permalink": "/support/docs/academic-writing/import/common-market-law-review"
+  }
+}

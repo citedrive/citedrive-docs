@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/feminist-theory",
+  "id": "academic-writing/import/feminist-theory",
+  "isDocsHomePage": false,
+  "title": "feminist-theory",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/feminist-theory.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/feminist-theory",
+  "permalink": "/support/docs/academic-writing/import/feminist-theory",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/feminist-theory.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "feminist-economics",
+    "permalink": "/support/docs/academic-writing/import/feminist-economics"
+  },
+  "next": {
+    "title": "ferdinand-porsche-fernfachhochschule-german--austria",
+    "permalink": "/support/docs/academic-writing/import/ferdinand-porsche-fernfachhochschule-german--austria"
+  }
+}

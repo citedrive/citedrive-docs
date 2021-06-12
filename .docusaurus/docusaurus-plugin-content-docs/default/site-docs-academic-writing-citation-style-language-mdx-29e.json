@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/language",
+  "id": "academic-writing/citation-style/language",
+  "isDocsHomePage": false,
+  "title": "language",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/language.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/language",
+  "permalink": "/support/docs/academic-writing/citation-style/language",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/language.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "language-in-society",
+    "permalink": "/support/docs/academic-writing/citation-style/language-in-society"
+  },
+  "next": {
+    "title": "lannee-sociologique-french",
+    "permalink": "/support/docs/academic-writing/citation-style/lannee-sociologique-french"
+  }
+}

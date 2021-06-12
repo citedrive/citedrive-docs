@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/optics-express",
+  "id": "academic-writing/citation-style/optics-express",
+  "isDocsHomePage": false,
+  "title": "optics-express",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/optics-express.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/optics-express",
+  "permalink": "/support/docs/academic-writing/citation-style/optics-express",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/optics-express.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ophthalmology",
+    "permalink": "/support/docs/academic-writing/citation-style/ophthalmology"
+  },
+  "next": {
+    "title": "optics-letters",
+    "permalink": "/support/docs/academic-writing/citation-style/optics-letters"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/gastroenterology",
+  "id": "academic-writing/import/gastroenterology",
+  "isDocsHomePage": false,
+  "title": "gastroenterology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/gastroenterology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/gastroenterology",
+  "permalink": "/support/docs/academic-writing/import/gastroenterology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/gastroenterology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gallia-prehistoire-french",
+    "permalink": "/support/docs/academic-writing/import/gallia-prehistoire-french"
+  },
+  "next": {
+    "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/gastrointestinal-endoscopy-clinics-of-north-america"
+  }
+}

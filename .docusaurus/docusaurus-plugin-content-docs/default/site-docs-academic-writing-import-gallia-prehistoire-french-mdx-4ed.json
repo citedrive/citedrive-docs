@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/gallia-prehistoire-french",
+  "id": "academic-writing/import/gallia-prehistoire-french",
+  "isDocsHomePage": false,
+  "title": "gallia-prehistoire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/gallia-prehistoire-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/gallia-prehistoire-french",
+  "permalink": "/support/docs/academic-writing/import/gallia-prehistoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/gallia-prehistoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gallia-french",
+    "permalink": "/support/docs/academic-writing/import/gallia-french"
+  },
+  "next": {
+    "title": "gastroenterology",
+    "permalink": "/support/docs/academic-writing/import/gastroenterology"
+  }
+}

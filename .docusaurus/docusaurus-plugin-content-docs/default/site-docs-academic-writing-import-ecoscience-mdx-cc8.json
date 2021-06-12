@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ecoscience",
+  "id": "academic-writing/import/ecoscience",
+  "isDocsHomePage": false,
+  "title": "ecoscience",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ecoscience.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ecoscience",
+  "permalink": "/support/docs/academic-writing/import/ecoscience",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ecoscience.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "economie-et-statistique-french",
+    "permalink": "/support/docs/academic-writing/import/economie-et-statistique-french"
+  },
+  "next": {
+    "title": "ecosistemas-spanish",
+    "permalink": "/support/docs/academic-writing/import/ecosistemas-spanish"
+  }
+}

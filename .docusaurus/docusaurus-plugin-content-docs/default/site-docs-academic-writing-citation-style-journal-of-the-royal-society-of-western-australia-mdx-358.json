@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-royal-society-of-western-australia",
+  "id": "academic-writing/citation-style/journal-of-the-royal-society-of-western-australia",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-royal-society-of-western-australia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-royal-society-of-western-australia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-royal-society-of-western-australia",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-society-of-western-australia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-royal-society-of-western-australia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-royal-anthropological-institute",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-anthropological-institute"
+  },
+  "next": {
+    "title": "journal-of-the-royal-statistical-society",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-statistical-society"
+  }
+}

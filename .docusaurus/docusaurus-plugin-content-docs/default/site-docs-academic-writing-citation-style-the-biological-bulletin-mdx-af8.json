@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-biological-bulletin",
+  "id": "academic-writing/citation-style/the-biological-bulletin",
+  "isDocsHomePage": false,
+  "title": "the-biological-bulletin",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-biological-bulletin.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-biological-bulletin",
+  "permalink": "/support/docs/academic-writing/citation-style/the-biological-bulletin",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-biological-bulletin.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-australian-journal-of-agricultural-and-resource-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/the-australian-journal-of-agricultural-and-resource-economics"
+  },
+  "next": {
+    "title": "the-bone-and-joint-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/the-bone-and-joint-journal"
+  }
+}

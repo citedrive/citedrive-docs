@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
+  "id": "academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-limerick-cite-it-right--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-leeds--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-leeds--harvard"
+  },
+  "next": {
+    "title": "university-of-south-africa--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-south-africa--harvard"
+  }
+}

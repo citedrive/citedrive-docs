@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/copernicus-publications",
+  "id": "academic-writing/citation-style/copernicus-publications",
+  "isDocsHomePage": false,
+  "title": "copernicus-publications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/copernicus-publications.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/copernicus-publications",
+  "permalink": "/support/docs/academic-writing/citation-style/copernicus-publications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/copernicus-publications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "copeia",
+    "permalink": "/support/docs/academic-writing/citation-style/copeia"
+  },
+  "next": {
+    "title": "coral-reefs",
+    "permalink": "/support/docs/academic-writing/citation-style/coral-reefs"
+  }
+}

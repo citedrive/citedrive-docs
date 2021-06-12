@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cardiff-university--vancouver",
+  "id": "academic-writing/import/cardiff-university--vancouver",
+  "isDocsHomePage": false,
+  "title": "cardiff-university--vancouver",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cardiff-university--vancouver.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cardiff-university--vancouver",
+  "permalink": "/support/docs/academic-writing/import/cardiff-university--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cardiff-university--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardiff-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/cardiff-university--harvard"
+  },
+  "next": {
+    "title": "cardiff-university-biosi-and-carbs--harvard",
+    "permalink": "/support/docs/academic-writing/import/cardiff-university-biosi-and-carbs--harvard"
+  }
+}

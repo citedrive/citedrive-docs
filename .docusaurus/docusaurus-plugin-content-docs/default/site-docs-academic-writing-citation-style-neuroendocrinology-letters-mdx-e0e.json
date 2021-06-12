@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neuroendocrinology-letters",
+  "id": "academic-writing/citation-style/neuroendocrinology-letters",
+  "isDocsHomePage": false,
+  "title": "neuroendocrinology-letters",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neuroendocrinology-letters.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neuroendocrinology-letters",
+  "permalink": "/support/docs/academic-writing/citation-style/neuroendocrinology-letters",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuroendocrinology-letters.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neural-plasticity",
+    "permalink": "/support/docs/academic-writing/citation-style/neural-plasticity"
+  },
+  "next": {
+    "title": "neuroimaging-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/neuroimaging-clinics-of-north-america"
+  }
+}

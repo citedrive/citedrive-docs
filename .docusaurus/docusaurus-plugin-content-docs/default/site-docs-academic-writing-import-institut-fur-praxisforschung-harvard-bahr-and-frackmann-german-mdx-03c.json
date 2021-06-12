@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+  "id": "academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+  "isDocsHomePage": false,
+  "title": "institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+  "permalink": "/support/docs/academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-francais-darcheologie-orientale-french",
+    "permalink": "/support/docs/academic-writing/import/institut-francais-darcheologie-orientale-french"
+  },
+  "next": {
+    "title": "institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+    "permalink": "/support/docs/academic-writing/import/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french"
+  }
+}

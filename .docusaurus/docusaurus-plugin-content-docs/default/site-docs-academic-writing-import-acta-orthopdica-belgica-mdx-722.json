@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/acta-orthopdica-belgica",
+  "id": "academic-writing/import/acta-orthopdica-belgica",
+  "isDocsHomePage": false,
+  "title": "acta-orthopdica-belgica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/acta-orthopdica-belgica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/acta-orthopdica-belgica",
+  "permalink": "/support/docs/academic-writing/import/acta-orthopdica-belgica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/acta-orthopdica-belgica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-orthopaedica",
+    "permalink": "/support/docs/academic-writing/import/acta-orthopaedica"
+  },
+  "next": {
+    "title": "acta-paediatrica",
+    "permalink": "/support/docs/academic-writing/import/acta-paediatrica"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-physiologica",
+  "id": "academic-writing/citation-style/acta-physiologica",
+  "isDocsHomePage": false,
+  "title": "acta-physiologica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-physiologica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-physiologica",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-physiologica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-philosophica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
+  },
+  "next": {
+    "title": "acta-polytechnica",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
+  }
+}

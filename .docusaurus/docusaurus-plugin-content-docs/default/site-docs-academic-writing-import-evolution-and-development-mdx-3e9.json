@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/evolution-and-development",
+  "id": "academic-writing/import/evolution-and-development",
+  "isDocsHomePage": false,
+  "title": "evolution-and-development",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/evolution-and-development.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/evolution-and-development",
+  "permalink": "/support/docs/academic-writing/import/evolution-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/evolution-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "evidencebased-complementary-and-alternative-medicine",
+    "permalink": "/support/docs/academic-writing/import/evidencebased-complementary-and-alternative-medicine"
+  },
+  "next": {
+    "title": "evolution",
+    "permalink": "/support/docs/academic-writing/import/evolution"
+  }
+}

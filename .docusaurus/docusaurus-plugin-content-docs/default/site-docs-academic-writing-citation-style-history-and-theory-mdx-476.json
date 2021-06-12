@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/history-and-theory",
+  "id": "academic-writing/citation-style/history-and-theory",
+  "isDocsHomePage": false,
+  "title": "history-and-theory",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/history-and-theory.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/history-and-theory",
+  "permalink": "/support/docs/academic-writing/citation-style/history-and-theory",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/history-and-theory.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "historical-social-research",
+    "permalink": "/support/docs/academic-writing/citation-style/historical-social-research"
+  },
+  "next": {
+    "title": "history-australia",
+    "permalink": "/support/docs/academic-writing/citation-style/history-australia"
+  }
+}

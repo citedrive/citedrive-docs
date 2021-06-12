@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revue-de-medecine-veterinaire-french",
+  "id": "academic-writing/citation-style/revue-de-medecine-veterinaire-french",
+  "isDocsHomePage": false,
+  "title": "revue-de-medecine-veterinaire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revue-de-medecine-veterinaire-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revue-de-medecine-veterinaire-french",
+  "permalink": "/support/docs/academic-writing/citation-style/revue-de-medecine-veterinaire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-de-medecine-veterinaire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-archeologique-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-french"
+  },
+  "next": {
+    "title": "revue-de-qumran",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-de-qumran"
+  }
+}

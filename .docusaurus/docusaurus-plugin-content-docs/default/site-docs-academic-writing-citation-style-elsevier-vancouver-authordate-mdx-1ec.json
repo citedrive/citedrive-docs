@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/elsevier--vancouver-authordate",
+  "id": "academic-writing/citation-style/elsevier--vancouver-authordate",
+  "isDocsHomePage": false,
+  "title": "elsevier--vancouver-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/elsevier--vancouver-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/elsevier--vancouver-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/elsevier--vancouver-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier--vancouver-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier--harvard-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--harvard-without-titles"
+  },
+  "next": {
+    "title": "elsevier--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier--vancouver"
+  }
+}

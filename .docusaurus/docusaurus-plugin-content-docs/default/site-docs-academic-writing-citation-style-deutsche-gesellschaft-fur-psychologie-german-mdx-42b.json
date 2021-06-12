@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german",
+  "id": "academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german",
+  "isDocsHomePage": false,
+  "title": "deutsche-gesellschaft-fur-psychologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german",
+  "permalink": "/support/docs/academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/deutsche-gesellschaft-fur-psychologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dermatology-online-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/dermatology-online-journal"
+  },
+  "next": {
+    "title": "deutsches-archaologisches-institut",
+    "permalink": "/support/docs/academic-writing/citation-style/deutsches-archaologisches-institut"
+  }
+}

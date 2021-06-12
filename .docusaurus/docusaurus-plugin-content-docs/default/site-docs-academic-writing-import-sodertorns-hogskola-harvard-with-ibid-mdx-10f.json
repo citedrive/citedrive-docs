@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/sodertorns-hogskola--harvard-with-ibid",
+  "id": "academic-writing/import/sodertorns-hogskola--harvard-with-ibid",
+  "isDocsHomePage": false,
+  "title": "sodertorns-hogskola--harvard-with-ibid",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/sodertorns-hogskola--harvard-with-ibid.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/sodertorns-hogskola--harvard-with-ibid",
+  "permalink": "/support/docs/academic-writing/import/sodertorns-hogskola--harvard-with-ibid",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/sodertorns-hogskola--harvard-with-ibid.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sociology-of-health-and-illness",
+    "permalink": "/support/docs/academic-writing/import/sociology-of-health-and-illness"
+  },
+  "next": {
+    "title": "sodertorns-hogskola--harvard",
+    "permalink": "/support/docs/academic-writing/import/sodertorns-hogskola--harvard"
+  }
+}

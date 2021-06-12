@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/eurasian-journal-of-medical-investigation",
+  "id": "academic-writing/import/eurasian-journal-of-medical-investigation",
+  "isDocsHomePage": false,
+  "title": "eurasian-journal-of-medical-investigation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/eurasian-journal-of-medical-investigation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/eurasian-journal-of-medical-investigation",
+  "permalink": "/support/docs/academic-writing/import/eurasian-journal-of-medical-investigation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/eurasian-journal-of-medical-investigation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ets--ecole-de-technologie-superieure-french--canada",
+    "permalink": "/support/docs/academic-writing/import/ets--ecole-de-technologie-superieure-french--canada"
+  },
+  "next": {
+    "title": "eurasian-journal-of-medicine-and-oncology",
+    "permalink": "/support/docs/academic-writing/import/eurasian-journal-of-medicine-and-oncology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ecology-of-freshwater-fish",
+  "id": "academic-writing/import/ecology-of-freshwater-fish",
+  "isDocsHomePage": false,
+  "title": "ecology-of-freshwater-fish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ecology-of-freshwater-fish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ecology-of-freshwater-fish",
+  "permalink": "/support/docs/academic-writing/import/ecology-of-freshwater-fish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ecology-of-freshwater-fish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology-letters",
+    "permalink": "/support/docs/academic-writing/import/ecology-letters"
+  },
+  "next": {
+    "title": "ecology",
+    "permalink": "/support/docs/academic-writing/import/ecology"
+  }
+}

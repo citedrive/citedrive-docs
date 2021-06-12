@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+  "id": "academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+  "isDocsHomePage": false,
+  "title": "rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+  "permalink": "/support/docs/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rofo-fortschritte-auf-dem-gebiet-der-rontgenstrahlen-und-bildgebenden-verfahren.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "robert-gordon-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/robert-gordon-university--harvard"
+  },
+  "next": {
+    "title": "romanian-humanities-romanian",
+    "permalink": "/support/docs/academic-writing/citation-style/romanian-humanities-romanian"
+  }
+}

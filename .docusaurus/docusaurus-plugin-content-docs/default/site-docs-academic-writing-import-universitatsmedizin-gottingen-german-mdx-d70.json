@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universitatsmedizin-gottingen-german",
+  "id": "academic-writing/import/universitatsmedizin-gottingen-german",
+  "isDocsHomePage": false,
+  "title": "universitatsmedizin-gottingen-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universitatsmedizin-gottingen-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universitatsmedizin-gottingen-german",
+  "permalink": "/support/docs/academic-writing/import/universitatsmedizin-gottingen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universitatsmedizin-gottingen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+    "permalink": "/support/docs/academic-writing/import/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german"
+  },
+  "next": {
+    "title": "universite-catholique-de-louvain--histoire-french",
+    "permalink": "/support/docs/academic-writing/import/universite-catholique-de-louvain--histoire-french"
+  }
+}

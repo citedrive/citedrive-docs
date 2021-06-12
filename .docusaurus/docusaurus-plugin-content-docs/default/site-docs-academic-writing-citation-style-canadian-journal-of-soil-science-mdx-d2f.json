@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/canadian-journal-of-soil-science",
+  "id": "academic-writing/citation-style/canadian-journal-of-soil-science",
+  "isDocsHomePage": false,
+  "title": "canadian-journal-of-soil-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/canadian-journal-of-soil-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/canadian-journal-of-soil-science",
+  "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-soil-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-journal-of-soil-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-public-health",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-public-health"
+  },
+  "next": {
+    "title": "canadian-public-policy",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-public-policy"
+  }
+}

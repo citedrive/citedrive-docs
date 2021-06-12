@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-tropical-ecology",
+  "id": "academic-writing/citation-style/journal-of-tropical-ecology",
+  "isDocsHomePage": false,
+  "title": "journal-of-tropical-ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-tropical-ecology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-tropical-ecology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-tropical-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-thrombosis-and-haemostasis",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis"
+  },
+  "next": {
+    "title": "journal-of-tropical-life-science",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-life-science"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/hochschule-der-medien-stuttgart-german",
+  "id": "academic-writing/citation-style/hochschule-der-medien-stuttgart-german",
+  "isDocsHomePage": false,
+  "title": "hochschule-der-medien-stuttgart-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/hochschule-der-medien-stuttgart-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/hochschule-der-medien-stuttgart-german",
+  "permalink": "/support/docs/academic-writing/citation-style/hochschule-der-medien-stuttgart-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hochschule-der-medien-stuttgart-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "hochschule-bonnrheinsieg-german",
+    "permalink": "/support/docs/academic-writing/citation-style/hochschule-bonnrheinsieg-german"
+  },
+  "next": {
+    "title": "hochschule-fur-soziale-arbeit-fhnw-german--switzerland",
+    "permalink": "/support/docs/academic-writing/citation-style/hochschule-fur-soziale-arbeit-fhnw-german--switzerland"
+  }
+}

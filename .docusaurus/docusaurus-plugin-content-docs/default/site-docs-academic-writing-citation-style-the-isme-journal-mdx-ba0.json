@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-isme-journal",
+  "id": "academic-writing/citation-style/the-isme-journal",
+  "isDocsHomePage": false,
+  "title": "the-isme-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-isme-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-isme-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/the-isme-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-isme-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-international-journal-of-tuberculosis-and-lung-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease"
+  },
+  "next": {
+    "title": "the-journal-of-adhesive-dentistry",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-adhesive-dentistry"
+  }
+}

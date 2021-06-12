@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/rmit-university--harvard",
+  "id": "academic-writing/import/rmit-university--harvard",
+  "isDocsHomePage": false,
+  "title": "rmit-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/rmit-university--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/rmit-university--harvard",
+  "permalink": "/support/docs/academic-writing/import/rmit-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/rmit-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "rivista-italiana-di-paleontologia-e-stratigrafia",
+    "permalink": "/support/docs/academic-writing/import/rivista-italiana-di-paleontologia-e-stratigrafia"
+  },
+  "next": {
+    "title": "robert-gordon-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/robert-gordon-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/podzemna-voda-slovak",
+  "id": "academic-writing/citation-style/podzemna-voda-slovak",
+  "isDocsHomePage": false,
+  "title": "podzemna-voda-slovak",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/podzemna-voda-slovak.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/podzemna-voda-slovak",
+  "permalink": "/support/docs/academic-writing/citation-style/podzemna-voda-slovak",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/podzemna-voda-slovak.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/plant-physiology"
+  },
+  "next": {
+    "title": "polish-legal-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/polish-legal-polish"
+  }
+}

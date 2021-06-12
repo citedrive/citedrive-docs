@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-open-university--a251--arts-course",
+  "id": "academic-writing/citation-style/the-open-university--a251--arts-course",
+  "isDocsHomePage": false,
+  "title": "the-open-university--a251--arts-course",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-open-university--a251--arts-course.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-open-university--a251--arts-course",
+  "permalink": "/support/docs/academic-writing/citation-style/the-open-university--a251--arts-course",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-open-university--a251--arts-course.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-oncologist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-oncologist"
+  },
+  "next": {
+    "title": "the-open-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/the-open-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-food-protection",
+  "id": "academic-writing/citation-style/journal-of-food-protection",
+  "isDocsHomePage": false,
+  "title": "journal-of-food-protection",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-food-protection.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-food-protection",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-food-protection",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-food-protection.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-fish-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-fish-biology"
+  },
+  "next": {
+    "title": "journal-of-foraminiferal-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-foraminiferal-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
+  "id": "academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
+  "isDocsHomePage": false,
+  "title": "archives-of-physical-medicine-and-rehabilitation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
+  "permalink": "/support/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archiv-fur-geschichte-der-philosophie",
+    "permalink": "/support/docs/academic-writing/citation-style/archiv-fur-geschichte-der-philosophie"
+  },
+  "next": {
+    "title": "archivos-de-bronconeumologia",
+    "permalink": "/support/docs/academic-writing/citation-style/archivos-de-bronconeumologia"
+  }
+}

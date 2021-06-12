@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/united-nations-conference-on-trade-and-development",
+  "id": "academic-writing/citation-style/united-nations-conference-on-trade-and-development",
+  "isDocsHomePage": false,
+  "title": "united-nations-conference-on-trade-and-development",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/united-nations-conference-on-trade-and-development.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/united-nations-conference-on-trade-and-development",
+  "permalink": "/support/docs/academic-writing/citation-style/united-nations-conference-on-trade-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/united-nations-conference-on-trade-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "unified-stylesheet-for-linguistics-de-gruyter-literature",
+    "permalink": "/support/docs/academic-writing/citation-style/unified-stylesheet-for-linguistics-de-gruyter-literature"
+  },
+  "next": {
+    "title": "united-nations-development-programme-icca-legal-review",
+    "permalink": "/support/docs/academic-writing/citation-style/united-nations-development-programme-icca-legal-review"
+  }
+}

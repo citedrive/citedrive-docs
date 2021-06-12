@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/palaeontologia-electronica",
+  "id": "academic-writing/import/palaeontologia-electronica",
+  "isDocsHomePage": false,
+  "title": "palaeontologia-electronica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/palaeontologia-electronica.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/palaeontologia-electronica",
+  "permalink": "/support/docs/academic-writing/import/palaeontologia-electronica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/palaeontologia-electronica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "palaeontographica-abteilung-b-palaeobotany--palaeophytology",
+    "permalink": "/support/docs/academic-writing/import/palaeontographica-abteilung-b-palaeobotany--palaeophytology"
+  },
+  "next": {
+    "title": "palaeontology",
+    "permalink": "/support/docs/academic-writing/import/palaeontology"
+  }
+}

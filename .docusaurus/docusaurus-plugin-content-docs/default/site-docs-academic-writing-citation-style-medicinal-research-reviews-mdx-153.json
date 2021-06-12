@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/medicinal-research-reviews",
+  "id": "academic-writing/citation-style/medicinal-research-reviews",
+  "isDocsHomePage": false,
+  "title": "medicinal-research-reviews",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/medicinal-research-reviews.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/medicinal-research-reviews",
+  "permalink": "/support/docs/academic-writing/citation-style/medicinal-research-reviews",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medicinal-research-reviews.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+    "permalink": "/support/docs/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian"
+  },
+  "next": {
+    "title": "medicine-and-science-in-sports-and-exercise",
+    "permalink": "/support/docs/academic-writing/citation-style/medicine-and-science-in-sports-and-exercise"
+  }
+}

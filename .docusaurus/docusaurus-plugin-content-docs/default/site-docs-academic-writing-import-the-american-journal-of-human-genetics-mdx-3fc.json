@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-american-journal-of-human-genetics",
+  "id": "academic-writing/import/the-american-journal-of-human-genetics",
+  "isDocsHomePage": false,
+  "title": "the-american-journal-of-human-genetics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-american-journal-of-human-genetics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-american-journal-of-human-genetics",
+  "permalink": "/support/docs/academic-writing/import/the-american-journal-of-human-genetics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-american-journal-of-human-genetics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-american-journal-of-geriatric-psychiatry",
+    "permalink": "/support/docs/academic-writing/import/the-american-journal-of-geriatric-psychiatry"
+  },
+  "next": {
+    "title": "the-american-journal-of-pathology",
+    "permalink": "/support/docs/academic-writing/import/the-american-journal-of-pathology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/health-economics-policy-and-law",
+  "id": "academic-writing/citation-style/health-economics-policy-and-law",
+  "isDocsHomePage": false,
+  "title": "health-economics-policy-and-law",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/health-economics-policy-and-law.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/health-economics-policy-and-law",
+  "permalink": "/support/docs/academic-writing/citation-style/health-economics-policy-and-law",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/health-economics-policy-and-law.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-and-social-care-in-the-community",
+    "permalink": "/support/docs/academic-writing/citation-style/health-and-social-care-in-the-community"
+  },
+  "next": {
+    "title": "health-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/health-economics"
+  }
+}

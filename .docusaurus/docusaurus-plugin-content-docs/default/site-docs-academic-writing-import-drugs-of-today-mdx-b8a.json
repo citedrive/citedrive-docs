@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/drugs-of-today",
+  "id": "academic-writing/import/drugs-of-today",
+  "isDocsHomePage": false,
+  "title": "drugs-of-today",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/drugs-of-today.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/drugs-of-today",
+  "permalink": "/support/docs/academic-writing/import/drugs-of-today",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/drugs-of-today.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "drug-testing-and-analysis",
+    "permalink": "/support/docs/academic-writing/import/drug-testing-and-analysis"
+  },
+  "next": {
+    "title": "dundalk-institute-of-technology--harvard",
+    "permalink": "/support/docs/academic-writing/import/dundalk-institute-of-technology--harvard"
+  }
+}

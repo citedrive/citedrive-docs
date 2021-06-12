@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tree-physiology",
+  "id": "academic-writing/citation-style/tree-physiology",
+  "isDocsHomePage": false,
+  "title": "tree-physiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tree-physiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tree-physiology",
+  "permalink": "/support/docs/academic-writing/citation-style/tree-physiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tree-physiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transposition-musique-et-sciences-sociales",
+    "permalink": "/support/docs/academic-writing/citation-style/transposition-musique-et-sciences-sociales"
+  },
+  "next": {
+    "title": "trends-in-glycoscience-and-glycotechnology",
+    "permalink": "/support/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology"
+  }
+}

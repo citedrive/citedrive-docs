@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/artery-research",
+  "id": "academic-writing/import/artery-research",
+  "isDocsHomePage": false,
+  "title": "artery-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/artery-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/artery-research",
+  "permalink": "/support/docs/academic-writing/import/artery-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/artery-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "art-history",
+    "permalink": "/support/docs/academic-writing/import/art-history"
+  },
+  "next": {
+    "title": "arthritis-and-rheumatism",
+    "permalink": "/support/docs/academic-writing/import/arthritis-and-rheumatism"
+  }
+}

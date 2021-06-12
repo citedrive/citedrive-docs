@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/socioeconomic-review",
+  "id": "academic-writing/import/socioeconomic-review",
+  "isDocsHomePage": false,
+  "title": "socioeconomic-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/socioeconomic-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/socioeconomic-review",
+  "permalink": "/support/docs/academic-writing/import/socioeconomic-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/socioeconomic-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-of-biblical-literature-2nd-edition-full-note",
+    "permalink": "/support/docs/academic-writing/import/society-of-biblical-literature-2nd-edition-full-note"
+  },
+  "next": {
+    "title": "sociology-of-health-and-illness",
+    "permalink": "/support/docs/academic-writing/import/sociology-of-health-and-illness"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/science",
+  "id": "academic-writing/citation-style/science",
+  "isDocsHomePage": false,
+  "title": "science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/science",
+  "permalink": "/support/docs/academic-writing/citation-style/science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "science-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/science-without-titles"
+  },
+  "next": {
+    "title": "scienceasia",
+    "permalink": "/support/docs/academic-writing/citation-style/scienceasia"
+  }
+}

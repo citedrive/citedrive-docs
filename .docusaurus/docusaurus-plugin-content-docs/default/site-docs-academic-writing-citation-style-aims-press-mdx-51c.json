@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/aims-press",
+  "id": "academic-writing/citation-style/aims-press",
+  "isDocsHomePage": false,
+  "title": "aims-press",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/aims-press.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/aims-press",
+  "permalink": "/support/docs/academic-writing/citation-style/aims-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aims-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aids",
+    "permalink": "/support/docs/academic-writing/citation-style/aids"
+  },
+  "next": {
+    "title": "aixmarseille-universite--departement-detudes-asiatiques-french",
+    "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/seminars-in-pediatric-neurology",
+  "id": "academic-writing/citation-style/seminars-in-pediatric-neurology",
+  "isDocsHomePage": false,
+  "title": "seminars-in-pediatric-neurology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/seminars-in-pediatric-neurology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/seminars-in-pediatric-neurology",
+  "permalink": "/support/docs/academic-writing/citation-style/seminars-in-pediatric-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/seminars-in-pediatric-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/sekolah-tinggi-meteorologi-klimatologi-dan-geofisika-indonesian"
+  },
+  "next": {
+    "title": "serdica-journal-of-computing",
+    "permalink": "/support/docs/academic-writing/citation-style/serdica-journal-of-computing"
+  }
+}

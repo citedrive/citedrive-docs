@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cell",
+  "id": "academic-writing/citation-style/cell",
+  "isDocsHomePage": false,
+  "title": "cell",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cell.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cell",
+  "permalink": "/support/docs/academic-writing/citation-style/cell",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cell.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cell-transplantation",
+    "permalink": "/support/docs/academic-writing/citation-style/cell-transplantation"
+  },
+  "next": {
+    "title": "cellular-and-molecular-bioengineering",
+    "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-bioengineering"
+  }
+}

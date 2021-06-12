@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/transplantation",
+  "id": "academic-writing/citation-style/transplantation",
+  "isDocsHomePage": false,
+  "title": "transplantation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/transplantation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/transplantation",
+  "permalink": "/support/docs/academic-writing/citation-style/transplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/transplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "transnational-environmental-law",
+    "permalink": "/support/docs/academic-writing/citation-style/transnational-environmental-law"
+  },
+  "next": {
+    "title": "transport",
+    "permalink": "/support/docs/academic-writing/citation-style/transport"
+  }
+}

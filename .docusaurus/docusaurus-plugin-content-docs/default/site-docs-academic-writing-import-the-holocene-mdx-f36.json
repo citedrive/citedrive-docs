@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-holocene",
+  "id": "academic-writing/import/the-holocene",
+  "isDocsHomePage": false,
+  "title": "the-holocene",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-holocene.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-holocene",
+  "permalink": "/support/docs/academic-writing/import/the-holocene",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-holocene.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-historical-journal",
+    "permalink": "/support/docs/academic-writing/import/the-historical-journal"
+  },
+  "next": {
+    "title": "the-institute-of-electronics-information-and-communication-engineers-",
+    "permalink": "/support/docs/academic-writing/import/the-institute-of-electronics-information-and-communication-engineers-"
+  }
+}

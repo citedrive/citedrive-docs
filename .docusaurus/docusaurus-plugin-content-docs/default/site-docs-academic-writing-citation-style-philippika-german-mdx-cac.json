@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/philippika-german",
+  "id": "academic-writing/citation-style/philippika-german",
+  "isDocsHomePage": false,
+  "title": "philippika-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/philippika-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/philippika-german",
+  "permalink": "/support/docs/academic-writing/citation-style/philippika-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/philippika-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pharmacoepidemiology-and-drug-safety",
+    "permalink": "/support/docs/academic-writing/citation-style/pharmacoepidemiology-and-drug-safety"
+  },
+  "next": {
+    "title": "philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+    "permalink": "/support/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german"
+  }
+}

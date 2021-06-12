@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/iso690-note-no-abstract-french",
+  "id": "academic-writing/citation-style/iso690-note-no-abstract-french",
+  "isDocsHomePage": false,
+  "title": "iso690-note-no-abstract-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/iso690-note-no-abstract-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/iso690-note-no-abstract-french",
+  "permalink": "/support/docs/academic-writing/citation-style/iso690-note-no-abstract-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-note-no-abstract-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iso690-full-note-slovak",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-full-note-slovak"
+  },
+  "next": {
+    "title": "iso690-note-without-bibliography-czech",
+    "permalink": "/support/docs/academic-writing/citation-style/iso690-note-without-bibliography-czech"
+  }
+}

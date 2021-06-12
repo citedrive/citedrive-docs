@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/australian-archaeology",
+  "id": "academic-writing/import/australian-archaeology",
+  "isDocsHomePage": false,
+  "title": "australian-archaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/australian-archaeology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/australian-archaeology",
+  "permalink": "/support/docs/academic-writing/import/australian-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/australian-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "austral-entomology",
+    "permalink": "/support/docs/academic-writing/import/austral-entomology"
+  },
+  "next": {
+    "title": "australian-critical-care",
+    "permalink": "/support/docs/academic-writing/import/australian-critical-care"
+  }
+}

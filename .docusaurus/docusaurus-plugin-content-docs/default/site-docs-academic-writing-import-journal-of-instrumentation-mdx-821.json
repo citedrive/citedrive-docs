@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-instrumentation",
+  "id": "academic-writing/import/journal-of-instrumentation",
+  "isDocsHomePage": false,
+  "title": "journal-of-instrumentation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-instrumentation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-instrumentation",
+  "permalink": "/support/docs/academic-writing/import/journal-of-instrumentation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-instrumentation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-institutional-and-theoretical-economics",
+    "permalink": "/support/docs/academic-writing/import/journal-of-institutional-and-theoretical-economics"
+  },
+  "next": {
+    "title": "journal-of-integrated-omics",
+    "permalink": "/support/docs/academic-writing/import/journal-of-integrated-omics"
+  }
+}

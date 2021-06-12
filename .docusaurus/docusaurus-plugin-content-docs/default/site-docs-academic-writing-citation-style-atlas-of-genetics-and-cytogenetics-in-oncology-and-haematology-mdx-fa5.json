@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "id": "academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "isDocsHomePage": false,
+  "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "permalink": "/support/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "atlande-authordate-french",
+    "permalink": "/support/docs/academic-writing/citation-style/atlande-authordate-french"
+  },
+  "next": {
+    "title": "ausonius-editions-french",
+    "permalink": "/support/docs/academic-writing/citation-style/ausonius-editions-french"
+  }
+}

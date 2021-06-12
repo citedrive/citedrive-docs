@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/reproduction-fertility-and-development",
+  "id": "academic-writing/citation-style/reproduction-fertility-and-development",
+  "isDocsHomePage": false,
+  "title": "reproduction-fertility-and-development",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/reproduction-fertility-and-development.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/reproduction-fertility-and-development",
+  "permalink": "/support/docs/academic-writing/citation-style/reproduction-fertility-and-development",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/reproduction-fertility-and-development.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "representation",
+    "permalink": "/support/docs/academic-writing/citation-style/representation"
+  },
+  "next": {
+    "title": "reproduction",
+    "permalink": "/support/docs/academic-writing/citation-style/reproduction"
+  }
+}

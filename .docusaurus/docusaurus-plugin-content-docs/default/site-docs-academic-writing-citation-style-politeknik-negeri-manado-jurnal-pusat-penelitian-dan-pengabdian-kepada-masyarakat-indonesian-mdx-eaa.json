@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+  "id": "academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+  "isDocsHomePage": false,
+  "title": "politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+  "permalink": "/support/docs/academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "polish-legal-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/polish-legal-polish"
+  },
+  "next": {
+    "title": "political-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/political-studies"
+  }
+}

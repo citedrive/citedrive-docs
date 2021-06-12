@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-hellenic-studies",
+  "id": "academic-writing/import/the-journal-of-hellenic-studies",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-hellenic-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-hellenic-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-hellenic-studies",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-hellenic-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-hellenic-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-hand-surgery-european-volume",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-hand-surgery-european-volume"
+  },
+  "next": {
+    "title": "the-journal-of-immunology",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-immunology"
+  }
+}

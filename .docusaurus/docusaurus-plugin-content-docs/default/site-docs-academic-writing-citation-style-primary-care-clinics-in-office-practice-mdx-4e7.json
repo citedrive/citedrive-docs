@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/primary-care-clinics-in-office-practice",
+  "id": "academic-writing/citation-style/primary-care-clinics-in-office-practice",
+  "isDocsHomePage": false,
+  "title": "primary-care-clinics-in-office-practice",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/primary-care-clinics-in-office-practice",
+  "permalink": "/support/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "presses-universitaires-de-strasbourg-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french"
+  },
+  "next": {
+    "title": "proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+    "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021"
+  }
+}

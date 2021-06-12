@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/surgical-pathology-clinics",
+  "id": "academic-writing/import/surgical-pathology-clinics",
+  "isDocsHomePage": false,
+  "title": "surgical-pathology-clinics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/surgical-pathology-clinics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/surgical-pathology-clinics",
+  "permalink": "/support/docs/academic-writing/import/surgical-pathology-clinics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/surgical-pathology-clinics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "surgical-neurology-international",
+    "permalink": "/support/docs/academic-writing/import/surgical-neurology-international"
+  },
+  "next": {
+    "title": "svensk-exegetisk-arsbok-full-note",
+    "permalink": "/support/docs/academic-writing/import/svensk-exegetisk-arsbok-full-note"
+  }
+}

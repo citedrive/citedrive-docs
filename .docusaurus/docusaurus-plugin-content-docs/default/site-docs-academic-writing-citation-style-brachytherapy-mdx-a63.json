@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/brachytherapy",
+  "id": "academic-writing/citation-style/brachytherapy",
+  "isDocsHomePage": false,
+  "title": "brachytherapy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/brachytherapy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/brachytherapy",
+  "permalink": "/support/docs/academic-writing/citation-style/brachytherapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/brachytherapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bournemouth-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/bournemouth-university--harvard"
+  },
+  "next": {
+    "title": "brain-behavior-and-evolution",
+    "permalink": "/support/docs/academic-writing/citation-style/brain-behavior-and-evolution"
+  }
+}

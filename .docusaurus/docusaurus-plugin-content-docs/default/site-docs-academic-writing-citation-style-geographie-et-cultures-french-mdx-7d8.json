@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geographie-et-cultures-french",
+  "id": "academic-writing/citation-style/geographie-et-cultures-french",
+  "isDocsHomePage": false,
+  "title": "geographie-et-cultures-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geographie-et-cultures-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geographie-et-cultures-french",
+  "permalink": "/support/docs/academic-writing/citation-style/geographie-et-cultures-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geographie-et-cultures-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geografie-sbornik-cgs",
+    "permalink": "/support/docs/academic-writing/citation-style/geografie-sbornik-cgs"
+  },
+  "next": {
+    "title": "geographische-zeitschrift",
+    "permalink": "/support/docs/academic-writing/citation-style/geographische-zeitschrift"
+  }
+}

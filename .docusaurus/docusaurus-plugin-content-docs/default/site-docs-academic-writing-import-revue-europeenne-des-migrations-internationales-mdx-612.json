@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revue-europeenne-des-migrations-internationales",
+  "id": "academic-writing/import/revue-europeenne-des-migrations-internationales",
+  "isDocsHomePage": false,
+  "title": "revue-europeenne-des-migrations-internationales",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revue-europeenne-des-migrations-internationales.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revue-europeenne-des-migrations-internationales",
+  "permalink": "/support/docs/academic-writing/import/revue-europeenne-des-migrations-internationales",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revue-europeenne-des-migrations-internationales.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-dhistoire-moderne-et-contemporaine-french",
+    "permalink": "/support/docs/academic-writing/import/revue-dhistoire-moderne-et-contemporaine-french"
+  },
+  "next": {
+    "title": "revue-francaise-dadministration-publique-french",
+    "permalink": "/support/docs/academic-writing/import/revue-francaise-dadministration-publique-french"
+  }
+}

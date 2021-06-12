@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/australian-critical-care",
+  "id": "academic-writing/import/australian-critical-care",
+  "isDocsHomePage": false,
+  "title": "australian-critical-care",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/australian-critical-care.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/australian-critical-care",
+  "permalink": "/support/docs/academic-writing/import/australian-critical-care",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/australian-critical-care.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "australian-archaeology",
+    "permalink": "/support/docs/academic-writing/import/australian-archaeology"
+  },
+  "next": {
+    "title": "australian-dental-journal",
+    "permalink": "/support/docs/academic-writing/import/australian-dental-journal"
+  }
+}

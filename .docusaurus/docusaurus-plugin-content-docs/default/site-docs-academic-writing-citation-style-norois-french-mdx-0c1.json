@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/norois-french",
+  "id": "academic-writing/citation-style/norois-french",
+  "isDocsHomePage": false,
+  "title": "norois-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/norois-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/norois-french",
+  "permalink": "/support/docs/academic-writing/citation-style/norois-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/norois-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nordic-pulp-and-paper-research-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/nordic-pulp-and-paper-research-journal"
+  },
+  "next": {
+    "title": "norsk-apamanual--apa-7th-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-authordate"
+  }
+}

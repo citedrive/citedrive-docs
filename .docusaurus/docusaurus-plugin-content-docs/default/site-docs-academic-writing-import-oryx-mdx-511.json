@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oryx",
+  "id": "academic-writing/import/oryx",
+  "isDocsHomePage": false,
+  "title": "oryx",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oryx.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oryx",
+  "permalink": "/support/docs/academic-writing/import/oryx",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oryx.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "orthopedic-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/import/orthopedic-clinics-of-north-america"
+  },
+  "next": {
+    "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid",
+    "permalink": "/support/docs/academic-writing/import/oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/soziologiemagazin-german",
+  "id": "academic-writing/import/soziologiemagazin-german",
+  "isDocsHomePage": false,
+  "title": "soziologiemagazin-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/soziologiemagazin-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/soziologiemagazin-german",
+  "permalink": "/support/docs/academic-writing/import/soziologiemagazin-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/soziologiemagazin-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soziologie-german",
+    "permalink": "/support/docs/academic-writing/import/soziologie-german"
+  },
+  "next": {
+    "title": "spandidos-publications",
+    "permalink": "/support/docs/academic-writing/import/spandidos-publications"
+  }
+}

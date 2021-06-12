@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-quantum-chemistry",
+  "id": "academic-writing/import/international-journal-of-quantum-chemistry",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-quantum-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-quantum-chemistry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-quantum-chemistry",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-quantum-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-quantum-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-population-data-science",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-population-data-science"
+  },
+  "next": {
+    "title": "international-journal-of-radiation-oncology-biology-physics",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-radiation-oncology-biology-physics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-worcester--harvard",
+  "id": "academic-writing/citation-style/university-of-worcester--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-worcester--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-worcester--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-worcester--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-worcester--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-worcester--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-wolverhampton--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-wolverhampton--harvard"
+  },
+  "next": {
+    "title": "university-of-york--apa-6th-edition",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-york--apa-6th-edition"
+  }
+}

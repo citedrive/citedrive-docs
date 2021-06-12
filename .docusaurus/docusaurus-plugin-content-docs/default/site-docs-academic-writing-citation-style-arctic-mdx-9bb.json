@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/arctic",
+  "id": "academic-writing/citation-style/arctic",
+  "isDocsHomePage": false,
+  "title": "arctic",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/arctic.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/arctic",
+  "permalink": "/support/docs/academic-writing/citation-style/arctic",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arctic.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arctic-antarctic-and-alpine-research",
+    "permalink": "/support/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research"
+  },
+  "next": {
+    "title": "arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+    "permalink": "/support/docs/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology"
+  }
+}

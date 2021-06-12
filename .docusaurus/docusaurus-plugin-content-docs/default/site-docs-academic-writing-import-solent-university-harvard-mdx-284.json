@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/solent-university--harvard",
+  "id": "academic-writing/import/solent-university--harvard",
+  "isDocsHomePage": false,
+  "title": "solent-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/solent-university--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/solent-university--harvard",
+  "permalink": "/support/docs/academic-writing/import/solent-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/solent-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soil-science-and-plant-nutrition",
+    "permalink": "/support/docs/academic-writing/import/soil-science-and-plant-nutrition"
+  },
+  "next": {
+    "title": "solutions",
+    "permalink": "/support/docs/academic-writing/import/solutions"
+  }
+}

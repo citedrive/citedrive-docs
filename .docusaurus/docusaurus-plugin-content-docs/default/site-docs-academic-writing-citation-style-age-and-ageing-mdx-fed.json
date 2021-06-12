@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/age-and-ageing",
+  "id": "academic-writing/citation-style/age-and-ageing",
+  "isDocsHomePage": false,
+  "title": "age-and-ageing",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/age-and-ageing.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/age-and-ageing",
+  "permalink": "/support/docs/academic-writing/citation-style/age-and-ageing",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/age-and-ageing.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "afte-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/afte-journal"
+  },
+  "next": {
+    "title": "ageing-and-society",
+    "permalink": "/support/docs/academic-writing/citation-style/ageing-and-society"
+  }
+}

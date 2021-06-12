@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-wildlife-management",
+  "id": "academic-writing/citation-style/the-journal-of-wildlife-management",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-wildlife-management",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-wildlife-management.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-wildlife-management",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-wildlife-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-wildlife-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-veterinary-medical-science",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-veterinary-medical-science"
+  },
+  "next": {
+    "title": "the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journals-of-gerontology-series-a-biological-sciences-and-medical-sciences"
+  }
+}

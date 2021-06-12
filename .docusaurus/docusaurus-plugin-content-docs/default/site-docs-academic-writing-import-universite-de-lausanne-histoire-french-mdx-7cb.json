@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/universite-de-lausanne--histoire-french",
+  "id": "academic-writing/import/universite-de-lausanne--histoire-french",
+  "isDocsHomePage": false,
+  "title": "universite-de-lausanne--histoire-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/universite-de-lausanne--histoire-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/universite-de-lausanne--histoire-french",
+  "permalink": "/support/docs/academic-writing/import/universite-de-lausanne--histoire-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/universite-de-lausanne--histoire-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-catholique-de-louvain--histoire-french",
+    "permalink": "/support/docs/academic-writing/import/universite-catholique-de-louvain--histoire-french"
+  },
+  "next": {
+    "title": "universite-de-liege--droit-classement-par-categorie-french",
+    "permalink": "/support/docs/academic-writing/import/universite-de-liege--droit-classement-par-categorie-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bournemouth-university--harvard",
+  "id": "academic-writing/citation-style/bournemouth-university--harvard",
+  "isDocsHomePage": false,
+  "title": "bournemouth-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bournemouth-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bournemouth-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/bournemouth-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bournemouth-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bourgognefranchecomte-nature-french",
+    "permalink": "/support/docs/academic-writing/citation-style/bourgognefranchecomte-nature-french"
+  },
+  "next": {
+    "title": "brachytherapy",
+    "permalink": "/support/docs/academic-writing/citation-style/brachytherapy"
+  }
+}

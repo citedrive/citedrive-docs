@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/business-ethics-a-european-review",
+  "id": "academic-writing/citation-style/business-ethics-a-european-review",
+  "isDocsHomePage": false,
+  "title": "business-ethics-a-european-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/business-ethics-a-european-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/business-ethics-a-european-review",
+  "permalink": "/support/docs/academic-writing/citation-style/business-ethics-a-european-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/business-ethics-a-european-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+    "permalink": "/support/docs/academic-writing/citation-style/bursa-uludag-universitesi-fen-bilimleri-enstitusu"
+  },
+  "next": {
+    "title": "byzantina-symmeikta",
+    "permalink": "/support/docs/academic-writing/citation-style/byzantina-symmeikta"
+  }
+}

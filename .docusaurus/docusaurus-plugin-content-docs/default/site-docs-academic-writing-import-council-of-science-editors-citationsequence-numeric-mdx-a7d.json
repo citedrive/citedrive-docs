@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/council-of-science-editors-citationsequence-numeric",
+  "id": "academic-writing/import/council-of-science-editors-citationsequence-numeric",
+  "isDocsHomePage": false,
+  "title": "council-of-science-editors-citationsequence-numeric",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/council-of-science-editors-citationsequence-numeric.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/council-of-science-editors-citationsequence-numeric",
+  "permalink": "/support/docs/academic-writing/import/council-of-science-editors-citationsequence-numeric",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/council-of-science-editors-citationsequence-numeric.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "council-of-science-editors-citationname-numeric-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/import/council-of-science-editors-citationname-numeric-sorted-alphabetically"
+  },
+  "next": {
+    "title": "council-of-science-editors-nameyear-authordate",
+    "permalink": "/support/docs/academic-writing/import/council-of-science-editors-nameyear-authordate"
+  }
+}

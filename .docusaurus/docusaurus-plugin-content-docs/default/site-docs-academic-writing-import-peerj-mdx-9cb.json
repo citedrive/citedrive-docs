@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/peerj",
+  "id": "academic-writing/import/peerj",
+  "isDocsHomePage": false,
+  "title": "peerj",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/peerj.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/peerj",
+  "permalink": "/support/docs/academic-writing/import/peerj",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/peerj.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-urology-case-reports",
+    "permalink": "/support/docs/academic-writing/import/pediatric-urology-case-reports"
+  },
+  "next": {
+    "title": "pensoft-journals",
+    "permalink": "/support/docs/academic-writing/import/pensoft-journals"
+  }
+}

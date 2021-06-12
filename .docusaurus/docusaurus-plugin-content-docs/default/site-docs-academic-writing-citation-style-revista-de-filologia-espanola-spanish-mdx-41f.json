@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revista-de-filologia-espanola-spanish",
+  "id": "academic-writing/citation-style/revista-de-filologia-espanola-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-de-filologia-espanola-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revista-de-filologia-espanola-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revista-de-filologia-espanola-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/revista-de-filologia-espanola-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-de-filologia-espanola-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-de-biologia-tropical-international-journal-of-tropical-biology-and-conservation",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-de-biologia-tropical-international-journal-of-tropical-biology-and-conservation"
+  },
+  "next": {
+    "title": "revista-do-instituto-de-medicina-tropical-de-sao-paulo",
+    "permalink": "/support/docs/academic-writing/citation-style/revista-do-instituto-de-medicina-tropical-de-sao-paulo"
+  }
+}

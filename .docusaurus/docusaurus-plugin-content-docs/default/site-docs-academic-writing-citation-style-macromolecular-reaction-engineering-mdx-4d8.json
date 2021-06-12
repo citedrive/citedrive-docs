@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/macromolecular-reaction-engineering",
+  "id": "academic-writing/citation-style/macromolecular-reaction-engineering",
+  "isDocsHomePage": false,
+  "title": "macromolecular-reaction-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/macromolecular-reaction-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/macromolecular-reaction-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/macromolecular-reaction-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/macromolecular-reaction-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lund-university-school-of-economics-and-management",
+    "permalink": "/support/docs/academic-writing/citation-style/lund-university-school-of-economics-and-management"
+  },
+  "next": {
+    "title": "magnetic-resonance-in-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/magnetic-resonance-in-medicine"
+  }
+}

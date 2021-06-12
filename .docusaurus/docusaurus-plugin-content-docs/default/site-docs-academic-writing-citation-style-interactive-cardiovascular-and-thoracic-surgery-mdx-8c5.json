@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
+  "id": "academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
+  "isDocsHomePage": false,
+  "title": "interactive-cardiovascular-and-thoracic-surgery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
+  "permalink": "/support/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "interaction-design-and-architectures",
+    "permalink": "/support/docs/academic-writing/citation-style/interaction-design-and-architectures"
+  },
+  "next": {
+    "title": "interdisziplinare-anthropologie-german",
+    "permalink": "/support/docs/academic-writing/citation-style/interdisziplinare-anthropologie-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zootaxa",
+  "id": "academic-writing/citation-style/zootaxa",
+  "isDocsHomePage": false,
+  "title": "zootaxa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zootaxa.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zootaxa",
+  "permalink": "/support/docs/academic-writing/citation-style/zootaxa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zootaxa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
+    "permalink": "/support/docs/academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland"
+  },
+  "next": {
+    "title": "zwitschermaschine",
+    "permalink": "/support/docs/academic-writing/citation-style/zwitschermaschine"
+  }
+}

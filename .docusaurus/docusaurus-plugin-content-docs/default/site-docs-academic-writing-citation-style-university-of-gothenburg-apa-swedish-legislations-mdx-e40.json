@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations",
+  "id": "academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations",
+  "isDocsHomePage": false,
+  "title": "university-of-gothenburg--apa-swedish-legislations",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations",
+  "permalink": "/support/docs/academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-exeter--geography--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-exeter--geography--harvard"
+  },
+  "next": {
+    "title": "university-of-greenwich--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/university-of-greenwich--harvard"
+  }
+}

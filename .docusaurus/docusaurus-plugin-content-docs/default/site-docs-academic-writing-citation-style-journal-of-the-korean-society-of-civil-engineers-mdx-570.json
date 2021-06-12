@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers",
+  "id": "academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-korean-society-of-civil-engineers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-korean-society-of-civil-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-indian-law-institute",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-indian-law-institute"
+  },
+  "next": {
+    "title": "journal-of-the-marine-biological-association-of-the-united-kingdom",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-marine-biological-association-of-the-united-kingdom"
+  }
+}

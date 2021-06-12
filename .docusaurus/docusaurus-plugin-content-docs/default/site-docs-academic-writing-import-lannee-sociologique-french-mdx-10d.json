@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/lannee-sociologique-french",
+  "id": "academic-writing/import/lannee-sociologique-french",
+  "isDocsHomePage": false,
+  "title": "lannee-sociologique-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/lannee-sociologique-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/lannee-sociologique-french",
+  "permalink": "/support/docs/academic-writing/import/lannee-sociologique-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/lannee-sociologique-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "language",
+    "permalink": "/support/docs/academic-writing/import/language"
+  },
+  "next": {
+    "title": "laser-and-photonics-reviews",
+    "permalink": "/support/docs/academic-writing/import/laser-and-photonics-reviews"
+  }
+}

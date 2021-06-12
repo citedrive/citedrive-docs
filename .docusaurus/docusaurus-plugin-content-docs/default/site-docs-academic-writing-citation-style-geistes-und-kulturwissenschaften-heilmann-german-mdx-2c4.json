@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german",
+  "id": "academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german",
+  "isDocsHomePage": false,
+  "title": "geistes-und-kulturwissenschaften-heilmann-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german",
+  "permalink": "/support/docs/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gazeta-medica",
+    "permalink": "/support/docs/academic-writing/citation-style/gazeta-medica"
+  },
+  "next": {
+    "title": "generic-style-rules-for-linguistics",
+    "permalink": "/support/docs/academic-writing/citation-style/generic-style-rules-for-linguistics"
+  }
+}

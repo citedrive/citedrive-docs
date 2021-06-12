@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/g-giappichelli-editore-italian",
+  "id": "academic-writing/import/g-giappichelli-editore-italian",
+  "isDocsHomePage": false,
+  "title": "g-giappichelli-editore-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/g-giappichelli-editore-italian.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/g-giappichelli-editore-italian",
+  "permalink": "/support/docs/academic-writing/import/g-giappichelli-editore-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/g-giappichelli-editore-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "future-science-group",
+    "permalink": "/support/docs/academic-writing/import/future-science-group"
+  },
+  "next": {
+    "title": "g3-genes-genomes-genetics",
+    "permalink": "/support/docs/academic-writing/import/g3-genes-genomes-genetics"
+  }
+}

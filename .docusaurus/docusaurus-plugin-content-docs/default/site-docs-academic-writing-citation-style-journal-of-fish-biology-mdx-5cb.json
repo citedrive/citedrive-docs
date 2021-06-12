@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-fish-biology",
+  "id": "academic-writing/citation-style/journal-of-fish-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-fish-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-fish-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-fish-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-fish-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-fish-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-finance",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-finance"
+  },
+  "next": {
+    "title": "journal-of-food-protection",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-food-protection"
+  }
+}

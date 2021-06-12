@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/elementa",
+  "id": "academic-writing/import/elementa",
+  "isDocsHomePage": false,
+  "title": "elementa",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/elementa.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/elementa",
+  "permalink": "/support/docs/academic-writing/import/elementa",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/elementa.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "electrophoresis",
+    "permalink": "/support/docs/academic-writing/import/electrophoresis"
+  },
+  "next": {
+    "title": "elife",
+    "permalink": "/support/docs/academic-writing/import/elife"
+  }
+}

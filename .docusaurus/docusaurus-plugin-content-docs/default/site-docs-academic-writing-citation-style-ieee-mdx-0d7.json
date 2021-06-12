@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ieee",
+  "id": "academic-writing/citation-style/ieee",
+  "isDocsHomePage": false,
+  "title": "ieee",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ieee.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ieee",
+  "permalink": "/support/docs/academic-writing/citation-style/ieee",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ieee.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ieee-with-url",
+    "permalink": "/support/docs/academic-writing/citation-style/ieee-with-url"
+  },
+  "next": {
+    "title": "iforest",
+    "permalink": "/support/docs/academic-writing/citation-style/iforest"
+  }
+}

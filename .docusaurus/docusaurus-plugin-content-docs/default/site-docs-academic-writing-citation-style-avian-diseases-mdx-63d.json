@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/avian-diseases",
+  "id": "academic-writing/citation-style/avian-diseases",
+  "isDocsHomePage": false,
+  "title": "avian-diseases",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/avian-diseases.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/avian-diseases",
+  "permalink": "/support/docs/academic-writing/citation-style/avian-diseases",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/avian-diseases.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "avian-conservation-and-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/avian-conservation-and-ecology"
+  },
+  "next": {
+    "title": "avian-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/avian-pathology"
+  }
+}

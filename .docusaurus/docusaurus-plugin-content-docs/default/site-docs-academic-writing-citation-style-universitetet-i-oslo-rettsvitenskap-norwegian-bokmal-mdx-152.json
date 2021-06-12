@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+  "id": "academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+  "isDocsHomePage": false,
+  "title": "universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+  "permalink": "/support/docs/academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+    "permalink": "/support/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch"
+  },
+  "next": {
+    "title": "universiti-kebangsaan-malaysia-malay",
+    "permalink": "/support/docs/academic-writing/citation-style/universiti-kebangsaan-malaysia-malay"
+  }
+}

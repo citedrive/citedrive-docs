@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/fine-focus",
+  "id": "academic-writing/import/fine-focus",
+  "isDocsHomePage": false,
+  "title": "fine-focus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/fine-focus.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/fine-focus",
+  "permalink": "/support/docs/academic-writing/import/fine-focus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/fine-focus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "finanzarchiv--public-finance-analysis",
+    "permalink": "/support/docs/academic-writing/import/finanzarchiv--public-finance-analysis"
+  },
+  "next": {
+    "title": "first-break",
+    "permalink": "/support/docs/academic-writing/import/first-break"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate",
+  "id": "academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate",
+  "isDocsHomePage": false,
+  "title": "technische-universitat-dresden--erziehungswissenschaften-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--erziehungswissenschaften-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-dresden--betriebswirtschaftslehrerechnungswesencontrolling-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrerechnungswesencontrolling-german"
+  },
+  "next": {
+    "title": "technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--finanzwirtschaft-und-finanzdienstleistungen-authordate-with-short-titles"
+  }
+}

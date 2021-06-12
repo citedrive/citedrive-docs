@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/nephrology-dialysis-transplantation",
+  "id": "academic-writing/import/nephrology-dialysis-transplantation",
+  "isDocsHomePage": false,
+  "title": "nephrology-dialysis-transplantation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/nephrology-dialysis-transplantation.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/nephrology-dialysis-transplantation",
+  "permalink": "/support/docs/academic-writing/import/nephrology-dialysis-transplantation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/nephrology-dialysis-transplantation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nejm-catalyst-innovations-in-care-delivery",
+    "permalink": "/support/docs/academic-writing/import/nejm-catalyst-innovations-in-care-delivery"
+  },
+  "next": {
+    "title": "neue-juristische-wochenschrift-german",
+    "permalink": "/support/docs/academic-writing/import/neue-juristische-wochenschrift-german"
+  }
+}

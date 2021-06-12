@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-simulation",
+  "id": "academic-writing/citation-style/journal-of-simulation",
+  "isDocsHomePage": false,
+  "title": "journal-of-simulation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-simulation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-simulation",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-simulation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-simulation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-shoulder-and-elbow-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-shoulder-and-elbow-surgery"
+  },
+  "next": {
+    "title": "journal-of-sleep-research",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-sleep-research"
+  }
+}

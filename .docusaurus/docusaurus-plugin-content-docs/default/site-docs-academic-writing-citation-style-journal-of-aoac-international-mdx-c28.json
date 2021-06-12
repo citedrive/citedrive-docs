@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-aoac-international",
+  "id": "academic-writing/citation-style/journal-of-aoac-international",
+  "isDocsHomePage": false,
+  "title": "journal-of-aoac-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-aoac-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-aoac-international",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-aoac-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-aoac-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-antimicrobial-chemotherapy",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-antimicrobial-chemotherapy"
+  },
+  "next": {
+    "title": "journal-of-applied-animal-science",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-animal-science"
+  }
+}

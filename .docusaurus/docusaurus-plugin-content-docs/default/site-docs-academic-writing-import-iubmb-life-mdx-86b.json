@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/iubmb-life",
+  "id": "academic-writing/import/iubmb-life",
+  "isDocsHomePage": false,
+  "title": "iubmb-life",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/iubmb-life.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/iubmb-life",
+  "permalink": "/support/docs/academic-writing/import/iubmb-life",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/iubmb-life.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ithaque-french--canada",
+    "permalink": "/support/docs/academic-writing/import/ithaque-french--canada"
+  },
+  "next": {
+    "title": "ius-ecclesiae",
+    "permalink": "/support/docs/academic-writing/import/ius-ecclesiae"
+  }
+}

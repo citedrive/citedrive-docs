@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/management-international",
+  "id": "academic-writing/citation-style/management-international",
+  "isDocsHomePage": false,
+  "title": "management-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/management-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/management-international",
+  "permalink": "/support/docs/academic-writing/citation-style/management-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/management-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "management-and-avenir-french",
+    "permalink": "/support/docs/academic-writing/citation-style/management-and-avenir-french"
+  },
+  "next": {
+    "title": "management-of-biological-invasions",
+    "permalink": "/support/docs/academic-writing/citation-style/management-of-biological-invasions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/scientia-agriculturae-bohemica",
+  "id": "academic-writing/citation-style/scientia-agriculturae-bohemica",
+  "isDocsHomePage": false,
+  "title": "scientia-agriculturae-bohemica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/scientia-agriculturae-bohemica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/scientia-agriculturae-bohemica",
+  "permalink": "/support/docs/academic-writing/citation-style/scientia-agriculturae-bohemica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scientia-agriculturae-bohemica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sciences-po--ecole-doctorale-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-note-french"
+  },
+  "next": {
+    "title": "scientia-iranica",
+    "permalink": "/support/docs/academic-writing/citation-style/scientia-iranica"
+  }
+}

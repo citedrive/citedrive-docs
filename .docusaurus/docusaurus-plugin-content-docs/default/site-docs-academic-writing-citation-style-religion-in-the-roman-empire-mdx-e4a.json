@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/religion-in-the-roman-empire",
+  "id": "academic-writing/citation-style/religion-in-the-roman-empire",
+  "isDocsHomePage": false,
+  "title": "religion-in-the-roman-empire",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/religion-in-the-roman-empire.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/religion-in-the-roman-empire",
+  "permalink": "/support/docs/academic-writing/citation-style/religion-in-the-roman-empire",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/religion-in-the-roman-empire.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "recherches-en-sciences-de-gestion-french",
+    "permalink": "/support/docs/academic-writing/citation-style/recherches-en-sciences-de-gestion-french"
+  },
+  "next": {
+    "title": "renewable-agriculture-and-food-systems",
+    "permalink": "/support/docs/academic-writing/citation-style/renewable-agriculture-and-food-systems"
+  }
+}

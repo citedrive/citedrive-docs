@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-rockefeller-university-press",
+  "id": "academic-writing/citation-style/the-rockefeller-university-press",
+  "isDocsHomePage": false,
+  "title": "the-rockefeller-university-press",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-rockefeller-university-press.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-rockefeller-university-press",
+  "permalink": "/support/docs/academic-writing/citation-style/the-rockefeller-university-press",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-rockefeller-university-press.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-review-of-financial-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/the-review-of-financial-studies"
+  },
+  "next": {
+    "title": "the-saudi-journal-for-dental-research",
+    "permalink": "/support/docs/academic-writing/citation-style/the-saudi-journal-for-dental-research"
+  }
+}

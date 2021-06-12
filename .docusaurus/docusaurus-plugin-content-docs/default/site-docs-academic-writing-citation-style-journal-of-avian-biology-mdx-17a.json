@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-avian-biology",
+  "id": "academic-writing/citation-style/journal-of-avian-biology",
+  "isDocsHomePage": false,
+  "title": "journal-of-avian-biology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-avian-biology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-avian-biology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-avian-biology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-avian-biology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-australian-strength-and-conditioning",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-australian-strength-and-conditioning"
+  },
+  "next": {
+    "title": "journal-of-basic-microbiology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-basic-microbiology"
+  }
+}

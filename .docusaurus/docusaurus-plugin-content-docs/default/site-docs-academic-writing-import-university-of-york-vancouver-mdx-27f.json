@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-york--vancouver",
+  "id": "academic-writing/import/university-of-york--vancouver",
+  "isDocsHomePage": false,
+  "title": "university-of-york--vancouver",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-york--vancouver.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-york--vancouver",
+  "permalink": "/support/docs/academic-writing/import/university-of-york--vancouver",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-york--vancouver.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--oscola",
+    "permalink": "/support/docs/academic-writing/import/university-of-york--oscola"
+  },
+  "next": {
+    "title": "university-of-zabol-english",
+    "permalink": "/support/docs/academic-writing/import/university-of-zabol-english"
+  }
+}

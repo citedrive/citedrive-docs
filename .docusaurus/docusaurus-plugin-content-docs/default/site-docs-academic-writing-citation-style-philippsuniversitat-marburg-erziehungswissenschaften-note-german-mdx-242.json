@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+  "id": "academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+  "isDocsHomePage": false,
+  "title": "philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+  "permalink": "/support/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "philippika-german",
+    "permalink": "/support/docs/academic-writing/citation-style/philippika-german"
+  },
+  "next": {
+    "title": "philosophia-scienti",
+    "permalink": "/support/docs/academic-writing/citation-style/philosophia-scienti"
+  }
+}

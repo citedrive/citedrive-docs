@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/foodborne-pathogens-and-disease",
+  "id": "academic-writing/citation-style/foodborne-pathogens-and-disease",
+  "isDocsHomePage": false,
+  "title": "foodborne-pathogens-and-disease",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/foodborne-pathogens-and-disease.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/foodborne-pathogens-and-disease",
+  "permalink": "/support/docs/academic-writing/citation-style/foodborne-pathogens-and-disease",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/foodborne-pathogens-and-disease.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "food-and-agriculture-organization-of-the-united-nations",
+    "permalink": "/support/docs/academic-writing/citation-style/food-and-agriculture-organization-of-the-united-nations"
+  },
+  "next": {
+    "title": "forensic-anthropology",
+    "permalink": "/support/docs/academic-writing/citation-style/forensic-anthropology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/west-european-politics",
+  "id": "academic-writing/import/west-european-politics",
+  "isDocsHomePage": false,
+  "title": "west-european-politics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/west-european-politics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/west-european-politics",
+  "permalink": "/support/docs/academic-writing/import/west-european-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/west-european-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "weed-science-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/weed-science-society-of-america"
+  },
+  "next": {
+    "title": "western-journal-of-emergency-medicine",
+    "permalink": "/support/docs/academic-writing/import/western-journal-of-emergency-medicine"
+  }
+}

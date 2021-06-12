@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mammal-review",
+  "id": "academic-writing/citation-style/mammal-review",
+  "isDocsHomePage": false,
+  "title": "mammal-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mammal-review.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mammal-review",
+  "permalink": "/support/docs/academic-writing/citation-style/mammal-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mammal-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "malaysian-orthopaedic-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/malaysian-orthopaedic-journal"
+  },
+  "next": {
+    "title": "mammalia",
+    "permalink": "/support/docs/academic-writing/citation-style/mammalia"
+  }
+}

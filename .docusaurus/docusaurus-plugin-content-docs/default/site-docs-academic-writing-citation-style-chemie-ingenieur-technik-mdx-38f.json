@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chemie-ingenieur-technik",
+  "id": "academic-writing/citation-style/chemie-ingenieur-technik",
+  "isDocsHomePage": false,
+  "title": "chemie-ingenieur-technik",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chemie-ingenieur-technik.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chemie-ingenieur-technik",
+  "permalink": "/support/docs/academic-writing/citation-style/chemie-ingenieur-technik",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chemie-ingenieur-technik.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemical-senses",
+    "permalink": "/support/docs/academic-writing/citation-style/chemical-senses"
+  },
+  "next": {
+    "title": "chemistry-education-research-and-practice",
+    "permalink": "/support/docs/academic-writing/citation-style/chemistry-education-research-and-practice"
+  }
+}

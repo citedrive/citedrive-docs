@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-minimally-invasive-gynecology",
+  "id": "academic-writing/import/journal-of-minimally-invasive-gynecology",
+  "isDocsHomePage": false,
+  "title": "journal-of-minimally-invasive-gynecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-minimally-invasive-gynecology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-minimally-invasive-gynecology",
+  "permalink": "/support/docs/academic-writing/import/journal-of-minimally-invasive-gynecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-minimally-invasive-gynecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-medical-internet-research",
+    "permalink": "/support/docs/academic-writing/import/journal-of-medical-internet-research"
+  },
+  "next": {
+    "title": "journal-of-molecular-cell-biology",
+    "permalink": "/support/docs/academic-writing/import/journal-of-molecular-cell-biology"
+  }
+}

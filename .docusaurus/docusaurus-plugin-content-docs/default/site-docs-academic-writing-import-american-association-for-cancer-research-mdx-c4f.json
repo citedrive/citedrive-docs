@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-association-for-cancer-research",
+  "id": "academic-writing/import/american-association-for-cancer-research",
+  "isDocsHomePage": false,
+  "title": "american-association-for-cancer-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-association-for-cancer-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-association-for-cancer-research",
+  "permalink": "/support/docs/academic-writing/import/american-association-for-cancer-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-association-for-cancer-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-anthropological-association",
+    "permalink": "/support/docs/academic-writing/import/american-anthropological-association"
+  },
+  "next": {
+    "title": "american-association-of-petroleum-geologists",
+    "permalink": "/support/docs/academic-writing/import/american-association-of-petroleum-geologists"
+  }
+}

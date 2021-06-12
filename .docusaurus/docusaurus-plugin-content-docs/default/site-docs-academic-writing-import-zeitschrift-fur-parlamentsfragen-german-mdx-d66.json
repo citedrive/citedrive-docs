@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/zeitschrift-fur-parlamentsfragen-german",
+  "id": "academic-writing/import/zeitschrift-fur-parlamentsfragen-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-parlamentsfragen-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/zeitschrift-fur-parlamentsfragen-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/zeitschrift-fur-parlamentsfragen-german",
+  "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-parlamentsfragen-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/zeitschrift-fur-parlamentsfragen-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-padagogik-german",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-padagogik-german"
+  },
+  "next": {
+    "title": "zeitschrift-fur-religionswissenschaft-authordate",
+    "permalink": "/support/docs/academic-writing/import/zeitschrift-fur-religionswissenschaft-authordate"
+  }
+}

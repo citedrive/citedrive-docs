@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/northeastern-naturalist",
+  "id": "academic-writing/citation-style/northeastern-naturalist",
+  "isDocsHomePage": false,
+  "title": "northeastern-naturalist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/northeastern-naturalist.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/northeastern-naturalist",
+  "permalink": "/support/docs/academic-writing/citation-style/northeastern-naturalist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/northeastern-naturalist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "norsk-apamanual--apa-7th-edition-note",
+    "permalink": "/support/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note"
+  },
+  "next": {
+    "title": "northwest-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/northwest-university--harvard"
+  }
+}

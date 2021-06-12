@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/world-congress-on-engineering-asset-management-2010",
+  "id": "academic-writing/import/world-congress-on-engineering-asset-management-2010",
+  "isDocsHomePage": false,
+  "title": "world-congress-on-engineering-asset-management-2010",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/world-congress-on-engineering-asset-management-2010.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/world-congress-on-engineering-asset-management-2010",
+  "permalink": "/support/docs/academic-writing/import/world-congress-on-engineering-asset-management-2010",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/world-congress-on-engineering-asset-management-2010.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "world-applied-sciences-journal",
+    "permalink": "/support/docs/academic-writing/import/world-applied-sciences-journal"
+  },
+  "next": {
+    "title": "world-journal-of-gastroenterology",
+    "permalink": "/support/docs/academic-writing/import/world-journal-of-gastroenterology"
+  }
+}

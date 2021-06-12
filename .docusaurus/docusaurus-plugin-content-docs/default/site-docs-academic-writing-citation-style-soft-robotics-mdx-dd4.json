@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/soft-robotics",
+  "id": "academic-writing/citation-style/soft-robotics",
+  "isDocsHomePage": false,
+  "title": "soft-robotics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/soft-robotics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/soft-robotics",
+  "permalink": "/support/docs/academic-writing/citation-style/soft-robotics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/soft-robotics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sodertorns-hogskola--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/sodertorns-hogskola--harvard"
+  },
+  "next": {
+    "title": "soil-biology-and-biochemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/soil-biology-and-biochemistry"
+  }
+}

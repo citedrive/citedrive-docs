@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/veterinary-radiology-and-ultrasound",
+  "id": "academic-writing/citation-style/veterinary-radiology-and-ultrasound",
+  "isDocsHomePage": false,
+  "title": "veterinary-radiology-and-ultrasound",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/veterinary-radiology-and-ultrasound",
+  "permalink": "/support/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "veterinary-pathology",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinary-pathology"
+  },
+  "next": {
+    "title": "veterinary-record",
+    "permalink": "/support/docs/academic-writing/citation-style/veterinary-record"
+  }
+}

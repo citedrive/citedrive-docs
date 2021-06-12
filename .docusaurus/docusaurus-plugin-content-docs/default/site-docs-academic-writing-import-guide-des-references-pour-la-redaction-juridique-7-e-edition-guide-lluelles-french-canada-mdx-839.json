@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "id": "academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "isDocsHomePage": false,
+  "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "permalink": "/support/docs/academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
+    "permalink": "/support/docs/academic-writing/import/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french"
+  },
+  "next": {
+    "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada",
+    "permalink": "/support/docs/academic-writing/import/guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada"
+  }
+}

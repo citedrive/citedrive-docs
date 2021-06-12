@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/industrial-relations",
+  "id": "academic-writing/citation-style/industrial-relations",
+  "isDocsHomePage": false,
+  "title": "industrial-relations",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/industrial-relations.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/industrial-relations",
+  "permalink": "/support/docs/academic-writing/citation-style/industrial-relations",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/industrial-relations.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "indoor-air",
+    "permalink": "/support/docs/academic-writing/citation-style/indoor-air"
+  },
+  "next": {
+    "title": "infectio-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/infectio-spanish"
+  }
+}

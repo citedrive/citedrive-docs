@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note",
+  "id": "academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note",
+  "isDocsHomePage": false,
+  "title": "society-of-biblical-literature-2nd-edition-full-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note",
+  "permalink": "/support/docs/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-full-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "society-of-biblical-literature-2nd-edition-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/society-of-biblical-literature-2nd-edition-authordate"
+  },
+  "next": {
+    "title": "socioeconomic-review",
+    "permalink": "/support/docs/academic-writing/citation-style/socioeconomic-review"
+  }
+}

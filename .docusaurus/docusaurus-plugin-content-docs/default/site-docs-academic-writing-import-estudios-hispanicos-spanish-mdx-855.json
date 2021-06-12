@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/estudios-hispanicos-spanish",
+  "id": "academic-writing/import/estudios-hispanicos-spanish",
+  "isDocsHomePage": false,
+  "title": "estudios-hispanicos-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/estudios-hispanicos-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/estudios-hispanicos-spanish",
+  "permalink": "/support/docs/academic-writing/import/estudios-hispanicos-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/estudios-hispanicos-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "estudios-de-fonetica-experimental",
+    "permalink": "/support/docs/academic-writing/import/estudios-de-fonetica-experimental"
+  },
+  "next": {
+    "title": "ethics-for-book-reviews",
+    "permalink": "/support/docs/academic-writing/import/ethics-for-book-reviews"
+  }
+}

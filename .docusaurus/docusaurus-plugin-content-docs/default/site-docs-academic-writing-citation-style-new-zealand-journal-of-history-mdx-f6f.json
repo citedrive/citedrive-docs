@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/new-zealand-journal-of-history",
+  "id": "academic-writing/citation-style/new-zealand-journal-of-history",
+  "isDocsHomePage": false,
+  "title": "new-zealand-journal-of-history",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/new-zealand-journal-of-history.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/new-zealand-journal-of-history",
+  "permalink": "/support/docs/academic-writing/citation-style/new-zealand-journal-of-history",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-zealand-journal-of-history.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "new-zealand-journal-of-forestry-science",
+    "permalink": "/support/docs/academic-writing/citation-style/new-zealand-journal-of-forestry-science"
+  },
+  "next": {
+    "title": "new-zealand-plant-protection",
+    "permalink": "/support/docs/academic-writing/citation-style/new-zealand-plant-protection"
+  }
+}

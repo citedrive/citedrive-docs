@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neuroreport",
+  "id": "academic-writing/citation-style/neuroreport",
+  "isDocsHomePage": false,
+  "title": "neuroreport",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neuroreport.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neuroreport",
+  "permalink": "/support/docs/academic-writing/citation-style/neuroreport",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuroreport.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurorehabilitation-and-neural-repair",
+    "permalink": "/support/docs/academic-writing/citation-style/neurorehabilitation-and-neural-repair"
+  },
+  "next": {
+    "title": "neurosurgery-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america"
+  }
+}

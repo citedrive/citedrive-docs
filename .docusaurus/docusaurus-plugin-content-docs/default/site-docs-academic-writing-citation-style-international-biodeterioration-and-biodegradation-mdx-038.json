@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-biodeterioration-and-biodegradation",
+  "id": "academic-writing/citation-style/international-biodeterioration-and-biodegradation",
+  "isDocsHomePage": false,
+  "title": "international-biodeterioration-and-biodegradation",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-biodeterioration-and-biodegradation.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-biodeterioration-and-biodegradation",
+  "permalink": "/support/docs/academic-writing/citation-style/international-biodeterioration-and-biodegradation",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-biodeterioration-and-biodegradation.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-atomic-energy-agency",
+    "permalink": "/support/docs/academic-writing/citation-style/international-atomic-energy-agency"
+  },
+  "next": {
+    "title": "international-brazilian-journal-of-urology",
+    "permalink": "/support/docs/academic-writing/citation-style/international-brazilian-journal-of-urology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/zeitschrift-fur-soziologie-german",
+  "id": "academic-writing/citation-style/zeitschrift-fur-soziologie-german",
+  "isDocsHomePage": false,
+  "title": "zeitschrift-fur-soziologie-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-soziologie-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zeitschrift-fur-soziologie-german",
+  "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-soziologie-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-soziologie-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zeitschrift-fur-religionswissenschaft-note",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-religionswissenschaft-note"
+  },
+  "next": {
+    "title": "zeitschrift-fur-theologie-und-kirche-german",
+    "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-theologie-und-kirche-german"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/arachnology",
+  "id": "academic-writing/citation-style/arachnology",
+  "isDocsHomePage": false,
+  "title": "arachnology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/arachnology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/arachnology",
+  "permalink": "/support/docs/academic-writing/citation-style/arachnology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arachnology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arachne",
+    "permalink": "/support/docs/academic-writing/citation-style/arachne"
+  },
+  "next": {
+    "title": "archaeologia-austriaca",
+    "permalink": "/support/docs/academic-writing/citation-style/archaeologia-austriaca"
+  }
+}

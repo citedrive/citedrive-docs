@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/protein-science",
+  "id": "academic-writing/import/protein-science",
+  "isDocsHomePage": false,
+  "title": "protein-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/protein-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/protein-science",
+  "permalink": "/support/docs/academic-writing/import/protein-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/protein-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "protein-engineering-design-and-selection",
+    "permalink": "/support/docs/academic-writing/import/protein-engineering-design-and-selection"
+  },
+  "next": {
+    "title": "proteomics",
+    "permalink": "/support/docs/academic-writing/import/proteomics"
+  }
+}

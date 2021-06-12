@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-oncologist",
+  "id": "academic-writing/import/the-oncologist",
+  "isDocsHomePage": false,
+  "title": "the-oncologist",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-oncologist.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-oncologist",
+  "permalink": "/support/docs/academic-writing/import/the-oncologist",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-oncologist.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-new-england-journal-of-medicine",
+    "permalink": "/support/docs/academic-writing/import/the-new-england-journal-of-medicine"
+  },
+  "next": {
+    "title": "the-open-university--a251--arts-course",
+    "permalink": "/support/docs/academic-writing/import/the-open-university--a251--arts-course"
+  }
+}

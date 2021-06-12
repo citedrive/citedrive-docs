@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/polish-legal-polish",
+  "id": "academic-writing/citation-style/polish-legal-polish",
+  "isDocsHomePage": false,
+  "title": "polish-legal-polish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/polish-legal-polish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/polish-legal-polish",
+  "permalink": "/support/docs/academic-writing/citation-style/polish-legal-polish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/polish-legal-polish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "podzemna-voda-slovak",
+    "permalink": "/support/docs/academic-writing/citation-style/podzemna-voda-slovak"
+  },
+  "next": {
+    "title": "politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+    "permalink": "/support/docs/academic-writing/citation-style/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian"
+  }
+}

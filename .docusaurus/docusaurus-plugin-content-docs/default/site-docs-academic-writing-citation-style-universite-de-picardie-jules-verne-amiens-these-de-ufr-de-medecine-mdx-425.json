@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+  "id": "academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+  "isDocsHomePage": false,
+  "title": "universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+  "permalink": "/support/docs/academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-de-picardie-jules-verne-amiens--these-de-ufr-de-medecine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universite-de-montreal--faculte-de-musique-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-montreal--faculte-de-musique-french--canada"
+  },
+  "next": {
+    "title": "universite-de-sherbrooke--departement-de-geomatique-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/universite-de-sherbrooke--departement-de-geomatique-french--canada"
+  }
+}

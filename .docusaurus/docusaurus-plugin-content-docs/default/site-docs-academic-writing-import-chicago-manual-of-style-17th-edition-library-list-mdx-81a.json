@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/chicago-manual-of-style-17th-edition-library-list",
+  "id": "academic-writing/import/chicago-manual-of-style-17th-edition-library-list",
+  "isDocsHomePage": false,
+  "title": "chicago-manual-of-style-17th-edition-library-list",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/chicago-manual-of-style-17th-edition-library-list.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/chicago-manual-of-style-17th-edition-library-list",
+  "permalink": "/support/docs/academic-writing/import/chicago-manual-of-style-17th-edition-library-list",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/chicago-manual-of-style-17th-edition-library-list.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chicago-manual-of-style-17th-edition-full-note",
+    "permalink": "/support/docs/academic-writing/import/chicago-manual-of-style-17th-edition-full-note"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+    "permalink": "/support/docs/academic-writing/import/chicago-manual-of-style-17th-edition-note-annotated-bibliography"
+  }
+}

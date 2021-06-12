@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-geriatric-psychiatry",
+  "id": "academic-writing/import/international-journal-of-geriatric-psychiatry",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-geriatric-psychiatry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-geriatric-psychiatry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-geriatric-psychiatry",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-geriatric-psychiatry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-geriatric-psychiatry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-food-science-and-technology",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-food-science-and-technology"
+  },
+  "next": {
+    "title": "international-journal-of-humanoid-robotics",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-humanoid-robotics"
+  }
+}

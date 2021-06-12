@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/proinflow-note-czech",
+  "id": "academic-writing/import/proinflow-note-czech",
+  "isDocsHomePage": false,
+  "title": "proinflow-note-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/proinflow-note-czech.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/proinflow-note-czech",
+  "permalink": "/support/docs/academic-writing/import/proinflow-note-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/proinflow-note-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "processing-and-application-of-ceramics",
+    "permalink": "/support/docs/academic-writing/import/processing-and-application-of-ceramics"
+  },
+  "next": {
+    "title": "protein-engineering-design-and-selection",
+    "permalink": "/support/docs/academic-writing/import/protein-engineering-design-and-selection"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-crohns-and-colitis-supplements",
+  "id": "academic-writing/citation-style/journal-of-crohns-and-colitis-supplements",
+  "isDocsHomePage": false,
+  "title": "journal-of-crohns-and-colitis-supplements",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-crohns-and-colitis-supplements.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-crohns-and-colitis-supplements",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-crohns-and-colitis-supplements",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-crohns-and-colitis-supplements.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-contemporary-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-contemporary-medicine"
+  },
+  "next": {
+    "title": "journal-of-crohns-and-colitis",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-crohns-and-colitis"
+  }
+}

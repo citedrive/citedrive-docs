@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-union--interinstitutional-style-guide-note",
+  "id": "academic-writing/import/european-union--interinstitutional-style-guide-note",
+  "isDocsHomePage": false,
+  "title": "european-union--interinstitutional-style-guide-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-union--interinstitutional-style-guide-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-union--interinstitutional-style-guide-note",
+  "permalink": "/support/docs/academic-writing/import/european-union--interinstitutional-style-guide-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-union--interinstitutional-style-guide-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-union--interinstitutional-style-guide-authordate",
+    "permalink": "/support/docs/academic-writing/import/european-union--interinstitutional-style-guide-authordate"
+  },
+  "next": {
+    "title": "eva-berlin-konferenz-german",
+    "permalink": "/support/docs/academic-writing/import/eva-berlin-konferenz-german"
+  }
+}

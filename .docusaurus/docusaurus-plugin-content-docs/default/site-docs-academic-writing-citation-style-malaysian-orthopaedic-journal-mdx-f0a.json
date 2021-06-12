@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/malaysian-orthopaedic-journal",
+  "id": "academic-writing/citation-style/malaysian-orthopaedic-journal",
+  "isDocsHomePage": false,
+  "title": "malaysian-orthopaedic-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/malaysian-orthopaedic-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/malaysian-orthopaedic-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/malaysian-orthopaedic-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/malaysian-orthopaedic-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "maison-de-lorient-et-de-la-mediterranee-french",
+    "permalink": "/support/docs/academic-writing/citation-style/maison-de-lorient-et-de-la-mediterranee-french"
+  },
+  "next": {
+    "title": "mammal-review",
+    "permalink": "/support/docs/academic-writing/citation-style/mammal-review"
+  }
+}

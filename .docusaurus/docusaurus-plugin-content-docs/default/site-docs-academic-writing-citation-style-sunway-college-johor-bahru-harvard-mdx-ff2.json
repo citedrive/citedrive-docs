@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/sunway-college-johor-bahru--harvard",
+  "id": "academic-writing/citation-style/sunway-college-johor-bahru--harvard",
+  "isDocsHomePage": false,
+  "title": "sunway-college-johor-bahru--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/sunway-college-johor-bahru--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "style-manual--australian-government-note",
+    "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-note"
+  },
+  "next": {
+    "title": "surgical-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/surgical-clinics-of-north-america"
+  }
+}

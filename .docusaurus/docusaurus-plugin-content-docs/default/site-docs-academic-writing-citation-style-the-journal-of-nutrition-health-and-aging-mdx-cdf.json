@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-journal-of-nutrition-health-and-aging",
+  "id": "academic-writing/citation-style/the-journal-of-nutrition-health-and-aging",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-nutrition-health-and-aging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-journal-of-nutrition-health-and-aging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-journal-of-nutrition-health-and-aging",
+  "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-nutrition-health-and-aging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-nutrition-health-and-aging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-nuclear-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-nuclear-medicine"
+  },
+  "next": {
+    "title": "the-journal-of-pain",
+    "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-pain"
+  }
+}

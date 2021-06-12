@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/molecular-oncology",
+  "id": "academic-writing/import/molecular-oncology",
+  "isDocsHomePage": false,
+  "title": "molecular-oncology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/molecular-oncology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/molecular-oncology",
+  "permalink": "/support/docs/academic-writing/import/molecular-oncology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/molecular-oncology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "molecular-nutrition-and-food-research",
+    "permalink": "/support/docs/academic-writing/import/molecular-nutrition-and-food-research"
+  },
+  "next": {
+    "title": "molecular-plant-pathology",
+    "permalink": "/support/docs/academic-writing/import/molecular-plant-pathology"
+  }
+}

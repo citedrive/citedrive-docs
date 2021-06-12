@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oncoimmunology",
+  "id": "academic-writing/import/oncoimmunology",
+  "isDocsHomePage": false,
+  "title": "oncoimmunology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oncoimmunology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oncoimmunology",
+  "permalink": "/support/docs/academic-writing/import/oncoimmunology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oncoimmunology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oikos",
+    "permalink": "/support/docs/academic-writing/import/oikos"
+  },
+  "next": {
+    "title": "oncotarget",
+    "permalink": "/support/docs/academic-writing/import/oncotarget"
+  }
+}

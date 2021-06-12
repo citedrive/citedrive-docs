@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/annals-of-neurology",
+  "id": "academic-writing/citation-style/annals-of-neurology",
+  "isDocsHomePage": false,
+  "title": "annals-of-neurology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/annals-of-neurology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/annals-of-neurology",
+  "permalink": "/support/docs/academic-writing/citation-style/annals-of-neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annals-of-joint",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-joint"
+  },
+  "next": {
+    "title": "annals-of-oncology",
+    "permalink": "/support/docs/academic-writing/citation-style/annals-of-oncology"
+  }
+}

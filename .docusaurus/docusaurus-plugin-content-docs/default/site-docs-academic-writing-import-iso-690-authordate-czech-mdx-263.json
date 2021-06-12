@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/iso690-authordate-czech",
+  "id": "academic-writing/import/iso690-authordate-czech",
+  "isDocsHomePage": false,
+  "title": "iso690-authordate-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/iso690-authordate-czech.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/iso690-authordate-czech",
+  "permalink": "/support/docs/academic-writing/import/iso690-authordate-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/iso690-authordate-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "isnad-atf-sistemi-2-edisyon-metinici",
+    "permalink": "/support/docs/academic-writing/import/isnad-atf-sistemi-2-edisyon-metinici"
+  },
+  "next": {
+    "title": "iso690-authordate-english",
+    "permalink": "/support/docs/academic-writing/import/iso690-authordate-english"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings",
+  "id": "academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings",
+  "isDocsHomePage": false,
+  "title": "international-pig-veterinary-society-congress-proceedings",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings",
+  "permalink": "/support/docs/academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-pig-veterinary-society-congress-proceedings.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-organization",
+    "permalink": "/support/docs/academic-writing/citation-style/international-organization"
+  },
+  "next": {
+    "title": "international-review-of-the-red-cross",
+    "permalink": "/support/docs/academic-writing/citation-style/international-review-of-the-red-cross"
+  }
+}

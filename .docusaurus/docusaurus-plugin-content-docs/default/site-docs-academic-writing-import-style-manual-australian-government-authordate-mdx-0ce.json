@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/style-manual--australian-government-authordate",
+  "id": "academic-writing/import/style-manual--australian-government-authordate",
+  "isDocsHomePage": false,
+  "title": "style-manual--australian-government-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/style-manual--australian-government-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/style-manual--australian-government-authordate",
+  "permalink": "/support/docs/academic-writing/import/style-manual--australian-government-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/style-manual--australian-government-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "studii-teologice",
+    "permalink": "/support/docs/academic-writing/import/studii-teologice"
+  },
+  "next": {
+    "title": "style-manual--australian-government-note",
+    "permalink": "/support/docs/academic-writing/import/style-manual--australian-government-note"
+  }
+}

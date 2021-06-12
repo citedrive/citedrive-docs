@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-journal-of-the-torrey-botanical-society",
+  "id": "academic-writing/import/the-journal-of-the-torrey-botanical-society",
+  "isDocsHomePage": false,
+  "title": "the-journal-of-the-torrey-botanical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-journal-of-the-torrey-botanical-society.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-journal-of-the-torrey-botanical-society",
+  "permalink": "/support/docs/academic-writing/import/the-journal-of-the-torrey-botanical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-journal-of-the-torrey-botanical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-journal-of-the-acoustical-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-the-acoustical-society-of-america"
+  },
+  "next": {
+    "title": "the-journal-of-transport-history",
+    "permalink": "/support/docs/academic-writing/import/the-journal-of-transport-history"
+  }
+}

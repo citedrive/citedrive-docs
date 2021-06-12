@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/stroke",
+  "id": "academic-writing/citation-style/stroke",
+  "isDocsHomePage": false,
+  "title": "stroke",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/stroke.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/stroke",
+  "permalink": "/support/docs/academic-writing/citation-style/stroke",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/stroke.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "strategic-management-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/strategic-management-journal"
+  },
+  "next": {
+    "title": "structural-control-and-health-monitoring",
+    "permalink": "/support/docs/academic-writing/citation-style/structural-control-and-health-monitoring"
+  }
+}

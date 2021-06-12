@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/developmental-neurobiology",
+  "id": "academic-writing/citation-style/developmental-neurobiology",
+  "isDocsHomePage": false,
+  "title": "developmental-neurobiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/developmental-neurobiology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/developmental-neurobiology",
+  "permalink": "/support/docs/academic-writing/citation-style/developmental-neurobiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/developmental-neurobiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "development-policy-review",
+    "permalink": "/support/docs/academic-writing/citation-style/development-policy-review"
+  },
+  "next": {
+    "title": "diabetes-technology-and-therapeutics",
+    "permalink": "/support/docs/academic-writing/citation-style/diabetes-technology-and-therapeutics"
+  }
+}

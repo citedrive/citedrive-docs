@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/tsaqafah",
+  "id": "academic-writing/citation-style/tsaqafah",
+  "isDocsHomePage": false,
+  "title": "tsaqafah",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/tsaqafah.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/tsaqafah",
+  "permalink": "/support/docs/academic-writing/citation-style/tsaqafah",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tsaqafah.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "tropical-animal-health-and-production",
+    "permalink": "/support/docs/academic-writing/citation-style/tropical-animal-health-and-production"
+  },
+  "next": {
+    "title": "tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish"
+  }
+}

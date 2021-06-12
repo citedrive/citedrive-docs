@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-union-of-crystallography-journals",
+  "id": "academic-writing/citation-style/international-union-of-crystallography-journals",
+  "isDocsHomePage": false,
+  "title": "international-union-of-crystallography-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-union-of-crystallography-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-union-of-crystallography-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/international-union-of-crystallography-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-union-of-crystallography-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-studies-association",
+    "permalink": "/support/docs/academic-writing/citation-style/international-studies-association"
+  },
+  "next": {
+    "title": "international-union-of-forest-research-organizations--headquarters",
+    "permalink": "/support/docs/academic-writing/citation-style/international-union-of-forest-research-organizations--headquarters"
+  }
+}

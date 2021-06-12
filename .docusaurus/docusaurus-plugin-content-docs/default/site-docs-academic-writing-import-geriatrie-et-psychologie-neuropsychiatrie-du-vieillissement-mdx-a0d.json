@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+  "id": "academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+  "isDocsHomePage": false,
+  "title": "geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+  "permalink": "/support/docs/academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geriatrics-and-gerontology-international",
+    "permalink": "/support/docs/academic-writing/import/geriatrics-and-gerontology-international"
+  },
+  "next": {
+    "title": "german-council-of-economic-experts",
+    "permalink": "/support/docs/academic-writing/import/german-council-of-economic-experts"
+  }
+}

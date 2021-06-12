@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/current-topics-in-medicinal-chemistry",
+  "id": "academic-writing/citation-style/current-topics-in-medicinal-chemistry",
+  "isDocsHomePage": false,
+  "title": "current-topics-in-medicinal-chemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/current-topics-in-medicinal-chemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "current-science",
+    "permalink": "/support/docs/academic-writing/citation-style/current-science"
+  },
+  "next": {
+    "title": "currents-in-biblical-research",
+    "permalink": "/support/docs/academic-writing/citation-style/currents-in-biblical-research"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "id": "academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "isDocsHomePage": false,
+  "title": "institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german"
+  },
+  "next": {
+    "title": "institut-national-de-recherches-archeologiques-preventives-french",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-recherches-archeologiques-preventives-french"
+  }
+}

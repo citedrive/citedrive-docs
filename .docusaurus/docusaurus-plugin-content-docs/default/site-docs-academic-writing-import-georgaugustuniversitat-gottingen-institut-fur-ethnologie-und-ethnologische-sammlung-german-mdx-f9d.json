@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "id": "academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "isDocsHomePage": false,
+  "title": "georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "permalink": "/support/docs/academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/georgaugustuniversitat-gottingen--institut-fur-ethnologie-und-ethnologische-sammlung-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "geopolitics",
+    "permalink": "/support/docs/academic-writing/import/geopolitics"
+  },
+  "next": {
+    "title": "geriatrics-and-gerontology-international",
+    "permalink": "/support/docs/academic-writing/import/geriatrics-and-gerontology-international"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/stavebni-obzor-czech",
+  "id": "academic-writing/citation-style/stavebni-obzor-czech",
+  "isDocsHomePage": false,
+  "title": "stavebni-obzor-czech",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/stavebni-obzor-czech.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/stavebni-obzor-czech",
+  "permalink": "/support/docs/academic-writing/citation-style/stavebni-obzor-czech",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/stavebni-obzor-czech.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "statistika-statistics-and-economy-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/statistika-statistics-and-economy-journal"
+  },
+  "next": {
+    "title": "steinbeishochschule--school-of-management-and-innovation-german",
+    "permalink": "/support/docs/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german"
+  }
+}

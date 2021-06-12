@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/soil-biology-and-biochemistry",
+  "id": "academic-writing/citation-style/soil-biology-and-biochemistry",
+  "isDocsHomePage": false,
+  "title": "soil-biology-and-biochemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/soil-biology-and-biochemistry.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/soil-biology-and-biochemistry",
+  "permalink": "/support/docs/academic-writing/citation-style/soil-biology-and-biochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/soil-biology-and-biochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soft-robotics",
+    "permalink": "/support/docs/academic-writing/citation-style/soft-robotics"
+  },
+  "next": {
+    "title": "soil-science-and-plant-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/soil-science-and-plant-nutrition"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy",
+  "id": "academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy",
+  "isDocsHomePage": false,
+  "title": "reports-of-practical-oncology-and-radiotherapy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy",
+  "permalink": "/support/docs/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "renewable-agriculture-and-food-systems",
+    "permalink": "/support/docs/academic-writing/citation-style/renewable-agriculture-and-food-systems"
+  },
+  "next": {
+    "title": "representation",
+    "permalink": "/support/docs/academic-writing/citation-style/representation"
+  }
+}

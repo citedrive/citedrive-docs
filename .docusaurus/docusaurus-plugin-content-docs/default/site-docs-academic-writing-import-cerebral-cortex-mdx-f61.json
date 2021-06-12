@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cerebral-cortex",
+  "id": "academic-writing/import/cerebral-cortex",
+  "isDocsHomePage": false,
+  "title": "cerebral-cortex",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cerebral-cortex.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cerebral-cortex",
+  "permalink": "/support/docs/academic-writing/import/cerebral-cortex",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cerebral-cortex.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french",
+    "permalink": "/support/docs/academic-writing/import/centre-de-recherche-sur-les-civilisations-de-lasie-orientale-french"
+  },
+  "next": {
+    "title": "ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
+    "permalink": "/support/docs/academic-writing/import/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/national-archives-of-australia",
+  "id": "academic-writing/citation-style/national-archives-of-australia",
+  "isDocsHomePage": false,
+  "title": "national-archives-of-australia",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/national-archives-of-australia.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/national-archives-of-australia",
+  "permalink": "/support/docs/academic-writing/citation-style/national-archives-of-australia",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-archives-of-australia.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "natbib--plainnat-authordate",
+    "permalink": "/support/docs/academic-writing/citation-style/natbib--plainnat-authordate"
+  },
+  "next": {
+    "title": "national-institute-of-health-research",
+    "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-health-research"
+  }
+}

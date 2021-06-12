@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/leeds-beckett-university--harvard",
+  "id": "academic-writing/citation-style/leeds-beckett-university--harvard",
+  "isDocsHomePage": false,
+  "title": "leeds-beckett-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/leeds-beckett-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/leeds-beckett-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/leeds-beckett-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/leeds-beckett-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french"
+  },
+  "next": {
+    "title": "leeds-metropolitan-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/leeds-metropolitan-university--harvard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-american-heart-association",
+  "id": "academic-writing/citation-style/journal-of-the-american-heart-association",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-heart-association",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-heart-association.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-american-heart-association",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-heart-association",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-heart-association.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-college-of-surgeons",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-college-of-surgeons"
+  },
+  "next": {
+    "title": "journal-of-the-american-society-of-brewing-chemists",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists"
+  }
+}

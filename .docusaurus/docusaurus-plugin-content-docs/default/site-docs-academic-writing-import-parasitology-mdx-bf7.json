@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/parasitology",
+  "id": "academic-writing/import/parasitology",
+  "isDocsHomePage": false,
+  "title": "parasitology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/parasitology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/parasitology",
+  "permalink": "/support/docs/academic-writing/import/parasitology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/parasitology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "parasite",
+    "permalink": "/support/docs/academic-writing/import/parasite"
+  },
+  "next": {
+    "title": "past-and-present",
+    "permalink": "/support/docs/academic-writing/import/past-and-present"
+  }
+}

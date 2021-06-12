@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/environmental-microbiology",
+  "id": "academic-writing/import/environmental-microbiology",
+  "isDocsHomePage": false,
+  "title": "environmental-microbiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/environmental-microbiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/environmental-microbiology",
+  "permalink": "/support/docs/academic-writing/import/environmental-microbiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/environmental-microbiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "environmental-health-perspectives",
+    "permalink": "/support/docs/academic-writing/import/environmental-health-perspectives"
+  },
+  "next": {
+    "title": "environmental-values",
+    "permalink": "/support/docs/academic-writing/import/environmental-values"
+  }
+}

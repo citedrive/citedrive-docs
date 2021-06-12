@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/international-journal-of-climatology",
+  "id": "academic-writing/import/international-journal-of-climatology",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-climatology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/international-journal-of-climatology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/international-journal-of-climatology",
+  "permalink": "/support/docs/academic-writing/import/international-journal-of-climatology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/international-journal-of-climatology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-circuit-theory-and-applications",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-circuit-theory-and-applications"
+  },
+  "next": {
+    "title": "international-journal-of-electrochemical-science",
+    "permalink": "/support/docs/academic-writing/import/international-journal-of-electrochemical-science"
+  }
+}

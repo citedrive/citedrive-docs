@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pediatric-physical-therapy",
+  "id": "academic-writing/import/pediatric-physical-therapy",
+  "isDocsHomePage": false,
+  "title": "pediatric-physical-therapy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pediatric-physical-therapy.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pediatric-physical-therapy",
+  "permalink": "/support/docs/academic-writing/import/pediatric-physical-therapy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pediatric-physical-therapy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-infectious-disease-journal",
+    "permalink": "/support/docs/academic-writing/import/pediatric-infectious-disease-journal"
+  },
+  "next": {
+    "title": "pediatric-practice-and-research",
+    "permalink": "/support/docs/academic-writing/import/pediatric-practice-and-research"
+  }
+}

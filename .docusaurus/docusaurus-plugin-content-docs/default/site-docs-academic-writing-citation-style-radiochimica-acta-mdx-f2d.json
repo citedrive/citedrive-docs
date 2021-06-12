@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/radiochimica-acta",
+  "id": "academic-writing/citation-style/radiochimica-acta",
+  "isDocsHomePage": false,
+  "title": "radiochimica-acta",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/radiochimica-acta.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/radiochimica-acta",
+  "permalink": "/support/docs/academic-writing/citation-style/radiochimica-acta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/radiochimica-acta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "queen-margaret-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/queen-margaret-university--harvard"
+  },
+  "next": {
+    "title": "radiographics",
+    "permalink": "/support/docs/academic-writing/citation-style/radiographics"
+  }
+}

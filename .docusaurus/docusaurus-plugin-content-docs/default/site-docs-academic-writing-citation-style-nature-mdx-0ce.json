@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nature",
+  "id": "academic-writing/citation-style/nature",
+  "isDocsHomePage": false,
+  "title": "nature",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nature.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nature",
+  "permalink": "/support/docs/academic-writing/citation-style/nature",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nature.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nature-publishing-group--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/nature-publishing-group--vancouver"
+  },
+  "next": {
+    "title": "natures-sciences-societes",
+    "permalink": "/support/docs/academic-writing/citation-style/natures-sciences-societes"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/united-nations-framework-convention-on-climate-change",
+  "id": "academic-writing/import/united-nations-framework-convention-on-climate-change",
+  "isDocsHomePage": false,
+  "title": "united-nations-framework-convention-on-climate-change",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/united-nations-framework-convention-on-climate-change.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/united-nations-framework-convention-on-climate-change",
+  "permalink": "/support/docs/academic-writing/import/united-nations-framework-convention-on-climate-change",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/united-nations-framework-convention-on-climate-change.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "united-nations-development-programme-icca-legal-review",
+    "permalink": "/support/docs/academic-writing/import/united-nations-development-programme-icca-legal-review"
+  },
+  "next": {
+    "title": "universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+    "permalink": "/support/docs/academic-writing/import/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico"
+  }
+}

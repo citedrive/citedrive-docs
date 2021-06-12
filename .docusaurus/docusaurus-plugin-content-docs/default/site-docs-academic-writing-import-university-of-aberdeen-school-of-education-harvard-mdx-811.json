@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-aberdeen--school-of-education--harvard",
+  "id": "academic-writing/import/university-of-aberdeen--school-of-education--harvard",
+  "isDocsHomePage": false,
+  "title": "university-of-aberdeen--school-of-education--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-aberdeen--school-of-education--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-aberdeen--school-of-education--harvard",
+  "permalink": "/support/docs/academic-writing/import/university-of-aberdeen--school-of-education--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-aberdeen--school-of-education--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-for-the-creative-arts--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-for-the-creative-arts--harvard"
+  },
+  "next": {
+    "title": "university-of-abertay-dundee--harvard",
+    "permalink": "/support/docs/academic-writing/import/university-of-abertay-dundee--harvard"
+  }
+}

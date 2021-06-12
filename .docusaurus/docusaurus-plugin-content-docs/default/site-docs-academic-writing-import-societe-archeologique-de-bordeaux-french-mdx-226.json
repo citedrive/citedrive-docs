@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/societe-archeologique-de-bordeaux-french",
+  "id": "academic-writing/import/societe-archeologique-de-bordeaux-french",
+  "isDocsHomePage": false,
+  "title": "societe-archeologique-de-bordeaux-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/societe-archeologique-de-bordeaux-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/societe-archeologique-de-bordeaux-french",
+  "permalink": "/support/docs/academic-writing/import/societe-archeologique-de-bordeaux-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/societe-archeologique-de-bordeaux-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "social-cognitive-and-affective-neuroscience",
+    "permalink": "/support/docs/academic-writing/import/social-cognitive-and-affective-neuroscience"
+  },
+  "next": {
+    "title": "societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
+    "permalink": "/support/docs/academic-writing/import/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/council-of-science-editors-nameyear-authordate",
+  "id": "academic-writing/citation-style/council-of-science-editors-nameyear-authordate",
+  "isDocsHomePage": false,
+  "title": "council-of-science-editors-nameyear-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/council-of-science-editors-nameyear-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/council-of-science-editors-nameyear-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/council-of-science-editors-nameyear-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/council-of-science-editors-nameyear-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "council-of-science-editors-citationsequence-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/council-of-science-editors-citationsequence-numeric"
+  },
+  "next": {
+    "title": "coventry-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/coventry-university--harvard"
+  }
+}

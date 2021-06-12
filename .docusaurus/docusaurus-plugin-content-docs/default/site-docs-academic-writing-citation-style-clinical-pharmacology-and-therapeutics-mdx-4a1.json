@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
+  "id": "academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
+  "isDocsHomePage": false,
+  "title": "clinical-pharmacology-and-therapeutics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-otolaryngology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-otolaryngology"
+  },
+  "next": {
+    "title": "clinical-physiology-and-functional-imaging",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging"
+  }
+}

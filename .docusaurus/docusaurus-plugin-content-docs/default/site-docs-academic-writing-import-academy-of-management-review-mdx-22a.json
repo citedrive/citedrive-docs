@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/academy-of-management-review",
+  "id": "academic-writing/import/academy-of-management-review",
+  "isDocsHomePage": false,
+  "title": "academy-of-management-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/academy-of-management-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/academy-of-management-review",
+  "permalink": "/support/docs/academic-writing/import/academy-of-management-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/academy-of-management-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "-the-university-of-tokyo-law-review-japanese",
+    "permalink": "/support/docs/academic-writing/import/-the-university-of-tokyo-law-review-japanese"
+  },
+  "next": {
+    "title": "accident-analysis-and-prevention",
+    "permalink": "/support/docs/academic-writing/import/accident-analysis-and-prevention"
+  }
+}

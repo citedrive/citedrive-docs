@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/corrosion",
+  "id": "academic-writing/citation-style/corrosion",
+  "isDocsHomePage": false,
+  "title": "corrosion",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/corrosion.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/corrosion",
+  "permalink": "/support/docs/academic-writing/citation-style/corrosion",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/corrosion.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cornea",
+    "permalink": "/support/docs/academic-writing/citation-style/cornea"
+  },
+  "next": {
+    "title": "council-of-science-editors-citationname-numeric-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/citation-style/council-of-science-editors-citationname-numeric-sorted-alphabetically"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/experimental-biomedical-research",
+  "id": "academic-writing/citation-style/experimental-biomedical-research",
+  "isDocsHomePage": false,
+  "title": "experimental-biomedical-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/experimental-biomedical-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/experimental-biomedical-research",
+  "permalink": "/support/docs/academic-writing/citation-style/experimental-biomedical-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/experimental-biomedical-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "exercer-french",
+    "permalink": "/support/docs/academic-writing/citation-style/exercer-french"
+  },
+  "next": {
+    "title": "experimental-dermatology",
+    "permalink": "/support/docs/academic-writing/citation-style/experimental-dermatology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/canadian-geotechnical-journal",
+  "id": "academic-writing/citation-style/canadian-geotechnical-journal",
+  "isDocsHomePage": false,
+  "title": "canadian-geotechnical-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/canadian-geotechnical-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/canadian-geotechnical-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/canadian-geotechnical-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-geotechnical-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-biosystems-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-biosystems-engineering"
+  },
+  "next": {
+    "title": "canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide"
+  }
+}

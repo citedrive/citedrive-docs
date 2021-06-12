@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/coral-reefs",
+  "id": "academic-writing/citation-style/coral-reefs",
+  "isDocsHomePage": false,
+  "title": "coral-reefs",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/coral-reefs.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/coral-reefs",
+  "permalink": "/support/docs/academic-writing/citation-style/coral-reefs",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/coral-reefs.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "copernicus-publications",
+    "permalink": "/support/docs/academic-writing/citation-style/copernicus-publications"
+  },
+  "next": {
+    "title": "cornea",
+    "permalink": "/support/docs/academic-writing/citation-style/cornea"
+  }
+}

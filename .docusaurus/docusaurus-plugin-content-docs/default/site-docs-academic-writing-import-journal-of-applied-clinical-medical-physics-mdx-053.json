@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-applied-clinical-medical-physics",
+  "id": "academic-writing/import/journal-of-applied-clinical-medical-physics",
+  "isDocsHomePage": false,
+  "title": "journal-of-applied-clinical-medical-physics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-applied-clinical-medical-physics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-applied-clinical-medical-physics",
+  "permalink": "/support/docs/academic-writing/import/journal-of-applied-clinical-medical-physics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-applied-clinical-medical-physics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-applied-animal-science",
+    "permalink": "/support/docs/academic-writing/import/journal-of-applied-animal-science"
+  },
+  "next": {
+    "title": "journal-of-applied-entomology",
+    "permalink": "/support/docs/academic-writing/import/journal-of-applied-entomology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cancer-translational-medicine",
+  "id": "academic-writing/import/cancer-translational-medicine",
+  "isDocsHomePage": false,
+  "title": "cancer-translational-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cancer-translational-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cancer-translational-medicine",
+  "permalink": "/support/docs/academic-writing/import/cancer-translational-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cancer-translational-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-public-policy",
+    "permalink": "/support/docs/academic-writing/import/canadian-public-policy"
+  },
+  "next": {
+    "title": "cape-peninsula-university-of-technology--harvard",
+    "permalink": "/support/docs/academic-writing/import/cape-peninsula-university-of-technology--harvard"
+  }
+}

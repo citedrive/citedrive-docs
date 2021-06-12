@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/law-technology-and-humans",
+  "id": "academic-writing/import/law-technology-and-humans",
+  "isDocsHomePage": false,
+  "title": "law-technology-and-humans",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/law-technology-and-humans.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/law-technology-and-humans",
+  "permalink": "/support/docs/academic-writing/import/law-technology-and-humans",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/law-technology-and-humans.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "law-and-society-review",
+    "permalink": "/support/docs/academic-writing/import/law-and-society-review"
+  },
+  "next": {
+    "title": "lcgc",
+    "permalink": "/support/docs/academic-writing/import/lcgc"
+  }
+}

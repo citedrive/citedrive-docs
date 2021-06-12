@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate",
+  "id": "academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate",
+  "isDocsHomePage": false,
+  "title": "modern-humanities-research-association-3rd-edition-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate",
+  "permalink": "/support/docs/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "modern-chinese-literature-and-culture",
+    "permalink": "/support/docs/academic-writing/citation-style/modern-chinese-literature-and-culture"
+  },
+  "next": {
+    "title": "modern-humanities-research-association-3rd-edition-note-with-bibliography",
+    "permalink": "/support/docs/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-note-with-bibliography"
+  }
+}

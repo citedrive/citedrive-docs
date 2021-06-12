@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+  "id": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+  "isDocsHomePage": false,
+  "title": "acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-societatis-botanicorum-poloniae",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae"
+  },
+  "next": {
+    "title": "acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
+  }
+}

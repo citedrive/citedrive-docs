@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada",
+  "id": "academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada",
+  "isDocsHomePage": false,
+  "title": "institut-national-de-sante-publique-du-quebec--napp-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada",
+  "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--napp-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institut-national-de-recherches-archeologiques-preventives-french",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-recherches-archeologiques-preventives-french"
+  },
+  "next": {
+    "title": "institut-national-de-sante-publique-du-quebec--topo-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-sante-publique-du-quebec--topo-french--canada"
+  }
+}

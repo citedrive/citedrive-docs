@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/new-harts-rules-the-oxford-style-guide",
+  "id": "academic-writing/citation-style/new-harts-rules-the-oxford-style-guide",
+  "isDocsHomePage": false,
+  "title": "new-harts-rules-the-oxford-style-guide",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide",
+  "permalink": "/support/docs/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-harts-rules-the-oxford-style-guide.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurosurgery-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america"
+  },
+  "next": {
+    "title": "new-phytologist",
+    "permalink": "/support/docs/academic-writing/citation-style/new-phytologist"
+  }
+}

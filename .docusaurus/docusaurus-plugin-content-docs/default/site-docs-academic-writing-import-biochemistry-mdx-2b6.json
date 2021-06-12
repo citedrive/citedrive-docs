@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biochemistry",
+  "id": "academic-writing/import/biochemistry",
+  "isDocsHomePage": false,
+  "title": "biochemistry",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biochemistry.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biochemistry",
+  "permalink": "/support/docs/academic-writing/import/biochemistry",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biochemistry.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochemistry-and-molecular-biology-education",
+    "permalink": "/support/docs/academic-writing/import/biochemistry-and-molecular-biology-education"
+  },
+  "next": {
+    "title": "biochimica-et-biophysica-acta",
+    "permalink": "/support/docs/academic-writing/import/biochimica-et-biophysica-acta"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/the-geological-society-of-london",
+  "id": "academic-writing/import/the-geological-society-of-london",
+  "isDocsHomePage": false,
+  "title": "the-geological-society-of-london",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/the-geological-society-of-london.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/the-geological-society-of-london",
+  "permalink": "/support/docs/academic-writing/import/the-geological-society-of-london",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/the-geological-society-of-london.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-geological-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/the-geological-society-of-america"
+  },
+  "next": {
+    "title": "the-hastings-center-report",
+    "permalink": "/support/docs/academic-writing/import/the-hastings-center-report"
+  }
+}

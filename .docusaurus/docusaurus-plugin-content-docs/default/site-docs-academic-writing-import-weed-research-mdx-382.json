@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/weed-research",
+  "id": "academic-writing/import/weed-research",
+  "isDocsHomePage": false,
+  "title": "weed-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/weed-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/weed-research",
+  "permalink": "/support/docs/academic-writing/import/weed-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/weed-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "waterbirds",
+    "permalink": "/support/docs/academic-writing/import/waterbirds"
+  },
+  "next": {
+    "title": "weed-science-society-of-america",
+    "permalink": "/support/docs/academic-writing/import/weed-science-society-of-america"
+  }
+}

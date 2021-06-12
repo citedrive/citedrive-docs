@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/revue-des-etudes-byzantines",
+  "id": "academic-writing/citation-style/revue-des-etudes-byzantines",
+  "isDocsHomePage": false,
+  "title": "revue-des-etudes-byzantines",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/revue-des-etudes-byzantines.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/revue-des-etudes-byzantines",
+  "permalink": "/support/docs/academic-writing/citation-style/revue-des-etudes-byzantines",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-des-etudes-byzantines.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revue-delevage-et-de-medecine-veterinaire-des-pays-tropicaux-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-delevage-et-de-medecine-veterinaire-des-pays-tropicaux-french"
+  },
+  "next": {
+    "title": "revue-des-nouvelles-technologies-de-linformation-french",
+    "permalink": "/support/docs/academic-writing/citation-style/revue-des-nouvelles-technologies-de-linformation-french"
+  }
+}

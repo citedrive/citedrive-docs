@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/bitonline-note-german",
+  "id": "academic-writing/citation-style/bitonline-note-german",
+  "isDocsHomePage": false,
+  "title": "bitonline-note-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/bitonline-note-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/bitonline-note-german",
+  "permalink": "/support/docs/academic-writing/citation-style/bitonline-note-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bitonline-note-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biotropica",
+    "permalink": "/support/docs/academic-writing/citation-style/biotropica"
+  },
+  "next": {
+    "title": "biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
+    "permalink": "/support/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish"
+  }
+}

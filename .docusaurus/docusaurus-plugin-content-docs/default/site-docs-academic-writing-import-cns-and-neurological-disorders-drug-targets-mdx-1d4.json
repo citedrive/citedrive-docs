@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/cns-and-neurological-disorders--drug-targets",
+  "id": "academic-writing/import/cns-and-neurological-disorders--drug-targets",
+  "isDocsHomePage": false,
+  "title": "cns-and-neurological-disorders--drug-targets",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/cns-and-neurological-disorders--drug-targets.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/cns-and-neurological-disorders--drug-targets",
+  "permalink": "/support/docs/academic-writing/import/cns-and-neurological-disorders--drug-targets",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/cns-and-neurological-disorders--drug-targets.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clio-medica",
+    "permalink": "/support/docs/academic-writing/import/clio-medica"
+  },
+  "next": {
+    "title": "cold-spring-harbor-laboratory-press",
+    "permalink": "/support/docs/academic-writing/import/cold-spring-harbor-laboratory-press"
+  }
+}

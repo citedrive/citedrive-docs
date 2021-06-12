@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/marine-mammal-science",
+  "id": "academic-writing/citation-style/marine-mammal-science",
+  "isDocsHomePage": false,
+  "title": "marine-mammal-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/marine-mammal-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/marine-mammal-science",
+  "permalink": "/support/docs/academic-writing/citation-style/marine-mammal-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/marine-mammal-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "marine-biology",
+    "permalink": "/support/docs/academic-writing/citation-style/marine-biology"
+  },
+  "next": {
+    "title": "marine-ornithology",
+    "permalink": "/support/docs/academic-writing/citation-style/marine-ornithology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/oxford-university-press-scimed-authordate",
+  "id": "academic-writing/import/oxford-university-press-scimed-authordate",
+  "isDocsHomePage": false,
+  "title": "oxford-university-press-scimed-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/oxford-university-press-scimed-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/oxford-university-press-scimed-authordate",
+  "permalink": "/support/docs/academic-writing/import/oxford-university-press-scimed-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/oxford-university-press-scimed-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "oxford-university-press-note",
+    "permalink": "/support/docs/academic-writing/import/oxford-university-press-note"
+  },
+  "next": {
+    "title": "oxford-university-press-scimed-numeric",
+    "permalink": "/support/docs/academic-writing/import/oxford-university-press-scimed-numeric"
+  }
+}

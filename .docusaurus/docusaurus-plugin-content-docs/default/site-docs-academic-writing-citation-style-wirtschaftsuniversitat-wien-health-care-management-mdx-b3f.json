@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
+  "id": "academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
+  "isDocsHomePage": false,
+  "title": "wirtschaftsuniversitat-wien--health-care-management",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
+  "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wirtschaftsuniversitat-wien--handel-und-marketing-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--handel-und-marketing-german--austria"
+  },
+  "next": {
+    "title": "wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria"
+  }
+}

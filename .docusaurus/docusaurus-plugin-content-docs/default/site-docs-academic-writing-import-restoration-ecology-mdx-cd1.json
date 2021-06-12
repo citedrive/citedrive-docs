@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/restoration-ecology",
+  "id": "academic-writing/import/restoration-ecology",
+  "isDocsHomePage": false,
+  "title": "restoration-ecology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/restoration-ecology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/restoration-ecology",
+  "permalink": "/support/docs/academic-writing/import/restoration-ecology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/restoration-ecology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "research-on-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/import/research-on-biomedical-engineering"
+  },
+  "next": {
+    "title": "rever--revista-de-estudos-da-religiao",
+    "permalink": "/support/docs/academic-writing/import/rever--revista-de-estudos-da-religiao"
+  }
+}

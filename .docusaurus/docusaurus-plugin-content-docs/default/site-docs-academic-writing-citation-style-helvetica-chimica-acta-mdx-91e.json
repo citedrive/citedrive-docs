@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/helvetica-chimica-acta",
+  "id": "academic-writing/citation-style/helvetica-chimica-acta",
+  "isDocsHomePage": false,
+  "title": "helvetica-chimica-acta",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/helvetica-chimica-acta.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/helvetica-chimica-acta",
+  "permalink": "/support/docs/academic-writing/citation-style/helvetica-chimica-acta",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/helvetica-chimica-acta.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "helsingin-yliopisto--teologinen-tiedekunta-finnish",
+    "permalink": "/support/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish"
+  },
+  "next": {
+    "title": "hematologyoncology-clinics-of-north-america",
+    "permalink": "/support/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america"
+  }
+}

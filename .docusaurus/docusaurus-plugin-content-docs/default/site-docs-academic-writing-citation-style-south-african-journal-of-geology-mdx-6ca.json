@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/south-african-journal-of-geology",
+  "id": "academic-writing/citation-style/south-african-journal-of-geology",
+  "isDocsHomePage": false,
+  "title": "south-african-journal-of-geology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/south-african-journal-of-geology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/south-african-journal-of-geology",
+  "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-geology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/south-african-journal-of-geology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "south-african-journal-of-enology-and-viticulture",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-journal-of-enology-and-viticulture"
+  },
+  "next": {
+    "title": "south-african-theological-seminary",
+    "permalink": "/support/docs/academic-writing/citation-style/south-african-theological-seminary"
+  }
+}

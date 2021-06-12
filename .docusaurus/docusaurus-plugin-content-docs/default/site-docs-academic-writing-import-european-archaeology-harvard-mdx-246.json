@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/european-archaeology--harvard",
+  "id": "academic-writing/import/european-archaeology--harvard",
+  "isDocsHomePage": false,
+  "title": "european-archaeology--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/european-archaeology--harvard.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/european-archaeology--harvard",
+  "permalink": "/support/docs/academic-writing/import/european-archaeology--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/european-archaeology--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "europace",
+    "permalink": "/support/docs/academic-writing/import/europace"
+  },
+  "next": {
+    "title": "european-cells-and-materials",
+    "permalink": "/support/docs/academic-writing/import/european-cells-and-materials"
+  }
+}

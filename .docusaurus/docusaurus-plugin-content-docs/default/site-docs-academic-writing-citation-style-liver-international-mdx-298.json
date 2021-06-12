@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/liver-international",
+  "id": "academic-writing/citation-style/liver-international",
+  "isDocsHomePage": false,
+  "title": "liver-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/liver-international.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/liver-international",
+  "permalink": "/support/docs/academic-writing/citation-style/liver-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/liver-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "limnology-and-oceanography",
+    "permalink": "/support/docs/academic-writing/citation-style/limnology-and-oceanography"
+  },
+  "next": {
+    "title": "liverpool-john-moores-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard"
+  }
+}

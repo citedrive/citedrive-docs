@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+  "id": "academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+  "isDocsHomePage": false,
+  "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+  "permalink": "/support/docs/academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-abreviada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "institute-of-physics-numeric",
+    "permalink": "/support/docs/academic-writing/import/institute-of-physics-numeric"
+  },
+  "next": {
+    "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+    "permalink": "/support/docs/academic-writing/import/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa"
+  }
+}

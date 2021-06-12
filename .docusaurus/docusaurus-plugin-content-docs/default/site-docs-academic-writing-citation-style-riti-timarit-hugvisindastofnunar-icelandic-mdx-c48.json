@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
+  "id": "academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
+  "isDocsHomePage": false,
+  "title": "riti-timarit-hugvisindastofnunar-icelandic",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
+  "permalink": "/support/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "risk-analysis",
+    "permalink": "/support/docs/academic-writing/citation-style/risk-analysis"
+  },
+  "next": {
+    "title": "rivista-italiana-di-paleontologia-e-stratigrafia",
+    "permalink": "/support/docs/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/canadian-public-policy",
+  "id": "academic-writing/citation-style/canadian-public-policy",
+  "isDocsHomePage": false,
+  "title": "canadian-public-policy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/canadian-public-policy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/canadian-public-policy",
+  "permalink": "/support/docs/academic-writing/citation-style/canadian-public-policy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-public-policy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "canadian-journal-of-soil-science",
+    "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-soil-science"
+  },
+  "next": {
+    "title": "cancer-translational-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/cancer-translational-medicine"
+  }
+}

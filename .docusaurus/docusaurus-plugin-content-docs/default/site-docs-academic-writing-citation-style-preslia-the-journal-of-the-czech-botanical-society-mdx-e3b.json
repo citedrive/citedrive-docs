@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society",
+  "id": "academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society",
+  "isDocsHomePage": false,
+  "title": "preslia--the-journal-of-the-czech-botanical-society",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society",
+  "permalink": "/support/docs/academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "prehospital-emergency-care",
+    "permalink": "/support/docs/academic-writing/citation-style/prehospital-emergency-care"
+  },
+  "next": {
+    "title": "presses-universitaires-de-paris-nanterre-note-french",
+    "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french"
+  }
+}

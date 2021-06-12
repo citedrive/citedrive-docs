@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/health-and-social-care-in-the-community",
+  "id": "academic-writing/citation-style/health-and-social-care-in-the-community",
+  "isDocsHomePage": false,
+  "title": "health-and-social-care-in-the-community",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/health-and-social-care-in-the-community.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/health-and-social-care-in-the-community",
+  "permalink": "/support/docs/academic-writing/citation-style/health-and-social-care-in-the-community",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/health-and-social-care-in-the-community.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "health-and-human-rights-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/health-and-human-rights-journal"
+  },
+  "next": {
+    "title": "health-economics-policy-and-law",
+    "permalink": "/support/docs/academic-writing/citation-style/health-economics-policy-and-law"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/biochemical-society-transactions",
+  "id": "academic-writing/import/biochemical-society-transactions",
+  "isDocsHomePage": false,
+  "title": "biochemical-society-transactions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/biochemical-society-transactions.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/biochemical-society-transactions",
+  "permalink": "/support/docs/academic-writing/import/biochemical-society-transactions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/biochemical-society-transactions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biochemical-journal",
+    "permalink": "/support/docs/academic-writing/import/biochemical-journal"
+  },
+  "next": {
+    "title": "biochemistry-and-molecular-biology-education",
+    "permalink": "/support/docs/academic-writing/import/biochemistry-and-molecular-biology-education"
+  }
+}

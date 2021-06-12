@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/econometrica",
+  "id": "academic-writing/citation-style/econometrica",
+  "isDocsHomePage": false,
+  "title": "econometrica",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/econometrica.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/econometrica",
+  "permalink": "/support/docs/academic-writing/citation-style/econometrica",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/econometrica.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/ecology"
+  },
+  "next": {
+    "title": "economia-y-politica-spanish--chile",
+    "permalink": "/support/docs/academic-writing/citation-style/economia-y-politica-spanish--chile"
+  }
+}

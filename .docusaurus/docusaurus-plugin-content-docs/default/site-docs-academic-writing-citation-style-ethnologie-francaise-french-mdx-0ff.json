@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ethnologie-francaise-french",
+  "id": "academic-writing/citation-style/ethnologie-francaise-french",
+  "isDocsHomePage": false,
+  "title": "ethnologie-francaise-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ethnologie-francaise-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ethnologie-francaise-french",
+  "permalink": "/support/docs/academic-writing/citation-style/ethnologie-francaise-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ethnologie-francaise-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ethnobiology-and-conservation",
+    "permalink": "/support/docs/academic-writing/citation-style/ethnobiology-and-conservation"
+  },
+  "next": {
+    "title": "ethnomusicology",
+    "permalink": "/support/docs/academic-writing/citation-style/ethnomusicology"
+  }
+}

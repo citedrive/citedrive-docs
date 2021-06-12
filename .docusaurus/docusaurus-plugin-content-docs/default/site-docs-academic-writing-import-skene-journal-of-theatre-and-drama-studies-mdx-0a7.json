@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/skene-journal-of-theatre-and-drama-studies",
+  "id": "academic-writing/import/skene-journal-of-theatre-and-drama-studies",
+  "isDocsHomePage": false,
+  "title": "skene-journal-of-theatre-and-drama-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/skene-journal-of-theatre-and-drama-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/skene-journal-of-theatre-and-drama-studies",
+  "permalink": "/support/docs/academic-writing/import/skene-journal-of-theatre-and-drama-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/skene-journal-of-theatre-and-drama-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "sist02-japanese",
+    "permalink": "/support/docs/academic-writing/import/sist02-japanese"
+  },
+  "next": {
+    "title": "small",
+    "permalink": "/support/docs/academic-writing/import/small"
+  }
+}

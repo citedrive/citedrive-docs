@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/smithsonian-institution-scholarly-press-note",
+  "id": "academic-writing/import/smithsonian-institution-scholarly-press-note",
+  "isDocsHomePage": false,
+  "title": "smithsonian-institution-scholarly-press-note",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/smithsonian-institution-scholarly-press-note.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/smithsonian-institution-scholarly-press-note",
+  "permalink": "/support/docs/academic-writing/import/smithsonian-institution-scholarly-press-note",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/smithsonian-institution-scholarly-press-note.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "smithsonian-institution-scholarly-press-authordate",
+    "permalink": "/support/docs/academic-writing/import/smithsonian-institution-scholarly-press-authordate"
+  },
+  "next": {
+    "title": "smyrna-tp-dergisi-turkish",
+    "permalink": "/support/docs/academic-writing/import/smyrna-tp-dergisi-turkish"
+  }
+}

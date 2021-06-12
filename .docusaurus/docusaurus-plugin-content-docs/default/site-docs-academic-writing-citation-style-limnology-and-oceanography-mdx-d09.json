@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/limnology-and-oceanography",
+  "id": "academic-writing/citation-style/limnology-and-oceanography",
+  "isDocsHomePage": false,
+  "title": "limnology-and-oceanography",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/limnology-and-oceanography.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/limnology-and-oceanography",
+  "permalink": "/support/docs/academic-writing/citation-style/limnology-and-oceanography",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/limnology-and-oceanography.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "limnetica",
+    "permalink": "/support/docs/academic-writing/citation-style/limnetica"
+  },
+  "next": {
+    "title": "liver-international",
+    "permalink": "/support/docs/academic-writing/citation-style/liver-international"
+  }
+}

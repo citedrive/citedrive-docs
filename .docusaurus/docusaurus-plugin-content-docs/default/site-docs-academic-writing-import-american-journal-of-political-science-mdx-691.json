@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/american-journal-of-political-science",
+  "id": "academic-writing/import/american-journal-of-political-science",
+  "isDocsHomePage": false,
+  "title": "american-journal-of-political-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/american-journal-of-political-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/american-journal-of-political-science",
+  "permalink": "/support/docs/academic-writing/import/american-journal-of-political-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/american-journal-of-political-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-journal-of-plant-sciences",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-plant-sciences"
+  },
+  "next": {
+    "title": "american-journal-of-respiratory-and-critical-care-medicine",
+    "permalink": "/support/docs/academic-writing/import/american-journal-of-respiratory-and-critical-care-medicine"
+  }
+}

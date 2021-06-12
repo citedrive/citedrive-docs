@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
+  "id": "academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
+  "isDocsHomePage": false,
+  "title": "vancouver-superscript-only-year-in-date-no-issue-numbers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
+  "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "vancouver-superscript-brackets-only-year-in-date",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript-brackets-only-year-in-date"
+  },
+  "next": {
+    "title": "vancouver-superscript",
+    "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript"
+  }
+}

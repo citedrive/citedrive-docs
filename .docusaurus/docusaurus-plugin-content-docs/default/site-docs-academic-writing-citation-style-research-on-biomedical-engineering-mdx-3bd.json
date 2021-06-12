@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/research-on-biomedical-engineering",
+  "id": "academic-writing/citation-style/research-on-biomedical-engineering",
+  "isDocsHomePage": false,
+  "title": "research-on-biomedical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/research-on-biomedical-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/research-on-biomedical-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/research-on-biomedical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/research-on-biomedical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek",
+    "permalink": "/support/docs/academic-writing/citation-style/research-institute-for-nature-and-forest-instituut-voor-natuur-en-bosonderzoek"
+  },
+  "next": {
+    "title": "restoration-ecology",
+    "permalink": "/support/docs/academic-writing/citation-style/restoration-ecology"
+  }
+}

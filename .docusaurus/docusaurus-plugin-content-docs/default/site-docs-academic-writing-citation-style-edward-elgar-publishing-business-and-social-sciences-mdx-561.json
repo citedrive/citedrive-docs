@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences",
+  "id": "academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences",
+  "isDocsHomePage": false,
+  "title": "edward-elgar-publishing--business-and-social-sciences",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences",
+  "permalink": "/support/docs/academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/edward-elgar-publishing--business-and-social-sciences.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "edge-hill-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/edge-hill-university--harvard"
+  },
+  "next": {
+    "title": "egretta-german--austria",
+    "permalink": "/support/docs/academic-writing/citation-style/egretta-german--austria"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/teologia-catalunya",
+  "id": "academic-writing/citation-style/teologia-catalunya",
+  "isDocsHomePage": false,
+  "title": "teologia-catalunya",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/teologia-catalunya.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/teologia-catalunya",
+  "permalink": "/support/docs/academic-writing/citation-style/teologia-catalunya",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/teologia-catalunya.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "technische-universitat-wien-dissertation-german",
+    "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-wien-dissertation-german"
+  },
+  "next": {
+    "title": "termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology",
+    "permalink": "/support/docs/academic-writing/citation-style/termedia-neuropsychiatria-i-neuropsychologianeuropsychiatry-and-neuropsychology"
+  }
+}

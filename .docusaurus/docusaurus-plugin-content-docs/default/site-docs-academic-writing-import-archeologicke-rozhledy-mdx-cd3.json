@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/archeologicke-rozhledy",
+  "id": "academic-writing/import/archeologicke-rozhledy",
+  "isDocsHomePage": false,
+  "title": "archeologicke-rozhledy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/archeologicke-rozhledy.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/archeologicke-rozhledy",
+  "permalink": "/support/docs/academic-writing/import/archeologicke-rozhledy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/archeologicke-rozhledy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "archeologia-classica-italian",
+    "permalink": "/support/docs/academic-writing/import/archeologia-classica-italian"
+  },
+  "next": {
+    "title": "archeologie-medievale-french",
+    "permalink": "/support/docs/academic-writing/import/archeologie-medievale-french"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/american-psychological-association-6th-edition",
+  "id": "academic-writing/citation-style/american-psychological-association-6th-edition",
+  "isDocsHomePage": false,
+  "title": "american-psychological-association-6th-edition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition",
+  "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "american-psychological-association-6th-edition-turkish",
+    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish"
+  },
+  "next": {
+    "title": "american-psychological-association-7th-edition-annotated-bibliography",
+    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-7th-edition-annotated-bibliography"
+  }
+}

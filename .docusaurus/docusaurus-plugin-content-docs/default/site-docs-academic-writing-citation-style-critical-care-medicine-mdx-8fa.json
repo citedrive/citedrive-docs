@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/critical-care-medicine",
+  "id": "academic-writing/citation-style/critical-care-medicine",
+  "isDocsHomePage": false,
+  "title": "critical-care-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/critical-care-medicine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/critical-care-medicine",
+  "permalink": "/support/docs/academic-writing/citation-style/critical-care-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/critical-care-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "creativity-and-innovation-management",
+    "permalink": "/support/docs/academic-writing/citation-style/creativity-and-innovation-management"
+  },
+  "next": {
+    "title": "critical-reviews-in-plant-sciences",
+    "permalink": "/support/docs/academic-writing/citation-style/critical-reviews-in-plant-sciences"
+  }
+}

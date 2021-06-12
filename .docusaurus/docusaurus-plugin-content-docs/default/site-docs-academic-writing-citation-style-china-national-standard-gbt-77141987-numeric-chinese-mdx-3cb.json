@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese",
+  "id": "academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese",
+  "isDocsHomePage": false,
+  "title": "china-national-standard-gbt-77141987-numeric-chinese",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese",
+  "permalink": "/support/docs/academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/china-national-standard-gbt-77141987-numeric-chinese.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "china-information",
+    "permalink": "/support/docs/academic-writing/citation-style/china-information"
+  },
+  "next": {
+    "title": "china-national-standard-gbt-77142005-authordate-chinese",
+    "permalink": "/support/docs/academic-writing/citation-style/china-national-standard-gbt-77142005-authordate-chinese"
+  }
+}

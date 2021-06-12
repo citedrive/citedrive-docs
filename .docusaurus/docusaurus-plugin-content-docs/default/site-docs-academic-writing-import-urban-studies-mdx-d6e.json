@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/urban-studies",
+  "id": "academic-writing/import/urban-studies",
+  "isDocsHomePage": false,
+  "title": "urban-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/urban-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/urban-studies",
+  "permalink": "/support/docs/academic-writing/import/urban-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/urban-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urban-habitats",
+    "permalink": "/support/docs/academic-writing/import/urban-habitats"
+  },
+  "next": {
+    "title": "urbani-izziv-urban-challenge-english",
+    "permalink": "/support/docs/academic-writing/import/urbani-izziv-urban-challenge-english"
+  }
+}

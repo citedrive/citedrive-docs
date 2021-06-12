@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/occupational-medicine",
+  "id": "academic-writing/import/occupational-medicine",
+  "isDocsHomePage": false,
+  "title": "occupational-medicine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/occupational-medicine.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/occupational-medicine",
+  "permalink": "/support/docs/academic-writing/import/occupational-medicine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/occupational-medicine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "obstetrics-and-gynecology-science",
+    "permalink": "/support/docs/academic-writing/import/obstetrics-and-gynecology-science"
+  },
+  "next": {
+    "title": "oceanography",
+    "permalink": "/support/docs/academic-writing/import/oceanography"
+  }
+}

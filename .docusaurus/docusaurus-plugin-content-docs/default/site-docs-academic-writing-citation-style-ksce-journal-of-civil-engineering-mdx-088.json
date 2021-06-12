@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/ksce-journal-of-civil-engineering",
+  "id": "academic-writing/citation-style/ksce-journal-of-civil-engineering",
+  "isDocsHomePage": false,
+  "title": "ksce-journal-of-civil-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/ksce-journal-of-civil-engineering.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/ksce-journal-of-civil-engineering",
+  "permalink": "/support/docs/academic-writing/citation-style/ksce-journal-of-civil-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ksce-journal-of-civil-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kritische-ausgabe-german",
+    "permalink": "/support/docs/academic-writing/citation-style/kritische-ausgabe-german"
+  },
+  "next": {
+    "title": "kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish",
+    "permalink": "/support/docs/academic-writing/citation-style/kth-royal-institute-of-technology--school-of-computer-science-and-communication-swedish"
+  }
+}

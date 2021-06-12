@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/meteoritics-and-planetary-science",
+  "id": "academic-writing/import/meteoritics-and-planetary-science",
+  "isDocsHomePage": false,
+  "title": "meteoritics-and-planetary-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/meteoritics-and-planetary-science.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/meteoritics-and-planetary-science",
+  "permalink": "/support/docs/academic-writing/import/meteoritics-and-planetary-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/meteoritics-and-planetary-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metallurgical-and-materials-transactions",
+    "permalink": "/support/docs/academic-writing/import/metallurgical-and-materials-transactions"
+  },
+  "next": {
+    "title": "meteorological-applications",
+    "permalink": "/support/docs/academic-writing/import/meteorological-applications"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/plant-pathology",
+  "id": "academic-writing/citation-style/plant-pathology",
+  "isDocsHomePage": false,
+  "title": "plant-pathology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/plant-pathology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/plant-pathology",
+  "permalink": "/support/docs/academic-writing/citation-style/plant-pathology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/plant-pathology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "plant-genetic-resources--characterization-and-utilization",
+    "permalink": "/support/docs/academic-writing/citation-style/plant-genetic-resources--characterization-and-utilization"
+  },
+  "next": {
+    "title": "plant-physiology",
+    "permalink": "/support/docs/academic-writing/citation-style/plant-physiology"
+  }
+}

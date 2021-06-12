@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/trends-journals",
+  "id": "academic-writing/citation-style/trends-journals",
+  "isDocsHomePage": false,
+  "title": "trends-journals",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/trends-journals.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/trends-journals",
+  "permalink": "/support/docs/academic-writing/citation-style/trends-journals",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/trends-journals.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "trends-in-glycoscience-and-glycotechnology",
+    "permalink": "/support/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology"
+  },
+  "next": {
+    "title": "triangle-french",
+    "permalink": "/support/docs/academic-writing/citation-style/triangle-french"
+  }
+}

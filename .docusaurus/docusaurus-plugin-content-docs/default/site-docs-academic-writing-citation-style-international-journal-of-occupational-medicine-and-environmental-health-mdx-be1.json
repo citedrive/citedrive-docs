@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
+  "id": "academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-occupational-medicine-and-environmental-health",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
+  "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-obstetric-anesthesia",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-obstetric-anesthesia"
+  },
+  "next": {
+    "title": "international-journal-of-oral-and-maxillofacial-surgery",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-oral-and-maxillofacial-surgery"
+  }
+}

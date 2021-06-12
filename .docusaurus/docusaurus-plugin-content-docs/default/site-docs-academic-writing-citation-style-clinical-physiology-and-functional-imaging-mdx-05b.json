@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/clinical-physiology-and-functional-imaging",
+  "id": "academic-writing/citation-style/clinical-physiology-and-functional-imaging",
+  "isDocsHomePage": false,
+  "title": "clinical-physiology-and-functional-imaging",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/clinical-physiology-and-functional-imaging",
+  "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "clinical-pharmacology-and-therapeutics",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics"
+  },
+  "next": {
+    "title": "clinical-radiology",
+    "permalink": "/support/docs/academic-writing/citation-style/clinical-radiology"
+  }
+}

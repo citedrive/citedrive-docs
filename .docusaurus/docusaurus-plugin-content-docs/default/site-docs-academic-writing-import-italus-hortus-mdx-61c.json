@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/italus-hortus",
+  "id": "academic-writing/import/italus-hortus",
+  "isDocsHomePage": false,
+  "title": "italus-hortus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/italus-hortus.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/italus-hortus",
+  "permalink": "/support/docs/academic-writing/import/italus-hortus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/italus-hortus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "italian-journal-of-agronomy",
+    "permalink": "/support/docs/academic-writing/import/italian-journal-of-agronomy"
+  },
+  "next": {
+    "title": "ithaque-french--canada",
+    "permalink": "/support/docs/academic-writing/import/ithaque-french--canada"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/political-studies",
+  "id": "academic-writing/import/political-studies",
+  "isDocsHomePage": false,
+  "title": "political-studies",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/political-studies.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/political-studies",
+  "permalink": "/support/docs/academic-writing/import/political-studies",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/political-studies.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian",
+    "permalink": "/support/docs/academic-writing/import/politeknik-negeri-manado--jurnal-pusat-penelitian-dan-pengabdian-kepada-masyarakat-indonesian"
+  },
+  "next": {
+    "title": "politische-vierteljahresschrift-german",
+    "permalink": "/support/docs/academic-writing/import/politische-vierteljahresschrift-german"
+  }
+}

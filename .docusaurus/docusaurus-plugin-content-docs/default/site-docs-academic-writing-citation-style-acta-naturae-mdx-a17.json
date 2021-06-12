@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/acta-naturae",
+  "id": "academic-writing/citation-style/acta-naturae",
+  "isDocsHomePage": false,
+  "title": "acta-naturae",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/acta-naturae.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/acta-naturae",
+  "permalink": "/support/docs/academic-writing/citation-style/acta-naturae",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-naturae.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-medica-peruana",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
+  },
+  "next": {
+    "title": "acta-neurobiologiae-experimentalis",
+    "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
+  }
+}

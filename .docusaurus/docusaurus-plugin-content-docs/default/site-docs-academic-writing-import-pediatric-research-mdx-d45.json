@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/pediatric-research",
+  "id": "academic-writing/import/pediatric-research",
+  "isDocsHomePage": false,
+  "title": "pediatric-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/pediatric-research.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/pediatric-research",
+  "permalink": "/support/docs/academic-writing/import/pediatric-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/pediatric-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-pulmonology",
+    "permalink": "/support/docs/academic-writing/import/pediatric-pulmonology"
+  },
+  "next": {
+    "title": "pediatric-urology-case-reports",
+    "permalink": "/support/docs/academic-writing/import/pediatric-urology-case-reports"
+  }
+}

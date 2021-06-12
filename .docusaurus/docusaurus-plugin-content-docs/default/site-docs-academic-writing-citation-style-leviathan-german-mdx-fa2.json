@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/leviathan-german",
+  "id": "academic-writing/citation-style/leviathan-german",
+  "isDocsHomePage": false,
+  "title": "leviathan-german",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/leviathan-german.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/leviathan-german",
+  "permalink": "/support/docs/academic-writing/citation-style/leviathan-german",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/leviathan-german.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "lettres-et-sciences-humaines-biblio-et-notes-french",
+    "permalink": "/support/docs/academic-writing/citation-style/lettres-et-sciences-humaines-biblio-et-notes-french"
+  },
+  "next": {
+    "title": "lhomme--revue-francaise-danthropologie",
+    "permalink": "/support/docs/academic-writing/citation-style/lhomme--revue-francaise-danthropologie"
+  }
+}

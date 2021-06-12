@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/gaceta-sanitaria",
+  "id": "academic-writing/citation-style/gaceta-sanitaria",
+  "isDocsHomePage": false,
+  "title": "gaceta-sanitaria",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/gaceta-sanitaria.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/gaceta-sanitaria",
+  "permalink": "/support/docs/academic-writing/citation-style/gaceta-sanitaria",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gaceta-sanitaria.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "g3-genes-genomes-genetics",
+    "permalink": "/support/docs/academic-writing/citation-style/g3-genes-genomes-genetics"
+  },
+  "next": {
+    "title": "gaia",
+    "permalink": "/support/docs/academic-writing/citation-style/gaia"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "id": "academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "isDocsHomePage": false,
+  "title": "russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
+    "permalink": "/support/docs/academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german"
+  },
+  "next": {
+    "title": "russian-gost-r-7052008-numeric",
+    "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric"
+  }
+}

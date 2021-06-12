@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/allergology-international",
+  "id": "academic-writing/import/allergology-international",
+  "isDocsHomePage": false,
+  "title": "allergology-international",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/allergology-international.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/allergology-international",
+  "permalink": "/support/docs/academic-writing/import/allergology-international",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/allergology-international.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "alkoholizmus-a-drogove-zavislosti",
+    "permalink": "/support/docs/academic-writing/import/alkoholizmus-a-drogove-zavislosti"
+  },
+  "next": {
+    "title": "allergy",
+    "permalink": "/support/docs/academic-writing/import/allergy"
+  }
+}

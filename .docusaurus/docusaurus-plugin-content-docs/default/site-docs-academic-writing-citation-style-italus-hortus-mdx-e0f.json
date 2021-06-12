@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/italus-hortus",
+  "id": "academic-writing/citation-style/italus-hortus",
+  "isDocsHomePage": false,
+  "title": "italus-hortus",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/italus-hortus.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/italus-hortus",
+  "permalink": "/support/docs/academic-writing/citation-style/italus-hortus",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/italus-hortus.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "italian-journal-of-agronomy",
+    "permalink": "/support/docs/academic-writing/citation-style/italian-journal-of-agronomy"
+  },
+  "next": {
+    "title": "ithaque-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/ithaque-french--canada"
+  }
+}

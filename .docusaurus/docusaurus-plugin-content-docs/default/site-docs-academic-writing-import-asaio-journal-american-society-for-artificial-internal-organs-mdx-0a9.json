@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs",
+  "id": "academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs",
+  "isDocsHomePage": false,
+  "title": "asaio-journal-american-society-for-artificial-internal-organs",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs",
+  "permalink": "/support/docs/academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/asaio-journal-american-society-for-artificial-internal-organs.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "arzneimitteltherapie",
+    "permalink": "/support/docs/academic-writing/import/arzneimitteltherapie"
+  },
+  "next": {
+    "title": "asia-and-the-pacific-policy-studies",
+    "permalink": "/support/docs/academic-writing/import/asia-and-the-pacific-policy-studies"
+  }
+}

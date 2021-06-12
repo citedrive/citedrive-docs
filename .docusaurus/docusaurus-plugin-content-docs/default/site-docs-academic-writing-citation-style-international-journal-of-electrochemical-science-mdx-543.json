@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/international-journal-of-electrochemical-science",
+  "id": "academic-writing/citation-style/international-journal-of-electrochemical-science",
+  "isDocsHomePage": false,
+  "title": "international-journal-of-electrochemical-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/international-journal-of-electrochemical-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/international-journal-of-electrochemical-science",
+  "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-electrochemical-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-electrochemical-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "international-journal-of-climatology",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-climatology"
+  },
+  "next": {
+    "title": "international-journal-of-electronic-commerce",
+    "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-electronic-commerce"
+  }
+}

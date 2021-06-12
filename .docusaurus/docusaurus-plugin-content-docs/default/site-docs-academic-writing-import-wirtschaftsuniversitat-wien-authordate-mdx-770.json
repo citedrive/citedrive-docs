@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/wirtschaftsuniversitat-wien-authordate",
+  "id": "academic-writing/import/wirtschaftsuniversitat-wien-authordate",
+  "isDocsHomePage": false,
+  "title": "wirtschaftsuniversitat-wien-authordate",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/wirtschaftsuniversitat-wien-authordate.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/wirtschaftsuniversitat-wien-authordate",
+  "permalink": "/support/docs/academic-writing/import/wirtschaftsuniversitat-wien-authordate",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/wirtschaftsuniversitat-wien-authordate.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "wirtschaftsuniversitat-wien--wirtschaftspadagogik-german--austria",
+    "permalink": "/support/docs/academic-writing/import/wirtschaftsuniversitat-wien--wirtschaftspadagogik-german--austria"
+  },
+  "next": {
+    "title": "wissenschaftlicher-industrielogistikdialog-german--austria",
+    "permalink": "/support/docs/academic-writing/import/wissenschaftlicher-industrielogistikdialog-german--austria"
+  }
+}

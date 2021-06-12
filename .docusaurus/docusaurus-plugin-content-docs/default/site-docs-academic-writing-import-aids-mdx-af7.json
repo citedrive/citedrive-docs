@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/aids",
+  "id": "academic-writing/import/aids",
+  "isDocsHomePage": false,
+  "title": "aids",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/aids.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/aids",
+  "permalink": "/support/docs/academic-writing/import/aids",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/aids.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "aib-studi-italian",
+    "permalink": "/support/docs/academic-writing/import/aib-studi-italian"
+  },
+  "next": {
+    "title": "aims-press",
+    "permalink": "/support/docs/academic-writing/import/aims-press"
+  }
+}

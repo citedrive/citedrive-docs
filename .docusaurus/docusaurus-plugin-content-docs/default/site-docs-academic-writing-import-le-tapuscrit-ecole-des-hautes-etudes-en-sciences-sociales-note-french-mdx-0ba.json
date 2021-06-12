@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "id": "academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "isDocsHomePage": false,
+  "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "permalink": "/support/docs/academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-note-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french",
+    "permalink": "/support/docs/academic-writing/import/le-tapuscrit-ecole-des-hautes-etudes-en-sciences-sociales-authordate-french"
+  },
+  "next": {
+    "title": "leeds-beckett-university--harvard",
+    "permalink": "/support/docs/academic-writing/import/leeds-beckett-university--harvard"
+  }
+}

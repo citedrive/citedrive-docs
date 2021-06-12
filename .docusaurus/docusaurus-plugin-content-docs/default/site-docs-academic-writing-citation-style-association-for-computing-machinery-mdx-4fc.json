@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/association-for-computing-machinery",
+  "id": "academic-writing/citation-style/association-for-computing-machinery",
+  "isDocsHomePage": false,
+  "title": "association-for-computing-machinery",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/association-for-computing-machinery.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/association-for-computing-machinery",
+  "permalink": "/support/docs/academic-writing/citation-style/association-for-computing-machinery",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/association-for-computing-machinery.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "association-for-computational-linguistics--conference-proceedings",
+    "permalink": "/support/docs/academic-writing/citation-style/association-for-computational-linguistics--conference-proceedings"
+  },
+  "next": {
+    "title": "atlande-authordate-french",
+    "permalink": "/support/docs/academic-writing/citation-style/atlande-authordate-french"
+  }
+}

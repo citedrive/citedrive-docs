@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/nature-no-superscript",
+  "id": "academic-writing/citation-style/nature-no-superscript",
+  "isDocsHomePage": false,
+  "title": "nature-no-superscript",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/nature-no-superscript.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/nature-no-superscript",
+  "permalink": "/support/docs/academic-writing/citation-style/nature-no-superscript",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nature-no-superscript.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "nature-no-et-al",
+    "permalink": "/support/docs/academic-writing/citation-style/nature-no-et-al"
+  },
+  "next": {
+    "title": "nature-publishing-group--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/nature-publishing-group--vancouver"
+  }
+}

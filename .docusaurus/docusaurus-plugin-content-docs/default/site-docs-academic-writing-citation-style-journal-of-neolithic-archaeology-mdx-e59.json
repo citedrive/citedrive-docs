@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-neolithic-archaeology",
+  "id": "academic-writing/citation-style/journal-of-neolithic-archaeology",
+  "isDocsHomePage": false,
+  "title": "journal-of-neolithic-archaeology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-neolithic-archaeology.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-neolithic-archaeology",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-neolithic-archaeology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neolithic-archaeology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-natural-history",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-natural-history"
+  },
+  "next": {
+    "title": "journal-of-neurochemistry",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurochemistry"
+  }
+}

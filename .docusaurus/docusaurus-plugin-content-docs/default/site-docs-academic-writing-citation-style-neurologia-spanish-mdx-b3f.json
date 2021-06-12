@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/neurologia-spanish",
+  "id": "academic-writing/citation-style/neurologia-spanish",
+  "isDocsHomePage": false,
+  "title": "neurologia-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/neurologia-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/neurologia-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/neurologia-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurologia-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurologia-argentina-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/neurologia-argentina-spanish"
+  },
+  "next": {
+    "title": "neurology-india",
+    "permalink": "/support/docs/academic-writing/citation-style/neurology-india"
+  }
+}

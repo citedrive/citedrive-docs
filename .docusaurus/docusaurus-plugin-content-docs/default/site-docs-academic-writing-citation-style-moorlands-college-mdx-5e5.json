@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/moorlands-college",
+  "id": "academic-writing/citation-style/moorlands-college",
+  "isDocsHomePage": false,
+  "title": "moorlands-college",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/moorlands-college.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/moorlands-college",
+  "permalink": "/support/docs/academic-writing/citation-style/moorlands-college",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/moorlands-college.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "moore-theological-college",
+    "permalink": "/support/docs/academic-writing/citation-style/moore-theological-college"
+  },
+  "next": {
+    "title": "multidisciplinary-digital-publishing-institute",
+    "permalink": "/support/docs/academic-writing/citation-style/multidisciplinary-digital-publishing-institute"
+  }
+}

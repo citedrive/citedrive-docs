@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-chemistry-and-chemical-engineering",
+  "id": "academic-writing/import/journal-of-chemistry-and-chemical-engineering",
+  "isDocsHomePage": false,
+  "title": "journal-of-chemistry-and-chemical-engineering",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-chemistry-and-chemical-engineering.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-chemistry-and-chemical-engineering",
+  "permalink": "/support/docs/academic-writing/import/journal-of-chemistry-and-chemical-engineering",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-chemistry-and-chemical-engineering.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-cellular-biochemistry",
+    "permalink": "/support/docs/academic-writing/import/journal-of-cellular-biochemistry"
+  },
+  "next": {
+    "title": "journal-of-chemometrics",
+    "permalink": "/support/docs/academic-writing/import/journal-of-chemometrics"
+  }
+}

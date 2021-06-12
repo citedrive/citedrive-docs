@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/jacc-cardiovascular-interventions",
+  "id": "academic-writing/import/jacc-cardiovascular-interventions",
+  "isDocsHomePage": false,
+  "title": "jacc-cardiovascular-interventions",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/jacc-cardiovascular-interventions.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/jacc-cardiovascular-interventions",
+  "permalink": "/support/docs/academic-writing/import/jacc-cardiovascular-interventions",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/jacc-cardiovascular-interventions.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "jacc-cardiovascular-imaging",
+    "permalink": "/support/docs/academic-writing/import/jacc-cardiovascular-imaging"
+  },
+  "next": {
+    "title": "jahrbuch-der-osterreichischen-byzantinischen-gesellschaft",
+    "permalink": "/support/docs/academic-writing/import/jahrbuch-der-osterreichischen-byzantinischen-gesellschaft"
+  }
+}

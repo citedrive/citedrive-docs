@@ -1,0 +1,19 @@
+{
+  "unversionedId": "academic-writing/citation-style/zwitschermaschine",
+  "id": "academic-writing/citation-style/zwitschermaschine",
+  "isDocsHomePage": false,
+  "title": "zwitschermaschine",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/zwitschermaschine.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/zwitschermaschine",
+  "permalink": "/support/docs/academic-writing/citation-style/zwitschermaschine",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zwitschermaschine.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "zootaxa",
+    "permalink": "/support/docs/academic-writing/citation-style/zootaxa"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/european-journal-of-taxonomy",
+  "id": "academic-writing/citation-style/european-journal-of-taxonomy",
+  "isDocsHomePage": false,
+  "title": "european-journal-of-taxonomy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/european-journal-of-taxonomy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/european-journal-of-taxonomy",
+  "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-taxonomy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-taxonomy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "european-journal-of-soil-science",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-soil-science"
+  },
+  "next": {
+    "title": "european-journal-of-ultrasound-ultraschall-in-der-medizin",
+    "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-ultrasound-ultraschall-in-der-medizin"
+  }
+}

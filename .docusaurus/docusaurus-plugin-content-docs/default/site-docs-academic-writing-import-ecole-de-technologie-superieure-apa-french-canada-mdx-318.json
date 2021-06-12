@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/ecole-de-technologie-superieure--apa-french--canada",
+  "id": "academic-writing/import/ecole-de-technologie-superieure--apa-french--canada",
+  "isDocsHomePage": false,
+  "title": "ecole-de-technologie-superieure--apa-french--canada",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/ecole-de-technologie-superieure--apa-french--canada.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/ecole-de-technologie-superieure--apa-french--canada",
+  "permalink": "/support/docs/academic-writing/import/ecole-de-technologie-superieure--apa-french--canada",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/ecole-de-technologie-superieure--apa-french--canada.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ecclesial-practices",
+    "permalink": "/support/docs/academic-writing/import/ecclesial-practices"
+  },
+  "next": {
+    "title": "ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
+    "permalink": "/support/docs/academic-writing/import/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french"
+  }
+}

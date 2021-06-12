@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/mimesis-edizioni-italian",
+  "id": "academic-writing/citation-style/mimesis-edizioni-italian",
+  "isDocsHomePage": false,
+  "title": "mimesis-edizioni-italian",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/mimesis-edizioni-italian.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/mimesis-edizioni-italian",
+  "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mimesis-edizioni-italian.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mimbar-hukum",
+    "permalink": "/support/docs/academic-writing/citation-style/mimbar-hukum"
+  },
+  "next": {
+    "title": "mind-and-language",
+    "permalink": "/support/docs/academic-writing/citation-style/mind-and-language"
+  }
+}

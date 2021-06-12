@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/yeast",
+  "id": "academic-writing/citation-style/yeast",
+  "isDocsHomePage": false,
+  "title": "yeast",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/yeast.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/yeast",
+  "permalink": "/support/docs/academic-writing/citation-style/yeast",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/yeast.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "xenotransplantation",
+    "permalink": "/support/docs/academic-writing/citation-style/xenotransplantation"
+  },
+  "next": {
+    "title": "york-st-john-university--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/york-st-john-university--harvard"
+  }
+}

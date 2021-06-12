@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cath-lab-digest",
+  "id": "academic-writing/citation-style/cath-lab-digest",
+  "isDocsHomePage": false,
+  "title": "cath-lab-digest",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cath-lab-digest.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cath-lab-digest",
+  "permalink": "/support/docs/academic-writing/citation-style/cath-lab-digest",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cath-lab-digest.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardiocore-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiocore-spanish"
+  },
+  "next": {
+    "title": "catholic-biblical-association-full-note",
+    "permalink": "/support/docs/academic-writing/citation-style/catholic-biblical-association-full-note"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/urbani-izziv-urban-challenge-english",
+  "id": "academic-writing/citation-style/urbani-izziv-urban-challenge-english",
+  "isDocsHomePage": false,
+  "title": "urbani-izziv-urban-challenge-english",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-english.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/urbani-izziv-urban-challenge-english",
+  "permalink": "/support/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-english",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-english.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "urban-studies",
+    "permalink": "/support/docs/academic-writing/citation-style/urban-studies"
+  },
+  "next": {
+    "title": "urbani-izziv-urban-challenge-slovenian",
+    "permalink": "/support/docs/academic-writing/citation-style/urbani-izziv-urban-challenge-slovenian"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/embnetjournal",
+  "id": "academic-writing/citation-style/embnetjournal",
+  "isDocsHomePage": false,
+  "title": "embnetjournal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/embnetjournal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/embnetjournal",
+  "permalink": "/support/docs/academic-writing/citation-style/embnetjournal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/embnetjournal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "elsevier-numeric-without-titles",
+    "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-without-titles"
+  },
+  "next": {
+    "title": "embo-press",
+    "permalink": "/support/docs/academic-writing/citation-style/embo-press"
+  }
+}

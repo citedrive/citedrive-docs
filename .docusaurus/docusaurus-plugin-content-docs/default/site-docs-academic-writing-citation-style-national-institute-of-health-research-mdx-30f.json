@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/national-institute-of-health-research",
+  "id": "academic-writing/citation-style/national-institute-of-health-research",
+  "isDocsHomePage": false,
+  "title": "national-institute-of-health-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/national-institute-of-health-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/national-institute-of-health-research",
+  "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-health-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-institute-of-health-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "national-archives-of-australia",
+    "permalink": "/support/docs/academic-writing/citation-style/national-archives-of-australia"
+  },
+  "next": {
+    "title": "national-institute-of-organisation-dynamics-australia--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-organisation-dynamics-australia--harvard"
+  }
+}

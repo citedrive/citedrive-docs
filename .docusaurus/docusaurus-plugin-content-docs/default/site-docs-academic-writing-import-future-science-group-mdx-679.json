@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/future-science-group",
+  "id": "academic-writing/import/future-science-group",
+  "isDocsHomePage": false,
+  "title": "future-science-group",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/future-science-group.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/future-science-group",
+  "permalink": "/support/docs/academic-writing/import/future-science-group",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/future-science-group.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "future-medicine-journals",
+    "permalink": "/support/docs/academic-writing/import/future-medicine-journals"
+  },
+  "next": {
+    "title": "g-giappichelli-editore-italian",
+    "permalink": "/support/docs/academic-writing/import/g-giappichelli-editore-italian"
+  }
+}

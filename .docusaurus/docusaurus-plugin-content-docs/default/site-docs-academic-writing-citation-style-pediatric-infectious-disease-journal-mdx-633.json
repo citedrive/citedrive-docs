@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/pediatric-infectious-disease-journal",
+  "id": "academic-writing/citation-style/pediatric-infectious-disease-journal",
+  "isDocsHomePage": false,
+  "title": "pediatric-infectious-disease-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/pediatric-infectious-disease-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/pediatric-infectious-disease-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/pediatric-infectious-disease-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-infectious-disease-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "pediatric-blood-and-cancer",
+    "permalink": "/support/docs/academic-writing/citation-style/pediatric-blood-and-cancer"
+  },
+  "next": {
+    "title": "pediatric-physical-therapy",
+    "permalink": "/support/docs/academic-writing/citation-style/pediatric-physical-therapy"
+  }
+}

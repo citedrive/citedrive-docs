@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cirugia-cardiovascular-spanish",
+  "id": "academic-writing/citation-style/cirugia-cardiovascular-spanish",
+  "isDocsHomePage": false,
+  "title": "cirugia-cardiovascular-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cirugia-cardiovascular-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cirugia-cardiovascular-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/cirugia-cardiovascular-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cirugia-cardiovascular-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "circulation",
+    "permalink": "/support/docs/academic-writing/citation-style/circulation"
+  },
+  "next": {
+    "title": "citation-compass-kildekompasset--apa-note",
+    "permalink": "/support/docs/academic-writing/citation-style/citation-compass-kildekompasset--apa-note"
+  }
+}

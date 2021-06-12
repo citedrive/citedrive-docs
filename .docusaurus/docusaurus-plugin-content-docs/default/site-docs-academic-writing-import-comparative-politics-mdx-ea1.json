@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/comparative-politics",
+  "id": "academic-writing/import/comparative-politics",
+  "isDocsHomePage": false,
+  "title": "comparative-politics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/comparative-politics.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/comparative-politics",
+  "permalink": "/support/docs/academic-writing/import/comparative-politics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/comparative-politics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "communication-et-langages",
+    "permalink": "/support/docs/academic-writing/import/communication-et-langages"
+  },
+  "next": {
+    "title": "comparative-population-studies",
+    "permalink": "/support/docs/academic-writing/import/comparative-population-studies"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/revista-biblica-spanish",
+  "id": "academic-writing/import/revista-biblica-spanish",
+  "isDocsHomePage": false,
+  "title": "revista-biblica-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/revista-biblica-spanish.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/revista-biblica-spanish",
+  "permalink": "/support/docs/academic-writing/import/revista-biblica-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/revista-biblica-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "revista-argentina-de-antropologia-biologica-spanish",
+    "permalink": "/support/docs/academic-writing/import/revista-argentina-de-antropologia-biologica-spanish"
+  },
+  "next": {
+    "title": "revista-brasileira-de-ciencia-do-solo",
+    "permalink": "/support/docs/academic-writing/import/revista-brasileira-de-ciencia-do-solo"
+  }
+}

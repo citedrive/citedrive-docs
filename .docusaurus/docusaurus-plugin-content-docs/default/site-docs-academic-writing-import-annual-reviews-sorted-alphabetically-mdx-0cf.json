@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/annual-reviews-sorted-alphabetically",
+  "id": "academic-writing/import/annual-reviews-sorted-alphabetically",
+  "isDocsHomePage": false,
+  "title": "annual-reviews-sorted-alphabetically",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/annual-reviews-sorted-alphabetically.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/annual-reviews-sorted-alphabetically",
+  "permalink": "/support/docs/academic-writing/import/annual-reviews-sorted-alphabetically",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/annual-reviews-sorted-alphabetically.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "annual-reviews-authordate",
+    "permalink": "/support/docs/academic-writing/import/annual-reviews-authordate"
+  },
+  "next": {
+    "title": "annual-reviews-sorted-by-order-of-appearance-without-titles",
+    "permalink": "/support/docs/academic-writing/import/annual-reviews-sorted-by-order-of-appearance-without-titles"
+  }
+}

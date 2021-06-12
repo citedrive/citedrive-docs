@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/chest",
+  "id": "academic-writing/citation-style/chest",
+  "isDocsHomePage": false,
+  "title": "chest",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/chest.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/chest",
+  "permalink": "/support/docs/academic-writing/citation-style/chest",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chest.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "chemistry-education-research-and-practice",
+    "permalink": "/support/docs/academic-writing/citation-style/chemistry-education-research-and-practice"
+  },
+  "next": {
+    "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+    "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque"
+  }
+}

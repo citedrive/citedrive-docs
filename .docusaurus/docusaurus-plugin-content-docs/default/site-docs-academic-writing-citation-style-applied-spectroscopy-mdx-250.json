@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/applied-spectroscopy",
+  "id": "academic-writing/citation-style/applied-spectroscopy",
+  "isDocsHomePage": false,
+  "title": "applied-spectroscopy",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/applied-spectroscopy.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/applied-spectroscopy",
+  "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/applied-spectroscopy.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "applied-spectroscopy-reviews",
+    "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy-reviews"
+  },
+  "next": {
+    "title": "aquatic-conservation-marine-and-freshwater-ecosystems",
+    "permalink": "/support/docs/academic-writing/citation-style/aquatic-conservation-marine-and-freshwater-ecosystems"
+  }
+}

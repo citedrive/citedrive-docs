@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/journal-of-the-korean-society-of-civil-engineers",
+  "id": "academic-writing/import/journal-of-the-korean-society-of-civil-engineers",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-korean-society-of-civil-engineers",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/journal-of-the-korean-society-of-civil-engineers.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/journal-of-the-korean-society-of-civil-engineers",
+  "permalink": "/support/docs/academic-writing/import/journal-of-the-korean-society-of-civil-engineers",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/journal-of-the-korean-society-of-civil-engineers.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-indian-law-institute",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-indian-law-institute"
+  },
+  "next": {
+    "title": "journal-of-the-marine-biological-association-of-the-united-kingdom",
+    "permalink": "/support/docs/academic-writing/import/journal-of-the-marine-biological-association-of-the-united-kingdom"
+  }
+}

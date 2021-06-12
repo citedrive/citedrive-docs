@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer--basic-authordate-no-et-al",
+  "id": "academic-writing/import/springer--basic-authordate-no-et-al",
+  "isDocsHomePage": false,
+  "title": "springer--basic-authordate-no-et-al",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer--basic-authordate-no-et-al.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer--basic-authordate-no-et-al",
+  "permalink": "/support/docs/academic-writing/import/springer--basic-authordate-no-et-al",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer--basic-authordate-no-et-al.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--basic-authordate-no-et-al-with-issue-numbers",
+    "permalink": "/support/docs/academic-writing/import/springer--basic-authordate-no-et-al-with-issue-numbers"
+  },
+  "next": {
+    "title": "springer--basic-authordate",
+    "permalink": "/support/docs/academic-writing/import/springer--basic-authordate"
+  }
+}

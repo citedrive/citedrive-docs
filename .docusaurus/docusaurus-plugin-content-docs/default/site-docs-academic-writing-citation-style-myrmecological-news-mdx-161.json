@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/myrmecological-news",
+  "id": "academic-writing/citation-style/myrmecological-news",
+  "isDocsHomePage": false,
+  "title": "myrmecological-news",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/myrmecological-news.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/myrmecological-news",
+  "permalink": "/support/docs/academic-writing/citation-style/myrmecological-news",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/myrmecological-news.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "mycologia",
+    "permalink": "/support/docs/academic-writing/citation-style/mycologia"
+  },
+  "next": {
+    "title": "nano-biomedicine-and-engineering",
+    "permalink": "/support/docs/academic-writing/citation-style/nano-biomedicine-and-engineering"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/university-college-dublin--school-of-history-and-archives",
+  "id": "academic-writing/citation-style/university-college-dublin--school-of-history-and-archives",
+  "isDocsHomePage": false,
+  "title": "university-college-dublin--school-of-history-and-archives",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/university-college-dublin--school-of-history-and-archives.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/university-college-dublin--school-of-history-and-archives",
+  "permalink": "/support/docs/academic-writing/citation-style/university-college-dublin--school-of-history-and-archives",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-college-dublin--school-of-history-and-archives.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "universiti-tunku-abdul-rahman--harvard",
+    "permalink": "/support/docs/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard"
+  },
+  "next": {
+    "title": "university-college-lilleblt--apa-danish",
+    "permalink": "/support/docs/academic-writing/citation-style/university-college-lilleblt--apa-danish"
+  }
+}

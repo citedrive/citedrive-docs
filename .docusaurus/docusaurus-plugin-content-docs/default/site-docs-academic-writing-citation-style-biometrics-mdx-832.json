@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/biometrics",
+  "id": "academic-writing/citation-style/biometrics",
+  "isDocsHomePage": false,
+  "title": "biometrics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/biometrics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/biometrics",
+  "permalink": "/support/docs/academic-writing/citation-style/biometrics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biometrics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "biomed-research-international",
+    "permalink": "/support/docs/academic-writing/citation-style/biomed-research-international"
+  },
+  "next": {
+    "title": "biophysical-journal",
+    "permalink": "/support/docs/academic-writing/citation-style/biophysical-journal"
+  }
+}

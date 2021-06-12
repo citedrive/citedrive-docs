@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cardiff-university--harvard",
+  "id": "academic-writing/citation-style/cardiff-university--harvard",
+  "isDocsHomePage": false,
+  "title": "cardiff-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cardiff-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cardiff-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/cardiff-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cardiff-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "carcinogenesis",
+    "permalink": "/support/docs/academic-writing/citation-style/carcinogenesis"
+  },
+  "next": {
+    "title": "cardiff-university--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiff-university--vancouver"
+  }
+}

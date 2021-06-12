@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/administrative-science-quarterly",
+  "id": "academic-writing/import/administrative-science-quarterly",
+  "isDocsHomePage": false,
+  "title": "administrative-science-quarterly",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/administrative-science-quarterly.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/administrative-science-quarterly",
+  "permalink": "/support/docs/academic-writing/import/administrative-science-quarterly",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/administrative-science-quarterly.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "acta-zoologica-academiae-scientiarum-hungaricae",
+    "permalink": "/support/docs/academic-writing/import/acta-zoologica-academiae-scientiarum-hungaricae"
+  },
+  "next": {
+    "title": "advanced-engineering-materials",
+    "permalink": "/support/docs/academic-writing/import/advanced-engineering-materials"
+  }
+}

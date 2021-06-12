@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/springer--imis-series-migrationsgesellschaften",
+  "id": "academic-writing/import/springer--imis-series-migrationsgesellschaften",
+  "isDocsHomePage": false,
+  "title": "springer--imis-series-migrationsgesellschaften",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/springer--imis-series-migrationsgesellschaften.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/springer--imis-series-migrationsgesellschaften",
+  "permalink": "/support/docs/academic-writing/import/springer--imis-series-migrationsgesellschaften",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/springer--imis-series-migrationsgesellschaften.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "springer--humanities-numeric-brackets",
+    "permalink": "/support/docs/academic-writing/import/springer--humanities-numeric-brackets"
+  },
+  "next": {
+    "title": "springer--lecture-notes-in-computer-science-sorted-alphabetically",
+    "permalink": "/support/docs/academic-writing/import/springer--lecture-notes-in-computer-science-sorted-alphabetically"
+  }
+}

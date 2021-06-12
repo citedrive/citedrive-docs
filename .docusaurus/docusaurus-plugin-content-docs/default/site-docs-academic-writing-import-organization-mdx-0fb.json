@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/organization",
+  "id": "academic-writing/import/organization",
+  "isDocsHomePage": false,
+  "title": "organization",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/organization.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/organization",
+  "permalink": "/support/docs/academic-writing/import/organization",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/organization.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "organised-sound",
+    "permalink": "/support/docs/academic-writing/import/organised-sound"
+  },
+  "next": {
+    "title": "organon",
+    "permalink": "/support/docs/academic-writing/import/organon"
+  }
+}

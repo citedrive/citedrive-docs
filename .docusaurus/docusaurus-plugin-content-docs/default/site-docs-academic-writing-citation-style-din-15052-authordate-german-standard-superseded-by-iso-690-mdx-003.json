@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690",
+  "id": "academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690",
+  "isDocsHomePage": false,
+  "title": "din-15052-authordate-german--standard-superseded-by-iso690",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690",
+  "permalink": "/support/docs/academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "din-15052-alphanumeric-german--standard-superseded-by-iso690",
+    "permalink": "/support/docs/academic-writing/citation-style/din-15052-alphanumeric-german--standard-superseded-by-iso690"
+  },
+  "next": {
+    "title": "din-15052-numeric-german--standard-superseded-by-iso690",
+    "permalink": "/support/docs/academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690"
+  }
+}

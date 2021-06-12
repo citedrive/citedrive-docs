@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/the-lancet",
+  "id": "academic-writing/citation-style/the-lancet",
+  "isDocsHomePage": false,
+  "title": "the-lancet",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/the-lancet.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/the-lancet",
+  "permalink": "/support/docs/academic-writing/citation-style/the-lancet",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-lancet.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "the-korean-journal-of-internal-medicine",
+    "permalink": "/support/docs/academic-writing/citation-style/the-korean-journal-of-internal-medicine"
+  },
+  "next": {
+    "title": "the-lichenologist",
+    "permalink": "/support/docs/academic-writing/citation-style/the-lichenologist"
+  }
+}

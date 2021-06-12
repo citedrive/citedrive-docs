@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
+  "id": "academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
+  "isDocsHomePage": false,
+  "title": "journal-of-agricultural-and-resource-economics",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-agricultural-and-applied-economics",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-agricultural-and-applied-economics"
+  },
+  "next": {
+    "title": "journal-of-alzheimers-disease",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-alzheimers-disease"
+  }
+}

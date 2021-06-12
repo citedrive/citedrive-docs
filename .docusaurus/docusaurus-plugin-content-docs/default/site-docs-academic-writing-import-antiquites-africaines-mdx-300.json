@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/antiquites-africaines",
+  "id": "academic-writing/import/antiquites-africaines",
+  "isDocsHomePage": false,
+  "title": "antiquites-africaines",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/antiquites-africaines.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/antiquites-africaines",
+  "permalink": "/support/docs/academic-writing/import/antiquites-africaines",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/antiquites-africaines.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "antipode",
+    "permalink": "/support/docs/academic-writing/import/antipode"
+  },
+  "next": {
+    "title": "antiquity",
+    "permalink": "/support/docs/academic-writing/import/antiquity"
+  }
+}

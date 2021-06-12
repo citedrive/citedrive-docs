@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+  "id": "academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+  "isDocsHomePage": false,
+  "title": "guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+  "permalink": "/support/docs/academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada",
+    "permalink": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada"
+  },
+  "next": {
+    "title": "haematologica",
+    "permalink": "/support/docs/academic-writing/citation-style/haematologica"
+  }
+}

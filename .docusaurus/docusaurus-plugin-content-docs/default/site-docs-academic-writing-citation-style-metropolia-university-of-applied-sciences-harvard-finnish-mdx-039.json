@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish",
+  "id": "academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish",
+  "isDocsHomePage": false,
+  "title": "metropolia-university-of-applied-sciences--harvard-finnish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish",
+  "permalink": "/support/docs/academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/metropolia-university-of-applied-sciences--harvard-finnish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "metropol-verlag-german",
+    "permalink": "/support/docs/academic-writing/citation-style/metropol-verlag-german"
+  },
+  "next": {
+    "title": "metropolitiques-french",
+    "permalink": "/support/docs/academic-writing/citation-style/metropolitiques-french"
+  }
+}

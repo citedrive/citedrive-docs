@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition",
+  "id": "academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition",
+  "isDocsHomePage": false,
+  "title": "university-of-york--chicago-manual-of-style-16th-edition",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition",
+  "permalink": "/support/docs/academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/university-of-york--chicago-manual-of-style-16th-edition.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "university-of-york--apa-6th-edition",
+    "permalink": "/support/docs/academic-writing/import/university-of-york--apa-6th-edition"
+  },
+  "next": {
+    "title": "university-of-york--harvard--archaeology",
+    "permalink": "/support/docs/academic-writing/import/university-of-york--harvard--archaeology"
+  }
+}

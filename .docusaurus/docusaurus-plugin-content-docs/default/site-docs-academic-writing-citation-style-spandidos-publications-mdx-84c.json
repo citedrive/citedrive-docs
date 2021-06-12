@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/spandidos-publications",
+  "id": "academic-writing/citation-style/spandidos-publications",
+  "isDocsHomePage": false,
+  "title": "spandidos-publications",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/spandidos-publications.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/spandidos-publications",
+  "permalink": "/support/docs/academic-writing/citation-style/spandidos-publications",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spandidos-publications.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "soziologiemagazin-german",
+    "permalink": "/support/docs/academic-writing/citation-style/soziologiemagazin-german"
+  },
+  "next": {
+    "title": "spanish-legal-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/spanish-legal-spanish"
+  }
+}

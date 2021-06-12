@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-peace-research",
+  "id": "academic-writing/citation-style/journal-of-peace-research",
+  "isDocsHomePage": false,
+  "title": "journal-of-peace-research",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-peace-research.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-peace-research",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-peace-research",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-peace-research.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-paleontology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-paleontology"
+  },
+  "next": {
+    "title": "journal-of-pediatric-gastroenterology-and-nutrition",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-pediatric-gastroenterology-and-nutrition"
+  }
+}

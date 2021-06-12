@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons",
+  "id": "academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons",
+  "isDocsHomePage": false,
+  "title": "journal-of-the-american-academy-of-orthopaedic-surgeons",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons",
+  "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "journal-of-the-american-academy-of-audiology",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-academy-of-audiology"
+  },
+  "next": {
+    "title": "journal-of-the-american-animal-hospital-association",
+    "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-animal-hospital-association"
+  }
+}

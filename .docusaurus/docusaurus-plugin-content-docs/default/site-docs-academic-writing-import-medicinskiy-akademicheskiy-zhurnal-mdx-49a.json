@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/medicinskiy-akademicheskiy-zhurnal",
+  "id": "academic-writing/import/medicinskiy-akademicheskiy-zhurnal",
+  "isDocsHomePage": false,
+  "title": "medicinskiy-akademicheskiy-zhurnal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/medicinskiy-akademicheskiy-zhurnal.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/medicinskiy-akademicheskiy-zhurnal",
+  "permalink": "/support/docs/academic-writing/import/medicinskiy-akademicheskiy-zhurnal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/medicinskiy-akademicheskiy-zhurnal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "medicine-and-science-in-sports-and-exercise",
+    "permalink": "/support/docs/academic-writing/import/medicine-and-science-in-sports-and-exercise"
+  },
+  "next": {
+    "title": "mediterranean-journal-of-chemistry",
+    "permalink": "/support/docs/academic-writing/import/mediterranean-journal-of-chemistry"
+  }
+}

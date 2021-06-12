@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/kona-powder-and-particle-journal",
+  "id": "academic-writing/citation-style/kona-powder-and-particle-journal",
+  "isDocsHomePage": false,
+  "title": "kona-powder-and-particle-journal",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/kona-powder-and-particle-journal.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/kona-powder-and-particle-journal",
+  "permalink": "/support/docs/academic-writing/citation-style/kona-powder-and-particle-journal",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/kona-powder-and-particle-journal.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "kommunikation-und-recht-german",
+    "permalink": "/support/docs/academic-writing/citation-style/kommunikation-und-recht-german"
+  },
+  "next": {
+    "title": "korean-journal-of-anesthesiology",
+    "permalink": "/support/docs/academic-writing/citation-style/korean-journal-of-anesthesiology"
+  }
+}

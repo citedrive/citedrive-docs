@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/monash-university--harvard",
+  "id": "academic-writing/citation-style/monash-university--harvard",
+  "isDocsHomePage": false,
+  "title": "monash-university--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/monash-university--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/monash-university--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/monash-university--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/monash-university--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "monash-university--csiro",
+    "permalink": "/support/docs/academic-writing/citation-style/monash-university--csiro"
+  },
+  "next": {
+    "title": "mondes-en-developpement-french",
+    "permalink": "/support/docs/academic-writing/citation-style/mondes-en-developpement-french"
+  }
+}

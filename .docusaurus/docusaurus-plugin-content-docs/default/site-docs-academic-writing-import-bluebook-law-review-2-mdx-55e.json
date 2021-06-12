@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/bluebook-law-review-2",
+  "id": "academic-writing/import/bluebook-law-review-2",
+  "isDocsHomePage": false,
+  "title": "bluebook-law-review-2",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/bluebook-law-review-2.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/bluebook-law-review-2",
+  "permalink": "/support/docs/academic-writing/import/bluebook-law-review-2",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/bluebook-law-review-2.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "bluebook-inline",
+    "permalink": "/support/docs/academic-writing/import/bluebook-inline"
+  },
+  "next": {
+    "title": "bluebook-law-review",
+    "permalink": "/support/docs/academic-writing/import/bluebook-law-review"
+  }
+}

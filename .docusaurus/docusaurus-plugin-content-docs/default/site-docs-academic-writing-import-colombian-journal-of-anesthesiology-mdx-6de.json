@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/colombian-journal-of-anesthesiology",
+  "id": "academic-writing/import/colombian-journal-of-anesthesiology",
+  "isDocsHomePage": false,
+  "title": "colombian-journal-of-anesthesiology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/colombian-journal-of-anesthesiology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/colombian-journal-of-anesthesiology",
+  "permalink": "/support/docs/academic-writing/import/colombian-journal-of-anesthesiology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/colombian-journal-of-anesthesiology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "college-of-naturopathic-medicine",
+    "permalink": "/support/docs/academic-writing/import/college-of-naturopathic-medicine"
+  },
+  "next": {
+    "title": "colorado-state-university--school-of-biomedical-engineering",
+    "permalink": "/support/docs/academic-writing/import/colorado-state-university--school-of-biomedical-engineering"
+  }
+}

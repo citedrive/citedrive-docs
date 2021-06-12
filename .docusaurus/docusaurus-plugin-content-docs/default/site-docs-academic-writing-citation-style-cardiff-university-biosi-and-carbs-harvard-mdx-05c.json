@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard",
+  "id": "academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard",
+  "isDocsHomePage": false,
+  "title": "cardiff-university-biosi-and-carbs--harvard",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard",
+  "permalink": "/support/docs/academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cardiff-university-biosi-and-carbs--harvard.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "cardiff-university--vancouver",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiff-university--vancouver"
+  },
+  "next": {
+    "title": "cardiocore-spanish",
+    "permalink": "/support/docs/academic-writing/citation-style/cardiocore-spanish"
+  }
+}

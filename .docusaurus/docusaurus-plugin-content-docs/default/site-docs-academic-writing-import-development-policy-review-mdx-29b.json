@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/development-policy-review",
+  "id": "academic-writing/import/development-policy-review",
+  "isDocsHomePage": false,
+  "title": "development-policy-review",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/development-policy-review.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/development-policy-review",
+  "permalink": "/support/docs/academic-writing/import/development-policy-review",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/development-policy-review.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "development-and-change",
+    "permalink": "/support/docs/academic-writing/import/development-and-change"
+  },
+  "next": {
+    "title": "developmental-neurobiology",
+    "permalink": "/support/docs/academic-writing/import/developmental-neurobiology"
+  }
+}

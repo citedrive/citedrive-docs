@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/endoscopia-spanish",
+  "id": "academic-writing/citation-style/endoscopia-spanish",
+  "isDocsHomePage": false,
+  "title": "endoscopia-spanish",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/endoscopia-spanish.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/endoscopia-spanish",
+  "permalink": "/support/docs/academic-writing/citation-style/endoscopia-spanish",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/endoscopia-spanish.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "endocrine-press",
+    "permalink": "/support/docs/academic-writing/citation-style/endocrine-press"
+  },
+  "next": {
+    "title": "eneuro",
+    "permalink": "/support/docs/academic-writing/citation-style/eneuro"
+  }
+}

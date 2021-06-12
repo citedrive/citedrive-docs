@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/import/neurology",
+  "id": "academic-writing/import/neurology",
+  "isDocsHomePage": false,
+  "title": "neurology",
+  "description": "---",
+  "source": "@site/docs/academic-writing/import/neurology.mdx",
+  "sourceDirName": "academic-writing/import",
+  "slug": "/academic-writing/import/neurology",
+  "permalink": "/support/docs/academic-writing/import/neurology",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/import/neurology.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "neurology-india",
+    "permalink": "/support/docs/academic-writing/import/neurology-india"
+  },
+  "next": {
+    "title": "neuropsychopharmacology",
+    "permalink": "/support/docs/academic-writing/import/neuropsychopharmacology"
+  }
+}

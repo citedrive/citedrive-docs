@@ -1,0 +1,23 @@
+{
+  "unversionedId": "academic-writing/citation-style/forest-science",
+  "id": "academic-writing/citation-style/forest-science",
+  "isDocsHomePage": false,
+  "title": "forest-science",
+  "description": "---",
+  "source": "@site/docs/academic-writing/citation-style/forest-science.mdx",
+  "sourceDirName": "academic-writing/citation-style",
+  "slug": "/academic-writing/citation-style/forest-science",
+  "permalink": "/support/docs/academic-writing/citation-style/forest-science",
+  "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/forest-science.mdx",
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "forensic-science-review",
+    "permalink": "/support/docs/academic-writing/citation-style/forensic-science-review"
+  },
+  "next": {
+    "title": "forum-qualitative-social-research-english",
+    "permalink": "/support/docs/academic-writing/citation-style/forum-qualitative-social-research-english"
+  }
+}
