@@ -1,0 +1,24 @@
+.csl-entry {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-left: 4px solid #fff;
+  
+    &:hover {
+      border-left: 4px solid black;
+    }
+  
+    &:hover .reference_buttons_container {
+      display: block;
+    }
+  
+  }
+  
+  
+  .csl-left-margin {
+    display: inline-block;
+    margin-right: 0.5em;
+  }x
+  
+  .csl-right-inline {
+    display: inline;
+  }
