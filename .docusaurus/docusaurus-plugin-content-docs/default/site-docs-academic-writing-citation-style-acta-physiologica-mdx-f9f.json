@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-physiologica",
   "id": "academic-writing/citation-style/acta-physiologica",
   "isDocsHomePage": false,
-  "title": "acta-physiologica",
-  "description": "---",
+  "title": "Acta Physiologica",
+  "description": "When you 're tasked by using \"Acta Physiologica\" (CR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-physiologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-physiologica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-physiologica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-philosophica",
+    "title": "Acta Philosophica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
   },
   "next": {
-    "title": "acta-polytechnica",
+    "title": "Acta Polytechnica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-orthopdica-belgica",
   "id": "academic-writing/citation-style/acta-orthopdica-belgica",
   "isDocsHomePage": false,
-  "title": "acta-orthopdica-belgica",
-  "description": "---",
+  "title": "Acta Orthopædica Belgica",
+  "description": "When you 're tasked by using \"Acta Orthopædica Belgica\" (Human Cell) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-orthopdica-belgica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-orthopdica-belgica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopdica-belgica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-orthopaedica",
+    "title": "Acta Orthopaedica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica"
   },
   "next": {
-    "title": "acta-paediatrica",
+    "title": "Acta Paediatrica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica"
   }
 }

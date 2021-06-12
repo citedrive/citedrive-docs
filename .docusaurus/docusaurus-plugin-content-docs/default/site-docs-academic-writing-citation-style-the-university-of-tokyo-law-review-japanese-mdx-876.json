@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
   "id": "academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
   "isDocsHomePage": false,
-  "title": "-the-university-of-tokyo-law-review-japanese",
-  "description": "---",
+  "title": "東京大学法科大学院ローレビュー (The University of Tokyo Law Review) (Japanese)",
+  "description": "When you 're tasked by using \"東京大学法科大学院ローレビュー (The University of Tokyo Law Review) (Japanese)\" (LAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
   "permalink": "/support/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "--russian",
+    "title": "Успехи геронтологии (Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/--russian"
   },
   "next": {
-    "title": "academy-of-management-review",
+    "title": "Academy of Management Review",
     "permalink": "/support/docs/academic-writing/citation-style/academy-of-management-review"
   }
 }

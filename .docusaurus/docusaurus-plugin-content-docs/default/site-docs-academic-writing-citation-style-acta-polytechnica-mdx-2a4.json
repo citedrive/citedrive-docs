@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-polytechnica",
   "id": "academic-writing/citation-style/acta-polytechnica",
   "isDocsHomePage": false,
-  "title": "acta-polytechnica",
-  "description": "---",
+  "title": "Acta Polytechnica",
+  "description": "When you 're tasked by using \"Acta Polytechnica\" (AMI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-polytechnica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-polytechnica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-polytechnica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-physiologica",
+    "title": "Acta Physiologica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
   },
   "next": {
-    "title": "acta-psychiatrica-scandinavica",
+    "title": "Acta Psychiatrica Scandinavica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
   }
 }

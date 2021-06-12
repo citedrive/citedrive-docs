@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-medica-peruana",
   "id": "academic-writing/citation-style/acta-medica-peruana",
   "isDocsHomePage": false,
-  "title": "acta-medica-peruana",
-  "description": "---",
+  "title": "Acta Médica Peruana",
+  "description": "When you 're tasked by using \"Acta Médica Peruana\" (Acta Med Peru) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-medica-peruana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-medica-peruana",
   "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-medica-peruana.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-ichthyologica-et-piscatoria",
+    "title": "Acta Ichthyologica et Piscatoria",
     "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
   },
   "next": {
-    "title": "acta-naturae",
+    "title": "Acta Naturae",
     "permalink": "/support/docs/academic-writing/citation-style/acta-naturae"
   }
 }

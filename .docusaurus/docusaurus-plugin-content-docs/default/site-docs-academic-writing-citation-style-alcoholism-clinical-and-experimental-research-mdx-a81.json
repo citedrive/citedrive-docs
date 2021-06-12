@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
   "id": "academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
   "isDocsHomePage": false,
-  "title": "alcoholism-clinical-and-experimental-research",
-  "description": "---",
+  "title": "Alcoholism: Clinical and Experimental Research",
+  "description": "When you 're tasked by using \"Alcoholism: Clinical and Experimental Research\" (JAR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
   "permalink": "/support/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "alcohol-and-alcoholism",
+    "title": "Alcohol and Alcoholism",
     "permalink": "/support/docs/academic-writing/citation-style/alcohol-and-alcoholism"
   },
   "next": {
-    "title": "aljamiah--journal-of-islamic-studies",
+    "title": "Al-Jami''ah - Journal of Islamic Studies",
     "permalink": "/support/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies"
   }
 }

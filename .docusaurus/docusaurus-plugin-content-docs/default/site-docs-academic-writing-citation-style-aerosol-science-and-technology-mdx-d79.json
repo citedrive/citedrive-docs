@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/aerosol-science-and-technology",
   "id": "academic-writing/citation-style/aerosol-science-and-technology",
   "isDocsHomePage": false,
-  "title": "aerosol-science-and-technology",
-  "description": "---",
+  "title": "Aerosol Science and Technology",
+  "description": "When you 're tasked by using \"Aerosol Science and Technology\" (J Math Imaging Vis) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/aerosol-science-and-technology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aerosol-science-and-technology",
   "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aerosol-science-and-technology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aerosol-and-air-quality-research",
+    "title": "Aerosol and Air Quality Research",
     "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research"
   },
   "next": {
-    "title": "african-journal-of-marine-science",
+    "title": "African Journal of Marine Science",
     "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science"
   }
 }

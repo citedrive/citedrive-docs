@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acm-sigchi-proceedings-2016",
   "id": "academic-writing/citation-style/acm-sigchi-proceedings-2016",
   "isDocsHomePage": false,
-  "title": "acm-sigchi-proceedings-2016",
-  "description": "---",
+  "title": "ACM SIGCHI Proceedings (2016)",
+  "description": "When you 're tasked by using \"ACM SIGCHI Proceedings (2016)\" (CMLR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acm-sigchi-proceedings-2016",
   "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acm-sigchi-proceedings--extended-abstract-format",
+    "title": "ACM SIGCHI Proceedings - Extended Abstract Format",
     "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format"
   },
   "next": {
-    "title": "acm-siggraph",
+    "title": "ACM SIGGRAPH",
     "permalink": "/support/docs/academic-writing/citation-style/acm-siggraph"
   }
 }

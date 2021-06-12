@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-radiologica",
   "id": "academic-writing/citation-style/acta-radiologica",
   "isDocsHomePage": false,
-  "title": "acta-radiologica",
-  "description": "---",
+  "title": "Acta Radiologica",
+  "description": "When you 're tasked by using \"Acta Radiologica\" (CNM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-radiologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-radiologica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-radiologica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-psychiatrica-scandinavica",
+    "title": "Acta Psychiatrica Scandinavica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
   },
   "next": {
-    "title": "acta-scientiae-veterinariae",
+    "title": "Acta Scientiae Veterinariae",
     "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
   }
 }

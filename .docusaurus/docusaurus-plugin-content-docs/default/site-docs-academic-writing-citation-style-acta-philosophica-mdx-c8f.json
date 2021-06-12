@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-philosophica",
   "id": "academic-writing/citation-style/acta-philosophica",
   "isDocsHomePage": false,
-  "title": "acta-philosophica",
-  "description": "---",
+  "title": "Acta Philosophica",
+  "description": "When you 're tasked by using \"Acta Philosophica\" (ActaPhil) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-philosophica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-philosophica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-philosophica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-pharmaceutica",
+    "title": "Acta Pharmaceutica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica"
   },
   "next": {
-    "title": "acta-physiologica",
+    "title": "Acta Physiologica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
   "id": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
   "isDocsHomePage": false,
-  "title": "acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
-  "description": "---",
+  "title": "Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)",
+  "description": "When you 're tasked by using \"Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)\" (uwf) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
   "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+    "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
     "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
   },
   "next": {
-    "title": "acta-zoologica-academiae-scientiarum-hungaricae",
+    "title": "Acta Zoologica Academiae Scientiarum Hungaricae",
     "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
   }
 }

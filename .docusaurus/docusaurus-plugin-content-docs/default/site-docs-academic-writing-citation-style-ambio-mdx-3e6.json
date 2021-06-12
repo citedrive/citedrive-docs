@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ambio",
   "id": "academic-writing/citation-style/ambio",
   "isDocsHomePage": false,
-  "title": "ambio",
-  "description": "---",
+  "title": "AMBIO",
+  "description": "When you 're tasked by using \"AMBIO\" (Positivity) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ambio.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ambio",
   "permalink": "/support/docs/academic-writing/citation-style/ambio",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ambio.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "alternatives-to-animal-experimentation",
+    "title": "Alternatives to Animal Experimentation",
     "permalink": "/support/docs/academic-writing/citation-style/alternatives-to-animal-experimentation"
   },
   "next": {
-    "title": "ameghiniana",
-    "permalink": "/support/docs/academic-writing/citation-style/ameghiniana"
+    "title": "Working with BibTeX",
+    "permalink": "/support/docs/bibtex"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/aerosol-and-air-quality-research",
   "id": "academic-writing/citation-style/aerosol-and-air-quality-research",
   "isDocsHomePage": false,
-  "title": "aerosol-and-air-quality-research",
-  "description": "---",
+  "title": "Aerosol and Air Quality Research",
+  "description": "When you 're tasked by using \"Aerosol and Air Quality Research\" (AAQR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aerosol-and-air-quality-research",
   "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "advances-in-complex-systems",
+    "title": "Advances in Complex Systems",
     "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems"
   },
   "next": {
-    "title": "aerosol-science-and-technology",
+    "title": "Aerosol Science and Technology",
     "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
   }
 }

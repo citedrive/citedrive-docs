@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-orthopaedica",
   "id": "academic-writing/citation-style/acta-orthopaedica",
   "isDocsHomePage": false,
-  "title": "acta-orthopaedica",
-  "description": "---",
+  "title": "Acta Orthopaedica",
+  "description": "When you 're tasked by using \"Acta Orthopaedica\" (Asian J Bus Ethics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-orthopaedica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-ornithologica",
+    "title": "Acta Ornithologica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
   },
   "next": {
-    "title": "acta-orthopdica-belgica",
+    "title": "Acta Orthopædica Belgica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
   }
 }

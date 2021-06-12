@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german",
   "id": "academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german",
   "isDocsHomePage": false,
-  "title": "albertludwigsuniversitat-freiburg--geschichte-german",
-  "description": "---",
+  "title": "Albert-Ludwigs-Universität Freiburg - Geschichte (German)",
+  "description": "When you 're tasked by using \"Albert-Ludwigs-Universität Freiburg - Geschichte (German)\" (Environ Resource Econ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german",
   "permalink": "/support/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aixmarseille-universite--departement-detudes-asiatiques-french",
+    "title": "Aix-Marseille Université - Département d''études asiatiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french"
   },
   "next": {
-    "title": "alcohol-and-alcoholism",
+    "title": "Alcohol and Alcoholism",
     "permalink": "/support/docs/academic-writing/citation-style/alcohol-and-alcoholism"
   }
 }

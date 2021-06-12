@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-palaeontologica-polonica",
   "id": "academic-writing/citation-style/acta-palaeontologica-polonica",
   "isDocsHomePage": false,
-  "title": "acta-palaeontologica-polonica",
-  "description": "---",
+  "title": "Acta Palaeontologica Polonica",
+  "description": "When you 're tasked by using \"Acta Palaeontologica Polonica\" (WPSJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-palaeontologica-polonica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-paediatrica",
+    "title": "Acta Paediatrica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica"
   },
   "next": {
-    "title": "acta-pharmaceutica-sinica-b",
+    "title": "Acta Pharmaceutica Sinica B",
     "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
   }
 }

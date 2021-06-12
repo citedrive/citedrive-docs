@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/alcohol-and-alcoholism",
   "id": "academic-writing/citation-style/alcohol-and-alcoholism",
   "isDocsHomePage": false,
-  "title": "alcohol-and-alcoholism",
-  "description": "---",
+  "title": "Alcohol and Alcoholism",
+  "description": "When you 're tasked by using \"Alcohol and Alcoholism\" (J Econ Growth) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/alcohol-and-alcoholism.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/alcohol-and-alcoholism",
   "permalink": "/support/docs/academic-writing/citation-style/alcohol-and-alcoholism",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/alcohol-and-alcoholism.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "albertludwigsuniversitat-freiburg--geschichte-german",
+    "title": "Albert-Ludwigs-Universität Freiburg - Geschichte (German)",
     "permalink": "/support/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
   },
   "next": {
-    "title": "alcoholism-clinical-and-experimental-research",
+    "title": "Alcoholism: Clinical and Experimental Research",
     "permalink": "/support/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research"
   }
 }

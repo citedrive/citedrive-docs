@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/--russian",
   "id": "academic-writing/citation-style/--russian",
   "isDocsHomePage": false,
-  "title": "--russian",
-  "description": "---",
+  "title": "Успехи геронтологии (Russian)",
+  "description": "When you 're tasked by using \"Успехи геронтологии (Russian)\" (Milan J. Math.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/--russian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/--russian",
   "permalink": "/support/docs/academic-writing/citation-style/--russian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/--russian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "------russian",
+    "title": "Российский физиологический журнал им. И.М. Сеченова (Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/------russian"
   },
   "next": {
-    "title": "-the-university-of-tokyo-law-review-japanese",
+    "title": "東京大学法科大学院ローレビュー (The University of Tokyo Law Review) (Japanese)",
     "permalink": "/support/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese"
   }
 }

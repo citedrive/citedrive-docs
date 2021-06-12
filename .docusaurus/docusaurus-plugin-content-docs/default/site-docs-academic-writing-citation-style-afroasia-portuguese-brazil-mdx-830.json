@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/afroasia-portuguese--brazil",
   "id": "academic-writing/citation-style/afroasia-portuguese--brazil",
   "isDocsHomePage": false,
-  "title": "afroasia-portuguese--brazil",
-  "description": "---",
+  "title": "Afro-Ásia (Portuguese - Brazil)",
+  "description": "When you 're tasked by using \"Afro-Ásia (Portuguese - Brazil)\" (AA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/afroasia-portuguese--brazil.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/afroasia-portuguese--brazil",
   "permalink": "/support/docs/academic-writing/citation-style/afroasia-portuguese--brazil",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/afroasia-portuguese--brazil.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "african-zoology",
+    "title": "African Zoology",
     "permalink": "/support/docs/academic-writing/citation-style/african-zoology"
   },
   "next": {
-    "title": "afte-journal",
+    "title": "AFTE Journal",
     "permalink": "/support/docs/academic-writing/citation-style/afte-journal"
   }
 }

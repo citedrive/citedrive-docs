@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/allergology-international",
   "id": "academic-writing/citation-style/allergology-international",
   "isDocsHomePage": false,
-  "title": "allergology-international",
-  "description": "---",
+  "title": "Allergology International",
+  "description": "When you 're tasked by using \"Allergology International\" (ALIT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/allergology-international.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/allergology-international",
   "permalink": "/support/docs/academic-writing/citation-style/allergology-international",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/allergology-international.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "alkoholizmus-a-drogove-zavislosti",
+    "title": "Alkoholizmus a drogové závislosti",
     "permalink": "/support/docs/academic-writing/citation-style/alkoholizmus-a-drogove-zavislosti"
   },
   "next": {
-    "title": "allergy",
+    "title": "Allergy",
     "permalink": "/support/docs/academic-writing/citation-style/allergy"
   }
 }

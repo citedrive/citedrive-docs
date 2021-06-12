@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/african-journal-of-marine-science",
   "id": "academic-writing/citation-style/african-journal-of-marine-science",
   "isDocsHomePage": false,
-  "title": "african-journal-of-marine-science",
-  "description": "---",
+  "title": "African Journal of Marine Science",
+  "description": "When you 're tasked by using \"African Journal of Marine Science\" (AJMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/african-journal-of-marine-science",
   "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aerosol-science-and-technology",
+    "title": "Aerosol Science and Technology",
     "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
   },
   "next": {
-    "title": "african-online-scientific-information-systems--harvard",
+    "title": "African Online Scientific Information Systems - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard"
   }
 }

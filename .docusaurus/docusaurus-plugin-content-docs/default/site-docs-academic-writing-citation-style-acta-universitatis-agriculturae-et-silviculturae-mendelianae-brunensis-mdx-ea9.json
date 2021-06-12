@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
   "id": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
   "isDocsHomePage": false,
-  "title": "acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
-  "description": "---",
+  "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
+  "description": "When you 're tasked by using \"Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis\" (Acta Univ. Agric. Silvic. Mendelianae Brun.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
   "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-societatis-botanicorum-poloniae",
+    "title": "Acta Societatis Botanicorum Poloniae",
     "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae"
   },
   "next": {
-    "title": "acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+    "title": "Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)",
     "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
   }
 }

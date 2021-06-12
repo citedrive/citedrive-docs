@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-anaesthesiologica-taiwanica",
   "id": "academic-writing/citation-style/acta-anaesthesiologica-taiwanica",
   "isDocsHomePage": false,
-  "title": "acta-anaesthesiologica-taiwanica",
-  "description": "---",
+  "title": "Acta Anaesthesiologica Taiwanica",
+  "description": "When you 're tasked by using \"Acta Anaesthesiologica Taiwanica\" (AAT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-anaesthesiologica-taiwanica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-anaesthesiologica-taiwanica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-anaesthesiologica-taiwanica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-anaesthesiologica-taiwanica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-anaesthesiologica-scandinavica",
+    "title": "Acta Anaesthesiologica Scandinavica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica"
   },
   "next": {
-    "title": "acta-botanica-croatica",
+    "title": "Acta Botanica Croatica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-botanica-croatica"
   }
 }

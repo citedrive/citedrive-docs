@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/aims-press",
   "id": "academic-writing/citation-style/aims-press",
   "isDocsHomePage": false,
-  "title": "aims-press",
-  "description": "---",
+  "title": "AIMS Press",
+  "description": "When you 're tasked by using \"AIMS Press\" (JCAA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/aims-press.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aims-press",
   "permalink": "/support/docs/academic-writing/citation-style/aims-press",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aims-press.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aids",
+    "title": "AIDS",
     "permalink": "/support/docs/academic-writing/citation-style/aids"
   },
   "next": {
-    "title": "aixmarseille-universite--departement-detudes-asiatiques-french",
+    "title": "Aix-Marseille Université - Département d''études asiatiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french"
   }
 }

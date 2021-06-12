@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-pharmaceutica",
   "id": "academic-writing/citation-style/acta-pharmaceutica",
   "isDocsHomePage": false,
-  "title": "acta-pharmaceutica",
-  "description": "---",
+  "title": "Acta Pharmaceutica",
+  "description": "When you 're tasked by using \"Acta Pharmaceutica\" (Stat Papers) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-pharmaceutica",
   "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-pharmaceutica-sinica-b",
+    "title": "Acta Pharmaceutica Sinica B",
     "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
   },
   "next": {
-    "title": "acta-philosophica",
+    "title": "Acta Philosophica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
   }
 }

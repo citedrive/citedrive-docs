@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
   "id": "academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
   "isDocsHomePage": false,
-  "title": "acme-an-international-journal-for-critical-geographies",
-  "description": "---",
+  "title": "ACME: An International Journal for Critical Geographies",
+  "description": "When you 're tasked by using \"ACME: An International Journal for Critical Geographies\" (AIP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
   "permalink": "/support/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acm-siggraph",
+    "title": "ACM SIGGRAPH",
     "permalink": "/support/docs/academic-writing/citation-style/acm-siggraph"
   },
   "next": {
-    "title": "acta-amazonica",
+    "title": "Acta Amazonica",
     "permalink": "/support/docs/academic-writing/citation-style/acta-amazonica"
   }
 }

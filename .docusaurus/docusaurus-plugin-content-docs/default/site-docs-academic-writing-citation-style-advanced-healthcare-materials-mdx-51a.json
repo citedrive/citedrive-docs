@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/advanced-healthcare-materials",
   "id": "academic-writing/citation-style/advanced-healthcare-materials",
   "isDocsHomePage": false,
-  "title": "advanced-healthcare-materials",
-  "description": "---",
+  "title": "Advanced Healthcare Materials",
+  "description": "When you 're tasked by using \"Advanced Healthcare Materials\" (AHM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/advanced-healthcare-materials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/advanced-healthcare-materials",
   "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-healthcare-materials.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "advanced-functional-materials",
+    "title": "Advanced Functional Materials",
     "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials"
   },
   "next": {
-    "title": "advanced-materials",
+    "title": "Advanced Materials",
     "permalink": "/support/docs/academic-writing/citation-style/advanced-materials"
   }
 }

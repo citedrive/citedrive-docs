@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-naturae",
   "id": "academic-writing/citation-style/acta-naturae",
   "isDocsHomePage": false,
-  "title": "acta-naturae",
-  "description": "---",
+  "title": "Acta Naturae",
+  "description": "When you 're tasked by using \"Acta Naturae\" (LAP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-naturae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-naturae",
   "permalink": "/support/docs/academic-writing/citation-style/acta-naturae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-naturae.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-medica-peruana",
+    "title": "Acta Médica Peruana",
     "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
   },
   "next": {
-    "title": "acta-neurobiologiae-experimentalis",
+    "title": "Acta Neurobiologiae Experimentalis",
     "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
   }
 }

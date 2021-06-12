@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
   "id": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
   "isDocsHomePage": false,
-  "title": "acta-societatis-botanicorum-poloniae",
-  "description": "---",
+  "title": "Acta Societatis Botanicorum Poloniae",
+  "description": "When you 're tasked by using \"Acta Societatis Botanicorum Poloniae\" (ASBP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
   "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-scientiae-veterinariae",
+    "title": "Acta Scientiae Veterinariae",
     "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
   },
   "next": {
-    "title": "acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+    "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
     "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
   }
 }

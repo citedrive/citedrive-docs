@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
   "id": "academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
   "isDocsHomePage": false,
-  "title": "acta-ichthyologica-et-piscatoria",
-  "description": "---",
+  "title": "Acta Ichthyologica et Piscatoria",
+  "description": "When you 're tasked by using \"Acta Ichthyologica et Piscatoria\" (CJA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
   "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+    "title": "Acta chirurgiae orthopaedicae et traumatologiae Čechoslovaca",
     "permalink": "/support/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca"
   },
   "next": {
-    "title": "acta-medica-peruana",
+    "title": "Acta Médica Peruana",
     "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
   }
 }

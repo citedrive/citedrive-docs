@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/advanced-materials",
   "id": "academic-writing/citation-style/advanced-materials",
   "isDocsHomePage": false,
-  "title": "advanced-materials",
-  "description": "---",
+  "title": "Advanced Materials",
+  "description": "When you 're tasked by using \"Advanced Materials\" (Pain Ther) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/advanced-materials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/advanced-materials",
   "permalink": "/support/docs/academic-writing/citation-style/advanced-materials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-materials.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "advanced-healthcare-materials",
+    "title": "Advanced Healthcare Materials",
     "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials"
   },
   "next": {
-    "title": "advanced-optical-materials",
+    "title": "Advanced Optical Materials",
     "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials"
   }
 }
