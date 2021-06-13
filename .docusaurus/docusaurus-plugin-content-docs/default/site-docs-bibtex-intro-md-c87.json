@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/intro.md",
   "sourceDirName": "bibtex",
   "slug": "/bibtex/intro",
-  "permalink": "/support/docs/bibtex/intro",
+  "permalink": "/support/fr/docs/bibtex/intro",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/intro.md",
   "version": "current",
   "sidebar_label": "Introduction",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "toast Style",
-    "permalink": "/support/docs/r-markdown/bibliography-and-citation-styles/toast"
+    "permalink": "/support/fr/docs/r-markdown/bibliography-and-citation-styles/toast"
   },
   "next": {
     "title": "BibTeX Field types: Address",
-    "permalink": "/support/docs/bibtex/field-types/address"
+    "permalink": "/support/fr/docs/bibtex/field-types/address"
   }
 }

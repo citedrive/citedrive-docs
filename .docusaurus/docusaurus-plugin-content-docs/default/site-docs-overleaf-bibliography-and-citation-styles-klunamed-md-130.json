@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/klunamed.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/klunamed",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/klunamed",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/klunamed",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/klunamed.md",
   "version": "current",
   "sidebarPosition": 227,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use klunum (kluwer) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/klunum"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/klunum"
   },
   "next": {
     "title": "How to use ksfh_nat (ksfh_nat) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ksfh_nat"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ksfh_nat"
   }
 }

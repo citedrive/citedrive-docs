@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-physiologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-physiologica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-physiologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-physiologica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Philosophica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-philosophica"
   },
   "next": {
     "title": "Acta Polytechnica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-polytechnica"
   }
 }

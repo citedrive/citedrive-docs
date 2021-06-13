@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-medical-genetics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-medical-genetics",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-medical-genetics",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-medical-genetics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-medical-genetics.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Hypertension",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-hypertension"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-hypertension"
   },
   "next": {
     "title": "American Journal of Neuroradiology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-neuroradiology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-neuroradiology"
   }
 }

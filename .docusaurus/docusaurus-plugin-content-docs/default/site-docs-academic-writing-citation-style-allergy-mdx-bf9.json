@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/allergy.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/allergy",
-  "permalink": "/support/docs/academic-writing/citation-style/allergy",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/allergy",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/allergy.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Allergology International",
-    "permalink": "/support/docs/academic-writing/citation-style/allergology-international"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/allergology-international"
   },
   "next": {
     "title": "Alternatives to Animal Experimentation",
-    "permalink": "/support/docs/academic-writing/citation-style/alternatives-to-animal-experimentation"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/alternatives-to-animal-experimentation"
   }
 }

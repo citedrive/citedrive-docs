@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-the-association-of-american-geographers",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Surgery",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-surgery"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-surgery"
   },
   "next": {
     "title": "Annals of the New York Academy of Sciences",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences"
   }
 }

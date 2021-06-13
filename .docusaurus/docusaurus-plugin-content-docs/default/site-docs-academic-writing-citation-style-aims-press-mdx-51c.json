@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aims-press.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aims-press",
-  "permalink": "/support/docs/academic-writing/citation-style/aims-press",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aims-press",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aims-press.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AIDS",
-    "permalink": "/support/docs/academic-writing/citation-style/aids"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aids"
   },
   "next": {
     "title": "Aix-Marseille Université - Département d''études asiatiques (French)",
-    "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-oncology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-oncology",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-oncology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-oncology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-oncology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Neurology",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-neurology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-neurology"
   },
   "next": {
     "title": "Annals of Surgery",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-surgery"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-surgery"
   }
 }

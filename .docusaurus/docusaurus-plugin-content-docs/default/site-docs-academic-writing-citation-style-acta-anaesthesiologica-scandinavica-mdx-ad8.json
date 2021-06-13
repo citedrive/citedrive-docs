@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-anaesthesiologica-scandinavica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-anaesthesiologica-scandinavica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Amazonica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-amazonica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-amazonica"
   },
   "next": {
     "title": "Acta Anaesthesiologica Taiwanica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-anaesthesiologica-taiwanica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-anaesthesiologica-taiwanica"
   }
 }

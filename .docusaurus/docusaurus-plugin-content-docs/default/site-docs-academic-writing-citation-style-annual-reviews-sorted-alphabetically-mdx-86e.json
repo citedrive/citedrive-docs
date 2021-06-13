@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annual-reviews-sorted-alphabetically",
-  "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annual Reviews (author-date)",
-    "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-authordate"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annual-reviews-authordate"
   },
   "next": {
     "title": "Annual Reviews (sorted by order of appearance, without titles)",
-    "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance-without-titles"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annual-reviews-sorted-by-order-of-appearance-without-titles"
   }
 }

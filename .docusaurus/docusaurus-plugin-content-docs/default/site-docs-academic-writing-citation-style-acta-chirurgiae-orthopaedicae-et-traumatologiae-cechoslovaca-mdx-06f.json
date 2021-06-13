@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Chiropterologica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-chiropterologica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-chiropterologica"
   },
   "next": {
     "title": "Acta Ichthyologica et Piscatoria",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
   }
 }

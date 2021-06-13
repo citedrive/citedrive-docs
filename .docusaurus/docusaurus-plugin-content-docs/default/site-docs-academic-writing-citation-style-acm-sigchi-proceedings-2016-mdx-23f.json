@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acm-sigchi-proceedings-2016",
-  "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ACM SIGCHI Proceedings - Extended Abstract Format",
-    "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acm-sigchi-proceedings--extended-abstract-format"
   },
   "next": {
     "title": "ACM SIGGRAPH",
-    "permalink": "/support/docs/academic-writing/citation-style/acm-siggraph"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acm-siggraph"
   }
 }

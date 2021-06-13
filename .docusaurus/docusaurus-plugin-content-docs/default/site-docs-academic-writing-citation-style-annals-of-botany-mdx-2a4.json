@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-botany.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-botany",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-botany",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-botany",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-botany.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Biomedical Engineering",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-biomedical-engineering"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-biomedical-engineering"
   },
   "next": {
     "title": "Annals of Joint",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-joint"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-joint"
   }
 }

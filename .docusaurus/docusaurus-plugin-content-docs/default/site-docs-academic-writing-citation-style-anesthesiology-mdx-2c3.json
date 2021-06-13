@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/anesthesiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anesthesiology",
-  "permalink": "/support/docs/academic-writing/citation-style/anesthesiology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/anesthesiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anesthesiology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Anesthesia and Analgesia",
-    "permalink": "/support/docs/academic-writing/citation-style/anesthesia-and-analgesia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anesthesia-and-analgesia"
   },
   "next": {
     "title": "Angewandte Chemie International Edition",
-    "permalink": "/support/docs/academic-writing/citation-style/angewandte-chemie-international-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/angewandte-chemie-international-edition"
   }
 }

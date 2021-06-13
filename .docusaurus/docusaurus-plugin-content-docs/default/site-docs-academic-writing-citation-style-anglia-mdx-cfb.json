@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/anglia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anglia",
-  "permalink": "/support/docs/academic-writing/citation-style/anglia",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/anglia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anglia.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Anglia Ruskin University - Harvard",
-    "permalink": "/support/docs/academic-writing/citation-style/anglia-ruskin-university--harvard"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anglia-ruskin-university--harvard"
   },
   "next": {
     "title": "Animal Conservation",
-    "permalink": "/support/docs/academic-writing/citation-style/animal-conservation"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/animal-conservation"
   }
 }

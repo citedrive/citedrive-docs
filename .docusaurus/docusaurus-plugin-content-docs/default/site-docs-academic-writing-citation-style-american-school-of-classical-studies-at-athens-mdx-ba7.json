@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-school-of-classical-studies-at-athens",
-  "permalink": "/support/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Psychological Association 7th edition",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-7th-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-7th-edition"
   },
   "next": {
     "title": "American Society for Microbiology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-society-for-microbiology"
   }
 }

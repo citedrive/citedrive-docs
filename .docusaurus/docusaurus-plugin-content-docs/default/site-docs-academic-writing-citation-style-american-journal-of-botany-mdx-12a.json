@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-botany.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-botany",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-botany",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-botany",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-botany.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Archaeology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-archaeology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-archaeology"
   },
   "next": {
     "title": "American Journal of Climate Change",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-climate-change"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-climate-change"
   }
 }

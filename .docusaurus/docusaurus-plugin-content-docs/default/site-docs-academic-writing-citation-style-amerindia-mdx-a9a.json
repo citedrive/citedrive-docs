@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/amerindia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/amerindia",
-  "permalink": "/support/docs/academic-writing/citation-style/amerindia",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/amerindia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/amerindia.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Veterinary Medical Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-veterinary-medical-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-veterinary-medical-association"
   },
   "next": {
     "title": "Amphibia-Reptilia",
-    "permalink": "/support/docs/academic-writing/citation-style/amphibiareptilia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/amphibiareptilia"
   }
 }

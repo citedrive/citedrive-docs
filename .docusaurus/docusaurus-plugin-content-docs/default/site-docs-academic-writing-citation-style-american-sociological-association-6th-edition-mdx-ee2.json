@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-sociological-association-6th-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-sociological-association-6th-edition",
-  "permalink": "/support/docs/academic-writing/citation-style/american-sociological-association-6th-edition",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-sociological-association-6th-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-sociological-association-6th-edition.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Society of Mechanical Engineers",
-    "permalink": "/support/docs/academic-writing/citation-style/american-society-of-mechanical-engineers"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-society-of-mechanical-engineers"
   },
   "next": {
     "title": "American Statistical Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-statistical-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-statistical-association"
   }
 }

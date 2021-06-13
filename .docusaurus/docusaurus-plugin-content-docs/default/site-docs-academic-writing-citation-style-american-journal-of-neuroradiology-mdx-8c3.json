@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-neuroradiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-neuroradiology",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-neuroradiology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-neuroradiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-neuroradiology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Medical Genetics",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-medical-genetics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-medical-genetics"
   },
   "next": {
     "title": "American Journal of Orthodontics & Dentofacial Orthopedics",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-orthodontics-and-dentofacial-orthopedics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-orthodontics-and-dentofacial-orthopedics"
   }
 }

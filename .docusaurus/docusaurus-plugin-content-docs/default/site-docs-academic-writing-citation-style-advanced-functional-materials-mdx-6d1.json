@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/advanced-functional-materials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/advanced-functional-materials",
-  "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-functional-materials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-functional-materials.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Advanced Engineering Materials",
-    "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-engineering-materials"
   },
   "next": {
     "title": "Advanced Healthcare Materials",
-    "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-healthcare-materials"
   }
 }

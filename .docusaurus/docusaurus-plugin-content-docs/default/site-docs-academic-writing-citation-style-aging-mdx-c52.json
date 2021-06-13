@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aging.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aging",
-  "permalink": "/support/docs/academic-writing/citation-style/aging",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aging",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aging.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Aging Cell",
-    "permalink": "/support/docs/academic-writing/citation-style/aging-cell"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aging-cell"
   },
   "next": {
     "title": "Agora",
-    "permalink": "/support/docs/academic-writing/citation-style/agora"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/agora"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/anatomical-sciences-education.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anatomical-sciences-education",
-  "permalink": "/support/docs/academic-writing/citation-style/anatomical-sciences-education",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/anatomical-sciences-education",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anatomical-sciences-education.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Analytical Sciences",
-    "permalink": "/support/docs/academic-writing/citation-style/analytical-sciences"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/analytical-sciences"
   },
   "next": {
     "title": "Ancilla Iuris",
-    "permalink": "/support/docs/academic-writing/citation-style/ancilla-iuris"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/ancilla-iuris"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
-  "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "African Journal of Marine Science",
-    "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/african-journal-of-marine-science"
   },
   "next": {
     "title": "African Zoology",
-    "permalink": "/support/docs/academic-writing/citation-style/african-zoology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/african-zoology"
   }
 }

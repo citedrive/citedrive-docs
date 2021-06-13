@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aljamiah--journal-of-islamic-studies",
-  "permalink": "/support/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aljamiah--journal-of-islamic-studies.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Alcoholism: Clinical and Experimental Research",
-    "permalink": "/support/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research"
   },
   "next": {
     "title": "Alkoholizmus a drogové závislosti",
-    "permalink": "/support/docs/academic-writing/citation-style/alkoholizmus-a-drogove-zavislosti"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/alkoholizmus-a-drogove-zavislosti"
   }
 }

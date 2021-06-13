@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aerosol-and-air-quality-research",
-  "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aerosol-and-air-quality-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Advances in Complex Systems",
-    "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advances-in-complex-systems"
   },
   "next": {
     "title": "Aerosol Science and Technology",
-    "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aerosol-science-and-technology"
   }
 }

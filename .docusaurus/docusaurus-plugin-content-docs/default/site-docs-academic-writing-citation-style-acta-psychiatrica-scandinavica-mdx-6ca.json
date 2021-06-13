@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-psychiatrica-scandinavica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Polytechnica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-polytechnica"
   },
   "next": {
     "title": "Acta Radiologica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-radiologica"
   }
 }

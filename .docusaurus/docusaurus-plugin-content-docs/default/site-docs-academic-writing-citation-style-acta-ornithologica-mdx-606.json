@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-ornithologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-ornithologica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-ornithologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ornithologica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Ophthalmologica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-ophthalmologica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-ophthalmologica"
   },
   "next": {
     "title": "Acta Orthopaedica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-orthopaedica"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-association-of-petroleum-geologists.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-association-of-petroleum-geologists",
-  "permalink": "/support/docs/academic-writing/citation-style/american-association-of-petroleum-geologists",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-association-of-petroleum-geologists",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-association-of-petroleum-geologists.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Association for Cancer Research",
-    "permalink": "/support/docs/academic-writing/citation-style/american-association-for-cancer-research"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-association-for-cancer-research"
   },
   "next": {
     "title": "American Chemical Society",
-    "permalink": "/support/docs/academic-writing/citation-style/american-chemical-society"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-chemical-society"
   }
 }

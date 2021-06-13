@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-geophysical-union.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-geophysical-union",
-  "permalink": "/support/docs/academic-writing/citation-style/american-geophysical-union",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-geophysical-union",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-geophysical-union.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Fisheries Society",
-    "permalink": "/support/docs/academic-writing/citation-style/american-fisheries-society"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-fisheries-society"
   },
   "next": {
     "title": "American Heart Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-heart-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-heart-association"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-nuclear-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-nuclear-society",
-  "permalink": "/support/docs/academic-writing/citation-style/american-nuclear-society",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-nuclear-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-nuclear-society.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Mineralogist",
-    "permalink": "/support/docs/academic-writing/citation-style/american-mineralogist"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-mineralogist"
   },
   "next": {
     "title": "American Physical Society - et al. (if more than 3 authors)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-physical-society--et-al-if-more-than-3-authors"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-physical-society--et-al-if-more-than-3-authors"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/aomplain.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/aomplain",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aomplain",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aomplain",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/aomplain.md",
   "version": "current",
   "sidebarPosition": 38,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use amsrs (amsrefs) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/amsrs"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/amsrs"
   },
   "next": {
     "title": "How to use aomalpha (amscls) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aomalpha"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aomalpha"
   }
 }

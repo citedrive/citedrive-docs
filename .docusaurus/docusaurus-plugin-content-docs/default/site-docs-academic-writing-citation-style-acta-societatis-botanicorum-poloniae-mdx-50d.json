@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Scientiae Veterinariae",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
   },
   "next": {
     "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
   }
 }

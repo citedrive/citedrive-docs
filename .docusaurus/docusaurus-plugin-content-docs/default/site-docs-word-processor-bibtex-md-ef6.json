@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/bibtex.md",
   "sourceDirName": "word-processor",
   "slug": "/bibtex",
-  "permalink": "/support/docs/bibtex",
+  "permalink": "/support/fr/docs/bibtex",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/bibtex.md",
   "version": "current",
   "frontMatter": {
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
-    "permalink": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada"
+    "title": "ANPET - Congresso de Pesquisa e Ensino em Transportes (Portuguese - Brazil)",
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anpet--congresso-de-pesquisa-e-ensino-em-transportes-portuguese--brazil"
   },
   "next": {
     "title": "Working with any word processor",
-    "permalink": "/support/docs/overleaf"
+    "permalink": "/support/fr/docs/overleaf"
   }
 }

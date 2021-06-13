@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/nederlands.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/nederlands",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/nederlands",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/nederlands",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/nederlands.md",
   "version": "current",
   "sidebarPosition": 204,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use apsr (harvard) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/apsr"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apsr"
   },
   "next": {
     "title": "How to use hc-de (hc) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/hc-de"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/hc-de"
   }
 }

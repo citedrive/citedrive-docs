@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/age-and-ageing.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/age-and-ageing",
-  "permalink": "/support/docs/academic-writing/citation-style/age-and-ageing",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/age-and-ageing",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/age-and-ageing.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AFTE Journal",
-    "permalink": "/support/docs/academic-writing/citation-style/afte-journal"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/afte-journal"
   },
   "next": {
     "title": "Ageing & Society",
-    "permalink": "/support/docs/academic-writing/citation-style/ageing-and-society"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/ageing-and-society"
   }
 }

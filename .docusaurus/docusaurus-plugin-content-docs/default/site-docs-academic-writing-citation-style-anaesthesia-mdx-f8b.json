@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/anaesthesia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anaesthesia",
-  "permalink": "/support/docs/academic-writing/citation-style/anaesthesia",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/anaesthesia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anaesthesia.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Anabases (French)",
-    "permalink": "/support/docs/academic-writing/citation-style/anabases-french"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anabases-french"
   },
   "next": {
     "title": "Analytical Sciences",
-    "permalink": "/support/docs/academic-writing/citation-style/analytical-sciences"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/analytical-sciences"
   }
 }

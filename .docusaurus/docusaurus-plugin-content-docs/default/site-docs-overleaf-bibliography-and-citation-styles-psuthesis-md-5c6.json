@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/psuthesis.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/psuthesis",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/psuthesis",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/psuthesis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/psuthesis.md",
   "version": "current",
   "sidebarPosition": 266,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use papalike (przechlewski-book) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/papalike"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/papalike"
   },
   "next": {
     "title": "How to use resphilosophica (resphilosophica) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/resphilosophica"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/resphilosophica"
   }
 }

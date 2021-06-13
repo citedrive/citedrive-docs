@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-7th-edition-no-ampersand.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-7th-edition-no-ampersand",
-  "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-7th-edition-no-ampersand",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-7th-edition-no-ampersand",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-7th-edition-no-ampersand.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Psychological Association 7th edition (curriculum vitae, sorted by descending date)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-7th-edition-curriculum-vitae-sorted-by-descending-date"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-7th-edition-curriculum-vitae-sorted-by-descending-date"
   },
   "next": {
     "title": "American Psychological Association 7th edition (numeric, brackets)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-7th-edition-numeric-brackets"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-7th-edition-numeric-brackets"
   }
 }

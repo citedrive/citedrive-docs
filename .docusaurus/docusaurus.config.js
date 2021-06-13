@@ -2,7 +2,7 @@ export default {
   "title": "CiteDrive Documentation",
   "tagline": "Looking for an easy-to-use, web-based, collaborative Referencing tool, with over 9000 styles plus native R Mardown and BibTeX-support? ",
   "url": "http://citedrive.com",
-  "baseUrl": "/support/",
+  "baseUrl": "/support/fr/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/citedrive-favicon.png",
@@ -28,7 +28,7 @@ export default {
           "type": "doc",
           "docId": "intro",
           "position": "left",
-          "label": "Docs",
+          "label": "Documents",
           "activeSidebarClassName": "navbar__link--active"
         },
         {
@@ -38,12 +38,12 @@ export default {
         },
         {
           "href": "https://app.citedrive.com/",
-          "label": "Login",
+          "label": "Connexion",
           "position": "left"
         },
         {
           "href": "https://app.citedrive.com/sign-up",
-          "label": "Get started now",
+          "label": "Commencez maintenant",
           "position": "right"
         },
         {

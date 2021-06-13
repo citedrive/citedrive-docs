@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-surgical-pathology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-surgical-pathology",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-surgical-pathology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-surgical-pathology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-surgical-pathology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Sonography",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-sonography"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-sonography"
   },
   "next": {
     "title": "American Journal of Translational Research",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-translational-research"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-translational-research"
   }
 }

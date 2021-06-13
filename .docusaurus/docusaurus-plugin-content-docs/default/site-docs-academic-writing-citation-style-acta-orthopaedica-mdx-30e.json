@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-orthopaedica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-orthopaedica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Ornithologica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-ornithologica"
   },
   "next": {
     "title": "Acta Orthopædica Belgica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-orthopdica-belgica"
   }
 }

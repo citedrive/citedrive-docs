@@ -7,17 +7,17 @@
   "source": "@site/docs/overleaf/intro.md",
   "sourceDirName": "overleaf",
   "slug": "/overleaf/intro",
-  "permalink": "/support/docs/overleaf/intro",
+  "permalink": "/support/fr/docs/overleaf/intro",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/intro.md",
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use vancouver (vancouver) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/vancouver"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/vancouver"
   },
   "next": {
     "title": "Share project",
-    "permalink": "/support/docs/share-project"
+    "permalink": "/support/fr/docs/share-project"
   }
 }

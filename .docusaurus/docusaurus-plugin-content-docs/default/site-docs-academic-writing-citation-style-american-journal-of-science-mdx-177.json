@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-science",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-science",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-science.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Respiratory and Critical Care Medicine",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-respiratory-and-critical-care-medicine"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-respiratory-and-critical-care-medicine"
   },
   "next": {
     "title": "American Journal of Sonography",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-sonography"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-sonography"
   }
 }

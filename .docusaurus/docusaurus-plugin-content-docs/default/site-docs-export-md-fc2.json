@@ -7,7 +7,7 @@
   "source": "@site/docs/export.md",
   "sourceDirName": ".",
   "slug": "/export",
-  "permalink": "/support/docs/export",
+  "permalink": "/support/fr/docs/export",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/export.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Share project",
-    "permalink": "/support/docs/share-project"
+    "permalink": "/support/fr/docs/share-project"
   },
   "next": {
     "title": "Российский физиологический журнал им. И.М. Сеченова (Russian)",
-    "permalink": "/support/docs/academic-writing/citation-style/------russian"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/------russian"
   }
 }

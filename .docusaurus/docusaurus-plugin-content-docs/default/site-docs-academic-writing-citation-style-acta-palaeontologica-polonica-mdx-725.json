@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-palaeontologica-polonica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-palaeontologica-polonica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Paediatrica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-paediatrica"
   },
   "next": {
     "title": "Acta Pharmaceutica Sinica B",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
   }
 }

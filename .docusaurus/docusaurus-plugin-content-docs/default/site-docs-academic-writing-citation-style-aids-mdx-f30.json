@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aids.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aids",
-  "permalink": "/support/docs/academic-writing/citation-style/aids",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aids",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aids.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AIB studi (Italian)",
-    "permalink": "/support/docs/academic-writing/citation-style/aib-studi-italian"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aib-studi-italian"
   },
   "next": {
     "title": "AIMS Press",
-    "permalink": "/support/docs/academic-writing/citation-style/aims-press"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aims-press"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acm-siggraph.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acm-siggraph",
-  "permalink": "/support/docs/academic-writing/citation-style/acm-siggraph",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acm-siggraph",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acm-siggraph.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ACM SIGCHI Proceedings (2016)",
-    "permalink": "/support/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acm-sigchi-proceedings-2016"
   },
   "next": {
     "title": "ACME: An International Journal for Critical Geographies",
-    "permalink": "/support/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-pharmaceutica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-pharmaceutica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Pharmaceutica Sinica B",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
   },
   "next": {
     "title": "Acta Philosophica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-philosophica"
   }
 }

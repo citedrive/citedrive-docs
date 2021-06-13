@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-political-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-political-science",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-political-science",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-political-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-political-science.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Plant Sciences",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-plant-sciences"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-plant-sciences"
   },
   "next": {
     "title": "American Journal of Respiratory and Critical Care Medicine",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-respiratory-and-critical-care-medicine"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-respiratory-and-critical-care-medicine"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/word-processor/word-processor.md",
   "sourceDirName": "word-processor",
   "slug": "/word-processor",
-  "permalink": "/support/docs/word-processor",
+  "permalink": "/support/fr/docs/word-processor",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/word-processor/word-processor.md",
   "version": "current",
   "frontMatter": {
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Working with R Markdown",
-    "permalink": "/support/docs/r-markdown"
+    "permalink": "/support/fr/docs/r-markdown"
   },
   "next": {
     "title": "toast Style",
-    "permalink": "/support/docs/r-markdown/bibliography-and-citation-styles/toast"
+    "permalink": "/support/fr/docs/r-markdown/bibliography-and-citation-styles/toast"
   }
 }

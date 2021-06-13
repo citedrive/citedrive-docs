@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/angewandte-chemie-international-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/angewandte-chemie-international-edition",
-  "permalink": "/support/docs/academic-writing/citation-style/angewandte-chemie-international-edition",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/angewandte-chemie-international-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/angewandte-chemie-international-edition.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Anesthesiology",
-    "permalink": "/support/docs/academic-writing/citation-style/anesthesiology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anesthesiology"
   },
   "next": {
     "title": "Angiologia (Spanish)",
-    "permalink": "/support/docs/academic-writing/citation-style/angiologia-spanish"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/angiologia-spanish"
   }
 }

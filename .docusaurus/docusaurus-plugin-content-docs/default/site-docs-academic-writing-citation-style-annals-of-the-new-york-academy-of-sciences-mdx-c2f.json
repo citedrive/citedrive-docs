@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of the Association of American Geographers",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers"
   },
   "next": {
     "title": "Annual Review of Astronomy and Astrophysics",
-    "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics"
   }
 }

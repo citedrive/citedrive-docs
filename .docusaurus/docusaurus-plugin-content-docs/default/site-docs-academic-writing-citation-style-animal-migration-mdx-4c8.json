@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/animal-migration.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/animal-migration",
-  "permalink": "/support/docs/academic-writing/citation-style/animal-migration",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/animal-migration",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/animal-migration.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Animal Conservation",
-    "permalink": "/support/docs/academic-writing/citation-style/animal-conservation"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/animal-conservation"
   },
   "next": {
     "title": "Animal Welfare",
-    "permalink": "/support/docs/academic-writing/citation-style/animal-welfare"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/animal-welfare"
   }
 }

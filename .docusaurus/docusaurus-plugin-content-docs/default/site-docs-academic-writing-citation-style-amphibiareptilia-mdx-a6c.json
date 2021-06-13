@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/amphibiareptilia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/amphibiareptilia",
-  "permalink": "/support/docs/academic-writing/citation-style/amphibiareptilia",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/amphibiareptilia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/amphibiareptilia.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Amerindia",
-    "permalink": "/support/docs/academic-writing/citation-style/amerindia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/amerindia"
   },
   "next": {
     "title": "Anabases (French)",
-    "permalink": "/support/docs/academic-writing/citation-style/anabases-french"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anabases-french"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/accident-analysis-and-prevention.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/accident-analysis-and-prevention",
-  "permalink": "/support/docs/academic-writing/citation-style/accident-analysis-and-prevention",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/accident-analysis-and-prevention",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/accident-analysis-and-prevention.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Academy of Management Review",
-    "permalink": "/support/docs/academic-writing/citation-style/academy-of-management-review"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/academy-of-management-review"
   },
   "next": {
     "title": "ACI Materials Journal",
-    "permalink": "/support/docs/academic-writing/citation-style/aci-materials-journal"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aci-materials-journal"
   }
 }

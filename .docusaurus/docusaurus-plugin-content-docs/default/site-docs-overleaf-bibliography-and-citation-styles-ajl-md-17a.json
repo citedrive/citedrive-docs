@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/ajl.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/ajl",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ajl",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ajl",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/ajl.md",
   "version": "current",
   "sidebarPosition": 31,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aichej (aichej) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aichej"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aichej"
   },
   "next": {
     "title": "How to use ametsoc (ametsoc) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/ametsoc"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/ametsoc"
   }
 }

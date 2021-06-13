@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
-  "permalink": "/support/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aixmarseille-universite--departement-detudes-asiatiques-french.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AIMS Press",
-    "permalink": "/support/docs/academic-writing/citation-style/aims-press"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aims-press"
   },
   "next": {
     "title": "Albert-Ludwigs-Universität Freiburg - Geschichte (German)",
-    "permalink": "/support/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-surgery",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-surgery",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-surgery.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Oncology",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-oncology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-oncology"
   },
   "next": {
     "title": "Annals of the Association of American Geographers",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers"
   }
 }

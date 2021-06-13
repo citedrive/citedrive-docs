@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
-  "permalink": "/support/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acme-an-international-journal-for-critical-geographies.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "ACM SIGGRAPH",
-    "permalink": "/support/docs/academic-writing/citation-style/acm-siggraph"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acm-siggraph"
   },
   "next": {
     "title": "Acta Amazonica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-amazonica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-amazonica"
   }
 }

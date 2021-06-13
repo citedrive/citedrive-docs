@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-sonography.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-sonography",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-sonography",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-sonography",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-sonography.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Science",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-science"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-science"
   },
   "next": {
     "title": "American Journal of Surgical Pathology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-surgical-pathology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-surgical-pathology"
   }
 }

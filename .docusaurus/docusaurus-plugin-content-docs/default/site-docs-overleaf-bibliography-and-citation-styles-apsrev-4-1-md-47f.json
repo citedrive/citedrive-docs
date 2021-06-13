@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/apsrev4-1.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/apsrev4-1",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/apsrev4-1",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/apsrev4-1",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/apsrev4-1.md",
   "version": "current",
   "sidebarPosition": 270,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use aipauth4-1 (revtex) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aipauth4-1"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aipauth4-1"
   },
   "next": {
     "title": "How to use aipnum4-1 (revtex) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/aipnum4-1"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/aipnum4-1"
   }
 }

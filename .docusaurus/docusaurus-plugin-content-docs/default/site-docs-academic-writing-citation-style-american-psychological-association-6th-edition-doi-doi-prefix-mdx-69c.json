@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
-  "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Psychological Association 5th edition",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-5th-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-5th-edition"
   },
   "next": {
     "title": "American Psychological Association 6th edition (no ampersand)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand"
   }
 }

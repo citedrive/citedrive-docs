@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-philosophica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-philosophica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-philosophica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-philosophica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Pharmaceutica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-pharmaceutica"
   },
   "next": {
     "title": "Acta Physiologica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-physiologica"
   }
 }

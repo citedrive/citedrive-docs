@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/agufull.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/agufull",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/agufull",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/agufull",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/agufull.md",
   "version": "current",
   "sidebarPosition": 25,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use thesnumb (afthesis) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/thesnumb"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/thesnumb"
   },
   "next": {
     "title": "How to use agufull04 (aguplus) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/agufull04"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/agufull04"
   }
 }

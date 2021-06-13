@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aging-cell.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aging-cell",
-  "permalink": "/support/docs/academic-writing/citation-style/aging-cell",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aging-cell",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aging-cell.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Aging and Disease",
-    "permalink": "/support/docs/academic-writing/citation-style/aging-and-disease"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aging-and-disease"
   },
   "next": {
     "title": "Aging",
-    "permalink": "/support/docs/academic-writing/citation-style/aging"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aging"
   }
 }

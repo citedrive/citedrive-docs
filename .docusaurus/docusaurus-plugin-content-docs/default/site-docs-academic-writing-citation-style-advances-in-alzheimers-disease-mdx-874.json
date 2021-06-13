@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/advances-in-alzheimers-disease.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/advances-in-alzheimers-disease",
-  "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/advances-in-alzheimers-disease",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advances-in-alzheimers-disease.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Advanced Optical Materials",
-    "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-optical-materials"
   },
   "next": {
     "title": "Advances in Complex Systems",
-    "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advances-in-complex-systems"
   }
 }

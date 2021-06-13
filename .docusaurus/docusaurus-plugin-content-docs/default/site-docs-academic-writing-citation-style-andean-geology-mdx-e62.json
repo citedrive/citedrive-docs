@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/andean-geology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/andean-geology",
-  "permalink": "/support/docs/academic-writing/citation-style/andean-geology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/andean-geology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/andean-geology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Ancilla Iuris",
-    "permalink": "/support/docs/academic-writing/citation-style/ancilla-iuris"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/ancilla-iuris"
   },
   "next": {
     "title": "Anesthesia and Analgesia",
-    "permalink": "/support/docs/academic-writing/citation-style/anesthesia-and-analgesia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anesthesia-and-analgesia"
   }
 }

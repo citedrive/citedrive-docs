@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-heart-association.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-heart-association",
-  "permalink": "/support/docs/academic-writing/citation-style/american-heart-association",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-heart-association",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-heart-association.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Geophysical Union",
-    "permalink": "/support/docs/academic-writing/citation-style/american-geophysical-union"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-geophysical-union"
   },
   "next": {
     "title": "American Institute of Aeronautics and Astronautics",
-    "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-aeronautics-and-astronautics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-institute-of-aeronautics-and-astronautics"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
-  "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Psychological Association 6th edition (no DOIs, no issue numbers)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-dois-no-issue-numbers"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-dois-no-issue-numbers"
   },
   "next": {
     "title": "American Psychological Association 6th edition (Turkish)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish"
   }
 }

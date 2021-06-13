@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/gerapali.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/gerapali",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/gerapali",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/gerapali",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/gerapali.md",
   "version": "current",
   "sidebarPosition": 169,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use gatech-thesis (gatech-thesis) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/gatech-thesis"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/gatech-thesis"
   },
   "next": {
     "title": "How to use gerabbrv (germbib) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/gerabbrv"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/gerabbrv"
   }
 }

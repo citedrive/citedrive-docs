@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
-  "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Society for Microbiology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-society-for-microbiology"
   },
   "next": {
     "title": "American Society of Agricultural and Biological Engineers",
-    "permalink": "/support/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers"
   }
 }

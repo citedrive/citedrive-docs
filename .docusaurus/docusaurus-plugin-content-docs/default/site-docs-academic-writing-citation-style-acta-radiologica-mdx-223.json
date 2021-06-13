@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-radiologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-radiologica",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-radiologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-radiologica.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Psychiatrica Scandinavica",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
   },
   "next": {
     "title": "Acta Scientiae Veterinariae",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-veterinary-medical-association.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-veterinary-medical-association",
-  "permalink": "/support/docs/academic-writing/citation-style/american-veterinary-medical-association",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-veterinary-medical-association",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-veterinary-medical-association.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Statistical Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-statistical-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-statistical-association"
   },
   "next": {
     "title": "Amerindia",
-    "permalink": "/support/docs/academic-writing/citation-style/amerindia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/amerindia"
   }
 }

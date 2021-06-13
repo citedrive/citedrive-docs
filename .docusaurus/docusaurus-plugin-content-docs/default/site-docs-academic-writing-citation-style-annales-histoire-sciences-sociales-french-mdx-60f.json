@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annales-histoire-sciences-sociales-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annales-histoire-sciences-sociales-french",
-  "permalink": "/support/docs/academic-writing/citation-style/annales-histoire-sciences-sociales-french",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annales-histoire-sciences-sociales-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annales-histoire-sciences-sociales-french.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annales de démographie historique",
-    "permalink": "/support/docs/academic-writing/citation-style/annales-de-demographie-historique"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annales-de-demographie-historique"
   },
   "next": {
     "title": "Annals of Applied Biology",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-applied-biology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-applied-biology"
   }
 }

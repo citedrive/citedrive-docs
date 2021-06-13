@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/anabases-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anabases-french",
-  "permalink": "/support/docs/academic-writing/citation-style/anabases-french",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/anabases-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anabases-french.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Amphibia-Reptilia",
-    "permalink": "/support/docs/academic-writing/citation-style/amphibiareptilia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/amphibiareptilia"
   },
   "next": {
     "title": "Anaesthesia",
-    "permalink": "/support/docs/academic-writing/citation-style/anaesthesia"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/anaesthesia"
   }
 }

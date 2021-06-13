@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-biomedical-engineering.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-biomedical-engineering",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-biomedical-engineering",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-biomedical-engineering",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-biomedical-engineering.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Behavioral Medicine",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-behavioral-medicine"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-behavioral-medicine"
   },
   "next": {
     "title": "Annals of Botany",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-botany"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-botany"
   }
 }

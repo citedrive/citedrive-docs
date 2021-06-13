@@ -7,7 +7,7 @@
   "source": "@site/docs/overleaf/bibliography-and-citation-styles/jurunsrt.md",
   "sourceDirName": "overleaf/bibliography-and-citation-styles",
   "slug": "/overleaf/bibliography-and-citation-styles/jurunsrt",
-  "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/jurunsrt",
+  "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jurunsrt",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/overleaf/bibliography-and-citation-styles/jurunsrt.md",
   "version": "current",
   "sidebarPosition": 222,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to use jurabib (jurabib) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/jurabib"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jurabib"
   },
   "next": {
     "title": "How to use jureco (jurabib) at Overleaf?",
-    "permalink": "/support/docs/overleaf/bibliography-and-citation-styles/jureco"
+    "permalink": "/support/fr/docs/overleaf/bibliography-and-citation-styles/jureco"
   }
 }

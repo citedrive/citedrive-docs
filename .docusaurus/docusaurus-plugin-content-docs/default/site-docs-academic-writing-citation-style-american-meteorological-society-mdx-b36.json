@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-meteorological-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-meteorological-society",
-  "permalink": "/support/docs/academic-writing/citation-style/american-meteorological-society",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-meteorological-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-meteorological-society.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Medical Association 11th edition",
-    "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-medical-association-11th-edition"
   },
   "next": {
     "title": "American Mineralogist",
-    "permalink": "/support/docs/academic-writing/citation-style/american-mineralogist"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-mineralogist"
   }
 }

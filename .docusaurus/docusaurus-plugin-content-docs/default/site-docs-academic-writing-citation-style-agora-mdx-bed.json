@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/agora.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/agora",
-  "permalink": "/support/docs/academic-writing/citation-style/agora",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/agora",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/agora.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Aging",
-    "permalink": "/support/docs/academic-writing/citation-style/aging"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aging"
   },
   "next": {
     "title": "Agriculturae Conspectus Scientificus",
-    "permalink": "/support/docs/academic-writing/citation-style/agriculturae-conspectus-scientificus"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/agriculturae-conspectus-scientificus"
   }
 }

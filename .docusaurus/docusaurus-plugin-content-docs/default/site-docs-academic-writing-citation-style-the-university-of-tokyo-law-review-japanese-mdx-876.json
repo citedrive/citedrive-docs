@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
-  "permalink": "/support/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/-the-university-of-tokyo-law-review-japanese.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Успехи геронтологии (Russian)",
-    "permalink": "/support/docs/academic-writing/citation-style/--russian"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/--russian"
   },
   "next": {
     "title": "Academy of Management Review",
-    "permalink": "/support/docs/academic-writing/citation-style/academy-of-management-review"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/academy-of-management-review"
   }
 }

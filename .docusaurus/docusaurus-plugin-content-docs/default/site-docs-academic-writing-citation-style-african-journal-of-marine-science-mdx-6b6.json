@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/african-journal-of-marine-science",
-  "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/african-journal-of-marine-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Aerosol Science and Technology",
-    "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aerosol-science-and-technology"
   },
   "next": {
     "title": "African Online Scientific Information Systems - Harvard",
-    "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard"
   }
 }

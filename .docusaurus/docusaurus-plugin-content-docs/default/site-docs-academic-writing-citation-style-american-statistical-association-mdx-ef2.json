@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-statistical-association.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-statistical-association",
-  "permalink": "/support/docs/academic-writing/citation-style/american-statistical-association",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-statistical-association",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-statistical-association.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Sociological Association 6th edition",
-    "permalink": "/support/docs/academic-writing/citation-style/american-sociological-association-6th-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-sociological-association-6th-edition"
   },
   "next": {
     "title": "American Veterinary Medical Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-veterinary-medical-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-veterinary-medical-association"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/annals-of-joint.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-joint",
-  "permalink": "/support/docs/academic-writing/citation-style/annals-of-joint",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-joint",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-joint.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Annals of Botany",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-botany"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-botany"
   },
   "next": {
     "title": "Annals of Neurology",
-    "permalink": "/support/docs/academic-writing/citation-style/annals-of-neurology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/annals-of-neurology"
   }
 }

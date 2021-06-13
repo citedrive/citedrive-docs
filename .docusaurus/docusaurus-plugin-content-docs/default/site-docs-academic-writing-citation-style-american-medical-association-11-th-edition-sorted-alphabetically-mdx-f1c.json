@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically",
-  "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Medical Association 11th edition (no URL)",
-    "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url"
   },
   "next": {
     "title": "American Medical Association 11th edition",
-    "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-medical-association-11th-edition"
   }
 }

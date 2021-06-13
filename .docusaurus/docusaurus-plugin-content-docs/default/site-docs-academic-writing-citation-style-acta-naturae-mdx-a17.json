@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-naturae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-naturae",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-naturae",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-naturae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-naturae.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Médica Peruana",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-medica-peruana"
   },
   "next": {
     "title": "Acta Neurobiologiae Experimentalis",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
   }
 }

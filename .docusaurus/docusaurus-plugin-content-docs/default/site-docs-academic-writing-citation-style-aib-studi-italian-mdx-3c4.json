@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/aib-studi-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aib-studi-italian",
-  "permalink": "/support/docs/academic-writing/citation-style/aib-studi-italian",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/aib-studi-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aib-studi-italian.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Agriculturae Conspectus Scientificus",
-    "permalink": "/support/docs/academic-writing/citation-style/agriculturae-conspectus-scientificus"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/agriculturae-conspectus-scientificus"
   },
   "next": {
     "title": "AIDS",
-    "permalink": "/support/docs/academic-writing/citation-style/aids"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/aids"
   }
 }

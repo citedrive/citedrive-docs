@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-institute-of-physics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-institute-of-physics",
-  "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-physics",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-institute-of-physics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-institute-of-physics.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Institute of Aeronautics and Astronautics",
-    "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-aeronautics-and-astronautics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-institute-of-aeronautics-and-astronautics"
   },
   "next": {
     "title": "American Journal of Agricultural Economics",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-agricultural-economics"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-agricultural-economics"
   }
 }

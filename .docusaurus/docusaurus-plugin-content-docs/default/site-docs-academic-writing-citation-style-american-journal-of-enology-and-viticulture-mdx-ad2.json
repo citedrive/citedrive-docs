@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-enology-and-viticulture",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Clinical Pathology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-clinical-pathology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-clinical-pathology"
   },
   "next": {
     "title": "American Journal of Epidemiology",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-epidemiology"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-epidemiology"
   }
 }

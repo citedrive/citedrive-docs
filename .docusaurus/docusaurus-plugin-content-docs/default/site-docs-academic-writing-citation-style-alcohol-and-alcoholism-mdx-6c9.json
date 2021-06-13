@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/alcohol-and-alcoholism.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/alcohol-and-alcoholism",
-  "permalink": "/support/docs/academic-writing/citation-style/alcohol-and-alcoholism",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/alcohol-and-alcoholism",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/alcohol-and-alcoholism.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Albert-Ludwigs-Universität Freiburg - Geschichte (German)",
-    "permalink": "/support/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/albertludwigsuniversitat-freiburg--geschichte-german"
   },
   "next": {
     "title": "Alcoholism: Clinical and Experimental Research",
-    "permalink": "/support/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/alcoholism-clinical-and-experimental-research"
   }
 }

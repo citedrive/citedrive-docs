@@ -7,7 +7,7 @@
   "source": "@site/docs/bibtex/field-types/title.md",
   "sourceDirName": "bibtex/field-types",
   "slug": "/bibtex/field-types/title",
-  "permalink": "/support/docs/bibtex/field-types/title",
+  "permalink": "/support/fr/docs/bibtex/field-types/title",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/bibtex/field-types/title.md",
   "version": "current",
   "sidebar_label": "title",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "BibTeX Field types: series",
-    "permalink": "/support/docs/bibtex/field-types/series"
+    "permalink": "/support/fr/docs/bibtex/field-types/series"
   },
   "next": {
     "title": "BibTeX Field types: type",
-    "permalink": "/support/docs/bibtex/field-types/type"
+    "permalink": "/support/fr/docs/bibtex/field-types/type"
   }
 }

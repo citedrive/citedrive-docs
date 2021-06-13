@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/alternatives-to-animal-experimentation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/alternatives-to-animal-experimentation",
-  "permalink": "/support/docs/academic-writing/citation-style/alternatives-to-animal-experimentation",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/alternatives-to-animal-experimentation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/alternatives-to-animal-experimentation.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Allergy",
-    "permalink": "/support/docs/academic-writing/citation-style/allergy"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/allergy"
   },
   "next": {
     "title": "AMBIO",
-    "permalink": "/support/docs/academic-writing/citation-style/ambio"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/ambio"
   }
 }

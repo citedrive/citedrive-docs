@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/advanced-engineering-materials",
-  "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-engineering-materials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Administrative Science Quarterly",
-    "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/administrative-science-quarterly"
   },
   "next": {
     "title": "Advanced Functional Materials",
-    "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/advanced-functional-materials"
   }
 }

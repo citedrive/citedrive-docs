@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/afte-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/afte-journal",
-  "permalink": "/support/docs/academic-writing/citation-style/afte-journal",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/afte-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/afte-journal.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Afro-Ásia (Portuguese - Brazil)",
-    "permalink": "/support/docs/academic-writing/citation-style/afroasia-portuguese--brazil"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/afroasia-portuguese--brazil"
   },
   "next": {
     "title": "Age and Ageing",
-    "permalink": "/support/docs/academic-writing/citation-style/age-and-ageing"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/age-and-ageing"
   }
 }

@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
-  "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
   },
   "next": {
     "title": "Acta Zoologica Academiae Scientiarum Hungaricae",
-    "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
   }
 }

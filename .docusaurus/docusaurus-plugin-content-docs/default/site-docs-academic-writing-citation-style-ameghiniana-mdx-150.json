@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/ameghiniana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ameghiniana",
-  "permalink": "/support/docs/academic-writing/citation-style/ameghiniana",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/ameghiniana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ameghiniana.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "AMBIO",
-    "permalink": "/support/docs/academic-writing/citation-style/ambio"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/ambio"
   },
   "next": {
     "title": "American Anthropological Association",
-    "permalink": "/support/docs/academic-writing/citation-style/american-anthropological-association"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-anthropological-association"
   }
 }

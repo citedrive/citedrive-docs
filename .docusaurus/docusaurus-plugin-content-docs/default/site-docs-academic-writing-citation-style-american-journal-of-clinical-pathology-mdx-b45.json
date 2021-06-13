@@ -7,7 +7,7 @@
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-clinical-pathology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-clinical-pathology",
-  "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-clinical-pathology",
+  "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-clinical-pathology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-clinical-pathology.mdx",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "American Journal of Climate Change",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-climate-change"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-climate-change"
   },
   "next": {
     "title": "American Journal of Enology and Viticulture",
-    "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture"
+    "permalink": "/support/fr/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture"
   }
 }
