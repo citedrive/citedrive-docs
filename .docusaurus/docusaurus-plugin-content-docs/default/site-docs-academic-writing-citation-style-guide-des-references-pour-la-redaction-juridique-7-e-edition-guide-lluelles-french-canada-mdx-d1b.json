@@ -2,25 +2,22 @@
   "unversionedId": "academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
   "id": "academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
   "isDocsHomePage": false,
-  "title": "Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada)",
-  "description": "When you 're tasked by using \"Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada)\" (Guide Lluelles v7) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+  "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+  "description": "",
   "source": "@site/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada.mdx",
   "version": "current",
-  "sidebarPosition": 1,
-  "frontMatter": {
-    "sidebar_position": 1
-  },
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Guide des citations, références et abréviations juridiques 6e édition (French)",
-    "permalink": "/support/docs/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french"
+    "title": "archeologies-et-sciences-de-lantiquite-french",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologies-et-sciences-de-lantiquite-french"
   },
   "next": {
-    "title": "Guide des références pour la rédaction juridique 7e édition (Notes complètes) (Guide Lluelles, no Ibid., French - Canada)",
-    "permalink": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada"
+    "title": "Working with BibTeX",
+    "permalink": "/support/docs/bibtex"
   }
 }

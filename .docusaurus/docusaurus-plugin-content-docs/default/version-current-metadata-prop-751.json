@@ -5444,11 +5444,6 @@
               },
               {
                 "type": "link",
-                "label": "Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada)",
-                "href": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada"
-              },
-              {
-                "type": "link",
                 "label": "Guide des références pour la rédaction juridique 7e édition (Notes complètes) (Guide Lluelles, no Ibid., French - Canada)",
                 "href": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-notes-completes-guide-lluelles-no-ibid-french--canada"
               },
@@ -12701,6 +12696,11 @@
                 "type": "link",
                 "label": "archeologies-et-sciences-de-lantiquite-french",
                 "href": "/support/docs/academic-writing/citation-style/archeologies-et-sciences-de-lantiquite-french"
+              },
+              {
+                "type": "link",
+                "label": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+                "href": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada"
               }
             ],
             "collapsed": true
