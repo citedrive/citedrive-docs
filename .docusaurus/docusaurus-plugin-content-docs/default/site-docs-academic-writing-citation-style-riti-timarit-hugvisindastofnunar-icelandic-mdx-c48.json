@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
   "id": "academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
   "isDocsHomePage": false,
-  "title": "riti-timarit-hugvisindastofnunar-icelandic",
-  "description": "---",
+  "title": "Ritið: tímarit Hugvísindastofnunar (Icelandic)",
+  "description": "When you 're tasked by using \"Ritið: tímarit Hugvísindastofnunar (Icelandic)\" (Ritið) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
   "permalink": "/support/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "risk-analysis",
+    "title": "Risk Analysis",
     "permalink": "/support/docs/academic-writing/citation-style/risk-analysis"
   },
   "next": {
-    "title": "rivista-italiana-di-paleontologia-e-stratigrafia",
+    "title": "Rivista Italiana di Paleontologia e Stratigrafia",
     "permalink": "/support/docs/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/conservation-letters",
   "id": "academic-writing/citation-style/conservation-letters",
   "isDocsHomePage": false,
-  "title": "conservation-letters",
-  "description": "---",
+  "title": "Conservation Letters",
+  "description": "When you 're tasked by using \"Conservation Letters\" (VC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/conservation-letters.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/conservation-letters",
   "permalink": "/support/docs/academic-writing/citation-style/conservation-letters",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/conservation-letters.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "conservation-biology",
+    "title": "Conservation Biology",
     "permalink": "/support/docs/academic-writing/citation-style/conservation-biology"
   },
   "next": {
-    "title": "conservation-physiology",
+    "title": "Conservation Physiology",
     "permalink": "/support/docs/academic-writing/citation-style/conservation-physiology"
   }
 }

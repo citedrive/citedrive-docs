@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-phycology",
   "id": "academic-writing/citation-style/journal-of-phycology",
   "isDocsHomePage": false,
-  "title": "journal-of-phycology",
-  "description": "---",
+  "title": "Journal of Phycology",
+  "description": "When you 're tasked by using \"Journal of Phycology\" (J. Phycol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-phycology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-phycology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-phycology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-phycology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-pharmacy-and-pharmacology",
+    "title": "Journal of Pharmacy and Pharmacology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology"
   },
   "next": {
-    "title": "journal-of-physical-therapy-science",
+    "title": "Journal of Physical Therapy Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-physical-therapy-science"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hpb",
   "id": "academic-writing/citation-style/hpb",
   "isDocsHomePage": false,
-  "title": "hpb",
-  "description": "---",
+  "title": "HPB",
+  "description": "When you 're tasked by using \"HPB\" (Int. J. Mach. Learn. & Cyber.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hpb.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hpb",
   "permalink": "/support/docs/academic-writing/citation-style/hpb",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hpb.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "housing-studies",
+    "title": "Housing Studies",
     "permalink": "/support/docs/academic-writing/citation-style/housing-studies"
   },
   "next": {
-    "title": "human-brain-mapping",
+    "title": "Human Brain Mapping",
     "permalink": "/support/docs/academic-writing/citation-style/human-brain-mapping"
   }
 }

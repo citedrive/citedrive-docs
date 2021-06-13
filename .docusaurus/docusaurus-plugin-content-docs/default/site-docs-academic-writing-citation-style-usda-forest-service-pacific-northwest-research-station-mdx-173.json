@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station",
   "id": "academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station",
   "isDocsHomePage": false,
-  "title": "usda-forest-service--pacific-northwest-research-station",
-  "description": "---",
+  "title": "USDA Forest Service - Pacific Northwest Research Station",
+  "description": "When you 're tasked by using \"USDA Forest Service - Pacific Northwest Research Station\" (USFS PNWRS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station",
   "permalink": "/support/docs/academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/usda-forest-service--pacific-northwest-research-station.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "us-geological-survey",
+    "title": "U.S. Geological Survey",
     "permalink": "/support/docs/academic-writing/citation-style/us-geological-survey"
   },
   "next": {
-    "title": "user-modeling-and-useradapted-interaction",
+    "title": "User Modeling and User-Adapted Interaction",
     "permalink": "/support/docs/academic-writing/citation-style/user-modeling-and-useradapted-interaction"
   }
 }

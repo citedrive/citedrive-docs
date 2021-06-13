@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/neuropsychopharmacology",
   "id": "academic-writing/citation-style/neuropsychopharmacology",
   "isDocsHomePage": false,
-  "title": "neuropsychopharmacology",
-  "description": "---",
+  "title": "Neuropsychopharmacology",
+  "description": "When you 're tasked by using \"Neuropsychopharmacology\" (NPP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/neuropsychopharmacology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/neuropsychopharmacology",
   "permalink": "/support/docs/academic-writing/citation-style/neuropsychopharmacology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuropsychopharmacology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "neurology",
+    "title": "Neurology",
     "permalink": "/support/docs/academic-writing/citation-style/neurology"
   },
   "next": {
-    "title": "neurorehabilitation-and-neural-repair",
+    "title": "Neurorehabilitation and Neural Repair",
     "permalink": "/support/docs/academic-writing/citation-style/neurorehabilitation-and-neural-repair"
   }
 }

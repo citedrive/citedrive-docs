@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
   "id": "academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
   "isDocsHomePage": false,
-  "title": "guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
-  "description": "---",
+  "title": "Guide des citations, références et abréviations juridiques 6e édition (French)",
+  "description": "When you 're tasked by using \"Guide des citations, références et abréviations juridiques 6e édition (French)\" (Aust. Educ. Res.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
   "permalink": "/support/docs/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
-    "permalink": "/support/docs/academic-writing/citation-style/groupe-danthropologie-et-darcheologie-funeraire-french"
+    "title": "Grasas y Aceites",
+    "permalink": "/support/docs/academic-writing/citation-style/grasas-y-aceites"
   },
   "next": {
-    "title": "guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada",
+    "title": "Guide des références pour la rédaction juridique 7e édition (Guide Lluelles, French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/guide-des-references-pour-la-redaction-juridique-7e-edition-guide-lluelles-french--canada"
   }
 }

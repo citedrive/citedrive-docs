@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hainan-medical-university-journal-publisher",
   "id": "academic-writing/citation-style/hainan-medical-university-journal-publisher",
   "isDocsHomePage": false,
-  "title": "hainan-medical-university-journal-publisher",
-  "description": "---",
+  "title": "Hainan Medical University Journal Publisher",
+  "description": "When you 're tasked by using \"Hainan Medical University Journal Publisher\" (HMUJP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hainan-medical-university-journal-publisher.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hainan-medical-university-journal-publisher",
   "permalink": "/support/docs/academic-writing/citation-style/hainan-medical-university-journal-publisher",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hainan-medical-university-journal-publisher.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "haemophilia",
+    "title": "Haemophilia",
     "permalink": "/support/docs/academic-writing/citation-style/haemophilia"
   },
   "next": {
-    "title": "hamburg-school-of-food-science-diploma-german",
+    "title": "Hamburg School of Food Science (diploma, German)",
     "permalink": "/support/docs/academic-writing/citation-style/hamburg-school-of-food-science-diploma-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-plant-protection-research",
   "id": "academic-writing/citation-style/journal-of-plant-protection-research",
   "isDocsHomePage": false,
-  "title": "journal-of-plant-protection-research",
-  "description": "---",
+  "title": "Journal of Plant Protection Research",
+  "description": "When you 're tasked by using \"Journal of Plant Protection Research\" (JPPR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-plant-protection-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-plant-protection-research",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-plant-protection-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-plant-protection-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-plant-nutrition-and-soil-science",
+    "title": "Journal of Plant Nutrition and Soil Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science"
   },
   "next": {
-    "title": "journal-of-political-philosophy",
+    "title": "Journal of Political Philosophy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-political-philosophy"
   }
 }

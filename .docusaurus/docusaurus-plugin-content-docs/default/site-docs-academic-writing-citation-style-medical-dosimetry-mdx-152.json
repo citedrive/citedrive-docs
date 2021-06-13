@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medical-dosimetry",
   "id": "academic-writing/citation-style/medical-dosimetry",
   "isDocsHomePage": false,
-  "title": "medical-dosimetry",
-  "description": "---",
+  "title": "Medical Dosimetry",
+  "description": "When you 're tasked by using \"Medical Dosimetry\" (MDO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medical-dosimetry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medical-dosimetry",
   "permalink": "/support/docs/academic-writing/citation-style/medical-dosimetry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medical-dosimetry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mediaeval-studies",
+    "title": "Mediaeval Studies",
     "permalink": "/support/docs/academic-writing/citation-style/mediaeval-studies"
   },
   "next": {
-    "title": "medical-history",
+    "title": "Medical History",
     "permalink": "/support/docs/academic-writing/citation-style/medical-history"
   }
 }

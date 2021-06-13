@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/henoch",
   "id": "academic-writing/citation-style/henoch",
   "isDocsHomePage": false,
-  "title": "henoch",
-  "description": "---",
+  "title": "Henoch",
+  "description": "When you 're tasked by using \"Henoch\" (TUD BWL/Logistik (author-date)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/henoch.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/henoch",
   "permalink": "/support/docs/academic-writing/citation-style/henoch",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/henoch.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hematologyoncology-clinics-of-north-america",
+    "title": "Hematology/Oncology Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america"
   },
   "next": {
-    "title": "hepatology",
+    "title": "Hepatology",
     "permalink": "/support/docs/academic-writing/citation-style/hepatology"
   }
 }

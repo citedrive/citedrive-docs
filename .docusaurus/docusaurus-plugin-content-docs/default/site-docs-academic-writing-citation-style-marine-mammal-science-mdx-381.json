@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/marine-mammal-science",
   "id": "academic-writing/citation-style/marine-mammal-science",
   "isDocsHomePage": false,
-  "title": "marine-mammal-science",
-  "description": "---",
+  "title": "Marine Mammal Science",
+  "description": "When you 're tasked by using \"Marine Mammal Science\" (MMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/marine-mammal-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/marine-mammal-science",
   "permalink": "/support/docs/academic-writing/citation-style/marine-mammal-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/marine-mammal-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "marine-biology",
+    "title": "Marine Biology",
     "permalink": "/support/docs/academic-writing/citation-style/marine-biology"
   },
   "next": {
-    "title": "marine-ornithology",
+    "title": "Marine Ornithology",
     "permalink": "/support/docs/academic-writing/citation-style/marine-ornithology"
   }
 }

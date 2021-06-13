@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biotropica",
   "id": "academic-writing/citation-style/biotropica",
   "isDocsHomePage": false,
-  "title": "biotropica",
-  "description": "---",
+  "title": "Biotropica",
+  "description": "When you 're tasked by using \"Biotropica\" (Pharm Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biotropica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biotropica",
   "permalink": "/support/docs/academic-writing/citation-style/biotropica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biotropica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biotechnology-and-bioengineering",
+    "title": "Biotechnology and Bioengineering",
     "permalink": "/support/docs/academic-writing/citation-style/biotechnology-and-bioengineering"
   },
   "next": {
-    "title": "bitonline-note-german",
+    "title": "b.i.t.online (note, German)",
     "permalink": "/support/docs/academic-writing/citation-style/bitonline-note-german"
   }
 }

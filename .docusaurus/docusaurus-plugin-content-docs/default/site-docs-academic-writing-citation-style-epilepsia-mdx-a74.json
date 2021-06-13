@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/epilepsia",
   "id": "academic-writing/citation-style/epilepsia",
   "isDocsHomePage": false,
-  "title": "epilepsia",
-  "description": "---",
+  "title": "Epilepsia",
+  "description": "When you 're tasked by using \"Epilepsia\" (Arch. Math. Logic) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/epilepsia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/epilepsia",
   "permalink": "/support/docs/academic-writing/citation-style/epilepsia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/epilepsia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "epidemiology-and-infection",
+    "title": "Epidemiology & Infection",
     "permalink": "/support/docs/academic-writing/citation-style/epidemiology-and-infection"
   },
   "next": {
-    "title": "equine-veterinary-education",
+    "title": "Equine Veterinary Education",
     "permalink": "/support/docs/academic-writing/citation-style/equine-veterinary-education"
   }
 }

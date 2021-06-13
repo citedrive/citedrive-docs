@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition",
   "id": "academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition",
   "isDocsHomePage": false,
-  "title": "university-of-york--modern-humanities-research-association-3rd-edition",
-  "description": "---",
+  "title": "University of York - Modern Humanities Research Association 3rd edition",
+  "description": "When you 're tasked by using \"University of York - Modern Humanities Research Association 3rd edition\" (UoY MHRA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--modern-humanities-research-association-3rd-edition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-york--ieee",
+    "title": "University of York - IEEE",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--ieee"
   },
   "next": {
-    "title": "university-of-york--modern-language-association-8th-edition",
+    "title": "University of York - Modern Language Association 8th edition",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--modern-language-association-8th-edition"
   }
 }

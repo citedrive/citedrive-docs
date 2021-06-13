@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biens-symboliques--symbolic-goods",
   "id": "academic-writing/citation-style/biens-symboliques--symbolic-goods",
   "isDocsHomePage": false,
-  "title": "biens-symboliques--symbolic-goods",
-  "description": "---",
+  "title": "Biens symboliques / Symbolic Goods",
+  "description": "When you 're tasked by using \"Biens symboliques / Symbolic Goods\" (BS/SG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biens-symboliques--symbolic-goods.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biens-symboliques--symbolic-goods",
   "permalink": "/support/docs/academic-writing/citation-style/biens-symboliques--symbolic-goods",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biens-symboliques--symbolic-goods.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bibtex-generic-citation-style",
+    "title": "BibTeX generic citation style",
     "permalink": "/support/docs/academic-writing/citation-style/bibtex-generic-citation-style"
   },
   "next": {
-    "title": "bioarchaeology-international",
+    "title": "Bioarchaeology International",
     "permalink": "/support/docs/academic-writing/citation-style/bioarchaeology-international"
   }
 }

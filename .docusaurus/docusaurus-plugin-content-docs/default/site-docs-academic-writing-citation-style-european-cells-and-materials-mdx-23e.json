@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/european-cells-and-materials",
   "id": "academic-writing/citation-style/european-cells-and-materials",
   "isDocsHomePage": false,
-  "title": "european-cells-and-materials",
-  "description": "---",
+  "title": "European Cells & Materials",
+  "description": "When you 're tasked by using \"European Cells & Materials\" (eCM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/european-cells-and-materials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/european-cells-and-materials",
   "permalink": "/support/docs/academic-writing/citation-style/european-cells-and-materials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-cells-and-materials.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "european-archaeology--harvard",
+    "title": "European Archaeology - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/european-archaeology--harvard"
   },
   "next": {
-    "title": "european-journal-for-philosophy-of-religion",
+    "title": "European Journal for Philosophy of Religion",
     "permalink": "/support/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion"
   }
 }

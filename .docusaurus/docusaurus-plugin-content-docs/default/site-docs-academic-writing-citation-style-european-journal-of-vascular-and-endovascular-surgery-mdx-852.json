@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery",
   "id": "academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery",
   "isDocsHomePage": false,
-  "title": "european-journal-of-vascular-and-endovascular-surgery",
-  "description": "---",
+  "title": "European Journal of Vascular and Endovascular Surgery",
+  "description": "When you 're tasked by using \"European Journal of Vascular and Endovascular Surgery\" (EJVS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery",
   "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-vascular-and-endovascular-surgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "european-journal-of-ultrasound-ultraschall-in-der-medizin",
+    "title": "European Journal of Ultrasound (Ultraschall in der Medizin)",
     "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-ultrasound-ultraschall-in-der-medizin"
   },
   "next": {
-    "title": "european-respiratory-journal",
+    "title": "European Respiratory Journal",
     "permalink": "/support/docs/academic-writing/citation-style/european-respiratory-journal"
   }
 }

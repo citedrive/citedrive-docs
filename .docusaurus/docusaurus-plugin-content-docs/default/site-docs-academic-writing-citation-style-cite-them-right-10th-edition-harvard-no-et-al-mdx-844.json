@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al",
   "id": "academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al",
   "isDocsHomePage": false,
-  "title": "cite-them-right-10th-edition--harvard-no-et-al",
-  "description": "---",
+  "title": "Cite Them Right 10th edition - Harvard (no \"et al.\")",
+  "description": "When you 're tasked by using \"Cite Them Right 10th edition - Harvard (no \"et al.\")\" (Acta Med Peru) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al",
   "permalink": "/support/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "citation-compass-kildekompasset--apa-note",
+    "title": "Citation Compass (Kildekompasset) - APA (note)",
     "permalink": "/support/docs/academic-writing/citation-style/citation-compass-kildekompasset--apa-note"
   },
   "next": {
-    "title": "cite-them-right-10th-edition--harvard",
+    "title": "Cite Them Right 10th edition - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard"
   }
 }

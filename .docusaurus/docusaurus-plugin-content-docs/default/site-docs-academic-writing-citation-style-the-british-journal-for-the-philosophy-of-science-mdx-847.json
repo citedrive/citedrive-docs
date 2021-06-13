@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
   "id": "academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
   "isDocsHomePage": false,
-  "title": "the-british-journal-for-the-philosophy-of-science",
-  "description": "---",
+  "title": "The British Journal for the Philosophy of Science",
+  "description": "When you 're tasked by using \"The British Journal for the Philosophy of Science\" (BJPS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
   "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-british-journal-for-the-philosophy-of-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-botanical-review",
+    "title": "The Botanical Review",
     "permalink": "/support/docs/academic-writing/citation-style/the-botanical-review"
   },
   "next": {
-    "title": "the-british-journal-of-cardiology",
+    "title": "The British Journal of Cardiology",
     "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-cardiology"
   }
 }

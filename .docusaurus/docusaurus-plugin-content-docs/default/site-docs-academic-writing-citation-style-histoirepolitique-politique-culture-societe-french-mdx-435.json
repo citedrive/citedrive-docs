@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/histoirepolitique-politique-culture-societe-french",
   "id": "academic-writing/citation-style/histoirepolitique-politique-culture-societe-french",
   "isDocsHomePage": false,
-  "title": "histoirepolitique-politique-culture-societe-french",
-  "description": "---",
+  "title": "Histoire@Politique. Politique, culture, société (French)",
+  "description": "When you 're tasked by using \"Histoire@Politique. Politique, culture, société (French)\" (RFG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/histoirepolitique-politique-culture-societe-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/histoirepolitique-politique-culture-societe-french",
   "permalink": "/support/docs/academic-writing/citation-style/histoirepolitique-politique-culture-societe-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/histoirepolitique-politique-culture-societe-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "histoire-and-mesure-french",
+    "title": "Histoire & Mesure (French)",
     "permalink": "/support/docs/academic-writing/citation-style/histoire-and-mesure-french"
   },
   "next": {
-    "title": "histopathology",
+    "title": "Histopathology",
     "permalink": "/support/docs/academic-writing/citation-style/histopathology"
   }
 }

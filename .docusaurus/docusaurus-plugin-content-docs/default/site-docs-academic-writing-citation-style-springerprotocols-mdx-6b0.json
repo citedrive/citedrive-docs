@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springerprotocols",
   "id": "academic-writing/citation-style/springerprotocols",
   "isDocsHomePage": false,
-  "title": "springerprotocols",
-  "description": "---",
+  "title": "SpringerProtocols",
+  "description": "When you 're tasked by using \"SpringerProtocols\" (IS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springerprotocols.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springerprotocols",
   "permalink": "/support/docs/academic-writing/citation-style/springerprotocols",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springerprotocols.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer-vs-authordate-german",
+    "title": "Springer VS (author-date, German)",
     "permalink": "/support/docs/academic-writing/citation-style/springer-vs-authordate-german"
   },
   "next": {
-    "title": "st-patricks-college",
+    "title": "St Patrick''s College",
     "permalink": "/support/docs/academic-writing/citation-style/st-patricks-college"
   }
 }

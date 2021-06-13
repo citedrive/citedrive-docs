@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-jewish-studies",
   "id": "academic-writing/citation-style/journal-of-jewish-studies",
   "isDocsHomePage": false,
-  "title": "journal-of-jewish-studies",
-  "description": "---",
+  "title": "Journal of Jewish Studies",
+  "description": "When you 're tasked by using \"Journal of Jewish Studies\" (JJS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-jewish-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-jewish-studies",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-jewish-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-jewish-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-investigative-dermatology",
+    "title": "Journal of Investigative Dermatology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-investigative-dermatology"
   },
   "next": {
-    "title": "journal-of-korean-neurosurgical-society",
+    "title": "Journal of Korean Neurosurgical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-korean-neurosurgical-society"
   }
 }

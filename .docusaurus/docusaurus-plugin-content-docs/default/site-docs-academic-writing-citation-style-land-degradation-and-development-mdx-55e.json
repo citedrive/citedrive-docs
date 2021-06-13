@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/land-degradation-and-development",
   "id": "academic-writing/citation-style/land-degradation-and-development",
   "isDocsHomePage": false,
-  "title": "land-degradation-and-development",
-  "description": "---",
+  "title": "Land Degradation & Development",
+  "description": "When you 're tasked by using \"Land Degradation & Development\" (LDD) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/land-degradation-and-development.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/land-degradation-and-development",
   "permalink": "/support/docs/academic-writing/citation-style/land-degradation-and-development",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/land-degradation-and-development.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "lancaster-university--harvard",
+    "title": "Lancaster University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/lancaster-university--harvard"
   },
   "next": {
-    "title": "landes-bioscience-journals",
+    "title": "Landes Bioscience Journals",
     "permalink": "/support/docs/academic-writing/citation-style/landes-bioscience-journals"
   }
 }

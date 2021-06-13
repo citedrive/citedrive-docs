@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-biomedical-materials-research-part-a",
   "id": "academic-writing/citation-style/journal-of-biomedical-materials-research-part-a",
   "isDocsHomePage": false,
-  "title": "journal-of-biomedical-materials-research-part-a",
-  "description": "---",
+  "title": "Journal of Biomedical Materials Research Part A",
+  "description": "When you 're tasked by using \"Journal of Biomedical Materials Research Part A\" (J Biomed Mater Res A) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-biomedical-materials-research-part-a.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-biomedical-materials-research-part-a",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-biomedical-materials-research-part-a",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-biomedical-materials-research-part-a.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-biological-regulators-and-homeostatic-agents",
+    "title": "Journal of Biological Regulators & Homeostatic Agents",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-biological-regulators-and-homeostatic-agents"
   },
   "next": {
-    "title": "journal-of-biosciences",
+    "title": "Journal of Biosciences",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-biosciences"
   }
 }

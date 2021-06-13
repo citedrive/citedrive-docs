@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/copeia",
   "id": "academic-writing/citation-style/copeia",
   "isDocsHomePage": false,
-  "title": "copeia",
-  "description": "---",
+  "title": "Copeia",
+  "description": "When you 're tasked by using \"Copeia\" (J Atmos Chem) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/copeia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/copeia",
   "permalink": "/support/docs/academic-writing/citation-style/copeia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/copeia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+    "title": "Contributions to the Archaeology of Egypt, Nubia and the Levant",
     "permalink": "/support/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant"
   },
   "next": {
-    "title": "copernicus-publications",
+    "title": "Copernicus Publications",
     "permalink": "/support/docs/academic-writing/citation-style/copernicus-publications"
   }
 }

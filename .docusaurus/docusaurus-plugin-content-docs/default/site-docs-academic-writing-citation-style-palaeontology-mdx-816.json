@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/palaeontology",
   "id": "academic-writing/citation-style/palaeontology",
   "isDocsHomePage": false,
-  "title": "palaeontology",
-  "description": "---",
+  "title": "Palaeontology",
+  "description": "When you 're tasked by using \"Palaeontology\" (Pediatr Drugs) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/palaeontology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/palaeontology",
   "permalink": "/support/docs/academic-writing/citation-style/palaeontology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/palaeontology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "palaeontologia-electronica",
+    "title": "Palaeontologia Electronica",
     "permalink": "/support/docs/academic-writing/citation-style/palaeontologia-electronica"
   },
   "next": {
-    "title": "palaeovertebrata",
+    "title": "Palaeovertebrata",
     "permalink": "/support/docs/academic-writing/citation-style/palaeovertebrata"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
   "id": "academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
   "isDocsHomePage": false,
-  "title": "biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
-  "description": "---",
+  "title": "Biuletyn Polskiego Towarzystwa Językoznawczego (Polish)",
+  "description": "When you 're tasked by using \"Biuletyn Polskiego Towarzystwa Językoznawczego (Polish)\" (Biuletyn PTJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
   "permalink": "/support/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biuletyn-polskiego-towarzystwa-jezykoznawczego-polish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bitonline-note-german",
+    "title": "b.i.t.online (note, German)",
     "permalink": "/support/docs/academic-writing/citation-style/bitonline-note-german"
   },
   "next": {
-    "title": "blood",
+    "title": "Blood",
     "permalink": "/support/docs/academic-writing/citation-style/blood"
   }
 }

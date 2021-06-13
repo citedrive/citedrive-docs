@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-design-journal",
   "id": "academic-writing/citation-style/the-design-journal",
   "isDocsHomePage": false,
-  "title": "the-design-journal",
-  "description": "---",
+  "title": "The Design Journal",
+  "description": "When you 're tasked by using \"The Design Journal\" (Child Ind Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-design-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-design-journal",
   "permalink": "/support/docs/academic-writing/citation-style/the-design-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-design-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-company-of-biologists",
+    "title": "The Company of Biologists",
     "permalink": "/support/docs/academic-writing/citation-style/the-company-of-biologists"
   },
   "next": {
-    "title": "the-economic-history-review",
+    "title": "The Economic History Review",
     "permalink": "/support/docs/academic-writing/citation-style/the-economic-history-review"
   }
 }

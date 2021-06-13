@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german",
   "id": "academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german",
   "isDocsHomePage": false,
-  "title": "suburban--zeitschrift-fur-kritische-stadtforschung-german",
-  "description": "---",
+  "title": "sub\\urban - Zeitschrift für kritische Stadtforschung (German)",
+  "description": "When you 're tasked by using \"sub\\urban - Zeitschrift für kritische Stadtforschung (German)\" (AGE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german",
   "permalink": "/support/docs/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "style-manual--australian-government-note",
+    "title": "Style Manual - Australian Government (note)",
     "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-note"
   },
   "next": {
-    "title": "sunway-college-johor-bahru--harvard",
+    "title": "Sunway College Johor Bahru - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard"
   }
 }

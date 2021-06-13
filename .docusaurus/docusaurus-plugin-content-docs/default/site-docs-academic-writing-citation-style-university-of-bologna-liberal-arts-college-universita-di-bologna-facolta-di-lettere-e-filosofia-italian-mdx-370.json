@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
   "id": "academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
   "isDocsHomePage": false,
-  "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
-  "description": "---",
+  "title": "University of Bologna - Liberal Arts College (Università di Bologna - Facoltà di Lettere e Filosofia) (Italian)",
+  "description": "When you 're tasked by using \"University of Bologna - Liberal Arts College (Università di Bologna - Facoltà di Lettere e Filosofia) (Italian)\" (CR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-birmingham--harvard",
+    "title": "University of Birmingham - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-birmingham--harvard"
   },
   "next": {
-    "title": "university-of-bradford--harvard",
+    "title": "University of Bradford - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-bradford--harvard"
   }
 }

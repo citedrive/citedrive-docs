@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/onderstepoort-journal-of-veterinary-research",
   "id": "academic-writing/citation-style/onderstepoort-journal-of-veterinary-research",
   "isDocsHomePage": false,
-  "title": "onderstepoort-journal-of-veterinary-research",
-  "description": "---",
+  "title": "Onderstepoort Journal of Veterinary Research",
+  "description": "When you 're tasked by using \"Onderstepoort Journal of Veterinary Research\" (JIEC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/onderstepoort-journal-of-veterinary-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/onderstepoort-journal-of-veterinary-research",
   "permalink": "/support/docs/academic-writing/citation-style/onderstepoort-journal-of-veterinary-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/onderstepoort-journal-of-veterinary-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "oncotarget",
+    "title": "Oncotarget",
     "permalink": "/support/docs/academic-writing/citation-style/oncotarget"
   },
   "next": {
-    "title": "open-window--harvard",
+    "title": "Open Window - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/open-window--harvard"
   }
 }

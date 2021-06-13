@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
   "id": "academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
   "isDocsHomePage": false,
-  "title": "institut-teknologi-bandung--sekolah-pascasarjana",
-  "description": "---",
+  "title": "Institut Teknologi Bandung - Sekolah Pascasarjana",
+  "description": "When you 're tasked by using \"Institut Teknologi Bandung - Sekolah Pascasarjana\" (ITB - SPs) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
   "permalink": "/support/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-teknologi-bandung--sekolah-pascasarjana.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian",
+    "title": "Institut Pertanian Bogor: Pedoman Penulisan Karya Ilmiah Edisi ke-3 (Indonesian)",
     "permalink": "/support/docs/academic-writing/citation-style/institut-pertanian-bogor-pedoman-penulisan-karya-ilmiah-edisi-ke3-indonesian"
   },
   "next": {
-    "title": "institute-for-operations-research-and-the-management-sciences",
+    "title": "Institute for Operations Research and the Management Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/institute-for-operations-research-and-the-management-sciences"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/historical-social-research",
   "id": "academic-writing/citation-style/historical-social-research",
   "isDocsHomePage": false,
-  "title": "historical-social-research",
-  "description": "---",
+  "title": "Historical Social Research",
+  "description": "When you 're tasked by using \"Historical Social Research\" (HSR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/historical-social-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/historical-social-research",
   "permalink": "/support/docs/academic-writing/citation-style/historical-social-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/historical-social-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "historical-materialism",
+    "title": "Historical Materialism",
     "permalink": "/support/docs/academic-writing/citation-style/historical-materialism"
   },
   "next": {
-    "title": "history-and-theory",
+    "title": "History and Theory",
     "permalink": "/support/docs/academic-writing/citation-style/history-and-theory"
   }
 }

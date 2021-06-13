@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690",
   "id": "academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690",
   "isDocsHomePage": false,
-  "title": "din-15052-numeric-german--standard-superseded-by-iso690",
-  "description": "---",
+  "title": "DIN 1505-2 (numeric, German) - standard superseded by ISO-690",
+  "description": "When you 're tasked by using \"DIN 1505-2 (numeric, German) - standard superseded by ISO-690\" (Breast Cancer Res Treat) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690",
   "permalink": "/support/docs/academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/din-15052-numeric-german--standard-superseded-by-iso690.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "din-15052-authordate-german--standard-superseded-by-iso690",
+    "title": "DIN 1505-2 (author-date, German) - standard superseded by ISO-690",
     "permalink": "/support/docs/academic-writing/citation-style/din-15052-authordate-german--standard-superseded-by-iso690"
   },
   "next": {
-    "title": "din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690",
+    "title": "DIN 1505-2 (numeric, sorted alphabetically, German) - standard superseded by ISO-690",
     "permalink": "/support/docs/academic-writing/citation-style/din-15052-numeric-sorted-alphabetically-german--standard-superseded-by-iso690"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medicina-clinica-spanish",
   "id": "academic-writing/citation-style/medicina-clinica-spanish",
   "isDocsHomePage": false,
-  "title": "medicina-clinica-spanish",
-  "description": "---",
+  "title": "Medicina Clínica (Spanish)",
+  "description": "When you 're tasked by using \"Medicina Clínica (Spanish)\" (Swiss J Palaeontol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medicina-clinica-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medicina-clinica-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/medicina-clinica-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medicina-clinica-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "medical-history",
+    "title": "Medical History",
     "permalink": "/support/docs/academic-writing/citation-style/medical-history"
   },
   "next": {
-    "title": "medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
+    "title": "Medicina delle Dipendenze - Italian Journal of the Addictions (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian"
   }
 }

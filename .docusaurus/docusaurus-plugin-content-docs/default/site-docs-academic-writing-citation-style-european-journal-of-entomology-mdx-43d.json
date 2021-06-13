@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/european-journal-of-entomology",
   "id": "academic-writing/citation-style/european-journal-of-entomology",
   "isDocsHomePage": false,
-  "title": "european-journal-of-entomology",
-  "description": "---",
+  "title": "European Journal of Entomology",
+  "description": "When you 're tasked by using \"European Journal of Entomology\" (EJE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/european-journal-of-entomology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/european-journal-of-entomology",
   "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-entomology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-of-entomology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "european-journal-of-endocrinology",
+    "title": "European Journal of Endocrinology",
     "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-endocrinology"
   },
   "next": {
-    "title": "european-journal-of-human-genetics",
+    "title": "European Journal of Human Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-human-genetics"
   }
 }

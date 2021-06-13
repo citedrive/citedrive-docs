@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-security",
   "id": "academic-writing/citation-style/international-security",
   "isDocsHomePage": false,
-  "title": "international-security",
-  "description": "---",
+  "title": "International Security",
+  "description": "When you 're tasked by using \"International Security\" (Limnology) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-security.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-security",
   "permalink": "/support/docs/academic-writing/citation-style/international-security",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-security.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-review-of-the-red-cross",
+    "title": "International Review of the Red Cross",
     "permalink": "/support/docs/academic-writing/citation-style/international-review-of-the-red-cross"
   },
   "next": {
-    "title": "international-studies-association",
+    "title": "International Studies Association",
     "permalink": "/support/docs/academic-writing/citation-style/international-studies-association"
   }
 }

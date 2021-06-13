@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/genetics-and-molecular-biology",
   "id": "academic-writing/citation-style/genetics-and-molecular-biology",
   "isDocsHomePage": false,
-  "title": "genetics-and-molecular-biology",
-  "description": "---",
+  "title": "Genetics and Molecular Biology",
+  "description": "When you 're tasked by using \"Genetics and Molecular Biology\" (PLOS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/genetics-and-molecular-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/genetics-and-molecular-biology",
   "permalink": "/support/docs/academic-writing/citation-style/genetics-and-molecular-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genetics-and-molecular-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "geneses-sciences-sociales-et-histoire-french",
+    "title": "Genèses: Sciences sociales et histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/geneses-sciences-sociales-et-histoire-french"
   },
   "next": {
-    "title": "genetics",
+    "title": "Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/genetics"
   }
 }

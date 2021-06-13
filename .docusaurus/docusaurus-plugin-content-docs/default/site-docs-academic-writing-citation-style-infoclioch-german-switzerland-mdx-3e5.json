@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/infoclioch-german--switzerland",
   "id": "academic-writing/citation-style/infoclioch-german--switzerland",
   "isDocsHomePage": false,
-  "title": "infoclioch-german--switzerland",
-  "description": "---",
+  "title": "infoclio.ch (German - Switzerland)",
+  "description": "When you 're tasked by using \"infoclio.ch (German - Switzerland)\" (Asia Pacific Educ. Rev.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/infoclioch-german--switzerland.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/infoclioch-german--switzerland",
   "permalink": "/support/docs/academic-writing/citation-style/infoclioch-german--switzerland",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/infoclioch-german--switzerland.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "influenza-and-other-respiratory-viruses",
+    "title": "Influenza and Other Respiratory Viruses",
     "permalink": "/support/docs/academic-writing/citation-style/influenza-and-other-respiratory-viruses"
   },
   "next": {
-    "title": "infoclioch-petites-majuscules-french",
+    "title": "infoclio.ch (petites majuscules, French)",
     "permalink": "/support/docs/academic-writing/citation-style/infoclioch-petites-majuscules-french"
   }
 }

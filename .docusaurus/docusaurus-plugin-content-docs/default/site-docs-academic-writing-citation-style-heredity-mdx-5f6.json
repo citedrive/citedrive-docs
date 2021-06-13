@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/heredity",
   "id": "academic-writing/citation-style/heredity",
   "isDocsHomePage": false,
-  "title": "heredity",
-  "description": "---",
+  "title": "Heredity",
+  "description": "When you 're tasked by using \"Heredity\" (Curr Otorhinolaryngol Rep) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/heredity.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/heredity",
   "permalink": "/support/docs/academic-writing/citation-style/heredity",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/heredity.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hepatology",
+    "title": "Hepatology",
     "permalink": "/support/docs/academic-writing/citation-style/hepatology"
   },
   "next": {
-    "title": "herpetologica",
+    "title": "Herpetologica",
     "permalink": "/support/docs/academic-writing/citation-style/herpetologica"
   }
 }

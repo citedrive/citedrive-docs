@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/diabetes-technology-and-therapeutics",
   "id": "academic-writing/citation-style/diabetes-technology-and-therapeutics",
   "isDocsHomePage": false,
-  "title": "diabetes-technology-and-therapeutics",
-  "description": "---",
+  "title": "Diabetes Technology & Therapeutics",
+  "description": "When you 're tasked by using \"Diabetes Technology & Therapeutics\" (DTT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/diabetes-technology-and-therapeutics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/diabetes-technology-and-therapeutics",
   "permalink": "/support/docs/academic-writing/citation-style/diabetes-technology-and-therapeutics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/diabetes-technology-and-therapeutics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "developmental-neurobiology",
+    "title": "Developmental Neurobiology",
     "permalink": "/support/docs/academic-writing/citation-style/developmental-neurobiology"
   },
   "next": {
-    "title": "diabetologia",
+    "title": "Diabetologia",
     "permalink": "/support/docs/academic-writing/citation-style/diabetologia"
   }
 }

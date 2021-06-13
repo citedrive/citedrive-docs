@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-chemical-society-of-japan",
   "id": "academic-writing/citation-style/the-chemical-society-of-japan",
   "isDocsHomePage": false,
-  "title": "the-chemical-society-of-japan",
-  "description": "---",
+  "title": "The Chemical Society of Japan",
+  "description": "When you 're tasked by using \"The Chemical Society of Japan\" (Child Youth Care Forum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-chemical-society-of-japan.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-chemical-society-of-japan",
   "permalink": "/support/docs/academic-writing/citation-style/the-chemical-society-of-japan",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-chemical-society-of-japan.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-cancer-journal",
+    "title": "The Cancer Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-cancer-journal"
   },
   "next": {
-    "title": "the-company-of-biologists",
+    "title": "The Company of Biologists",
     "permalink": "/support/docs/academic-writing/citation-style/the-company-of-biologists"
   }
 }

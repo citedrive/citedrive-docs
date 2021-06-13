@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hydrological-sciences-journal",
   "id": "academic-writing/citation-style/hydrological-sciences-journal",
   "isDocsHomePage": false,
-  "title": "hydrological-sciences-journal",
-  "description": "---",
+  "title": "Hydrological Sciences Journal",
+  "description": "When you 're tasked by using \"Hydrological Sciences Journal\" (Environ. Sci. Technol. Lett.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hydrological-sciences-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hydrological-sciences-journal",
   "permalink": "/support/docs/academic-writing/citation-style/hydrological-sciences-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hydrological-sciences-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hydrological-processes",
+    "title": "Hydrological Processes",
     "permalink": "/support/docs/academic-writing/citation-style/hydrological-processes"
   },
   "next": {
-    "title": "hypertension-research",
+    "title": "Hypertension Research",
     "permalink": "/support/docs/academic-writing/citation-style/hypertension-research"
   }
 }

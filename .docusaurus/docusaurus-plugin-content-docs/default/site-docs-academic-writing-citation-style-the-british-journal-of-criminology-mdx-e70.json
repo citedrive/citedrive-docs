@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-british-journal-of-criminology",
   "id": "academic-writing/citation-style/the-british-journal-of-criminology",
   "isDocsHomePage": false,
-  "title": "the-british-journal-of-criminology",
-  "description": "---",
+  "title": "The British Journal of Criminology",
+  "description": "When you 're tasked by using \"The British Journal of Criminology\" (BJC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-british-journal-of-criminology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-british-journal-of-criminology",
   "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-criminology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-british-journal-of-criminology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-british-journal-of-cardiology",
+    "title": "The British Journal of Cardiology",
     "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-cardiology"
   },
   "next": {
-    "title": "the-british-journal-of-psychiatry",
+    "title": "The British Journal of Psychiatry",
     "permalink": "/support/docs/academic-writing/citation-style/the-british-journal-of-psychiatry"
   }
 }

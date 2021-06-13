@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/language-in-society",
   "id": "academic-writing/citation-style/language-in-society",
   "isDocsHomePage": false,
-  "title": "language-in-society",
-  "description": "---",
+  "title": "Language in Society",
+  "description": "When you 're tasked by using \"Language in Society\" (Limnology) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/language-in-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/language-in-society",
   "permalink": "/support/docs/academic-writing/citation-style/language-in-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/language-in-society.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "landes-bioscience-journals",
+    "title": "Landes Bioscience Journals",
     "permalink": "/support/docs/academic-writing/citation-style/landes-bioscience-journals"
   },
   "next": {
-    "title": "language",
+    "title": "Language",
     "permalink": "/support/docs/academic-writing/citation-style/language"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/geografie-sbornik-cgs",
   "id": "academic-writing/citation-style/geografie-sbornik-cgs",
   "isDocsHomePage": false,
-  "title": "geografie-sbornik-cgs",
-  "description": "---",
+  "title": "Geografie Sborník ČGS",
+  "description": "When you 're tasked by using \"Geografie Sborník ČGS\" (ZHAW-ZitierGuide-Müller) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/geografie-sbornik-cgs.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/geografie-sbornik-cgs",
   "permalink": "/support/docs/academic-writing/citation-style/geografie-sbornik-cgs",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geografie-sbornik-cgs.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "geografia-fisica-e-dinamica-quaternaria",
+    "title": "Geografia Fisica e Dinamica Quaternaria",
     "permalink": "/support/docs/academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria"
   },
   "next": {
-    "title": "geographie-et-cultures-french",
+    "title": "Géographie et cultures (French)",
     "permalink": "/support/docs/academic-writing/citation-style/geographie-et-cultures-french"
   }
 }

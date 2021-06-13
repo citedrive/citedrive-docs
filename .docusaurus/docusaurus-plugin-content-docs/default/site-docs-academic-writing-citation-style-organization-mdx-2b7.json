@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/organization",
   "id": "academic-writing/citation-style/organization",
   "isDocsHomePage": false,
-  "title": "organization",
-  "description": "---",
+  "title": "Organization",
+  "description": "When you 're tasked by using \"Organization\" (Swiss J Geosci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/organization.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/organization",
   "permalink": "/support/docs/academic-writing/citation-style/organization",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/organization.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "organised-sound",
+    "title": "Organised Sound",
     "permalink": "/support/docs/academic-writing/citation-style/organised-sound"
   },
   "next": {
-    "title": "organon",
+    "title": "Organon",
     "permalink": "/support/docs/academic-writing/citation-style/organon"
   }
 }

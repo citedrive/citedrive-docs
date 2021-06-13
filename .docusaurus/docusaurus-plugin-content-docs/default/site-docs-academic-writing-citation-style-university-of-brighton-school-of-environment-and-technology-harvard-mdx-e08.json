@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard",
   "id": "academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-brighton-school-of-environment-and-technology--harvard",
-  "description": "---",
+  "title": "University of Brighton School of Environment & Technology - Harvard",
+  "description": "When you 're tasked by using \"University of Brighton School of Environment & Technology - Harvard\" (J Glob Optim) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-bradford--harvard",
+    "title": "University of Bradford - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-bradford--harvard"
   },
   "next": {
-    "title": "university-of-cambridge--faculty-of-history",
+    "title": "University of Cambridge - Faculty of History",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-cambridge--faculty-of-history"
   }
 }

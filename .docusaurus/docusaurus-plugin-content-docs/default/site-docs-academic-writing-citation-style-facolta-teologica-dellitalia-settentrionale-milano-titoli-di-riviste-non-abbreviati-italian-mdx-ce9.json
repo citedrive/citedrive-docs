@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
   "id": "academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
   "isDocsHomePage": false,
-  "title": "facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
-  "description": "---",
+  "title": "Facoltà Teologica dell''Italia Settentrionale - Milano (titoli di riviste non abbreviati, Italian)",
+  "description": "When you 're tasked by using \"Facoltà Teologica dell''Italia Settentrionale - Milano (titoli di riviste non abbreviati, Italian)\" (FTIS-it) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
   "permalink": "/support/docs/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "facial-plastic-surgery-clinics-of-north-america",
+    "title": "Facial Plastic Surgery Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/facial-plastic-surgery-clinics-of-north-america"
   },
   "next": {
-    "title": "falmouth-university--harvard",
+    "title": "Falmouth University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/falmouth-university--harvard"
   }
 }

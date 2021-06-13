@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie",
   "id": "academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie",
   "isDocsHomePage": false,
-  "title": "zeitschrift-fur-theologie-und-philosophie",
-  "description": "---",
+  "title": "Zeitschrift für Theologie und Philosophie",
+  "description": "When you 're tasked by using \"Zeitschrift für Theologie und Philosophie\" (ZTP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie",
   "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-theologie-und-philosophie.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zeitschrift-fur-theologie-und-kirche-german",
+    "title": "Zeitschrift für Theologie und Kirche (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-theologie-und-kirche-german"
   },
   "next": {
-    "title": "zeitschrift-fur-zahnarztliche-implantologie-german",
+    "title": "Zeitschrift für Zahnärztliche Implantologie (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-zahnarztliche-implantologie-german"
   }
 }

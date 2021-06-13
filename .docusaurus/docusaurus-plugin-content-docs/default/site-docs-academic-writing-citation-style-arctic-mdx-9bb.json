@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/arctic",
   "id": "academic-writing/citation-style/arctic",
   "isDocsHomePage": false,
-  "title": "arctic",
-  "description": "---",
+  "title": "Arctic",
+  "description": "When you 're tasked by using \"Arctic\" (Ethnobiol Conserv) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/arctic.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/arctic",
   "permalink": "/support/docs/academic-writing/citation-style/arctic",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arctic.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "arctic-antarctic-and-alpine-research",
+    "title": "Arctic, Antarctic, and Alpine Research",
     "permalink": "/support/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research"
   },
   "next": {
-    "title": "arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
+    "title": "Arhiv za higijenu rada i toksikologiju (Archives of Industrial Hygiene and Toxicology)",
     "permalink": "/support/docs/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology"
   }
 }

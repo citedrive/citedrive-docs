@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada",
   "id": "academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada",
   "isDocsHomePage": false,
-  "title": "ets--ecole-de-technologie-superieure-french--canada",
-  "description": "---",
+  "title": "ÉTS - École de technologie supérieure (French - Canada)",
+  "description": "When you 're tasked by using \"ÉTS - École de technologie supérieure (French - Canada)\" (ÉTS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ethnomusicology",
+    "title": "Ethnomusicology",
     "permalink": "/support/docs/academic-writing/citation-style/ethnomusicology"
   },
   "next": {
-    "title": "eurasian-journal-of-medical-investigation",
+    "title": "Eurasian Journal of Medical Investigation",
     "permalink": "/support/docs/academic-writing/citation-style/eurasian-journal-of-medical-investigation"
   }
 }

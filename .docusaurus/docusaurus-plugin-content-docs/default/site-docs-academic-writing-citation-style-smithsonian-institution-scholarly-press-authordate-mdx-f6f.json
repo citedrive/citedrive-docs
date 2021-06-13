@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate",
   "id": "academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate",
   "isDocsHomePage": false,
-  "title": "smithsonian-institution-scholarly-press-authordate",
-  "description": "---",
+  "title": "Smithsonian Institution Scholarly Press (author-date)",
+  "description": "When you 're tasked by using \"Smithsonian Institution Scholarly Press (author-date)\" (SISP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate",
   "permalink": "/support/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press-authordate.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "smithsonian-institution-scholarly-press--botany-authordate",
+    "title": "Smithsonian Institution Scholarly Press - Botany (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press--botany-authordate"
   },
   "next": {
-    "title": "smithsonian-institution-scholarly-press-note",
+    "title": "Smithsonian Institution Scholarly Press (note)",
     "permalink": "/support/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press-note"
   }
 }

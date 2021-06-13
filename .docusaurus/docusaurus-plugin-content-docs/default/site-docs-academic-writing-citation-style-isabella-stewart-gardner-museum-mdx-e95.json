@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/isabella-stewart-gardner-museum",
   "id": "academic-writing/citation-style/isabella-stewart-gardner-museum",
   "isDocsHomePage": false,
-  "title": "isabella-stewart-gardner-museum",
-  "description": "---",
+  "title": "Isabella Stewart Gardner Museum",
+  "description": "When you 're tasked by using \"Isabella Stewart Gardner Museum\" (TOSEM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/isabella-stewart-gardner-museum.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/isabella-stewart-gardner-museum",
   "permalink": "/support/docs/academic-writing/citation-style/isabella-stewart-gardner-museum",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/isabella-stewart-gardner-museum.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "irish-historical-studies",
+    "title": "Irish Historical Studies",
     "permalink": "/support/docs/academic-writing/citation-style/irish-historical-studies"
   },
   "next": {
-    "title": "isnad-atf-sistemi-1-edisyon-dipnotlu",
+    "title": "İSNAD Atıf Sistemi 1. Edisyon (dipnotlu)",
     "permalink": "/support/docs/academic-writing/citation-style/isnad-atf-sistemi-1-edisyon-dipnotlu"
   }
 }

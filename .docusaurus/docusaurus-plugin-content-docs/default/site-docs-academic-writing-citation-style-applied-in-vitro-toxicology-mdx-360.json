@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/applied-in-vitro-toxicology",
   "id": "academic-writing/citation-style/applied-in-vitro-toxicology",
   "isDocsHomePage": false,
-  "title": "applied-in-vitro-toxicology",
-  "description": "---",
+  "title": "Applied In Vitro Toxicology",
+  "description": "When you 're tasked by using \"Applied In Vitro Toxicology\" (Bull Math Biol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/applied-in-vitro-toxicology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/applied-in-vitro-toxicology",
   "permalink": "/support/docs/academic-writing/citation-style/applied-in-vitro-toxicology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/applied-in-vitro-toxicology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "applied-clay-science",
+    "title": "Applied Clay Science",
     "permalink": "/support/docs/academic-writing/citation-style/applied-clay-science"
   },
   "next": {
-    "title": "applied-spectroscopy-reviews",
+    "title": "Applied Spectroscopy Reviews",
     "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy-reviews"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/iso690-numeric-brackets-czech",
   "id": "academic-writing/citation-style/iso690-numeric-brackets-czech",
   "isDocsHomePage": false,
-  "title": "iso690-numeric-brackets-czech",
-  "description": "---",
+  "title": "ISO-690 (numeric, brackets, Czech)",
+  "description": "When you 're tasked by using \"ISO-690 (numeric, brackets, Czech)\" (MedMa) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/iso690-numeric-brackets-czech.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/iso690-numeric-brackets-czech",
   "permalink": "/support/docs/academic-writing/citation-style/iso690-numeric-brackets-czech",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-numeric-brackets-czech.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iso690-note-without-bibliography-czech",
+    "title": "ISO-690 (note, without bibliography, Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-note-without-bibliography-czech"
   },
   "next": {
-    "title": "iso690-numeric-english",
+    "title": "ISO-690 (numeric, English)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-numeric-english"
   }
 }

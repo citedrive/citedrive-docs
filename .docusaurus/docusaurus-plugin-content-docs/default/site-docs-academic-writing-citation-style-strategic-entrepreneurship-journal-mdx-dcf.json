@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/strategic-entrepreneurship-journal",
   "id": "academic-writing/citation-style/strategic-entrepreneurship-journal",
   "isDocsHomePage": false,
-  "title": "strategic-entrepreneurship-journal",
-  "description": "---",
+  "title": "Strategic Entrepreneurship Journal",
+  "description": "When you 're tasked by using \"Strategic Entrepreneurship Journal\" (IBICT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/strategic-entrepreneurship-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/strategic-entrepreneurship-journal",
   "permalink": "/support/docs/academic-writing/citation-style/strategic-entrepreneurship-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/strategic-entrepreneurship-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "strategic-design-research-journal",
+    "title": "Strategic Design Research Journal",
     "permalink": "/support/docs/academic-writing/citation-style/strategic-design-research-journal"
   },
   "next": {
-    "title": "strategic-management-journal",
+    "title": "Strategic Management Journal",
     "permalink": "/support/docs/academic-writing/citation-style/strategic-management-journal"
   }
 }

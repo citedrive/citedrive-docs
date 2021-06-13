@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revue-francaise-dadministration-publique-french",
   "id": "academic-writing/citation-style/revue-francaise-dadministration-publique-french",
   "isDocsHomePage": false,
-  "title": "revue-francaise-dadministration-publique-french",
-  "description": "---",
+  "title": "Revue française d''administration publique (French)",
+  "description": "When you 're tasked by using \"Revue française d''administration publique (French)\" (RFAP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revue-francaise-dadministration-publique-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revue-francaise-dadministration-publique-french",
   "permalink": "/support/docs/academic-writing/citation-style/revue-francaise-dadministration-publique-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-francaise-dadministration-publique-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "revue-europeenne-des-migrations-internationales",
+    "title": "Revue Européenne des Migrations Internationales",
     "permalink": "/support/docs/academic-writing/citation-style/revue-europeenne-des-migrations-internationales"
   },
   "next": {
-    "title": "revue-francaise-de-gestion-french",
+    "title": "Revue française de gestion (French)",
     "permalink": "/support/docs/academic-writing/citation-style/revue-francaise-de-gestion-french"
   }
 }

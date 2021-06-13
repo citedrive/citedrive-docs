@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nutrition-research-reviews",
   "id": "academic-writing/citation-style/nutrition-research-reviews",
   "isDocsHomePage": false,
-  "title": "nutrition-research-reviews",
-  "description": "---",
+  "title": "Nutrition Research Reviews",
+  "description": "When you 're tasked by using \"Nutrition Research Reviews\" (NRR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nutrition-research-reviews.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nutrition-research-reviews",
   "permalink": "/support/docs/academic-writing/citation-style/nutrition-research-reviews",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nutrition-research-reviews.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nucleic-acids-research",
+    "title": "Nucleic Acids Research",
     "permalink": "/support/docs/academic-writing/citation-style/nucleic-acids-research"
   },
   "next": {
-    "title": "obafemi-awolowo-university--faculty-of-technology",
+    "title": "Obafemi Awolowo University - Faculty of Technology",
     "permalink": "/support/docs/academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology"
   }
 }

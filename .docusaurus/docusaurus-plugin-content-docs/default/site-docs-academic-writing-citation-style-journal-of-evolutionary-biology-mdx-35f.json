@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-evolutionary-biology",
   "id": "academic-writing/citation-style/journal-of-evolutionary-biology",
   "isDocsHomePage": false,
-  "title": "journal-of-evolutionary-biology",
-  "description": "---",
+  "title": "Journal of Evolutionary Biology",
+  "description": "When you 're tasked by using \"Journal of Evolutionary Biology\" (JMBA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-evolutionary-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-evolutionary-biology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-evolutionary-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-evolutionary-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-evolution-and-health",
+    "title": "Journal of Evolution and Health",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-evolution-and-health"
   },
   "next": {
-    "title": "journal-of-experimental-botany",
+    "title": "Journal of Experimental Botany",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-experimental-botany"
   }
 }

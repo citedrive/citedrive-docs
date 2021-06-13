@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
   "id": "academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
   "isDocsHomePage": false,
-  "title": "clinical-pharmacology-and-therapeutics",
-  "description": "---",
+  "title": "Clinical Pharmacology & Therapeutics",
+  "description": "When you 're tasked by using \"Clinical Pharmacology & Therapeutics\" (Child Youth Care Forum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-otolaryngology",
+    "title": "Clinical Otolaryngology",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-otolaryngology"
   },
   "next": {
-    "title": "clinical-physiology-and-functional-imaging",
+    "title": "Clinical Physiology and Functional Imaging",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging"
   }
 }

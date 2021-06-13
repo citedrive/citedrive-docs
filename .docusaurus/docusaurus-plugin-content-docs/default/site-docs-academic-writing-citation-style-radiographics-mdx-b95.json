@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/radiographics",
   "id": "academic-writing/citation-style/radiographics",
   "isDocsHomePage": false,
-  "title": "radiographics",
-  "description": "---",
+  "title": "RadioGraphics",
+  "description": "When you 're tasked by using \"RadioGraphics\" (Rend. Fis. Acc. Lincei) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/radiographics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/radiographics",
   "permalink": "/support/docs/academic-writing/citation-style/radiographics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/radiographics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "radiochimica-acta",
+    "title": "Radiochimica Acta",
     "permalink": "/support/docs/academic-writing/citation-style/radiochimica-acta"
   },
   "next": {
-    "title": "radiography",
+    "title": "Radiography",
     "permalink": "/support/docs/academic-writing/citation-style/radiography"
   }
 }

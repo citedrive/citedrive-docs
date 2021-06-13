@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/raffles-bulletin-of-zoology",
   "id": "academic-writing/citation-style/raffles-bulletin-of-zoology",
   "isDocsHomePage": false,
-  "title": "raffles-bulletin-of-zoology",
-  "description": "---",
+  "title": "Raffles Bulletin of Zoology",
+  "description": "When you 're tasked by using \"Raffles Bulletin of Zoology\" (RBZ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/raffles-bulletin-of-zoology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/raffles-bulletin-of-zoology",
   "permalink": "/support/docs/academic-writing/citation-style/raffles-bulletin-of-zoology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/raffles-bulletin-of-zoology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "radiopaediaorg",
+    "title": "Radiopaedia.org",
     "permalink": "/support/docs/academic-writing/citation-style/radiopaediaorg"
   },
   "next": {
-    "title": "randd-management",
+    "title": "R&D Management",
     "permalink": "/support/docs/academic-writing/citation-style/randd-management"
   }
 }

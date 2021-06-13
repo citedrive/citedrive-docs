@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cell-structure-and-function",
   "id": "academic-writing/citation-style/cell-structure-and-function",
   "isDocsHomePage": false,
-  "title": "cell-structure-and-function",
-  "description": "---",
+  "title": "Cell Structure and Function",
+  "description": "When you 're tasked by using \"Cell Structure and Function\" (Cell Struct Funct) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cell-structure-and-function.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cell-structure-and-function",
   "permalink": "/support/docs/academic-writing/citation-style/cell-structure-and-function",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cell-structure-and-function.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cell-research",
+    "title": "Cell Research",
     "permalink": "/support/docs/academic-writing/citation-style/cell-research"
   },
   "next": {
-    "title": "cell-transplantation",
+    "title": "Cell Transplantation",
     "permalink": "/support/docs/academic-writing/citation-style/cell-transplantation"
   }
 }

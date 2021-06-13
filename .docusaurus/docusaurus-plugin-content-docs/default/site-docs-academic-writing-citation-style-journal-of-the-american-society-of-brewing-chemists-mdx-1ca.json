@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists",
   "id": "academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists",
   "isDocsHomePage": false,
-  "title": "journal-of-the-american-society-of-brewing-chemists",
-  "description": "---",
+  "title": "Journal of the American Society of Brewing Chemists",
+  "description": "When you 're tasked by using \"Journal of the American Society of Brewing Chemists\" (Journal of the ASBC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-american-heart-association",
+    "title": "Journal of the American Heart Association",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-heart-association"
   },
   "next": {
-    "title": "journal-of-the-american-society-of-nephrology",
+    "title": "Journal of the American Society of Nephrology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-nephrology"
   }
 }

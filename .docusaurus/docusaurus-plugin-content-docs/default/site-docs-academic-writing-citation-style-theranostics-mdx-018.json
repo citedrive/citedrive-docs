@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/theranostics",
   "id": "academic-writing/citation-style/theranostics",
   "isDocsHomePage": false,
-  "title": "theranostics",
-  "description": "---",
+  "title": "Theranostics",
+  "description": "When you 're tasked by using \"Theranostics\" (THNO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/theranostics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/theranostics",
   "permalink": "/support/docs/academic-writing/citation-style/theranostics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/theranostics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "theory-culture-and-society",
+    "title": "Theory, Culture & Society",
     "permalink": "/support/docs/academic-writing/citation-style/theory-culture-and-society"
   },
   "next": {
-    "title": "thiemegerman-german",
+    "title": "Thieme-German (German)",
     "permalink": "/support/docs/academic-writing/citation-style/thiemegerman-german"
   }
 }

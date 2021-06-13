@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/helvetica-chimica-acta",
   "id": "academic-writing/citation-style/helvetica-chimica-acta",
   "isDocsHomePage": false,
-  "title": "helvetica-chimica-acta",
-  "description": "---",
+  "title": "Helvetica Chimica Acta",
+  "description": "When you 're tasked by using \"Helvetica Chimica Acta\" (Elementa) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/helvetica-chimica-acta.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/helvetica-chimica-acta",
   "permalink": "/support/docs/academic-writing/citation-style/helvetica-chimica-acta",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/helvetica-chimica-acta.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "helsingin-yliopisto--teologinen-tiedekunta-finnish",
+    "title": "Helsingin yliopisto - Teologinen tiedekunta (Finnish)",
     "permalink": "/support/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish"
   },
   "next": {
-    "title": "hematologyoncology-clinics-of-north-america",
+    "title": "Hematology/Oncology Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/hematologyoncology-clinics-of-north-america"
   }
 }

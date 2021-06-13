@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-pollination-ecology",
   "id": "academic-writing/citation-style/journal-of-pollination-ecology",
   "isDocsHomePage": false,
-  "title": "journal-of-pollination-ecology",
-  "description": "---",
+  "title": "Journal of Pollination Ecology",
+  "description": "When you 're tasked by using \"Journal of Pollination Ecology\" (hsu) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-pollination-ecology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-pollination-ecology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-pollination-ecology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-pollination-ecology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-political-philosophy",
+    "title": "Journal of Political Philosophy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-political-philosophy"
   },
   "next": {
-    "title": "journal-of-polymer-science-part-a-polymer-chemistry",
+    "title": "Journal of Polymer Science Part A: Polymer Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-polymer-science-part-a-polymer-chemistry"
   }
 }

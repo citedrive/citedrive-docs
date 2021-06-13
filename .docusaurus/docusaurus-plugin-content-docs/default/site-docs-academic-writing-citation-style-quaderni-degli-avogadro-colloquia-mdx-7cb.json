@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/quaderni-degli-avogadro-colloquia",
   "id": "academic-writing/citation-style/quaderni-degli-avogadro-colloquia",
   "isDocsHomePage": false,
-  "title": "quaderni-degli-avogadro-colloquia",
-  "description": "---",
+  "title": "Quaderni degli Avogadro Colloquia",
+  "description": "When you 're tasked by using \"Quaderni degli Avogadro Colloquia\" (Trans. Mater. Res. Soc. Japan) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/quaderni-degli-avogadro-colloquia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/quaderni-degli-avogadro-colloquia",
   "permalink": "/support/docs/academic-writing/citation-style/quaderni-degli-avogadro-colloquia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/quaderni-degli-avogadro-colloquia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pure-and-applied-geophysics",
+    "title": "Pure and Applied Geophysics",
     "permalink": "/support/docs/academic-writing/citation-style/pure-and-applied-geophysics"
   },
   "next": {
-    "title": "quaderni-materialisti-italian",
+    "title": "Quaderni Materialisti (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/quaderni-materialisti-italian"
   }
 }

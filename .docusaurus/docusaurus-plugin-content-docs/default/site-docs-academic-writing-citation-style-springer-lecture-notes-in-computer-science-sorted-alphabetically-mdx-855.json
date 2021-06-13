@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
   "id": "academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
   "isDocsHomePage": false,
-  "title": "springer--lecture-notes-in-computer-science-sorted-alphabetically",
-  "description": "---",
+  "title": "Springer - Lecture Notes in Computer Science (sorted alphabetically)",
+  "description": "When you 're tasked by using \"Springer - Lecture Notes in Computer Science (sorted alphabetically)\" (Springer LNCS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
   "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--imis-series-migrationsgesellschaften",
+    "title": "Springer - IMIS Series Migrationsgesellschaften",
     "permalink": "/support/docs/academic-writing/citation-style/springer--imis-series-migrationsgesellschaften"
   },
   "next": {
-    "title": "springer--lecture-notes-in-computer-science",
+    "title": "Springer - Lecture Notes in Computer Science",
     "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science"
   }
 }

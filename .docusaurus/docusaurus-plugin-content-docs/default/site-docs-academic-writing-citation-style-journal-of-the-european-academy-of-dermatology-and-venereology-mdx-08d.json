@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology",
   "id": "academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology",
   "isDocsHomePage": false,
-  "title": "journal-of-the-european-academy-of-dermatology-and-venereology",
-  "description": "---",
+  "title": "Journal of the European Academy of Dermatology and Venereology",
+  "description": "When you 're tasked by using \"Journal of the European Academy of Dermatology and Venereology\" (JEADV) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-electrochemical-society",
+    "title": "Journal of The Electrochemical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-electrochemical-society"
   },
   "next": {
-    "title": "journal-of-the-indian-law-institute",
+    "title": "Journal of the Indian Law Institute",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-indian-law-institute"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/frontiers-of-biogeography",
   "id": "academic-writing/citation-style/frontiers-of-biogeography",
   "isDocsHomePage": false,
-  "title": "frontiers-of-biogeography",
-  "description": "---",
+  "title": "Frontiers of Biogeography",
+  "description": "When you 're tasked by using \"Frontiers of Biogeography\" (JoL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/frontiers-of-biogeography.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/frontiers-of-biogeography",
   "permalink": "/support/docs/academic-writing/citation-style/frontiers-of-biogeography",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/frontiers-of-biogeography.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "frontiers-medical-journals",
+    "title": "Frontiers medical journals",
     "permalink": "/support/docs/academic-writing/citation-style/frontiers-medical-journals"
   },
   "next": {
-    "title": "future-medicine-journals",
+    "title": "Future Medicine journals",
     "permalink": "/support/docs/academic-writing/citation-style/future-medicine-journals"
   }
 }

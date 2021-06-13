@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/iubmb-life",
   "id": "academic-writing/citation-style/iubmb-life",
   "isDocsHomePage": false,
-  "title": "iubmb-life",
-  "description": "---",
+  "title": "IUBMB Life",
+  "description": "When you 're tasked by using \"IUBMB Life\" (ULE (España) - Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/iubmb-life.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/iubmb-life",
   "permalink": "/support/docs/academic-writing/citation-style/iubmb-life",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iubmb-life.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ithaque-french--canada",
+    "title": "Ithaque (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/ithaque-french--canada"
   },
   "next": {
-    "title": "ius-ecclesiae",
+    "title": "Ius Ecclesiae",
     "permalink": "/support/docs/academic-writing/citation-style/ius-ecclesiae"
   }
 }

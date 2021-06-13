@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/southern-african-journal-of-critical-care",
   "id": "academic-writing/citation-style/southern-african-journal-of-critical-care",
   "isDocsHomePage": false,
-  "title": "southern-african-journal-of-critical-care",
-  "description": "---",
+  "title": "Southern African Journal of Critical Care",
+  "description": "When you 're tasked by using \"Southern African Journal of Critical Care\" (SAJCC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/southern-african-journal-of-critical-care.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/southern-african-journal-of-critical-care",
   "permalink": "/support/docs/academic-writing/citation-style/southern-african-journal-of-critical-care",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/southern-african-journal-of-critical-care.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "southeastern-geographer",
+    "title": "Southeastern Geographer",
     "permalink": "/support/docs/academic-writing/citation-style/southeastern-geographer"
   },
   "next": {
-    "title": "sozialwissenschaften-heilmann-german",
+    "title": "Sozialwissenschaften (Heilmann) (German)",
     "permalink": "/support/docs/academic-writing/citation-style/sozialwissenschaften-heilmann-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/folia-biologica",
   "id": "academic-writing/citation-style/folia-biologica",
   "isDocsHomePage": false,
-  "title": "folia-biologica",
-  "description": "---",
+  "title": "Folia Biologica",
+  "description": "When you 're tasked by using \"Folia Biologica\" (J Robotic Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/folia-biologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/folia-biologica",
   "permalink": "/support/docs/academic-writing/citation-style/folia-biologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/folia-biologica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "foldandr-fasti-on-line-documents-and-research",
+    "title": "FOLD&R (Fasti On Line Documents & Research)",
     "permalink": "/support/docs/academic-writing/citation-style/foldandr-fasti-on-line-documents-and-research"
   },
   "next": {
-    "title": "folia-morphologia",
+    "title": "Folia Morphologia",
     "permalink": "/support/docs/academic-writing/citation-style/folia-morphologia"
   }
 }

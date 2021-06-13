@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-clinical-neurology",
   "id": "academic-writing/citation-style/journal-of-clinical-neurology",
   "isDocsHomePage": false,
-  "title": "journal-of-clinical-neurology",
-  "description": "---",
+  "title": "Journal of Clinical Neurology",
+  "description": "When you 're tasked by using \"Journal of Clinical Neurology\" (JCN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-clinical-neurology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-clinical-neurology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-neurology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-clinical-neurology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-child-and-adolescent-psychopharmacology",
+    "title": "Journal of Child and Adolescent Psychopharmacology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology"
   },
   "next": {
-    "title": "journal-of-clinical-neurophysiology",
+    "title": "Journal of Clinical Neurophysiology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-neurophysiology"
   }
 }

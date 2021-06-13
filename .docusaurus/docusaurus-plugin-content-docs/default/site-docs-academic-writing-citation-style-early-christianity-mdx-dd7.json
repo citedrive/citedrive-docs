@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/early-christianity",
   "id": "academic-writing/citation-style/early-christianity",
   "isDocsHomePage": false,
-  "title": "early-christianity",
-  "description": "---",
+  "title": "Early Christianity",
+  "description": "When you 're tasked by using \"Early Christianity\" (EC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/early-christianity.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/early-christianity",
   "permalink": "/support/docs/academic-writing/citation-style/early-christianity",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/early-christianity.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ear-and-hearing",
+    "title": "Ear and Hearing",
     "permalink": "/support/docs/academic-writing/citation-style/ear-and-hearing"
   },
   "next": {
-    "title": "early-medieval-europe",
+    "title": "Early Medieval Europe",
     "permalink": "/support/docs/academic-writing/citation-style/early-medieval-europe"
   }
 }

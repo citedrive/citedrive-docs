@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities",
   "id": "academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities",
   "isDocsHomePage": false,
-  "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities",
-  "description": "---",
+  "title": "OSCOLA (Oxford University Standard for Citation of Legal Authorities)",
+  "description": "When you 're tasked by using \"OSCOLA (Oxford University Standard for Citation of Legal Authorities)\" (OSCOLA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities",
   "permalink": "/support/docs/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid",
+    "title": "OSCOLA (Oxford University Standard for Citation of Legal Authorities) (no Ibid.)",
     "permalink": "/support/docs/academic-writing/citation-style/oscola-oxford-university-standard-for-citation-of-legal-authorities-no-ibid"
   },
   "next": {
-    "title": "osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+    "title": "Österreichische Zeitschrift für Politikwissenschaft (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria"
   }
 }

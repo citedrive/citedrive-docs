@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/forest-science",
   "id": "academic-writing/citation-style/forest-science",
   "isDocsHomePage": false,
-  "title": "forest-science",
-  "description": "---",
+  "title": "Forest Science",
+  "description": "When you 're tasked by using \"Forest Science\" (Organometallics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/forest-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/forest-science",
   "permalink": "/support/docs/academic-writing/citation-style/forest-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/forest-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "forensic-science-review",
+    "title": "Forensic Science Review",
     "permalink": "/support/docs/academic-writing/citation-style/forensic-science-review"
   },
   "next": {
-    "title": "forum-qualitative-social-research-english",
+    "title": "Forum: Qualitative Social Research (English)",
     "permalink": "/support/docs/academic-writing/citation-style/forum-qualitative-social-research-english"
   }
 }

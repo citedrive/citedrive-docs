@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-wolverhampton--harvard",
   "id": "academic-writing/citation-style/university-of-wolverhampton--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-wolverhampton--harvard",
-  "description": "---",
+  "title": "University of Wolverhampton - Harvard",
+  "description": "When you 're tasked by using \"University of Wolverhampton - Harvard\" (JMBA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-wolverhampton--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-wolverhampton--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-wolverhampton--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-wolverhampton--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-westminster--harvard",
+    "title": "University of Westminster - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-westminster--harvard"
   },
   "next": {
-    "title": "university-of-worcester--harvard",
+    "title": "University of Worcester - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-worcester--harvard"
   }
 }

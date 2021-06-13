@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/feminist-economics",
   "id": "academic-writing/citation-style/feminist-economics",
   "isDocsHomePage": false,
-  "title": "feminist-economics",
-  "description": "---",
+  "title": "Feminist Economics",
+  "description": "When you 're tasked by using \"Feminist Economics\" (ALTEX) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/feminist-economics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/feminist-economics",
   "permalink": "/support/docs/academic-writing/citation-style/feminist-economics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/feminist-economics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
+    "title": "Fatigue & Fracture of Engineering Materials & Structures",
     "permalink": "/support/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures"
   },
   "next": {
-    "title": "feminist-theory",
+    "title": "Feminist Theory",
     "permalink": "/support/docs/academic-writing/citation-style/feminist-theory"
   }
 }

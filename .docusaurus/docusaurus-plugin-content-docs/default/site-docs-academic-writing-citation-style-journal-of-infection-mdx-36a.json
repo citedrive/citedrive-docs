@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-infection",
   "id": "academic-writing/citation-style/journal-of-infection",
   "isDocsHomePage": false,
-  "title": "journal-of-infection",
-  "description": "---",
+  "title": "Journal of Infection",
+  "description": "When you 're tasked by using \"Journal of Infection\" (YJINF) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-infection.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-infection",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-infection",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-infection.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-industrial-ecology",
+    "title": "Journal of Industrial Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-industrial-ecology"
   },
   "next": {
-    "title": "journal-of-infectious-diseases",
+    "title": "Journal of Infectious Diseases",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-infectious-diseases"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition",
   "id": "academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition",
   "isDocsHomePage": false,
-  "title": "journal-of-soil-science-and-plant-nutrition",
-  "description": "---",
+  "title": "Journal of Soil Science and Plant Nutrition",
+  "description": "When you 're tasked by using \"Journal of Soil Science and Plant Nutrition\" (Comput. Visual Sci.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-soil-science-and-plant-nutrition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-soil-and-water-conservation",
+    "title": "Journal of Soil and Water Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-soil-and-water-conservation"
   },
   "next": {
-    "title": "journal-of-sport-and-health-science",
+    "title": "Journal of Sport and Health Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-sport-and-health-science"
   }
 }

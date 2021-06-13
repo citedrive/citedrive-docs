@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-de-la-societe-des-oceanistes",
   "id": "academic-writing/citation-style/journal-de-la-societe-des-oceanistes",
   "isDocsHomePage": false,
-  "title": "journal-de-la-societe-des-oceanistes",
-  "description": "---",
+  "title": "Journal de la Société des Océanistes",
+  "description": "When you 're tasked by using \"Journal de la Société des Océanistes\" (JSO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-de-la-societe-des-oceanistes.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-de-la-societe-des-oceanistes",
   "permalink": "/support/docs/academic-writing/citation-style/journal-de-la-societe-des-oceanistes",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-de-la-societe-des-oceanistes.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-de-la-societe-des-americanistes",
+    "title": "Journal de la Société des américanistes",
     "permalink": "/support/docs/academic-writing/citation-style/journal-de-la-societe-des-americanistes"
   },
   "next": {
-    "title": "journal-for-the-history-of-astronomy",
+    "title": "Journal for the History of Astronomy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-for-the-history-of-astronomy"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/rhodora",
   "id": "academic-writing/citation-style/rhodora",
   "isDocsHomePage": false,
-  "title": "rhodora",
-  "description": "---",
+  "title": "Rhodora",
+  "description": "When you 're tasked by using \"Rhodora\" (Mol Divers) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/rhodora.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/rhodora",
   "permalink": "/support/docs/academic-writing/citation-style/rhodora",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rhodora.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "rhinology",
+    "title": "Rhinology",
     "permalink": "/support/docs/academic-writing/citation-style/rhinology"
   },
   "next": {
-    "title": "risk-analysis",
+    "title": "Risk Analysis",
     "permalink": "/support/docs/academic-writing/citation-style/risk-analysis"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pediatric-blood-and-cancer",
   "id": "academic-writing/citation-style/pediatric-blood-and-cancer",
   "isDocsHomePage": false,
-  "title": "pediatric-blood-and-cancer",
-  "description": "---",
+  "title": "Pediatric Blood & Cancer",
+  "description": "When you 're tasked by using \"Pediatric Blood & Cancer\" (TOCHI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pediatric-blood-and-cancer.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pediatric-blood-and-cancer",
   "permalink": "/support/docs/academic-writing/citation-style/pediatric-blood-and-cancer",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-blood-and-cancer.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pediatric-anesthesia",
+    "title": "Pediatric Anesthesia",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-anesthesia"
   },
   "next": {
-    "title": "pediatric-infectious-disease-journal",
+    "title": "Pediatric Infectious Disease Journal",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-infectious-disease-journal"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada",
   "id": "academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada",
   "isDocsHomePage": false,
-  "title": "ecole-de-technologie-superieure--apa-french--canada",
-  "description": "---",
+  "title": "École de technologie supérieure - APA (French - Canada)",
+  "description": "When you 're tasked by using \"École de technologie supérieure - APA (French - Canada)\" (ETS-APA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ecclesial-practices",
+    "title": "Ecclesial Practices",
     "permalink": "/support/docs/academic-writing/citation-style/ecclesial-practices"
   },
   "next": {
-    "title": "ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
+    "title": "École Pratique des Hautes Études - Sciences historiques et philologiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french"
   }
 }

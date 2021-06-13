@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/housing-studies",
   "id": "academic-writing/citation-style/housing-studies",
   "isDocsHomePage": false,
-  "title": "housing-studies",
-  "description": "---",
+  "title": "Housing Studies",
+  "description": "When you 're tasked by using \"Housing Studies\" (Int. J. Ion Mobil. Spec.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/housing-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/housing-studies",
   "permalink": "/support/docs/academic-writing/citation-style/housing-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/housing-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hong-kong-journal-of-radiology",
+    "title": "Hong Kong Journal of Radiology",
     "permalink": "/support/docs/academic-writing/citation-style/hong-kong-journal-of-radiology"
   },
   "next": {
-    "title": "hpb",
+    "title": "HPB",
     "permalink": "/support/docs/academic-writing/citation-style/hpb"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
   "id": "academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
   "isDocsHomePage": false,
-  "title": "zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
-  "description": "---",
+  "title": "ZitierGuide: Leitfaden zum fachgerechten Zitieren in rechtswissenschaftlichen Arbeiten (Roger Müller) (German - Switzerland)",
+  "description": "When you 're tasked by using \"ZitierGuide: Leitfaden zum fachgerechten Zitieren in rechtswissenschaftlichen Arbeiten (Roger Müller) (German - Switzerland)\" (Comput. Methods Funct. Theory) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
   "permalink": "/support/docs/academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zitierguide-leitfaden-zum-fachgerechten-zitieren-in-rechtswissenschaftlichen-arbeiten-roger-muller-german--switzerland.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zilsel-french",
+    "title": "Zilsel (French)",
     "permalink": "/support/docs/academic-writing/citation-style/zilsel-french"
   },
   "next": {
-    "title": "zootaxa",
+    "title": "Zootaxa",
     "permalink": "/support/docs/academic-writing/citation-style/zootaxa"
   }
 }

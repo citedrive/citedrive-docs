@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/haematologica",
   "id": "academic-writing/citation-style/haematologica",
   "isDocsHomePage": false,
-  "title": "haematologica",
-  "description": "---",
+  "title": "Haematologica",
+  "description": "When you 're tasked by using \"Haematologica\" (Cont Philos Rev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/haematologica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/haematologica",
   "permalink": "/support/docs/academic-writing/citation-style/haematologica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/haematologica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french",
+    "title": "Guide pour la rédaction et la présentation des thèses à l''usage des doctorants (French)",
     "permalink": "/support/docs/academic-writing/citation-style/guide-pour-la-redaction-et-la-presentation-des-theses-a-lusage-des-doctorants-french"
   },
   "next": {
-    "title": "haemophilia",
+    "title": "Haemophilia",
     "permalink": "/support/docs/academic-writing/citation-style/haemophilia"
   }
 }

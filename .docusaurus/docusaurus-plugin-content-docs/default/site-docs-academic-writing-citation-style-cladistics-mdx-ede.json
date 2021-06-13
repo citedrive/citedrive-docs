@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cladistics",
   "id": "academic-writing/citation-style/cladistics",
   "isDocsHomePage": false,
-  "title": "cladistics",
-  "description": "---",
+  "title": "Cladistics",
+  "description": "When you 're tasked by using \"Cladistics\" (Int J Speech Technol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cladistics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cladistics",
   "permalink": "/support/docs/academic-writing/citation-style/cladistics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cladistics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "civilta-italiana-italian",
+    "title": "Civiltà Italiana (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/civilta-italiana-italian"
   },
   "next": {
-    "title": "clara-architecturerecherche-french",
+    "title": "CLARA Architecture/Recherche (French)",
     "permalink": "/support/docs/academic-writing/citation-style/clara-architecturerecherche-french"
   }
 }

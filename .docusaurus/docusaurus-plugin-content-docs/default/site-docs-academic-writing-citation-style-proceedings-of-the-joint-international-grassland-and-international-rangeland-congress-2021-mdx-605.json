@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
   "id": "academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
   "isDocsHomePage": false,
-  "title": "proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
-  "description": "---",
+  "title": "Proceedings of the Joint International Grassland & International Rangeland Congress 2021",
+  "description": "When you 're tasked by using \"Proceedings of the Joint International Grassland & International Rangeland Congress 2021\" (IGC-IRC 2021) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
   "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "primary-care-clinics-in-office-practice",
+    "title": "Primary Care: Clinics in Office Practice",
     "permalink": "/support/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice"
   },
   "next": {
-    "title": "proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america",
+    "title": "Proceedings of the National Academy of Sciences of the United States of America",
     "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-national-academy-of-sciences-of-the-united-states-of-america"
   }
 }

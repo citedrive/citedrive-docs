@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note",
   "id": "academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note",
   "isDocsHomePage": false,
-  "title": "norsk-apamanual--apa-7th-edition-note",
-  "description": "---",
+  "title": "Norsk APA-manual - APA 7th edition (note)",
+  "description": "When you 're tasked by using \"Norsk APA-manual - APA 7th edition (note)\" (BRI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note",
   "permalink": "/support/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "norsk-apamanual--apa-7th-edition-authordate",
+    "title": "Norsk APA-manual - APA 7th edition (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-authordate"
   },
   "next": {
-    "title": "northeastern-naturalist",
+    "title": "Northeastern Naturalist",
     "permalink": "/support/docs/academic-writing/citation-style/northeastern-naturalist"
   }
 }

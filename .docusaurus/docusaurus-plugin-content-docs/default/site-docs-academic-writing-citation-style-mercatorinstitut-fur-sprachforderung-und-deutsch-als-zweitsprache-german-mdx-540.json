@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
   "id": "academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
   "isDocsHomePage": false,
-  "title": "mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
-  "description": "---",
+  "title": "Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache (German)",
+  "description": "When you 're tasked by using \"Mercator-Institut für Sprachförderung und Deutsch als Zweitsprache (German)\" (BSPF) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
   "permalink": "/support/docs/academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mercatorinstitut-fur-sprachforderung-und-deutsch-als-zweitsprache-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "memorias-do-instituto-oswaldo-cruz",
+    "title": "Memórias do Instituto Oswaldo Cruz",
     "permalink": "/support/docs/academic-writing/citation-style/memorias-do-instituto-oswaldo-cruz"
   },
   "next": {
-    "title": "mercatus-center",
+    "title": "Mercatus Center",
     "permalink": "/support/docs/academic-writing/citation-style/mercatus-center"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-social-archaeology",
   "id": "academic-writing/citation-style/journal-of-social-archaeology",
   "isDocsHomePage": false,
-  "title": "journal-of-social-archaeology",
-  "description": "---",
+  "title": "Journal of Social Archaeology",
+  "description": "When you 're tasked by using \"Journal of Social Archaeology\" (JIEC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-social-archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-social-archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-social-archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-social-archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-small-business-management",
+    "title": "Journal of Small Business Management",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-small-business-management"
   },
   "next": {
-    "title": "journal-of-soil-and-water-conservation",
+    "title": "Journal of Soil and Water Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-soil-and-water-conservation"
   }
 }

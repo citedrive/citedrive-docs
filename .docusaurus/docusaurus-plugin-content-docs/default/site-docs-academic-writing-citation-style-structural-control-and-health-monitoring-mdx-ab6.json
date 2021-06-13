@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/structural-control-and-health-monitoring",
   "id": "academic-writing/citation-style/structural-control-and-health-monitoring",
   "isDocsHomePage": false,
-  "title": "structural-control-and-health-monitoring",
-  "description": "---",
+  "title": "Structural Control and Health Monitoring",
+  "description": "When you 're tasked by using \"Structural Control and Health Monitoring\" (Struct. Control Health Monit.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/structural-control-and-health-monitoring.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/structural-control-and-health-monitoring",
   "permalink": "/support/docs/academic-writing/citation-style/structural-control-and-health-monitoring",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/structural-control-and-health-monitoring.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "stroke",
+    "title": "Stroke",
     "permalink": "/support/docs/academic-writing/citation-style/stroke"
   },
   "next": {
-    "title": "studi-e-materiali-di-storia-delle-religioni-italian",
+    "title": "Studi e materiali di storia delle religioni (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian"
   }
 }

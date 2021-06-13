@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/crustaceana",
   "id": "academic-writing/citation-style/crustaceana",
   "isDocsHomePage": false,
-  "title": "crustaceana",
-  "description": "---",
+  "title": "Crustaceana",
+  "description": "When you 're tasked by using \"Crustaceana\" (der junge zahnarzt) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/crustaceana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/crustaceana",
   "permalink": "/support/docs/academic-writing/citation-style/crustaceana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/crustaceana.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "crop-breeding-and-applied-biotechnology",
+    "title": "Crop Breeding and Applied Biotechnology",
     "permalink": "/support/docs/academic-writing/citation-style/crop-breeding-and-applied-biotechnology"
   },
   "next": {
-    "title": "cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish",
+    "title": "Cuadernos de Filología Clásica. Estudios Griegos e Indoeuropeos (autor-año, Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/cuadernos-de-filologia-clasica-estudios-griegos-e-indoeuropeos-autorano-spanish"
   }
 }

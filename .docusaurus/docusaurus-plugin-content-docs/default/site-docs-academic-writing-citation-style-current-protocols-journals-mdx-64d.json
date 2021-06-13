@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/current-protocols-journals",
   "id": "academic-writing/citation-style/current-protocols-journals",
   "isDocsHomePage": false,
-  "title": "current-protocols-journals",
-  "description": "---",
+  "title": "Current Protocols journals",
+  "description": "When you 're tasked by using \"Current Protocols journals\" (IJREP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/current-protocols-journals.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/current-protocols-journals",
   "permalink": "/support/docs/academic-writing/citation-style/current-protocols-journals",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/current-protocols-journals.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "current-proteomics",
+    "title": "Current Proteomics",
     "permalink": "/support/docs/academic-writing/citation-style/current-proteomics"
   },
   "next": {
-    "title": "current-science",
+    "title": "Current Science",
     "permalink": "/support/docs/academic-writing/citation-style/current-science"
   }
 }

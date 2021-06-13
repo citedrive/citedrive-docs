@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mediaeval-studies",
   "id": "academic-writing/citation-style/mediaeval-studies",
   "isDocsHomePage": false,
-  "title": "mediaeval-studies",
-  "description": "---",
+  "title": "Mediaeval Studies",
+  "description": "When you 're tasked by using \"Mediaeval Studies\" (IGPC - ISO-690 (note)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mediaeval-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mediaeval-studies",
   "permalink": "/support/docs/academic-writing/citation-style/mediaeval-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mediaeval-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "media-culture-and-society",
+    "title": "Media, Culture & Society",
     "permalink": "/support/docs/academic-writing/citation-style/media-culture-and-society"
   },
   "next": {
-    "title": "medical-dosimetry",
+    "title": "Medical Dosimetry",
     "permalink": "/support/docs/academic-writing/citation-style/medical-dosimetry"
   }
 }

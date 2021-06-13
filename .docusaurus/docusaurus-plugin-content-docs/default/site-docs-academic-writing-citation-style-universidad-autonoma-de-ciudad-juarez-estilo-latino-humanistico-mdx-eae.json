@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
   "id": "academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
   "isDocsHomePage": false,
-  "title": "universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
-  "description": "---",
+  "title": "Universidad Autónoma de Ciudad Juárez - Estilo Latino Humanístico",
+  "description": "When you 're tasked by using \"Universidad Autónoma de Ciudad Juárez - Estilo Latino Humanístico\" (IJREP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
   "permalink": "/support/docs/academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "united-nations-framework-convention-on-climate-change",
+    "title": "United Nations Framework Convention on Climate Change",
     "permalink": "/support/docs/academic-writing/citation-style/united-nations-framework-convention-on-climate-change"
   },
   "next": {
-    "title": "universidad-de-leon-espana--harvard",
+    "title": "Universidad de León (España) - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/universidad-de-leon-espana--harvard"
   }
 }

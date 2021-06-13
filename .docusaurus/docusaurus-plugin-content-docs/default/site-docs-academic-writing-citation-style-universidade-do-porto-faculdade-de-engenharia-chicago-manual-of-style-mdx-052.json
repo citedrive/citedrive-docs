@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
   "id": "academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
   "isDocsHomePage": false,
-  "title": "universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
-  "description": "---",
+  "title": "Universidade do Porto - Faculdade de Engenharia - Chicago Manual of Style",
+  "description": "When you 're tasked by using \"Universidade do Porto - Faculdade de Engenharia - Chicago Manual of Style\" (J Fourier Anal Appl) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
   "permalink": "/support/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
+    "title": "Universidade de São Paulo - Instituto de Matemática e Estatística",
     "permalink": "/support/docs/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica"
   },
   "next": {
-    "title": "universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa",
+    "title": "Universidade do Porto - Faculdade de Psicologia e de Ciências da Educação - APA",
     "permalink": "/support/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-psicologia-e-de-ciencias-da-educacao--apa"
   }
 }

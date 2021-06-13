@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
   "id": "academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
   "isDocsHomePage": false,
-  "title": "journal-of-thrombosis-and-haemostasis",
-  "description": "---",
+  "title": "Journal of Thrombosis and Haemostasis",
+  "description": "When you 're tasked by using \"Journal of Thrombosis and Haemostasis\" (NJW (Articles)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-threatened-taxa",
+    "title": "Journal of Threatened Taxa",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-threatened-taxa"
   },
   "next": {
-    "title": "journal-of-tropical-ecology",
+    "title": "Journal of Tropical Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-ecology"
   }
 }

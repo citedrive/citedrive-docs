@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
   "id": "academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
   "isDocsHomePage": false,
-  "title": "ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
-  "description": "---",
+  "title": "Česká zemědělská univerzita v Praze - Fakulta agrobiologie, potravinových a přírodních zdrojů",
+  "description": "When you 're tasked by using \"Česká zemědělská univerzita v Praze - Fakulta agrobiologie, potravinových a přírodních zdrojů\" (FAPPZ ČZU) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
   "permalink": "/support/docs/academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ceska-zemedelska-univerzita-v-praze--fakulta-agrobiologie-potravinovych-a-prirodnich-zdroju.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cerebral-cortex",
+    "title": "Cerebral Cortex",
     "permalink": "/support/docs/academic-writing/citation-style/cerebral-cortex"
   },
   "next": {
-    "title": "changer-depoque-french",
+    "title": "Changer d''époque (French)",
     "permalink": "/support/docs/academic-writing/citation-style/changer-depoque-french"
   }
 }

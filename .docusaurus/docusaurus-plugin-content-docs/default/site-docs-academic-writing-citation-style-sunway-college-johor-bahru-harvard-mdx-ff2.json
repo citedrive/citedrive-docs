@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/sunway-college-johor-bahru--harvard",
   "id": "academic-writing/citation-style/sunway-college-johor-bahru--harvard",
   "isDocsHomePage": false,
-  "title": "sunway-college-johor-bahru--harvard",
-  "description": "---",
+  "title": "Sunway College Johor Bahru - Harvard",
+  "description": "When you 're tasked by using \"Sunway College Johor Bahru - Harvard\" (SYCJB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/sunway-college-johor-bahru--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "suburban--zeitschrift-fur-kritische-stadtforschung-german",
+    "title": "sub\\urban - Zeitschrift für kritische Stadtforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german"
   },
   "next": {
-    "title": "surgical-clinics-of-north-america",
+    "title": "Surgical Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/surgical-clinics-of-north-america"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/high-altitude-medicine-and-biology",
   "id": "academic-writing/citation-style/high-altitude-medicine-and-biology",
   "isDocsHomePage": false,
-  "title": "high-altitude-medicine-and-biology",
-  "description": "---",
+  "title": "High Altitude Medicine & Biology",
+  "description": "When you 're tasked by using \"High Altitude Medicine & Biology\" (UPS-en) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/high-altitude-medicine-and-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/high-altitude-medicine-and-biology",
   "permalink": "/support/docs/academic-writing/citation-style/high-altitude-medicine-and-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/high-altitude-medicine-and-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "herpetologica",
+    "title": "Herpetologica",
     "permalink": "/support/docs/academic-writing/citation-style/herpetologica"
   },
   "next": {
-    "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
+    "title": "Hiob Ludolf Centre for Ethiopian Studies (long names)",
     "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names"
   }
 }

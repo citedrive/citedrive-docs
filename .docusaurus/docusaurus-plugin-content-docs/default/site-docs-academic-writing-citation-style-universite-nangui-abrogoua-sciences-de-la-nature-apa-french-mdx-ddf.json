@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
   "id": "academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
   "isDocsHomePage": false,
-  "title": "universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
-  "description": "---",
+  "title": "Université Nangui Abrogoua - Sciences de la Nature - APA (French)",
+  "description": "When you 're tasked by using \"Université Nangui Abrogoua - Sciences de la Nature - APA (French)\" (UNA SN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
   "permalink": "/support/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universite-libre-de-bruxelles--histoire-french",
+    "title": "Université libre de Bruxelles - Histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-libre-de-bruxelles--histoire-french"
   },
   "next": {
-    "title": "universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
+    "title": "Universiteit Utrecht - Onderzoeksgids Geschiedenis (Dutch)",
     "permalink": "/support/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch"
   }
 }

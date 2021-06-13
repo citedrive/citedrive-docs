@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/metallurgical-and-materials-transactions-a",
   "id": "academic-writing/citation-style/metallurgical-and-materials-transactions-a",
   "isDocsHomePage": false,
-  "title": "metallurgical-and-materials-transactions-a",
-  "description": "---",
+  "title": "Metallurgical and Materials Transactions A",
+  "description": "When you 're tasked by using \"Metallurgical and Materials Transactions A\" (Metall and Mat Trans A) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/metallurgical-and-materials-transactions-a.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/metallurgical-and-materials-transactions-a",
   "permalink": "/support/docs/academic-writing/citation-style/metallurgical-and-materials-transactions-a",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/metallurgical-and-materials-transactions-a.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mercatus-center",
+    "title": "Mercatus Center",
     "permalink": "/support/docs/academic-writing/citation-style/mercatus-center"
   },
   "next": {
-    "title": "metallurgical-and-materials-transactions",
+    "title": "Metallurgical and Materials Transactions",
     "permalink": "/support/docs/academic-writing/citation-style/metallurgical-and-materials-transactions"
   }
 }

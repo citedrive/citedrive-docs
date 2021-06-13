@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish",
   "id": "academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish",
   "isDocsHomePage": false,
-  "title": "revista-argentina-de-antropologia-biologica-spanish",
-  "description": "---",
+  "title": "Revista Argentina de Antropologia Biologica (Spanish)",
+  "description": "When you 're tasked by using \"Revista Argentina de Antropologia Biologica (Spanish)\" (Diplom-LC-UHH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-argentina-de-antropologia-biologica-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "reviews-of-modern-physics-with-titles",
+    "title": "Reviews of Modern Physics (with titles)",
     "permalink": "/support/docs/academic-writing/citation-style/reviews-of-modern-physics-with-titles"
   },
   "next": {
-    "title": "revista-biblica-spanish",
+    "title": "Revista Bíblica (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/revista-biblica-spanish"
   }
 }

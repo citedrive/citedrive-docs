@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/stem-cells",
   "id": "academic-writing/citation-style/stem-cells",
   "isDocsHomePage": false,
-  "title": "stem-cells",
-  "description": "---",
+  "title": "Stem Cells",
+  "description": "When you 're tasked by using \"Stem Cells\" (Community Ment Health J) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/stem-cells.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/stem-cells",
   "permalink": "/support/docs/academic-writing/citation-style/stem-cells",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/stem-cells.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "stem-cells-and-development",
+    "title": "Stem Cells and Development",
     "permalink": "/support/docs/academic-writing/citation-style/stem-cells-and-development"
   },
   "next": {
-    "title": "strategic-design-research-journal",
+    "title": "Strategic Design Research Journal",
     "permalink": "/support/docs/academic-writing/citation-style/strategic-design-research-journal"
   }
 }

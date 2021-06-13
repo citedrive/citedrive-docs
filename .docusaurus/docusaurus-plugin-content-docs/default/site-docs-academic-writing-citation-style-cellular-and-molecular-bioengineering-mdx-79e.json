@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cellular-and-molecular-bioengineering",
   "id": "academic-writing/citation-style/cellular-and-molecular-bioengineering",
   "isDocsHomePage": false,
-  "title": "cellular-and-molecular-bioengineering",
-  "description": "---",
+  "title": "Cellular and Molecular Bioengineering",
+  "description": "When you 're tasked by using \"Cellular and Molecular Bioengineering\" (Rev Account Stud) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cellular-and-molecular-bioengineering.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cellular-and-molecular-bioengineering",
   "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-bioengineering",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cellular-and-molecular-bioengineering.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cell",
+    "title": "Cell",
     "permalink": "/support/docs/academic-writing/citation-style/cell"
   },
   "next": {
-    "title": "cellular-and-molecular-gastroenterology-and-hepatology",
+    "title": "Cellular and Molecular Gastroenterology and Hepatology",
     "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology"
   }
 }

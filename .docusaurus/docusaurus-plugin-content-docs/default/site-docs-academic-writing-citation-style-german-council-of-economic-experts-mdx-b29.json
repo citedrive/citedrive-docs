@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/german-council-of-economic-experts",
   "id": "academic-writing/citation-style/german-council-of-economic-experts",
   "isDocsHomePage": false,
-  "title": "german-council-of-economic-experts",
-  "description": "---",
+  "title": "German Council of Economic Experts",
+  "description": "When you 're tasked by using \"German Council of Economic Experts\" (GCEE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/german-council-of-economic-experts.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/german-council-of-economic-experts",
   "permalink": "/support/docs/academic-writing/citation-style/german-council-of-economic-experts",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/german-council-of-economic-experts.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement",
+    "title": "Gériatrie et Psychologie Neuropsychiatrie du Vieillissement",
     "permalink": "/support/docs/academic-writing/citation-style/geriatrie-et-psychologie-neuropsychiatrie-du-vieillissement"
   },
   "next": {
-    "title": "german-yearbook-of-international-law",
+    "title": "German Yearbook of International Law",
     "permalink": "/support/docs/academic-writing/citation-style/german-yearbook-of-international-law"
   }
 }

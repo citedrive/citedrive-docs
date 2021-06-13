@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
   "id": "academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
   "isDocsHomePage": false,
-  "title": "uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
-  "description": "---",
+  "title": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie (autor-rok, Polish)",
+  "description": "When you 're tasked by using \"Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie (autor-rok, Polish)\" (UKSW) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
   "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-autorrok-polish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "uniwersytet-im-adama-mickiewicza-w-poznaniu--wydzia-anglistyki-english",
+    "title": "Uniwersytet im. Adama Mickiewicza w Poznaniu - Wydział Anglistyki (English)",
     "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-im-adama-mickiewicza-w-poznaniu--wydzia-anglistyki-english"
   },
   "next": {
-    "title": "uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish",
+    "title": "Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie (przypis, Polish)",
     "permalink": "/support/docs/academic-writing/citation-style/uniwersytet-kardynaa-stefana-wyszynskiego-w-warszawie-przypis-polish"
   }
 }

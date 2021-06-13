@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/vita-latina-auteurs-anciens-french",
   "id": "academic-writing/citation-style/vita-latina-auteurs-anciens-french",
   "isDocsHomePage": false,
-  "title": "vita-latina-auteurs-anciens-french",
-  "description": "---",
+  "title": "Vita Latina (auteurs anciens, French)",
+  "description": "When you 're tasked by using \"Vita Latina (auteurs anciens, French)\" (VL (text. anc.)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/vita-latina-auteurs-anciens-french",
   "permalink": "/support/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vita-latina-auteurs-anciens-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vingtieme-siecle-revue-dhistoire-french",
+    "title": "Vingtième Siècle. Revue d''histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french"
   },
   "next": {
-    "title": "vita-latina-french",
+    "title": "Vita Latina (French)",
     "permalink": "/support/docs/academic-writing/citation-style/vita-latina-french"
   }
 }

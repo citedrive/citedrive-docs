@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
   "id": "academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
   "isDocsHomePage": false,
-  "title": "interactive-cardiovascular-and-thoracic-surgery",
-  "description": "---",
+  "title": "Interactive CardioVascular and Thoracic Surgery",
+  "description": "When you 're tasked by using \"Interactive CardioVascular and Thoracic Surgery\" (ICVTS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
   "permalink": "/support/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "interaction-design-and-architectures",
+    "title": "Interaction Design & Architecture(s)",
     "permalink": "/support/docs/academic-writing/citation-style/interaction-design-and-architectures"
   },
   "next": {
-    "title": "interdisziplinare-anthropologie-german",
+    "title": "Interdisziplinäre Anthropologie (German)",
     "permalink": "/support/docs/academic-writing/citation-style/interdisziplinare-anthropologie-german"
   }
 }

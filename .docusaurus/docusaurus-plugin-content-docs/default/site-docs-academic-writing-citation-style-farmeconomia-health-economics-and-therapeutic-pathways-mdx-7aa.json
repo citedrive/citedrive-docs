@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
   "id": "academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
   "isDocsHomePage": false,
-  "title": "farmeconomia-health-economics-and-therapeutic-pathways",
-  "description": "---",
+  "title": "Farmeconomia. Health Economics and Therapeutic Pathways",
+  "description": "When you 're tasked by using \"Farmeconomia. Health Economics and Therapeutic Pathways\" (Farmeconomia) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
   "permalink": "/support/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "family-business-review",
+    "title": "Family Business Review",
     "permalink": "/support/docs/academic-writing/citation-style/family-business-review"
   },
   "next": {
-    "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
+    "title": "Fatigue & Fracture of Engineering Materials & Structures",
     "permalink": "/support/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures"
   }
 }

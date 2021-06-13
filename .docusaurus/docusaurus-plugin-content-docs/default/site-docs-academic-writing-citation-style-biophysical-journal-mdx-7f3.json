@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biophysical-journal",
   "id": "academic-writing/citation-style/biophysical-journal",
   "isDocsHomePage": false,
-  "title": "biophysical-journal",
-  "description": "---",
+  "title": "Biophysical Journal",
+  "description": "When you 're tasked by using \"Biophysical Journal\" (BPJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biophysical-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biophysical-journal",
   "permalink": "/support/docs/academic-writing/citation-style/biophysical-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biophysical-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biometrics",
+    "title": "Biometrics",
     "permalink": "/support/docs/academic-writing/citation-style/biometrics"
   },
   "next": {
-    "title": "biopolymers",
+    "title": "Biopolymers",
     "permalink": "/support/docs/academic-writing/citation-style/biopolymers"
   }
 }

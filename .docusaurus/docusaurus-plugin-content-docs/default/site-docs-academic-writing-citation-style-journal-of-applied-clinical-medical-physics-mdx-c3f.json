@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-applied-clinical-medical-physics",
   "id": "academic-writing/citation-style/journal-of-applied-clinical-medical-physics",
   "isDocsHomePage": false,
-  "title": "journal-of-applied-clinical-medical-physics",
-  "description": "---",
+  "title": "Journal of Applied Clinical Medical Physics",
+  "description": "When you 're tasked by using \"Journal of Applied Clinical Medical Physics\" (Demography) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-applied-clinical-medical-physics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-applied-clinical-medical-physics",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-clinical-medical-physics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-applied-clinical-medical-physics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-applied-animal-science",
+    "title": "Journal of Applied Animal Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-animal-science"
   },
   "next": {
-    "title": "journal-of-applied-entomology",
+    "title": "Journal of Applied Entomology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-entomology"
   }
 }

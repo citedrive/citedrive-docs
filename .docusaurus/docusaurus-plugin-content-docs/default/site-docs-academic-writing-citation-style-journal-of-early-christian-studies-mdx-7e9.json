@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-early-christian-studies",
   "id": "academic-writing/citation-style/journal-of-early-christian-studies",
   "isDocsHomePage": false,
-  "title": "journal-of-early-christian-studies",
-  "description": "---",
+  "title": "Journal of Early Christian Studies",
+  "description": "When you 're tasked by using \"Journal of Early Christian Studies\" (JECS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-early-christian-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-early-christian-studies",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-early-christian-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-early-christian-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-dairy-science",
+    "title": "Journal of Dairy Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-dairy-science"
   },
   "next": {
-    "title": "journal-of-egyptian-history",
+    "title": "Journal of Egyptian History",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-egyptian-history"
   }
 }

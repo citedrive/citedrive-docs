@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/neuroendocrinology-letters",
   "id": "academic-writing/citation-style/neuroendocrinology-letters",
   "isDocsHomePage": false,
-  "title": "neuroendocrinology-letters",
-  "description": "---",
+  "title": "Neuroendocrinology Letters",
+  "description": "When you 're tasked by using \"Neuroendocrinology Letters\" (NEL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/neuroendocrinology-letters.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/neuroendocrinology-letters",
   "permalink": "/support/docs/academic-writing/citation-style/neuroendocrinology-letters",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuroendocrinology-letters.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "neural-plasticity",
+    "title": "Neural Plasticity",
     "permalink": "/support/docs/academic-writing/citation-style/neural-plasticity"
   },
   "next": {
-    "title": "neuroimaging-clinics-of-north-america",
+    "title": "Neuroimaging Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/neuroimaging-clinics-of-north-america"
   }
 }

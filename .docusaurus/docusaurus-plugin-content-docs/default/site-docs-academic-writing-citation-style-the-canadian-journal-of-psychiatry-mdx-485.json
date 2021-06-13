@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-canadian-journal-of-psychiatry",
   "id": "academic-writing/citation-style/the-canadian-journal-of-psychiatry",
   "isDocsHomePage": false,
-  "title": "the-canadian-journal-of-psychiatry",
-  "description": "---",
+  "title": "The Canadian Journal of Psychiatry",
+  "description": "When you 're tasked by using \"The Canadian Journal of Psychiatry\" (CIP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-canadian-journal-of-psychiatry",
   "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-canadian-journal-of-chemical-engineering",
+    "title": "The Canadian Journal of Chemical Engineering",
     "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering"
   },
   "next": {
-    "title": "the-cancer-journal",
+    "title": "The Cancer Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-cancer-journal"
   }
 }

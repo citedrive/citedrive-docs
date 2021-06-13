@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
   "id": "academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
   "isDocsHomePage": false,
-  "title": "ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
-  "description": "---",
+  "title": "Otto-von-Guericke-Universität Magdeburg - Medizinische Fakultät (numeric)",
+  "description": "When you 're tasked by using \"Otto-von-Guericke-Universität Magdeburg - Medizinische Fakultät (numeric)\" (J. Med. Chem.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
   "permalink": "/support/docs/academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ottovonguerickeuniversitat-magdeburg--medizinische-fakultat-numeric.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "osterreichische-zeitschrift-fur-politikwissenschaft-german--austria",
+    "title": "Österreichische Zeitschrift für Politikwissenschaft (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/osterreichische-zeitschrift-fur-politikwissenschaft-german--austria"
   },
   "next": {
-    "title": "ow-barth-verlag-german",
+    "title": "O.W. Barth Verlag (German)",
     "permalink": "/support/docs/academic-writing/citation-style/ow-barth-verlag-german"
   }
 }

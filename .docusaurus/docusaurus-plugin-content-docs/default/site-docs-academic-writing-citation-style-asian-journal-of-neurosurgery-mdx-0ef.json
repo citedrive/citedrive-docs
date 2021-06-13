@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/asian-journal-of-neurosurgery",
   "id": "academic-writing/citation-style/asian-journal-of-neurosurgery",
   "isDocsHomePage": false,
-  "title": "asian-journal-of-neurosurgery",
-  "description": "---",
+  "title": "Asian Journal of Neurosurgery",
+  "description": "When you 're tasked by using \"Asian Journal of Neurosurgery\" (Int.J. Behav. Med.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/asian-journal-of-neurosurgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/asian-journal-of-neurosurgery",
   "permalink": "/support/docs/academic-writing/citation-style/asian-journal-of-neurosurgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asian-journal-of-neurosurgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "asia-pacific-journal-of-human-resources",
+    "title": "Asia Pacific Journal of Human Resources",
     "permalink": "/support/docs/academic-writing/citation-style/asia-pacific-journal-of-human-resources"
   },
   "next": {
-    "title": "asian-studies-review",
+    "title": "Asian Studies Review",
     "permalink": "/support/docs/academic-writing/citation-style/asian-studies-review"
   }
 }

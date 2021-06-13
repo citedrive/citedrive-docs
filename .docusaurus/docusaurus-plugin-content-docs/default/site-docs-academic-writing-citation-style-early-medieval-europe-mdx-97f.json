@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/early-medieval-europe",
   "id": "academic-writing/citation-style/early-medieval-europe",
   "isDocsHomePage": false,
-  "title": "early-medieval-europe",
-  "description": "---",
+  "title": "Early Medieval Europe",
+  "description": "When you 're tasked by using \"Early Medieval Europe\" (Evolving Systems) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/early-medieval-europe.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/early-medieval-europe",
   "permalink": "/support/docs/academic-writing/citation-style/early-medieval-europe",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/early-medieval-europe.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "early-christianity",
+    "title": "Early Christianity",
     "permalink": "/support/docs/academic-writing/citation-style/early-christianity"
   },
   "next": {
-    "title": "earth-surface-processes-and-landforms",
+    "title": "Earth Surface Processes and Landforms",
     "permalink": "/support/docs/academic-writing/citation-style/earth-surface-processes-and-landforms"
   }
 }

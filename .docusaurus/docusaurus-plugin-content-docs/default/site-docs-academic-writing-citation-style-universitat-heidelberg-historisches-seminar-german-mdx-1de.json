@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german",
   "id": "academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german",
   "isDocsHomePage": false,
-  "title": "universitat-heidelberg--historisches-seminar-german",
-  "description": "---",
+  "title": "Universität Heidelberg - Historisches Seminar (German)",
+  "description": "When you 're tasked by using \"Universität Heidelberg - Historisches Seminar (German)\" (Oral Maxillofac Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german",
   "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german",
+    "title": "Universität Bremen - Lehrstuhl für innovatives Markenmanagement (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-bremen--lehrstuhl-fur-innovatives-markenmanagement-german"
   },
   "next": {
-    "title": "universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+    "title": "Universität Heidelberg - Medizinische Fakultät Mannheim (numerisch, German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german"
   }
 }

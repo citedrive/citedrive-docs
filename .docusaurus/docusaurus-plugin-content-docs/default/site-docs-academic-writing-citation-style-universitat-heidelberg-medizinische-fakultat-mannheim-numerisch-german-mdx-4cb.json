@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
   "id": "academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
   "isDocsHomePage": false,
-  "title": "universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
-  "description": "---",
+  "title": "Universität Heidelberg - Medizinische Fakultät Mannheim (numerisch, German)",
+  "description": "When you 're tasked by using \"Universität Heidelberg - Medizinische Fakultät Mannheim (numerisch, German)\" (MedMa) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
   "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitat-heidelberg--historisches-seminar-german",
+    "title": "Universität Heidelberg - Historisches Seminar (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--historisches-seminar-german"
   },
   "next": {
-    "title": "universitat-mainz--geographisches-institut-german",
+    "title": "Universität Mainz - Geographisches Institut (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german"
   }
 }

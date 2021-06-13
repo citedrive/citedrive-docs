@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--medizin",
   "id": "academic-writing/citation-style/technische-universitat-dresden--medizin",
   "isDocsHomePage": false,
-  "title": "technische-universitat-dresden--medizin",
-  "description": "---",
+  "title": "Technische Universität Dresden - Medizin",
+  "description": "When you 're tasked by using \"Technische Universität Dresden - Medizin\" (TUD Medizin) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--medizin.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/technische-universitat-dresden--medizin",
   "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--medizin",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--medizin.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german",
+    "title": "Technische Universität Dresden - Medienwissenschaft und Neuere Deutsche Literatur (note, German)",
     "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--medienwissenschaft-und-neuere-deutsche-literatur-note-german"
   },
   "next": {
-    "title": "technische-universitat-dresden--wirtschaftswissenschaften-german",
+    "title": "Technische Universität Dresden - Wirtschaftswissenschaften (German)",
     "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--wirtschaftswissenschaften-german"
   }
 }

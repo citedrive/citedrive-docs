@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/genomics-and-informatics",
   "id": "academic-writing/citation-style/genomics-and-informatics",
   "isDocsHomePage": false,
-  "title": "genomics-and-informatics",
-  "description": "---",
+  "title": "Genomics & Informatics",
+  "description": "When you 're tasked by using \"Genomics & Informatics\" (Genomics Inform) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/genomics-and-informatics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/genomics-and-informatics",
   "permalink": "/support/docs/academic-writing/citation-style/genomics-and-informatics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genomics-and-informatics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "genome-biology-and-evolution",
+    "title": "Genome Biology and Evolution",
     "permalink": "/support/docs/academic-writing/citation-style/genome-biology-and-evolution"
   },
   "next": {
-    "title": "geoarchaeology",
+    "title": "Geoarchaeology",
     "permalink": "/support/docs/academic-writing/citation-style/geoarchaeology"
   }
 }

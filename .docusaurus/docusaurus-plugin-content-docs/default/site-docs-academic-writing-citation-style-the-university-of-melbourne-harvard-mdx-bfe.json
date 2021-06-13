@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-university-of-melbourne--harvard",
   "id": "academic-writing/citation-style/the-university-of-melbourne--harvard",
   "isDocsHomePage": false,
-  "title": "the-university-of-melbourne--harvard",
-  "description": "---",
+  "title": "The University of Melbourne - Harvard",
+  "description": "When you 're tasked by using \"The University of Melbourne - Harvard\" (J Solution Chem) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-university-of-melbourne--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-university-of-melbourne--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/the-university-of-melbourne--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-university-of-melbourne--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-scandinavian-journal-of-clinical-and-laboratory-investigation",
+    "title": "The Scandinavian Journal of Clinical & Laboratory Investigation",
     "permalink": "/support/docs/academic-writing/citation-style/the-scandinavian-journal-of-clinical-and-laboratory-investigation"
   },
   "next": {
-    "title": "the-university-of-new-south-wales--oxford",
+    "title": "The University of New South Wales - Oxford",
     "permalink": "/support/docs/academic-writing/citation-style/the-university-of-new-south-wales--oxford"
   }
 }

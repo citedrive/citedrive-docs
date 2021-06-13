@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
   "id": "academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
   "isDocsHomePage": false,
-  "title": "zeitschrift-fur-kunstgeschichte",
-  "description": "---",
+  "title": "Zeitschrift für Kunstgeschichte",
+  "description": "When you 're tasked by using \"Zeitschrift für Kunstgeschichte\" (ZfK) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
   "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-kunstgeschichte.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zeitschrift-fur-internationale-beziehungen-german",
+    "title": "Zeitschrift für Internationale Beziehungen (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-internationale-beziehungen-german"
   },
   "next": {
-    "title": "zeitschrift-fur-medien-und-kulturforschung-german",
+    "title": "Zeitschrift für Medien- und Kulturforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-medien-und-kulturforschung-german"
   }
 }

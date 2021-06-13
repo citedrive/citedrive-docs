@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/liverpool-john-moores-university--harvard",
   "id": "academic-writing/citation-style/liverpool-john-moores-university--harvard",
   "isDocsHomePage": false,
-  "title": "liverpool-john-moores-university--harvard",
-  "description": "---",
+  "title": "Liverpool John Moores University - Harvard",
+  "description": "When you 're tasked by using \"Liverpool John Moores University - Harvard\" (LJMU Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/liverpool-john-moores-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "liver-international",
+    "title": "Liver International",
     "permalink": "/support/docs/academic-writing/citation-style/liver-international"
   },
   "next": {
-    "title": "london-metropolitan-university--harvard",
+    "title": "London Metropolitan University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/london-metropolitan-university--harvard"
   }
 }

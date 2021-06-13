@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--basic-numeric-brackets",
   "id": "academic-writing/citation-style/springer--basic-numeric-brackets",
   "isDocsHomePage": false,
-  "title": "springer--basic-numeric-brackets",
-  "description": "---",
+  "title": "Springer - Basic (numeric, brackets)",
+  "description": "When you 're tasked by using \"Springer - Basic (numeric, brackets)\" (Veget Hist Archaeobot) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--basic-numeric-brackets.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--basic-numeric-brackets",
   "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-numeric-brackets.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--basic-numeric-brackets-no-et-al",
+    "title": "Springer - Basic (numeric, brackets, no \"et al.\")",
     "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets-no-et-al"
   },
   "next": {
-    "title": "springer--fachzeitschriften-medizin-psychologie-german",
+    "title": "Springer - Fachzeitschriften Medizin Psychologie (German)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/serdica-journal-of-computing",
   "id": "academic-writing/citation-style/serdica-journal-of-computing",
   "isDocsHomePage": false,
-  "title": "serdica-journal-of-computing",
-  "description": "---",
+  "title": "Serdica Journal of Computing",
+  "description": "When you 're tasked by using \"Serdica Journal of Computing\" (SJC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/serdica-journal-of-computing.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/serdica-journal-of-computing",
   "permalink": "/support/docs/academic-writing/citation-style/serdica-journal-of-computing",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/serdica-journal-of-computing.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "seminars-in-pediatric-neurology",
+    "title": "Seminars in Pediatric Neurology",
     "permalink": "/support/docs/academic-writing/citation-style/seminars-in-pediatric-neurology"
   },
   "next": {
-    "title": "service-medical-de-lassurance-maladie-french",
+    "title": "Service Médical de l''Assurance Maladie (French)",
     "permalink": "/support/docs/academic-writing/citation-style/service-medical-de-lassurance-maladie-french"
   }
 }

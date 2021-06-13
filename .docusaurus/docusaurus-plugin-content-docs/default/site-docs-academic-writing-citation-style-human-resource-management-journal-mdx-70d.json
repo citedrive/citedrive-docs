@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/human-resource-management-journal",
   "id": "academic-writing/citation-style/human-resource-management-journal",
   "isDocsHomePage": false,
-  "title": "human-resource-management-journal",
-  "description": "---",
+  "title": "Human Resource Management Journal",
+  "description": "When you 're tasked by using \"Human Resource Management Journal\" (Nat Hazards) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/human-resource-management-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/human-resource-management-journal",
   "permalink": "/support/docs/academic-writing/citation-style/human-resource-management-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-resource-management-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "human-reproduction",
+    "title": "Human Reproduction",
     "permalink": "/support/docs/academic-writing/citation-style/human-reproduction"
   },
   "next": {
-    "title": "humanistica-lovaniensia-journal-of-neolatin-studies",
+    "title": "Humanistica Lovaniensia. Journal of Neo-Latin Studies",
     "permalink": "/support/docs/academic-writing/citation-style/humanistica-lovaniensia-journal-of-neolatin-studies"
   }
 }

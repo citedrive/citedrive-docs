@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/modern-phytomorphology",
   "id": "academic-writing/citation-style/modern-phytomorphology",
   "isDocsHomePage": false,
-  "title": "modern-phytomorphology",
-  "description": "---",
+  "title": "Modern Phytomorphology",
+  "description": "When you 're tasked by using \"Modern Phytomorphology\" (ModPhytomorphol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/modern-phytomorphology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/modern-phytomorphology",
   "permalink": "/support/docs/academic-writing/citation-style/modern-phytomorphology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/modern-phytomorphology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "modern-pathology",
+    "title": "Modern Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/modern-pathology"
   },
   "next": {
-    "title": "mohr-siebeck--recht-german--austria",
+    "title": "Mohr Siebeck - Recht (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/mohr-siebeck--recht-german--austria"
   }
 }

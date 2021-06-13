@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-peptide-science",
   "id": "academic-writing/citation-style/journal-of-peptide-science",
   "isDocsHomePage": false,
-  "title": "journal-of-peptide-science",
-  "description": "---",
+  "title": "Journal of Peptide Science",
+  "description": "When you 're tasked by using \"Journal of Peptide Science\" (J. Pept. Sci.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-peptide-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-peptide-science",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-peptide-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-peptide-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-pediatric-gastroenterology-and-nutrition",
+    "title": "Journal of Pediatric Gastroenterology and Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-pediatric-gastroenterology-and-nutrition"
   },
   "next": {
-    "title": "journal-of-perinatal-medicine",
+    "title": "Journal of Perinatal Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-perinatal-medicine"
   }
 }

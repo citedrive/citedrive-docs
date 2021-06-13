@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/letters-in-applied-microbiology",
   "id": "academic-writing/citation-style/letters-in-applied-microbiology",
   "isDocsHomePage": false,
-  "title": "letters-in-applied-microbiology",
-  "description": "---",
+  "title": "Letters in Applied Microbiology",
+  "description": "When you 're tasked by using \"Letters in Applied Microbiology\" (LAM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/letters-in-applied-microbiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/letters-in-applied-microbiology",
   "permalink": "/support/docs/academic-writing/citation-style/letters-in-applied-microbiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/letters-in-applied-microbiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "lethaia",
+    "title": "Lethaia",
     "permalink": "/support/docs/academic-writing/citation-style/lethaia"
   },
   "next": {
-    "title": "lettres-et-sciences-humaines-biblio-et-notes-french",
+    "title": "Lettres et Sciences Humaines (biblio et notes, French)",
     "permalink": "/support/docs/academic-writing/citation-style/lettres-et-sciences-humaines-biblio-et-notes-french"
   }
 }

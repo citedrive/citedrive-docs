@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french",
   "id": "academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french",
   "isDocsHomePage": false,
-  "title": "bibliotheque-universitaire-de-medecine--vancouver-french",
-  "description": "---",
+  "title": "Bibliothèque universitaire de médecine - Vancouver (French)",
+  "description": "When you 're tasked by using \"Bibliothèque universitaire de médecine - Vancouver (French)\" (BiUM Vancouver) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french",
   "permalink": "/support/docs/academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bibliotheque-universitaire-de-medecine--vancouver-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french",
+    "title": "Bibliothèque d''archéologie méditerranéenne et africaine (BiAMA) (French)",
     "permalink": "/support/docs/academic-writing/citation-style/bibliotheque-darcheologie-mediterraneenne-et-africaine-biama-french"
   },
   "next": {
-    "title": "bibtex-generic-citation-style",
+    "title": "BibTeX generic citation style",
     "permalink": "/support/docs/academic-writing/citation-style/bibtex-generic-citation-style"
   }
 }

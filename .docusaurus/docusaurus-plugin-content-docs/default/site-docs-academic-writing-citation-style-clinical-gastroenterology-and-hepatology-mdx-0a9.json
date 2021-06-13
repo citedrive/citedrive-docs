@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
   "id": "academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
   "isDocsHomePage": false,
-  "title": "clinical-gastroenterology-and-hepatology",
-  "description": "---",
+  "title": "Clinical Gastroenterology and Hepatology",
+  "description": "When you 're tasked by using \"Clinical Gastroenterology and Hepatology\" (CGH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-dysmorphology",
+    "title": "Clinical Dysmorphology",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-dysmorphology"
   },
   "next": {
-    "title": "clinical-hemorheology-and-microcirculation",
+    "title": "Clinical Hemorheology and Microcirculation",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-hemorheology-and-microcirculation"
   }
 }

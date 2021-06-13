@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cranfield-university--harvard",
   "id": "academic-writing/citation-style/cranfield-university--harvard",
   "isDocsHomePage": false,
-  "title": "cranfield-university--harvard",
-  "description": "---",
+  "title": "Cranfield University - Harvard",
+  "description": "When you 're tasked by using \"Cranfield University - Harvard\" (Cranfield Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cranfield-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cranfield-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/cranfield-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cranfield-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "coventry-university--harvard",
+    "title": "Coventry University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/coventry-university--harvard"
   },
   "next": {
-    "title": "cranfield-university-numeric",
+    "title": "Cranfield University (numeric)",
     "permalink": "/support/docs/academic-writing/citation-style/cranfield-university-numeric"
   }
 }

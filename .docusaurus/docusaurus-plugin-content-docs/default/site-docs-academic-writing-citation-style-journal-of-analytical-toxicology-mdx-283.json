@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-analytical-toxicology",
   "id": "academic-writing/citation-style/journal-of-analytical-toxicology",
   "isDocsHomePage": false,
-  "title": "journal-of-analytical-toxicology",
-  "description": "---",
+  "title": "Journal of Analytical Toxicology",
+  "description": "When you 're tasked by using \"Journal of Analytical Toxicology\" (JCMM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-analytical-toxicology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-analytical-toxicology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-analytical-toxicology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-analytical-toxicology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-alzheimers-disease",
+    "title": "Journal of Alzheimer''s Disease",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-alzheimers-disease"
   },
   "next": {
-    "title": "journal-of-animal-physiology-and-animal-nutrition",
+    "title": "Journal of Animal Physiology and Animal Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-animal-physiology-and-animal-nutrition"
   }
 }

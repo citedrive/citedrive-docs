@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/collections-electroniques-de-linha-authordate-french",
   "id": "academic-writing/citation-style/collections-electroniques-de-linha-authordate-french",
   "isDocsHomePage": false,
-  "title": "collections-electroniques-de-linha-authordate-french",
-  "description": "---",
+  "title": "Collections électroniques de l''INHA (author-date, French)",
+  "description": "When you 're tasked by using \"Collections électroniques de l''INHA (author-date, French)\" (INRAP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/collections-electroniques-de-linha-authordate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/collections-electroniques-de-linha-authordate-french",
   "permalink": "/support/docs/academic-writing/citation-style/collections-electroniques-de-linha-authordate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/collections-electroniques-de-linha-authordate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "collection-du-centre-jeanberard-french",
+    "title": "Collection du Centre Jean-Bérard (French)",
     "permalink": "/support/docs/academic-writing/citation-style/collection-du-centre-jeanberard-french"
   },
   "next": {
-    "title": "collections-electroniques-de-linha-full-note-french",
+    "title": "Collections électroniques de l''INHA (full note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/collections-electroniques-de-linha-full-note-french"
   }
 }

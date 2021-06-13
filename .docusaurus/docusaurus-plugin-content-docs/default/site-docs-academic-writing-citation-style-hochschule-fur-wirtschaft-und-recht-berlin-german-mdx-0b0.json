@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german",
   "id": "academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german",
   "isDocsHomePage": false,
-  "title": "hochschule-fur-wirtschaft-und-recht-berlin-german",
-  "description": "---",
+  "title": "Hochschule für Wirtschaft und Recht Berlin (German)",
+  "description": "When you 're tasked by using \"Hochschule für Wirtschaft und Recht Berlin (German)\" (HWR Berlin) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german",
   "permalink": "/support/docs/academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hochschule-fur-wirtschaft-und-recht-berlin-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hochschule-fur-soziale-arbeit-fhnw-german--switzerland",
+    "title": "Hochschule für Soziale Arbeit FHNW (German - Switzerland)",
     "permalink": "/support/docs/academic-writing/citation-style/hochschule-fur-soziale-arbeit-fhnw-german--switzerland"
   },
   "next": {
-    "title": "hochschule-hannover--soziale-arbeit-german",
+    "title": "Hochschule Hannover - Soziale Arbeit (German)",
     "permalink": "/support/docs/academic-writing/citation-style/hochschule-hannover--soziale-arbeit-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/representation",
   "id": "academic-writing/citation-style/representation",
   "isDocsHomePage": false,
-  "title": "representation",
-  "description": "---",
+  "title": "Representation",
+  "description": "When you 're tasked by using \"Representation\" (JALA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/representation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/representation",
   "permalink": "/support/docs/academic-writing/citation-style/representation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/representation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "reports-of-practical-oncology-and-radiotherapy",
+    "title": "Reports of Practical Oncology and Radiotherapy",
     "permalink": "/support/docs/academic-writing/citation-style/reports-of-practical-oncology-and-radiotherapy"
   },
   "next": {
-    "title": "reproduction-fertility-and-development",
+    "title": "Reproduction, Fertility and Development",
     "permalink": "/support/docs/academic-writing/citation-style/reproduction-fertility-and-development"
   }
 }

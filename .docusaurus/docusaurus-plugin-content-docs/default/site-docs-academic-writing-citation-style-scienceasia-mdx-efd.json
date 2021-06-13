@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/scienceasia",
   "id": "academic-writing/citation-style/scienceasia",
   "isDocsHomePage": false,
-  "title": "scienceasia",
-  "description": "---",
+  "title": "ScienceAsia",
+  "description": "When you 're tasked by using \"ScienceAsia\" (SciAs) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/scienceasia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/scienceasia",
   "permalink": "/support/docs/academic-writing/citation-style/scienceasia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scienceasia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "science",
+    "title": "Science",
     "permalink": "/support/docs/academic-writing/citation-style/science"
   },
   "next": {
-    "title": "sciences-po--ecole-doctorale-authordate-french",
+    "title": "Sciences Po - Ecole doctorale (author-date, French)",
     "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french"
   }
 }

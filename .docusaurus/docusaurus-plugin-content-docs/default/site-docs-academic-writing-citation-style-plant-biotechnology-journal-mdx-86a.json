@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/plant-biotechnology-journal",
   "id": "academic-writing/citation-style/plant-biotechnology-journal",
   "isDocsHomePage": false,
-  "title": "plant-biotechnology-journal",
-  "description": "---",
+  "title": "Plant Biotechnology Journal",
+  "description": "When you 're tasked by using \"Plant Biotechnology Journal\" (PBJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/plant-biotechnology-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/plant-biotechnology-journal",
   "permalink": "/support/docs/academic-writing/citation-style/plant-biotechnology-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/plant-biotechnology-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "plant-biology",
+    "title": "Plant Biology",
     "permalink": "/support/docs/academic-writing/citation-style/plant-biology"
   },
   "next": {
-    "title": "plant-cell-and-environment",
+    "title": "Plant, Cell & Environment",
     "permalink": "/support/docs/academic-writing/citation-style/plant-cell-and-environment"
   }
 }

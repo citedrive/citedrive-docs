@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/weed-science-society-of-america",
   "id": "academic-writing/citation-style/weed-science-society-of-america",
   "isDocsHomePage": false,
-  "title": "weed-science-society-of-america",
-  "description": "---",
+  "title": "Weed Science Society of America",
+  "description": "When you 're tasked by using \"Weed Science Society of America\" (WSSA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/weed-science-society-of-america.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/weed-science-society-of-america",
   "permalink": "/support/docs/academic-writing/citation-style/weed-science-society-of-america",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/weed-science-society-of-america.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "weed-research",
+    "title": "Weed Research",
     "permalink": "/support/docs/academic-writing/citation-style/weed-research"
   },
   "next": {
-    "title": "west-european-politics",
+    "title": "West European Politics",
     "permalink": "/support/docs/academic-writing/citation-style/west-european-politics"
   }
 }

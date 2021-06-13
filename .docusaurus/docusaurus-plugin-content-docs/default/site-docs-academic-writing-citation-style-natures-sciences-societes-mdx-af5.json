@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/natures-sciences-societes",
   "id": "academic-writing/citation-style/natures-sciences-societes",
   "isDocsHomePage": false,
-  "title": "natures-sciences-societes",
-  "description": "---",
+  "title": "Natures Sciences Sociétés",
+  "description": "When you 're tasked by using \"Natures Sciences Sociétés\" (NSS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/natures-sciences-societes.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/natures-sciences-societes",
   "permalink": "/support/docs/academic-writing/citation-style/natures-sciences-societes",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/natures-sciences-societes.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nature",
+    "title": "Nature",
     "permalink": "/support/docs/academic-writing/citation-style/nature"
   },
   "next": {
-    "title": "nauplius",
+    "title": "Nauplius",
     "permalink": "/support/docs/academic-writing/citation-style/nauplius"
   }
 }

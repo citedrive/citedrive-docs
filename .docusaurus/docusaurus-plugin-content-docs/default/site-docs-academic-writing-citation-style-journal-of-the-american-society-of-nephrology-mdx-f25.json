@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-american-society-of-nephrology",
   "id": "academic-writing/citation-style/journal-of-the-american-society-of-nephrology",
   "isDocsHomePage": false,
-  "title": "journal-of-the-american-society-of-nephrology",
-  "description": "---",
+  "title": "Journal of the American Society of Nephrology",
+  "description": "When you 're tasked by using \"Journal of the American Society of Nephrology\" (Trauma Berufskrankheit) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-society-of-nephrology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-american-society-of-nephrology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-nephrology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-society-of-nephrology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-american-society-of-brewing-chemists",
+    "title": "Journal of the American Society of Brewing Chemists",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-brewing-chemists"
   },
   "next": {
-    "title": "journal-of-the-american-water-resources-association",
+    "title": "Journal of the American Water Resources Association",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-water-resources-association"
   }
 }

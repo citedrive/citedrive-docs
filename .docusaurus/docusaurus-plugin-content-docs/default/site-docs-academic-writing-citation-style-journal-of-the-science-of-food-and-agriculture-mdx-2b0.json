@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture",
   "id": "academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture",
   "isDocsHomePage": false,
-  "title": "journal-of-the-science-of-food-and-agriculture",
-  "description": "---",
+  "title": "Journal of the Science of Food and Agriculture",
+  "description": "When you 're tasked by using \"Journal of the Science of Food and Agriculture\" (JSFA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-science-of-food-and-agriculture.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-royal-statistical-society",
+    "title": "Journal of the Royal Statistical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-royal-statistical-society"
   },
   "next": {
-    "title": "journal-of-the-serbian-chemical-society",
+    "title": "Journal of the Serbian Chemical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-serbian-chemical-society"
   }
 }

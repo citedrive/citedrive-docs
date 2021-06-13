@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-geological-society-of-america",
   "id": "academic-writing/citation-style/the-geological-society-of-america",
   "isDocsHomePage": false,
-  "title": "the-geological-society-of-america",
-  "description": "---",
+  "title": "The Geological Society of America",
+  "description": "When you 're tasked by using \"The Geological Society of America\" (GSA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-geological-society-of-america.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-geological-society-of-america",
   "permalink": "/support/docs/academic-writing/citation-style/the-geological-society-of-america",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-geological-society-of-america.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-febs-journal",
+    "title": "The FEBS Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-febs-journal"
   },
   "next": {
-    "title": "the-geological-society-of-london",
+    "title": "The Geological Society of London",
     "permalink": "/support/docs/academic-writing/citation-style/the-geological-society-of-london"
   }
 }

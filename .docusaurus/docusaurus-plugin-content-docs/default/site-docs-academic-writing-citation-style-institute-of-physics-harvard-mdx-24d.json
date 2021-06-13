@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/institute-of-physics--harvard",
   "id": "academic-writing/citation-style/institute-of-physics--harvard",
   "isDocsHomePage": false,
-  "title": "institute-of-physics--harvard",
-  "description": "---",
+  "title": "Institute of Physics - Harvard",
+  "description": "When you 're tasked by using \"Institute of Physics - Harvard\" (IOP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/institute-of-physics--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/institute-of-physics--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/institute-of-physics--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institute-of-physics--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "institute-of-mathematics-and-its-applications",
+    "title": "Institute of Mathematics and its Applications",
     "permalink": "/support/docs/academic-writing/citation-style/institute-of-mathematics-and-its-applications"
   },
   "next": {
-    "title": "institute-of-physics-numeric",
+    "title": "Institute of Physics (numeric)",
     "permalink": "/support/docs/academic-writing/citation-style/institute-of-physics-numeric"
   }
 }

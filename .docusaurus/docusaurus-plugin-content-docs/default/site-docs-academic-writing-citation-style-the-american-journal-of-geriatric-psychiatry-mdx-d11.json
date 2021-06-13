@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry",
   "id": "academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry",
   "isDocsHomePage": false,
-  "title": "the-american-journal-of-geriatric-psychiatry",
-  "description": "---",
+  "title": "The American Journal of Geriatric Psychiatry",
+  "description": "When you 're tasked by using \"The American Journal of Geriatric Psychiatry\" (AJGP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry",
   "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-american-journal-of-geriatric-psychiatry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-american-journal-of-gastroenterology",
+    "title": "The American Journal of Gastroenterology",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-gastroenterology"
   },
   "next": {
-    "title": "the-american-journal-of-human-genetics",
+    "title": "The American Journal of Human Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-human-genetics"
   }
 }

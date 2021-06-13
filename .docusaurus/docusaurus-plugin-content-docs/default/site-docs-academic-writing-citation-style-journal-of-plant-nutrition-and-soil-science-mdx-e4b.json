@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science",
   "id": "academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science",
   "isDocsHomePage": false,
-  "title": "journal-of-plant-nutrition-and-soil-science",
-  "description": "---",
+  "title": "Journal of Plant Nutrition and Soil Science",
+  "description": "When you 're tasked by using \"Journal of Plant Nutrition and Soil Science\" (JPNSS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-plant-nutrition-and-soil-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-plant-ecology",
+    "title": "Journal of Plant Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-plant-ecology"
   },
   "next": {
-    "title": "journal-of-plant-protection-research",
+    "title": "Journal of Plant Protection Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-plant-protection-research"
   }
 }

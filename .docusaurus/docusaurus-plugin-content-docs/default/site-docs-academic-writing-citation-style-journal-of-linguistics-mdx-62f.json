@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-linguistics",
   "id": "academic-writing/citation-style/journal-of-linguistics",
   "isDocsHomePage": false,
-  "title": "journal-of-linguistics",
-  "description": "---",
+  "title": "Journal of Linguistics",
+  "description": "When you 're tasked by using \"Journal of Linguistics\" (JoL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-linguistics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-linguistics",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-linguistics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-linguistics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-limnology",
+    "title": "Journal of Limnology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-limnology"
   },
   "next": {
-    "title": "journal-of-lipid-research",
+    "title": "Journal of Lipid Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-lipid-research"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-neurochemistry",
   "id": "academic-writing/citation-style/journal-of-neurochemistry",
   "isDocsHomePage": false,
-  "title": "journal-of-neurochemistry",
-  "description": "---",
+  "title": "Journal of Neurochemistry",
+  "description": "When you 're tasked by using \"Journal of Neurochemistry\" (JoN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-neurochemistry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-neurochemistry",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurochemistry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neurochemistry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-neolithic-archaeology",
+    "title": "Journal of Neolithic Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neolithic-archaeology"
   },
   "next": {
-    "title": "journal-of-neuroendocrinology",
+    "title": "Journal of Neuroendocrinology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neuroendocrinology"
   }
 }

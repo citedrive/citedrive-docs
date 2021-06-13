@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian",
   "id": "academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian",
   "isDocsHomePage": false,
-  "title": "studi-e-materiali-di-storia-delle-religioni-italian",
-  "description": "---",
+  "title": "Studi e materiali di storia delle religioni (Italian)",
+  "description": "When you 're tasked by using \"Studi e materiali di storia delle religioni (Italian)\" (SMSR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian",
   "permalink": "/support/docs/academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/studi-e-materiali-di-storia-delle-religioni-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "structural-control-and-health-monitoring",
+    "title": "Structural Control and Health Monitoring",
     "permalink": "/support/docs/academic-writing/citation-style/structural-control-and-health-monitoring"
   },
   "next": {
-    "title": "studia-bas-polish",
+    "title": "Studia BAS (Polish)",
     "permalink": "/support/docs/academic-writing/citation-style/studia-bas-polish"
   }
 }

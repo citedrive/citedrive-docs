@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/neuroreport",
   "id": "academic-writing/citation-style/neuroreport",
   "isDocsHomePage": false,
-  "title": "neuroreport",
-  "description": "---",
+  "title": "NeuroReport",
+  "description": "When you 're tasked by using \"NeuroReport\" (Scand J Med Sci Sports) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/neuroreport.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/neuroreport",
   "permalink": "/support/docs/academic-writing/citation-style/neuroreport",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neuroreport.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "neurorehabilitation-and-neural-repair",
+    "title": "Neurorehabilitation and Neural Repair",
     "permalink": "/support/docs/academic-writing/citation-style/neurorehabilitation-and-neural-repair"
   },
   "next": {
-    "title": "neurosurgery-clinics-of-north-america",
+    "title": "Neurosurgery Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/neurosurgery-clinics-of-north-america"
   }
 }

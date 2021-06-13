@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-open-university-numeric",
   "id": "academic-writing/citation-style/the-open-university-numeric",
   "isDocsHomePage": false,
-  "title": "the-open-university-numeric",
-  "description": "---",
+  "title": "The Open University (numeric)",
+  "description": "When you 're tasked by using \"The Open University (numeric)\" (KJR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-open-university-numeric.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-open-university-numeric",
   "permalink": "/support/docs/academic-writing/citation-style/the-open-university-numeric",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-open-university-numeric.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-open-university-numeric-superscript",
+    "title": "The Open University (numeric, superscript)",
     "permalink": "/support/docs/academic-writing/citation-style/the-open-university-numeric-superscript"
   },
   "next": {
-    "title": "the-optical-society",
+    "title": "The Optical Society",
     "permalink": "/support/docs/academic-writing/citation-style/the-optical-society"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/iso690-authordate-french",
   "id": "academic-writing/citation-style/iso690-authordate-french",
   "isDocsHomePage": false,
-  "title": "iso690-authordate-french",
-  "description": "---",
+  "title": "ISO-690 (author-date, French)",
+  "description": "When you 're tasked by using \"ISO-690 (author-date, French)\" (AOSIS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/iso690-authordate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/iso690-authordate-french",
   "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-authordate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iso690-authordate-english",
+    "title": "ISO-690 (author-date, English)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-english"
   },
   "next": {
-    "title": "iso690-authordate-german",
+    "title": "ISO-690 (author-date, German)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-german"
   }
 }

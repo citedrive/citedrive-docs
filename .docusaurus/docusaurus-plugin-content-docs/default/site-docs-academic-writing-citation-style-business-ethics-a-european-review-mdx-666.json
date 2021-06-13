@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/business-ethics-a-european-review",
   "id": "academic-writing/citation-style/business-ethics-a-european-review",
   "isDocsHomePage": false,
-  "title": "business-ethics-a-european-review",
-  "description": "---",
+  "title": "Business Ethics: A European Review",
+  "description": "When you 're tasked by using \"Business Ethics: A European Review\" (Offa) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/business-ethics-a-european-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/business-ethics-a-european-review",
   "permalink": "/support/docs/academic-writing/citation-style/business-ethics-a-european-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/business-ethics-a-european-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bursa-uludag-universitesi-fen-bilimleri-enstitusu",
+    "title": "Bursa Uludag Üniversitesi Fen Bilimleri Enstitüsü",
     "permalink": "/support/docs/academic-writing/citation-style/bursa-uludag-universitesi-fen-bilimleri-enstitusu"
   },
   "next": {
-    "title": "byzantina-symmeikta",
+    "title": "BYZANTINA SYMMEIKTA",
     "permalink": "/support/docs/academic-writing/citation-style/byzantina-symmeikta"
   }
 }

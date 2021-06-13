@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-the-west-of-scotland--harvard",
   "id": "academic-writing/citation-style/university-of-the-west-of-scotland--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-the-west-of-scotland--harvard",
-  "description": "---",
+  "title": "University of the West of Scotland - Harvard",
+  "description": "When you 're tasked by using \"University of the West of Scotland - Harvard\" (IJPP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-the-west-of-scotland--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-the-west-of-scotland--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-scotland--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-the-west-of-scotland--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-the-west-of-england-bristol--harvard",
+    "title": "University of the West of England (Bristol) - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-the-west-of-england-bristol--harvard"
   },
   "next": {
-    "title": "university-of-westminster--harvard",
+    "title": "University of Westminster - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-westminster--harvard"
   }
 }

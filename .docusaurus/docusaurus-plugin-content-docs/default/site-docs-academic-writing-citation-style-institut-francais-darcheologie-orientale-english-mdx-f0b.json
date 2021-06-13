@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/institut-francais-darcheologie-orientale-english",
   "id": "academic-writing/citation-style/institut-francais-darcheologie-orientale-english",
   "isDocsHomePage": false,
-  "title": "institut-francais-darcheologie-orientale-english",
-  "description": "---",
+  "title": "Institut français d''archéologie orientale (English)",
+  "description": "When you 're tasked by using \"Institut français d''archéologie orientale (English)\" (IFAO (EN)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/institut-francais-darcheologie-orientale-english.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/institut-francais-darcheologie-orientale-english",
   "permalink": "/support/docs/academic-writing/citation-style/institut-francais-darcheologie-orientale-english",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-francais-darcheologie-orientale-english.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "instap-academic-press",
+    "title": "INSTAP Academic Press",
     "permalink": "/support/docs/academic-writing/citation-style/instap-academic-press"
   },
   "next": {
-    "title": "institut-francais-darcheologie-orientale-french",
+    "title": "Institut français d''archéologie orientale (French)",
     "permalink": "/support/docs/academic-writing/citation-style/institut-francais-darcheologie-orientale-french"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/citation-compass-kildekompasset--apa-note",
   "id": "academic-writing/citation-style/citation-compass-kildekompasset--apa-note",
   "isDocsHomePage": false,
-  "title": "citation-compass-kildekompasset--apa-note",
-  "description": "---",
+  "title": "Citation Compass (Kildekompasset) - APA (note)",
+  "description": "When you 're tasked by using \"Citation Compass (Kildekompasset) - APA (note)\" (Rev Account Stud) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/citation-compass-kildekompasset--apa-note.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/citation-compass-kildekompasset--apa-note",
   "permalink": "/support/docs/academic-writing/citation-style/citation-compass-kildekompasset--apa-note",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/citation-compass-kildekompasset--apa-note.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cirugia-cardiovascular-spanish",
+    "title": "Cirugia Cardiovascular (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/cirugia-cardiovascular-spanish"
   },
   "next": {
-    "title": "cite-them-right-10th-edition--harvard-no-et-al",
+    "title": "Cite Them Right 10th edition - Harvard (no \"et al.\")",
     "permalink": "/support/docs/academic-writing/citation-style/cite-them-right-10th-edition--harvard-no-et-al"
   }
 }

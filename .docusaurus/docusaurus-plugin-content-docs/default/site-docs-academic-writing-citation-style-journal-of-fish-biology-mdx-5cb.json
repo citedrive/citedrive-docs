@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-fish-biology",
   "id": "academic-writing/citation-style/journal-of-fish-biology",
   "isDocsHomePage": false,
-  "title": "journal-of-fish-biology",
-  "description": "---",
+  "title": "Journal of Fish Biology",
+  "description": "When you 're tasked by using \"Journal of Fish Biology\" (JFB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-fish-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-fish-biology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-fish-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-fish-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-finance",
+    "title": "Journal of Finance",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-finance"
   },
   "next": {
-    "title": "journal-of-food-protection",
+    "title": "Journal of Food Protection",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-food-protection"
   }
 }

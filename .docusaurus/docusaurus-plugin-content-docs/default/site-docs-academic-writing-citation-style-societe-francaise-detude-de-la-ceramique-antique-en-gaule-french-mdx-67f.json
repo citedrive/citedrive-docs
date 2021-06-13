@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
   "id": "academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
   "isDocsHomePage": false,
-  "title": "societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
-  "description": "---",
+  "title": "Société Française d’Étude de la Céramique Antique en Gaule (French)",
+  "description": "When you 're tasked by using \"Société Française d’Étude de la Céramique Antique en Gaule (French)\" (SFECAG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
   "permalink": "/support/docs/academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/societe-francaise-detude-de-la-ceramique-antique-en-gaule-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "societe-archeologique-de-bordeaux-french",
+    "title": "Société Archéologique de Bordeaux (French)",
     "permalink": "/support/docs/academic-writing/citation-style/societe-archeologique-de-bordeaux-french"
   },
   "next": {
-    "title": "societe-nationale-des-groupements-techniques-veterinaires-french",
+    "title": "Société Nationale des Groupements Techniques Vétérinaires (French)",
     "permalink": "/support/docs/academic-writing/citation-style/societe-nationale-des-groupements-techniques-veterinaires-french"
   }
 }

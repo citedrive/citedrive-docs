@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine",
   "id": "academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine",
   "isDocsHomePage": false,
-  "title": "journal-of-zoo-and-wildlife-medicine",
-  "description": "---",
+  "title": "Journal of Zoo and Wildlife Medicine",
+  "description": "When you 're tasked by using \"Journal of Zoo and Wildlife Medicine\" (Gruppendyn Organisationsberat) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-wildlife-diseases",
+    "title": "Journal of Wildlife Diseases",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-wildlife-diseases"
   },
   "next": {
-    "title": "journal-of-zoo-biology",
+    "title": "Journal of Zoo Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-zoo-biology"
   }
 }

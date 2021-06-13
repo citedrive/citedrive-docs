@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/human-ecology",
   "id": "academic-writing/citation-style/human-ecology",
   "isDocsHomePage": false,
-  "title": "human-ecology",
-  "description": "---",
+  "title": "Human Ecology",
+  "description": "When you 're tasked by using \"Human Ecology\" (Asian Criminology) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/human-ecology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/human-ecology",
   "permalink": "/support/docs/academic-writing/citation-style/human-ecology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-ecology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "human-brain-mapping",
+    "title": "Human Brain Mapping",
     "permalink": "/support/docs/academic-writing/citation-style/human-brain-mapping"
   },
   "next": {
-    "title": "human-gene-therapy",
+    "title": "Human Gene Therapy",
     "permalink": "/support/docs/academic-writing/citation-style/human-gene-therapy"
   }
 }

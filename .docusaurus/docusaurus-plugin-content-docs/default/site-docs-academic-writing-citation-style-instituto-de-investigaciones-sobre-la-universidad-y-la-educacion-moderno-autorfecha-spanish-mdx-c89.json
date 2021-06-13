@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
   "id": "academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
   "isDocsHomePage": false,
-  "title": "instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
-  "description": "---",
+  "title": "Instituto de Investigaciones sobre la Universidad y la Educación - Moderno (autor-fecha, Spanish)",
+  "description": "When you 're tasked by using \"Instituto de Investigaciones sobre la Universidad y la Educación - Moderno (autor-fecha, Spanish)\" (IISUE Moderno) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-de-investigaciones-sobre-la-universidad-y-la-educacion--moderno-autorfecha-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa",
+    "title": "Instituto Brasileiro de Informação em Ciência e Tecnologia - ABNT (autoria completa)",
     "permalink": "/support/docs/academic-writing/citation-style/instituto-brasileiro-de-informacao-em-ciencia-e-tecnologia--abnt-autoria-completa"
   },
   "next": {
-    "title": "instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil",
+    "title": "Instituto de Pesquisa Econômica Aplicada - ABNT (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisa-economica-aplicada--abnt-portuguese--brazil"
   }
 }

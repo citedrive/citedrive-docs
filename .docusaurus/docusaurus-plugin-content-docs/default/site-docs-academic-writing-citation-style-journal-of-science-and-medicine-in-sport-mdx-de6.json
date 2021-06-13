@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-science-and-medicine-in-sport",
   "id": "academic-writing/citation-style/journal-of-science-and-medicine-in-sport",
   "isDocsHomePage": false,
-  "title": "journal-of-science-and-medicine-in-sport",
-  "description": "---",
+  "title": "Journal of Science and Medicine in Sport",
+  "description": "When you 're tasked by using \"Journal of Science and Medicine in Sport\" (JSAMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-science-and-medicine-in-sport.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-science-and-medicine-in-sport",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-science-and-medicine-in-sport",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-science-and-medicine-in-sport.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-roman-archaeology-b",
+    "title": "Journal of Roman Archaeology (B)",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-b"
   },
   "next": {
-    "title": "journal-of-separation-science",
+    "title": "Journal of Separation Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-separation-science"
   }
 }

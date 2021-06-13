@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/eye",
   "id": "academic-writing/citation-style/eye",
   "isDocsHomePage": false,
-  "title": "eye",
-  "description": "---",
+  "title": "Eye",
+  "description": "When you 're tasked by using \"Eye\" (Indian J Otolaryngol Head Neck Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/eye.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/eye",
   "permalink": "/support/docs/academic-writing/citation-style/eye",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/eye.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "express-polymer-letters",
+    "title": "eXPRESS Polymer Letters",
     "permalink": "/support/docs/academic-writing/citation-style/express-polymer-letters"
   },
   "next": {
-    "title": "fachhochschule-kiel--fachbereich-medien-german",
+    "title": "Fachhochschule Kiel - Fachbereich Medien (German)",
     "permalink": "/support/docs/academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german"
   }
 }

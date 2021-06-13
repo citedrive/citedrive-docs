@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-molecular-recognition",
   "id": "academic-writing/citation-style/journal-of-molecular-recognition",
   "isDocsHomePage": false,
-  "title": "journal-of-molecular-recognition",
-  "description": "---",
+  "title": "Journal of Molecular Recognition",
+  "description": "When you 're tasked by using \"Journal of Molecular Recognition\" (JMR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-molecular-recognition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-molecular-recognition",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-recognition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-molecular-recognition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-molecular-endocrinology",
+    "title": "Journal of Molecular Endocrinology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-endocrinology"
   },
   "next": {
-    "title": "journal-of-molecular-signaling",
+    "title": "Journal of Molecular Signaling",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-signaling"
   }
 }

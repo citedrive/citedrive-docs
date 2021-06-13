@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-experimental-botany",
   "id": "academic-writing/citation-style/journal-of-experimental-botany",
   "isDocsHomePage": false,
-  "title": "journal-of-experimental-botany",
-  "description": "---",
+  "title": "Journal of Experimental Botany",
+  "description": "When you 're tasked by using \"Journal of Experimental Botany\" (Acta Appl Math) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-experimental-botany.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-experimental-botany",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-experimental-botany",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-experimental-botany.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-evolutionary-biology",
+    "title": "Journal of Evolutionary Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-evolutionary-biology"
   },
   "next": {
-    "title": "journal-of-field-ornithology",
+    "title": "Journal of Field Ornithology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-field-ornithology"
   }
 }

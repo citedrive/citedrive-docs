@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-economic-history-review",
   "id": "academic-writing/citation-style/the-economic-history-review",
   "isDocsHomePage": false,
-  "title": "the-economic-history-review",
-  "description": "---",
+  "title": "The Economic History Review",
+  "description": "When you 're tasked by using \"The Economic History Review\" (EHR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-economic-history-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-economic-history-review",
   "permalink": "/support/docs/academic-writing/citation-style/the-economic-history-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-economic-history-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-design-journal",
+    "title": "The Design Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-design-journal"
   },
   "next": {
-    "title": "the-european-research-journal",
+    "title": "The European Research Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-european-research-journal"
   }
 }

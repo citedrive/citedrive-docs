@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/tgm-wien-diplomarbeit-german",
   "id": "academic-writing/citation-style/tgm-wien-diplomarbeit-german",
   "isDocsHomePage": false,
-  "title": "tgm-wien-diplomarbeit-german",
-  "description": "---",
+  "title": "TGM Wien Diplomarbeit (German)",
+  "description": "When you 're tasked by using \"TGM Wien Diplomarbeit (German)\" (Mobile Netw Appl) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/tgm-wien-diplomarbeit-german",
   "permalink": "/support/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "textual-practice",
+    "title": "Textual Practice",
     "permalink": "/support/docs/academic-writing/citation-style/textual-practice"
   },
   "next": {
-    "title": "tgm-wien-diplomarbeit-onorm-german--austria",
+    "title": "TGM Wien Diplomarbeit ÖNORM (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-onorm-german--austria"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/drug-development-research",
   "id": "academic-writing/citation-style/drug-development-research",
   "isDocsHomePage": false,
-  "title": "drug-development-research",
-  "description": "---",
+  "title": "Drug Development Research",
+  "description": "When you 're tasked by using \"Drug Development Research\" (J Econ Growth) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/drug-development-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/drug-development-research",
   "permalink": "/support/docs/academic-writing/citation-style/drug-development-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/drug-development-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "documents-darcheologie-francaise-french",
+    "title": "Documents d''archéologie française (French)",
     "permalink": "/support/docs/academic-writing/citation-style/documents-darcheologie-francaise-french"
   },
   "next": {
-    "title": "drug-testing-and-analysis",
+    "title": "Drug Testing and Analysis",
     "permalink": "/support/docs/academic-writing/citation-style/drug-testing-and-analysis"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/bluebook-law-review",
   "id": "academic-writing/citation-style/bluebook-law-review",
   "isDocsHomePage": false,
-  "title": "bluebook-law-review",
-  "description": "---",
+  "title": "Bluebook Law Review",
+  "description": "When you 're tasked by using \"Bluebook Law Review\" (medizinische genetik) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/bluebook-law-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/bluebook-law-review",
   "permalink": "/support/docs/academic-writing/citation-style/bluebook-law-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bluebook-law-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bluebook-law-review-2",
+    "title": "Bluebook Law Review (2)",
     "permalink": "/support/docs/academic-writing/citation-style/bluebook-law-review-2"
   },
   "next": {
-    "title": "bmj",
+    "title": "BMJ",
     "permalink": "/support/docs/academic-writing/citation-style/bmj"
   }
 }

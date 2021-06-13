@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean",
   "id": "academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean",
   "isDocsHomePage": false,
-  "title": "economic-commission-for-latin-america-and-the-caribbean",
-  "description": "---",
+  "title": "Economic Commission for Latin America and the Caribbean",
+  "description": "When you 're tasked by using \"Economic Commission for Latin America and the Caribbean\" (ECLAC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean",
   "permalink": "/support/docs/academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "economia-y-politica-spanish--chile",
+    "title": "Economía y Política (Spanish - Chile)",
     "permalink": "/support/docs/academic-writing/citation-style/economia-y-politica-spanish--chile"
   },
   "next": {
-    "title": "economic-geology",
+    "title": "Economic Geology",
     "permalink": "/support/docs/academic-writing/citation-style/economic-geology"
   }
 }

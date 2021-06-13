@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-leeds--harvard",
   "id": "academic-writing/citation-style/university-of-leeds--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-leeds--harvard",
-  "description": "---",
+  "title": "University of Leeds - Harvard",
+  "description": "When you 're tasked by using \"University of Leeds - Harvard\" (Arch Orthop Trauma Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-leeds--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-leeds--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-leeds--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-leeds--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-kent--harvard",
+    "title": "University of Kent - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-kent--harvard"
   },
   "next": {
-    "title": "university-of-limerick-cite-it-right--harvard",
+    "title": "University of Limerick (Cite it Right) - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard"
   }
 }

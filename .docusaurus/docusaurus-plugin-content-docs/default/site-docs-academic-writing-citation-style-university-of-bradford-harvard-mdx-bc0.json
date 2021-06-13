@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-bradford--harvard",
   "id": "academic-writing/citation-style/university-of-bradford--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-bradford--harvard",
-  "description": "---",
+  "title": "University of Bradford - Harvard",
+  "description": "When you 're tasked by using \"University of Bradford - Harvard\" (LGLJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-bradford--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-bradford--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-bradford--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-bradford--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian",
+    "title": "University of Bologna - Liberal Arts College (Università di Bologna - Facoltà di Lettere e Filosofia) (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-bologna--liberal-arts-college-universita-di-bologna--facolta-di-lettere-e-filosofia-italian"
   },
   "next": {
-    "title": "university-of-brighton-school-of-environment-and-technology--harvard",
+    "title": "University of Brighton School of Environment & Technology - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-brighton-school-of-environment-and-technology--harvard"
   }
 }

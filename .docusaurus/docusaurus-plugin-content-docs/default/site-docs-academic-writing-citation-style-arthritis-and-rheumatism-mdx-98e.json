@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/arthritis-and-rheumatism",
   "id": "academic-writing/citation-style/arthritis-and-rheumatism",
   "isDocsHomePage": false,
-  "title": "arthritis-and-rheumatism",
-  "description": "---",
+  "title": "Arthritis & Rheumatism",
+  "description": "When you 're tasked by using \"Arthritis & Rheumatism\" (Electron Markets) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/arthritis-and-rheumatism.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/arthritis-and-rheumatism",
   "permalink": "/support/docs/academic-writing/citation-style/arthritis-and-rheumatism",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arthritis-and-rheumatism.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "artery-research",
+    "title": "Artery Research",
     "permalink": "/support/docs/academic-writing/citation-style/artery-research"
   },
   "next": {
-    "title": "arts-university-bournemouth",
+    "title": "Arts University Bournemouth",
     "permalink": "/support/docs/academic-writing/citation-style/arts-university-bournemouth"
   }
 }

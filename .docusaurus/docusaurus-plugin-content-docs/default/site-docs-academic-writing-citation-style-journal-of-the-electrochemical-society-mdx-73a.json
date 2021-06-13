@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-electrochemical-society",
   "id": "academic-writing/citation-style/journal-of-the-electrochemical-society",
   "isDocsHomePage": false,
-  "title": "journal-of-the-electrochemical-society",
-  "description": "---",
+  "title": "Journal of The Electrochemical Society",
+  "description": "When you 're tasked by using \"Journal of The Electrochemical Society\" (JES) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-electrochemical-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-electrochemical-society",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-electrochemical-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-electrochemical-society.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-brazilian-chemical-society",
+    "title": "Journal of the Brazilian Chemical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-brazilian-chemical-society"
   },
   "next": {
-    "title": "journal-of-the-european-academy-of-dermatology-and-venereology",
+    "title": "Journal of the European Academy of Dermatology and Venereology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-european-academy-of-dermatology-and-venereology"
   }
 }

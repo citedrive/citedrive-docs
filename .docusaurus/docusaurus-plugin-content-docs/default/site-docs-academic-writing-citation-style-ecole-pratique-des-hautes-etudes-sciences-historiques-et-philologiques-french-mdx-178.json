@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
   "id": "academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
   "isDocsHomePage": false,
-  "title": "ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
-  "description": "---",
+  "title": "École Pratique des Hautes Études - Sciences historiques et philologiques (French)",
+  "description": "When you 're tasked by using \"École Pratique des Hautes Études - Sciences historiques et philologiques (French)\" (EPHE-SHP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
   "permalink": "/support/docs/academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecole-pratique-des-hautes-etudes--sciences-historiques-et-philologiques-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ecole-de-technologie-superieure--apa-french--canada",
+    "title": "École de technologie supérieure - APA (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/ecole-de-technologie-superieure--apa-french--canada"
   },
   "next": {
-    "title": "ecological-entomology",
+    "title": "Ecological Entomology",
     "permalink": "/support/docs/academic-writing/citation-style/ecological-entomology"
   }
 }

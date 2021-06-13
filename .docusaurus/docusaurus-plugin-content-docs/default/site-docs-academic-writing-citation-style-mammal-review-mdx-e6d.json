@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mammal-review",
   "id": "academic-writing/citation-style/mammal-review",
   "isDocsHomePage": false,
-  "title": "mammal-review",
-  "description": "---",
+  "title": "Mammal Review",
+  "description": "When you 're tasked by using \"Mammal Review\" (IPT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mammal-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mammal-review",
   "permalink": "/support/docs/academic-writing/citation-style/mammal-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mammal-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "malaysian-orthopaedic-journal",
+    "title": "Malaysian Orthopaedic Journal",
     "permalink": "/support/docs/academic-writing/citation-style/malaysian-orthopaedic-journal"
   },
   "next": {
-    "title": "mammalia",
+    "title": "Mammalia",
     "permalink": "/support/docs/academic-writing/citation-style/mammalia"
   }
 }

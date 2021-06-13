@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/comparative-population-studies",
   "id": "academic-writing/citation-style/comparative-population-studies",
   "isDocsHomePage": false,
-  "title": "comparative-population-studies",
-  "description": "---",
+  "title": "Comparative Population Studies",
+  "description": "When you 're tasked by using \"Comparative Population Studies\" (J Surfact Deterg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/comparative-population-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/comparative-population-studies",
   "permalink": "/support/docs/academic-writing/citation-style/comparative-population-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/comparative-population-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "comparative-politics",
+    "title": "Comparative Politics",
     "permalink": "/support/docs/academic-writing/citation-style/comparative-politics"
   },
   "next": {
-    "title": "computer-und-recht-german",
+    "title": "Computer und Recht (German)",
     "permalink": "/support/docs/academic-writing/citation-style/computer-und-recht-german"
   }
 }

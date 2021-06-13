@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
   "id": "academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
   "isDocsHomePage": false,
-  "title": "tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
-  "description": "---",
+  "title": "TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) (Turkish)",
+  "description": "When you 're tasked by using \"TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) (Turkish)\" (TÜBİTAK (TUBITAK)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
   "permalink": "/support/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "tsaqafah",
+    "title": "Tsaqafah",
     "permalink": "/support/docs/academic-writing/citation-style/tsaqafah"
   },
   "next": {
-    "title": "turabian-8th-edition-full-note",
+    "title": "Turabian 8th edition (full note)",
     "permalink": "/support/docs/academic-writing/citation-style/turabian-8th-edition-full-note"
   }
 }

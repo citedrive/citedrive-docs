@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clays-and-clay-minerals",
   "id": "academic-writing/citation-style/clays-and-clay-minerals",
   "isDocsHomePage": false,
-  "title": "clays-and-clay-minerals",
-  "description": "---",
+  "title": "Clays and Clay Minerals",
+  "description": "When you 're tasked by using \"Clays and Clay Minerals\" (TUD WiWi) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clays-and-clay-minerals.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clays-and-clay-minerals",
   "permalink": "/support/docs/academic-writing/citation-style/clays-and-clay-minerals",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clays-and-clay-minerals.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clay-minerals",
+    "title": "Clay Minerals",
     "permalink": "/support/docs/academic-writing/citation-style/clay-minerals"
   },
   "next": {
-    "title": "climate-change-economics",
+    "title": "Climate Change Economics",
     "permalink": "/support/docs/academic-writing/citation-style/climate-change-economics"
   }
 }

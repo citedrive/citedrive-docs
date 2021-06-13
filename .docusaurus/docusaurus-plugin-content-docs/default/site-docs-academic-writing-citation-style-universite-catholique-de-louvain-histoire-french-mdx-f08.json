@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
   "id": "academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
   "isDocsHomePage": false,
-  "title": "universite-catholique-de-louvain--histoire-french",
-  "description": "---",
+  "title": "Université Catholique de Louvain - Histoire (French)",
+  "description": "When you 're tasked by using \"Université Catholique de Louvain - Histoire (French)\" (UCL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
   "permalink": "/support/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitatsmedizin-gottingen-german",
+    "title": "Universitätsmedizin Göttingen (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitatsmedizin-gottingen-german"
   },
   "next": {
-    "title": "universite-de-lausanne--histoire-french",
+    "title": "Université de Lausanne - Histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french"
   }
 }

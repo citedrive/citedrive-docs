@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/music-theory-spectrum",
   "id": "academic-writing/citation-style/music-theory-spectrum",
   "isDocsHomePage": false,
-  "title": "music-theory-spectrum",
-  "description": "---",
+  "title": "Music Theory Spectrum",
+  "description": "When you 're tasked by using \"Music Theory Spectrum\" (Rev Endocr Metab Disord) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/music-theory-spectrum.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/music-theory-spectrum",
   "permalink": "/support/docs/academic-writing/citation-style/music-theory-spectrum",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/music-theory-spectrum.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "muscle-and-nerve",
+    "title": "Muscle & Nerve",
     "permalink": "/support/docs/academic-writing/citation-style/muscle-and-nerve"
   },
   "next": {
-    "title": "mutagenesis",
+    "title": "Mutagenesis",
     "permalink": "/support/docs/academic-writing/citation-style/mutagenesis"
   }
 }

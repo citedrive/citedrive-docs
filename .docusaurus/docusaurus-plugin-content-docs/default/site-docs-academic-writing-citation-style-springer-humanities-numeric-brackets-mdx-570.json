@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--humanities-numeric-brackets",
   "id": "academic-writing/citation-style/springer--humanities-numeric-brackets",
   "isDocsHomePage": false,
-  "title": "springer--humanities-numeric-brackets",
-  "description": "---",
+  "title": "Springer - Humanities (numeric, brackets)",
+  "description": "When you 're tasked by using \"Springer - Humanities (numeric, brackets)\" (Standort) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--humanities-numeric-brackets.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--humanities-numeric-brackets",
   "permalink": "/support/docs/academic-writing/citation-style/springer--humanities-numeric-brackets",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--humanities-numeric-brackets.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--humanities-authordate",
+    "title": "Springer - Humanities (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--humanities-authordate"
   },
   "next": {
-    "title": "springer--imis-series-migrationsgesellschaften",
+    "title": "Springer - IMIS Series Migrationsgesellschaften",
     "permalink": "/support/docs/academic-writing/citation-style/springer--imis-series-migrationsgesellschaften"
   }
 }

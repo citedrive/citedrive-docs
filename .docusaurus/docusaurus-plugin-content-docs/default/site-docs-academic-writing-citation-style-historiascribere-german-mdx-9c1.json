@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/historiascribere-german",
   "id": "academic-writing/citation-style/historiascribere-german",
   "isDocsHomePage": false,
-  "title": "historiascribere-german",
-  "description": "---",
+  "title": "historia.scribere (German)",
+  "description": "When you 're tasked by using \"historia.scribere (German)\" (ULg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/historiascribere-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/historiascribere-german",
   "permalink": "/support/docs/academic-writing/citation-style/historiascribere-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/historiascribere-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "histopathology",
+    "title": "Histopathology",
     "permalink": "/support/docs/academic-writing/citation-style/histopathology"
   },
   "next": {
-    "title": "historical-materialism",
+    "title": "Historical Materialism",
     "permalink": "/support/docs/academic-writing/citation-style/historical-materialism"
   }
 }

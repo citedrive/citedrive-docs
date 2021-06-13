@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biochemical-society-transactions",
   "id": "academic-writing/citation-style/biochemical-society-transactions",
   "isDocsHomePage": false,
-  "title": "biochemical-society-transactions",
-  "description": "---",
+  "title": "Biochemical Society Transactions",
+  "description": "When you 're tasked by using \"Biochemical Society Transactions\" (Biochem Soc Trans) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biochemical-society-transactions.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biochemical-society-transactions",
   "permalink": "/support/docs/academic-writing/citation-style/biochemical-society-transactions",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biochemical-society-transactions.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biochemical-journal",
+    "title": "Biochemical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/biochemical-journal"
   },
   "next": {
-    "title": "biochemistry-and-molecular-biology-education",
+    "title": "Biochemistry and Molecular Biology Education",
     "permalink": "/support/docs/academic-writing/citation-style/biochemistry-and-molecular-biology-education"
   }
 }

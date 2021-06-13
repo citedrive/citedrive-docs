@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-clinical-sleep-medicine",
   "id": "academic-writing/citation-style/journal-of-clinical-sleep-medicine",
   "isDocsHomePage": false,
-  "title": "journal-of-clinical-sleep-medicine",
-  "description": "---",
+  "title": "Journal of Clinical Sleep Medicine",
+  "description": "When you 're tasked by using \"Journal of Clinical Sleep Medicine\" (Exp Brain Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-clinical-sleep-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-clinical-sleep-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-sleep-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-clinical-sleep-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-clinical-rheumatology",
+    "title": "Journal of Clinical Rheumatology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-rheumatology"
   },
   "next": {
-    "title": "journal-of-combinatorics",
+    "title": "Journal of Combinatorics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-combinatorics"
   }
 }

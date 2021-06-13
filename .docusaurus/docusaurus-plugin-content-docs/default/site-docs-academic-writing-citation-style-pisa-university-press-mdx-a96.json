@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pisa-university-press",
   "id": "academic-writing/citation-style/pisa-university-press",
   "isDocsHomePage": false,
-  "title": "pisa-university-press",
-  "description": "---",
+  "title": "Pisa University Press",
+  "description": "When you 're tasked by using \"Pisa University Press\" (MJC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pisa-university-press.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pisa-university-press",
   "permalink": "/support/docs/academic-writing/citation-style/pisa-university-press",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pisa-university-press.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "phytotaxa",
+    "title": "Phytotaxa",
     "permalink": "/support/docs/academic-writing/citation-style/phytotaxa"
   },
   "next": {
-    "title": "planning-practice-and-research",
+    "title": "Planning Practice & Research",
     "permalink": "/support/docs/academic-writing/citation-style/planning-practice-and-research"
   }
 }

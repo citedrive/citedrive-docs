@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/environmental-health-perspectives",
   "id": "academic-writing/citation-style/environmental-health-perspectives",
   "isDocsHomePage": false,
-  "title": "environmental-health-perspectives",
-  "description": "---",
+  "title": "Environmental Health Perspectives",
+  "description": "When you 're tasked by using \"Environmental Health Perspectives\" (EHP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/environmental-health-perspectives.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/environmental-health-perspectives",
   "permalink": "/support/docs/academic-writing/citation-style/environmental-health-perspectives",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environmental-health-perspectives.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "environmental-conservation",
+    "title": "Environmental Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-conservation"
   },
   "next": {
-    "title": "environmental-microbiology",
+    "title": "Environmental Microbiology",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-microbiology"
   }
 }

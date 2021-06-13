@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-petrology",
   "id": "academic-writing/citation-style/journal-of-petrology",
   "isDocsHomePage": false,
-  "title": "journal-of-petrology",
-  "description": "---",
+  "title": "Journal of Petrology",
+  "description": "When you 're tasked by using \"Journal of Petrology\" (Urban Forum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-petrology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-petrology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-petrology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-petrology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-periodontal-research",
+    "title": "Journal of Periodontal Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-periodontal-research"
   },
   "next": {
-    "title": "journal-of-pharmacy-and-pharmacology",
+    "title": "Journal of Pharmacy and Pharmacology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-pharmacy-and-pharmacology"
   }
 }

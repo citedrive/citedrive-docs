@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
   "id": "academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
   "isDocsHomePage": false,
-  "title": "offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
-  "description": "---",
+  "title": "Offa - Berichte und Mitteilungen zur Urgeschichte, Frühgeschichte und Mittelalterarchäologie",
+  "description": "When you 're tasked by using \"Offa - Berichte und Mitteilungen zur Urgeschichte, Frühgeschichte und Mittelalterarchäologie\" (Offa) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
   "permalink": "/support/docs/academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/offa--berichte-und-mitteilungen-zur-urgeschichte-fruhgeschichte-und-mittelalterarchaologie.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "oecologia-australis",
+    "title": "Oecologia Australis",
     "permalink": "/support/docs/academic-writing/citation-style/oecologia-australis"
   },
   "next": {
-    "title": "oikos",
+    "title": "Oikos",
     "permalink": "/support/docs/academic-writing/citation-style/oikos"
   }
 }

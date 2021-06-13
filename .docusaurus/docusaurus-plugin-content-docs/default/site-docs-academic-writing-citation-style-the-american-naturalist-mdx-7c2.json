@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-american-naturalist",
   "id": "academic-writing/citation-style/the-american-naturalist",
   "isDocsHomePage": false,
-  "title": "the-american-naturalist",
-  "description": "---",
+  "title": "The American Naturalist",
+  "description": "When you 're tasked by using \"The American Naturalist\" (TUD WiWi) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-american-naturalist.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-american-naturalist",
   "permalink": "/support/docs/academic-writing/citation-style/the-american-naturalist",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-american-naturalist.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-american-midland-naturalist",
+    "title": "The American Midland Naturalist",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-midland-naturalist"
   },
   "next": {
-    "title": "the-astrophysical-journal",
+    "title": "The Astrophysical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-astrophysical-journal"
   }
 }

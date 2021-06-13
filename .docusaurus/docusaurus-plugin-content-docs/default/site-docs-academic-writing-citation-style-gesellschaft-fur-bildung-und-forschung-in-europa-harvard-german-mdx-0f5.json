@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
   "id": "academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
   "isDocsHomePage": false,
-  "title": "gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
-  "description": "---",
+  "title": "Gesellschaft für Bildung und Forschung in Europa - Harvard (German)",
+  "description": "When you 're tasked by using \"Gesellschaft für Bildung und Forschung in Europa - Harvard (German)\" (GBFE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
   "permalink": "/support/docs/academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gesellschaft-fur-bildung-und-forschung-in-europa--harvard-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "german-yearbook-of-international-law",
+    "title": "German Yearbook of International Law",
     "permalink": "/support/docs/academic-writing/citation-style/german-yearbook-of-international-law"
   },
   "next": {
-    "title": "gesellschaft-fur-popularmusikforschung-german",
+    "title": "Gesellschaft fur Popularmusikforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/gesellschaft-fur-popularmusikforschung-german"
   }
 }

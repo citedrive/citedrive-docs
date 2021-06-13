@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/conservation-physiology",
   "id": "academic-writing/citation-style/conservation-physiology",
   "isDocsHomePage": false,
-  "title": "conservation-physiology",
-  "description": "---",
+  "title": "Conservation Physiology",
+  "description": "When you 're tasked by using \"Conservation Physiology\" (Plasma Chem Plasma Process) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/conservation-physiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/conservation-physiology",
   "permalink": "/support/docs/academic-writing/citation-style/conservation-physiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/conservation-physiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "conservation-letters",
+    "title": "Conservation Letters",
     "permalink": "/support/docs/academic-writing/citation-style/conservation-letters"
   },
   "next": {
-    "title": "contemporary-accounting-research",
+    "title": "Contemporary Accounting Research",
     "permalink": "/support/docs/academic-writing/citation-style/contemporary-accounting-research"
   }
 }

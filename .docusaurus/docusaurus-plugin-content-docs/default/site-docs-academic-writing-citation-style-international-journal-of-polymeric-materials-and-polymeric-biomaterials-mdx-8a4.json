@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
   "id": "academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
   "isDocsHomePage": false,
-  "title": "international-journal-of-polymeric-materials-and-polymeric-biomaterials",
-  "description": "---",
+  "title": "International Journal of Polymeric Materials and Polymeric Biomaterials",
+  "description": "When you 're tasked by using \"International Journal of Polymeric Materials and Polymeric Biomaterials\" (TEST) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
   "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-polymeric-materials-and-polymeric-biomaterials.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-journal-of-polymer-analysis-and-characterization",
+    "title": "International Journal of Polymer Analysis and Characterization",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-polymer-analysis-and-characterization"
   },
   "next": {
-    "title": "international-journal-of-population-data-science",
+    "title": "International Journal of Population Data Science",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-population-data-science"
   }
 }

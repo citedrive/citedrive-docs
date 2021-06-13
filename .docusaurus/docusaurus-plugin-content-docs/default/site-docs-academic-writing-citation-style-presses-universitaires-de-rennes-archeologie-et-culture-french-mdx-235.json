@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french",
   "id": "academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french",
   "isDocsHomePage": false,
-  "title": "presses-universitaires-de-rennes--archeologie-et-culture-french",
-  "description": "---",
+  "title": "Presses Universitaires de Rennes - Archéologie et Culture (French)",
+  "description": "When you 're tasked by using \"Presses Universitaires de Rennes - Archéologie et Culture (French)\" (Hernia) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french",
   "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "presses-universitaires-de-paris-nanterre-note-french",
+    "title": "Presses universitaires de Paris Nanterre (note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french"
   },
   "next": {
-    "title": "presses-universitaires-de-rennes-french",
+    "title": "Presses Universitaires de Rennes (French)",
     "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes-french"
   }
 }

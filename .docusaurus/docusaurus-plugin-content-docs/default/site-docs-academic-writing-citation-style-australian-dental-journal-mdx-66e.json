@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/australian-dental-journal",
   "id": "academic-writing/citation-style/australian-dental-journal",
   "isDocsHomePage": false,
-  "title": "australian-dental-journal",
-  "description": "---",
+  "title": "Australian Dental Journal",
+  "description": "When you 're tasked by using \"Australian Dental Journal\" (ADJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/australian-dental-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/australian-dental-journal",
   "permalink": "/support/docs/academic-writing/citation-style/australian-dental-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-dental-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "australian-critical-care",
+    "title": "Australian Critical Care",
     "permalink": "/support/docs/academic-writing/citation-style/australian-critical-care"
   },
   "next": {
-    "title": "australian-guide-to-legal-citation-3rd-edition",
+    "title": "Australian Guide to Legal Citation 3rd edition",
     "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-3rd-edition"
   }
 }

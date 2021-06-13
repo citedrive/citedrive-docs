@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-dysmorphology",
   "id": "academic-writing/citation-style/clinical-dysmorphology",
   "isDocsHomePage": false,
-  "title": "clinical-dysmorphology",
-  "description": "---",
+  "title": "Clinical Dysmorphology",
+  "description": "When you 're tasked by using \"Clinical Dysmorphology\" (MLA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-dysmorphology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-dysmorphology",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-dysmorphology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-dysmorphology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-anatomy",
+    "title": "Clinical Anatomy",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-anatomy"
   },
   "next": {
-    "title": "clinical-gastroenterology-and-hepatology",
+    "title": "Clinical Gastroenterology and Hepatology",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-gastroenterology-and-hepatology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/public-library-of-science",
   "id": "academic-writing/citation-style/public-library-of-science",
   "isDocsHomePage": false,
-  "title": "public-library-of-science",
-  "description": "---",
+  "title": "Public Library of Science",
+  "description": "When you 're tasked by using \"Public Library of Science\" (PLOS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/public-library-of-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/public-library-of-science",
   "permalink": "/support/docs/academic-writing/citation-style/public-library-of-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/public-library-of-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "public-health-nutrition",
+    "title": "Public Health Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/public-health-nutrition"
   },
   "next": {
-    "title": "pure-and-applied-geophysics",
+    "title": "Pure and Applied Geophysics",
     "permalink": "/support/docs/academic-writing/citation-style/pure-and-applied-geophysics"
   }
 }

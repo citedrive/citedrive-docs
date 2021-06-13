@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/rose-school",
   "id": "academic-writing/citation-style/rose-school",
   "isDocsHomePage": false,
-  "title": "rose-school",
-  "description": "---",
+  "title": "ROSE School",
+  "description": "When you 're tasked by using \"ROSE School\" (AStA Wirtsch Sozialstat Arch) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/rose-school.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/rose-school",
   "permalink": "/support/docs/academic-writing/citation-style/rose-school",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rose-school.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "romanian-humanities-romanian",
+    "title": "Romanian Humanities (Romanian)",
     "permalink": "/support/docs/academic-writing/citation-style/romanian-humanities-romanian"
   },
   "next": {
-    "title": "royal-college-of-nursing--harvard",
+    "title": "Royal College of Nursing - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/royal-college-of-nursing--harvard"
   }
 }

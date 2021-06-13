@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nature-no-et-al",
   "id": "academic-writing/citation-style/nature-no-et-al",
   "isDocsHomePage": false,
-  "title": "nature-no-et-al",
-  "description": "---",
+  "title": "Nature (no \"et al.\")",
+  "description": "When you 're tasked by using \"Nature (no \"et al.\")\" (Int J Digit Libr) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nature-no-et-al.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nature-no-et-al",
   "permalink": "/support/docs/academic-writing/citation-style/nature-no-et-al",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nature-no-et-al.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nature-neuroscience-brief-communications",
+    "title": "Nature Neuroscience (brief communications)",
     "permalink": "/support/docs/academic-writing/citation-style/nature-neuroscience-brief-communications"
   },
   "next": {
-    "title": "nature-no-superscript",
+    "title": "Nature (no superscript)",
     "permalink": "/support/docs/academic-writing/citation-style/nature-no-superscript"
   }
 }

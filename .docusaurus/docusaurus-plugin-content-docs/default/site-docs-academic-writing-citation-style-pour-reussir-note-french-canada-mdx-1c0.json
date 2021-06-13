@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pour-reussir-note-french--canada",
   "id": "academic-writing/citation-style/pour-reussir-note-french--canada",
   "isDocsHomePage": false,
-  "title": "pour-reussir-note-french--canada",
-  "description": "---",
+  "title": "Pour réussir (note, French - Canada)",
+  "description": "When you 're tasked by using \"Pour réussir (note, French - Canada)\" (Reac Kinet Mech Cat) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pour-reussir-note-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pour-reussir-note-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/pour-reussir-note-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pour-reussir-note-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "poultry-science",
+    "title": "Poultry Science",
     "permalink": "/support/docs/academic-writing/citation-style/poultry-science"
   },
   "next": {
-    "title": "pravnik-czech",
+    "title": "Právník (Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/pravnik-czech"
   }
 }

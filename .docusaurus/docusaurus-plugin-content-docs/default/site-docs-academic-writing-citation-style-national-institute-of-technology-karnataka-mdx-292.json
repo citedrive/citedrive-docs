@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/national-institute-of-technology-karnataka",
   "id": "academic-writing/citation-style/national-institute-of-technology-karnataka",
   "isDocsHomePage": false,
-  "title": "national-institute-of-technology-karnataka",
-  "description": "---",
+  "title": "National Institute of Technology Karnataka",
+  "description": "When you 're tasked by using \"National Institute of Technology Karnataka\" (NITK) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/national-institute-of-technology-karnataka.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/national-institute-of-technology-karnataka",
   "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-technology-karnataka",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-institute-of-technology-karnataka.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "national-institute-of-organisation-dynamics-australia--harvard",
+    "title": "National Institute of Organisation Dynamics Australia - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-organisation-dynamics-australia--harvard"
   },
   "next": {
-    "title": "national-institute-of-technology-tiruchirappalli",
+    "title": "National Institute of Technology, Tiruchirappalli",
     "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-technology-tiruchirappalli"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german",
   "id": "academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german",
   "isDocsHomePage": false,
-  "title": "steinbeishochschule--school-of-management-and-innovation-german",
-  "description": "---",
+  "title": "Steinbeis-Hochschule - School of Management & Innovation (German)",
+  "description": "When you 're tasked by using \"Steinbeis-Hochschule - School of Management & Innovation (German)\" (UniBas Linguistik) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german",
   "permalink": "/support/docs/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "stavebni-obzor-czech",
+    "title": "Stavební obzor (Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/stavebni-obzor-czech"
   },
   "next": {
-    "title": "stellenbosch-university--harvard",
+    "title": "Stellenbosch University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/stellenbosch-university--harvard"
   }
 }

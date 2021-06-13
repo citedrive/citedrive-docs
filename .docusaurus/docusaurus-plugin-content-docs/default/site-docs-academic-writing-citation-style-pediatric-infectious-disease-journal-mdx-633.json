@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pediatric-infectious-disease-journal",
   "id": "academic-writing/citation-style/pediatric-infectious-disease-journal",
   "isDocsHomePage": false,
-  "title": "pediatric-infectious-disease-journal",
-  "description": "---",
+  "title": "Pediatric Infectious Disease Journal",
+  "description": "When you 're tasked by using \"Pediatric Infectious Disease Journal\" (PIDJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pediatric-infectious-disease-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pediatric-infectious-disease-journal",
   "permalink": "/support/docs/academic-writing/citation-style/pediatric-infectious-disease-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-infectious-disease-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pediatric-blood-and-cancer",
+    "title": "Pediatric Blood & Cancer",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-blood-and-cancer"
   },
   "next": {
-    "title": "pediatric-physical-therapy",
+    "title": "Pediatric Physical Therapy",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-physical-therapy"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/surgical-pathology-clinics",
   "id": "academic-writing/citation-style/surgical-pathology-clinics",
   "isDocsHomePage": false,
-  "title": "surgical-pathology-clinics",
-  "description": "---",
+  "title": "Surgical Pathology Clinics",
+  "description": "When you 're tasked by using \"Surgical Pathology Clinics\" (PATH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/surgical-pathology-clinics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/surgical-pathology-clinics",
   "permalink": "/support/docs/academic-writing/citation-style/surgical-pathology-clinics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/surgical-pathology-clinics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "surgical-neurology-international",
+    "title": "Surgical Neurology International",
     "permalink": "/support/docs/academic-writing/citation-style/surgical-neurology-international"
   },
   "next": {
-    "title": "svensk-exegetisk-arsbok-full-note",
+    "title": "Svensk exegetisk årsbok (full note)",
     "permalink": "/support/docs/academic-writing/citation-style/svensk-exegetisk-arsbok-full-note"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nations-and-nationalism",
   "id": "academic-writing/citation-style/nations-and-nationalism",
   "isDocsHomePage": false,
-  "title": "nations-and-nationalism",
-  "description": "---",
+  "title": "Nations and Nationalism",
+  "description": "When you 're tasked by using \"Nations and Nationalism\" (TACO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nations-and-nationalism.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nations-and-nationalism",
   "permalink": "/support/docs/academic-writing/citation-style/nations-and-nationalism",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nations-and-nationalism.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "national-university-of-singapore--department-of-geography--harvard",
+    "title": "National University of Singapore - Department of Geography - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/national-university-of-singapore--department-of-geography--harvard"
   },
   "next": {
-    "title": "natur-und-landschaft-german",
+    "title": "Natur und Landschaft (German)",
     "permalink": "/support/docs/academic-writing/citation-style/natur-und-landschaft-german"
   }
 }

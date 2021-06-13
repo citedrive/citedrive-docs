@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/small",
   "id": "academic-writing/citation-style/small",
   "isDocsHomePage": false,
-  "title": "small",
-  "description": "---",
+  "title": "Small",
+  "description": "When you 're tasked by using \"Small\" (RBMO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/small.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/small",
   "permalink": "/support/docs/academic-writing/citation-style/small",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/small.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "skene-journal-of-theatre-and-drama-studies",
+    "title": "Skenè. Journal of Theatre and Drama Studies",
     "permalink": "/support/docs/academic-writing/citation-style/skene-journal-of-theatre-and-drama-studies"
   },
   "next": {
-    "title": "smithsonian-institution-scholarly-press--botany-authordate",
+    "title": "Smithsonian Institution Scholarly Press - Botany (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/smithsonian-institution-scholarly-press--botany-authordate"
   }
 }

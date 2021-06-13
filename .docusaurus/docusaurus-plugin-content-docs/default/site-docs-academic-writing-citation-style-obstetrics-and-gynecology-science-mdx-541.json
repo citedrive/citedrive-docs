@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/obstetrics-and-gynecology-science",
   "id": "academic-writing/citation-style/obstetrics-and-gynecology-science",
   "isDocsHomePage": false,
-  "title": "obstetrics-and-gynecology-science",
-  "description": "---",
+  "title": "Obstetrics & Gynecology Science",
+  "description": "When you 're tasked by using \"Obstetrics & Gynecology Science\" (Obstet Gynecol Sci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/obstetrics-and-gynecology-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/obstetrics-and-gynecology-science",
   "permalink": "/support/docs/academic-writing/citation-style/obstetrics-and-gynecology-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/obstetrics-and-gynecology-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "obesity",
+    "title": "Obesity",
     "permalink": "/support/docs/academic-writing/citation-style/obesity"
   },
   "next": {
-    "title": "occupational-medicine",
+    "title": "Occupational Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/occupational-medicine"
   }
 }

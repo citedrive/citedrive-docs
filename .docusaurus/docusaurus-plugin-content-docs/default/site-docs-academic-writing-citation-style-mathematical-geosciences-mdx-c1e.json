@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mathematical-geosciences",
   "id": "academic-writing/citation-style/mathematical-geosciences",
   "isDocsHomePage": false,
-  "title": "mathematical-geosciences",
-  "description": "---",
+  "title": "Mathematical Geosciences",
+  "description": "When you 're tasked by using \"Mathematical Geosciences\" (Wireless Netw) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mathematical-geosciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mathematical-geosciences",
   "permalink": "/support/docs/academic-writing/citation-style/mathematical-geosciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mathematical-geosciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "materials-express",
+    "title": "Materials Express",
     "permalink": "/support/docs/academic-writing/citation-style/materials-express"
   },
   "next": {
-    "title": "mathematics-and-computers-in-simulation",
+    "title": "Mathematics and Computers in Simulation",
     "permalink": "/support/docs/academic-writing/citation-style/mathematics-and-computers-in-simulation"
   }
 }

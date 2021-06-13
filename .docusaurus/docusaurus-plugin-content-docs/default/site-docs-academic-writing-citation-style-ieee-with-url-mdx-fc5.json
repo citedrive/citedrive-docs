@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ieee-with-url",
   "id": "academic-writing/citation-style/ieee-with-url",
   "isDocsHomePage": false,
-  "title": "ieee-with-url",
-  "description": "---",
+  "title": "IEEE (with URL)",
+  "description": "When you 're tasked by using \"IEEE (with URL)\" (Curr Pain Headache Rep) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ieee-with-url.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ieee-with-url",
   "permalink": "/support/docs/academic-writing/citation-style/ieee-with-url",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ieee-with-url.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ieee-transactions-on-medical-imaging",
+    "title": "IEEE Transactions on Medical Imaging",
     "permalink": "/support/docs/academic-writing/citation-style/ieee-transactions-on-medical-imaging"
   },
   "next": {
-    "title": "ieee",
+    "title": "IEEE",
     "permalink": "/support/docs/academic-writing/citation-style/ieee"
   }
 }

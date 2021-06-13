@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-american-academy-of-audiology",
   "id": "academic-writing/citation-style/journal-of-the-american-academy-of-audiology",
   "isDocsHomePage": false,
-  "title": "journal-of-the-american-academy-of-audiology",
-  "description": "---",
+  "title": "Journal of the American Academy of Audiology",
+  "description": "When you 're tasked by using \"Journal of the American Academy of Audiology\" (JAAA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-academy-of-audiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-american-academy-of-audiology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-academy-of-audiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-academy-of-audiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-air-and-waste-management-association",
+    "title": "Journal of the Air & Waste Management Association",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-air-and-waste-management-association"
   },
   "next": {
-    "title": "journal-of-the-american-academy-of-orthopaedic-surgeons",
+    "title": "Journal of the American Academy of Orthopaedic Surgeons",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-academy-of-orthopaedic-surgeons"
   }
 }

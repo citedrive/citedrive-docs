@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/world-politics",
   "id": "academic-writing/citation-style/world-politics",
   "isDocsHomePage": false,
-  "title": "world-politics",
-  "description": "---",
+  "title": "World Politics",
+  "description": "When you 're tasked by using \"World Politics\" (AAPS J) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/world-politics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/world-politics",
   "permalink": "/support/docs/academic-writing/citation-style/world-politics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/world-politics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "world-organisation-for-animal-health--scientific-and-technical-review",
+    "title": "World Organisation for Animal Health - Scientific and Technical Review",
     "permalink": "/support/docs/academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review"
   },
   "next": {
-    "title": "worlds-poultry-science-journal",
+    "title": "World''s Poultry Science Journal",
     "permalink": "/support/docs/academic-writing/citation-style/worlds-poultry-science-journal"
   }
 }

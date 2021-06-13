@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french",
   "id": "academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french",
   "isDocsHomePage": false,
-  "title": "collection-de-lecole-francaise-de-rome-note-french",
-  "description": "---",
+  "title": "Collection de l''Ecole française de Rome (note, French)",
+  "description": "When you 're tasked by using \"Collection de l''Ecole française de Rome (note, French)\" (NLM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french",
   "permalink": "/support/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-note-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "collection-de-lecole-francaise-de-rome-full-note-french",
+    "title": "Collection de l''Ecole française de Rome (full note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/collection-de-lecole-francaise-de-rome-full-note-french"
   },
   "next": {
-    "title": "collection-du-centre-jeanberard-french",
+    "title": "Collection du Centre Jean-Bérard (French)",
     "permalink": "/support/docs/academic-writing/citation-style/collection-du-centre-jeanberard-french"
   }
 }

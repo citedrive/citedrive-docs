@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german",
   "id": "academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german",
   "isDocsHomePage": false,
-  "title": "springer--fachzeitschriften-medizin-psychologie-german",
-  "description": "---",
+  "title": "Springer - Fachzeitschriften Medizin Psychologie (German)",
+  "description": "When you 're tasked by using \"Springer - Fachzeitschriften Medizin Psychologie (German)\" (J Mol Med) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german",
   "permalink": "/support/docs/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--fachzeitschriften-medizin-psychologie-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--basic-numeric-brackets",
+    "title": "Springer - Basic (numeric, brackets)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--basic-numeric-brackets"
   },
   "next": {
-    "title": "springer--humanities-authordate",
+    "title": "Springer - Humanities (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--humanities-authordate"
   }
 }

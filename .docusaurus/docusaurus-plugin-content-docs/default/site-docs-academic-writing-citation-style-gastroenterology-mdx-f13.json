@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gastroenterology",
   "id": "academic-writing/citation-style/gastroenterology",
   "isDocsHomePage": false,
-  "title": "gastroenterology",
-  "description": "---",
+  "title": "Gastroenterology",
+  "description": "When you 're tasked by using \"Gastroenterology\" (CUP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gastroenterology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gastroenterology",
   "permalink": "/support/docs/academic-writing/citation-style/gastroenterology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gastroenterology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gallia-prehistoire-french",
+    "title": "Gallia Préhistoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/gallia-prehistoire-french"
   },
   "next": {
-    "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+    "title": "Gastrointestinal Endoscopy Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america"
   }
 }

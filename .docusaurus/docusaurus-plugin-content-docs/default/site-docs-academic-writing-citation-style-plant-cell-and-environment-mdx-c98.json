@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/plant-cell-and-environment",
   "id": "academic-writing/citation-style/plant-cell-and-environment",
   "isDocsHomePage": false,
-  "title": "plant-cell-and-environment",
-  "description": "---",
+  "title": "Plant, Cell & Environment",
+  "description": "When you 're tasked by using \"Plant, Cell & Environment\" (SOPHIA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/plant-cell-and-environment.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/plant-cell-and-environment",
   "permalink": "/support/docs/academic-writing/citation-style/plant-cell-and-environment",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/plant-cell-and-environment.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "plant-biotechnology-journal",
+    "title": "Plant Biotechnology Journal",
     "permalink": "/support/docs/academic-writing/citation-style/plant-biotechnology-journal"
   },
   "next": {
-    "title": "plant-genetic-resources--characterization-and-utilization",
+    "title": "Plant Genetic Resources - Characterization and Utilization",
     "permalink": "/support/docs/academic-writing/citation-style/plant-genetic-resources--characterization-and-utilization"
   }
 }

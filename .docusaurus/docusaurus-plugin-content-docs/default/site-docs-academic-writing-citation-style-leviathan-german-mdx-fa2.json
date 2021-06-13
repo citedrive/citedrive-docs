@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/leviathan-german",
   "id": "academic-writing/citation-style/leviathan-german",
   "isDocsHomePage": false,
-  "title": "leviathan-german",
-  "description": "---",
+  "title": "Leviathan (German)",
+  "description": "When you 're tasked by using \"Leviathan (German)\" (USFS PNWRS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/leviathan-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/leviathan-german",
   "permalink": "/support/docs/academic-writing/citation-style/leviathan-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/leviathan-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "lettres-et-sciences-humaines-biblio-et-notes-french",
+    "title": "Lettres et Sciences Humaines (biblio et notes, French)",
     "permalink": "/support/docs/academic-writing/citation-style/lettres-et-sciences-humaines-biblio-et-notes-french"
   },
   "next": {
-    "title": "lhomme--revue-francaise-danthropologie",
+    "title": "L''homme – Revue française d''anthropologie",
     "permalink": "/support/docs/academic-writing/citation-style/lhomme--revue-francaise-danthropologie"
   }
 }

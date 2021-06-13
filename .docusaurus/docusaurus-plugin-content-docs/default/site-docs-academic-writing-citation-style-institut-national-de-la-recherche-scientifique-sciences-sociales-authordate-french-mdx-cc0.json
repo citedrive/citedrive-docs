@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
   "id": "academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
   "isDocsHomePage": false,
-  "title": "institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
-  "description": "---",
+  "title": "Institut national de la recherche scientifique - Sciences sociales (author-date, French)",
+  "description": "When you 're tasked by using \"Institut national de la recherche scientifique - Sciences sociales (author-date, French)\" (Population-E) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
   "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/institut-national-de-la-recherche-scientifique--sciences-sociales-authordate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "institut-fur-praxisforschung--harvard-bahr-and-frackmann-german",
+    "title": "Institut für Praxisforschung - Harvard (Bahr & Frackmann) (German)",
     "permalink": "/support/docs/academic-writing/citation-style/institut-fur-praxisforschung--harvard-bahr-and-frackmann-german"
   },
   "next": {
-    "title": "institut-national-de-recherches-archeologiques-preventives-french",
+    "title": "Institut national de recherches archéologiques préventives (French)",
     "permalink": "/support/docs/academic-writing/citation-style/institut-national-de-recherches-archeologiques-preventives-french"
   }
 }

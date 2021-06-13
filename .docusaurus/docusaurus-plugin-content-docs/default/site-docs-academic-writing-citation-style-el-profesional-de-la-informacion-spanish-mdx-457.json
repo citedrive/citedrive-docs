@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
   "id": "academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
   "isDocsHomePage": false,
-  "title": "el-profesional-de-la-informacion-spanish",
-  "description": "---",
+  "title": "El profesional de la información (Spanish)",
+  "description": "When you 're tasked by using \"El profesional de la información (Spanish)\" (AStA Adv Stat Anal) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/el-profesional-de-la-informacion-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "eksploatacja-i-niezawodnosc-maintenance-and-reliability-english",
+    "title": "Eksploatacja i Niezawodność (Maintenance and Reliability) (English)",
     "permalink": "/support/docs/academic-writing/citation-style/eksploatacja-i-niezawodnosc-maintenance-and-reliability-english"
   },
   "next": {
-    "title": "electrophoresis",
+    "title": "Electrophoresis",
     "permalink": "/support/docs/academic-writing/citation-style/electrophoresis"
   }
 }

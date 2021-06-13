@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/geochimica-et-cosmochimica-acta",
   "id": "academic-writing/citation-style/geochimica-et-cosmochimica-acta",
   "isDocsHomePage": false,
-  "title": "geochimica-et-cosmochimica-acta",
-  "description": "---",
+  "title": "Geochimica et Cosmochimica Acta",
+  "description": "When you 're tasked by using \"Geochimica et Cosmochimica Acta\" (UOZ (Fa)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/geochimica-et-cosmochimica-acta",
   "permalink": "/support/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geochimica-et-cosmochimica-acta.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "geochemical-perspectives-letters",
+    "title": "Geochemical Perspectives Letters",
     "permalink": "/support/docs/academic-writing/citation-style/geochemical-perspectives-letters"
   },
   "next": {
-    "title": "geochronometria",
+    "title": "Geochronometria",
     "permalink": "/support/docs/academic-writing/citation-style/geochronometria"
   }
 }

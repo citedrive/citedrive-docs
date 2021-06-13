@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria",
   "id": "academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria",
   "isDocsHomePage": false,
-  "title": "geografia-fisica-e-dinamica-quaternaria",
-  "description": "---",
+  "title": "Geografia Fisica e Dinamica Quaternaria",
+  "description": "When you 're tasked by using \"Geografia Fisica e Dinamica Quaternaria\" (GFDQ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria",
   "permalink": "/support/docs/academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geografia-fisica-e-dinamica-quaternaria.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "geochronometria",
+    "title": "Geochronometria",
     "permalink": "/support/docs/academic-writing/citation-style/geochronometria"
   },
   "next": {
-    "title": "geografie-sbornik-cgs",
+    "title": "Geografie Sborník ČGS",
     "permalink": "/support/docs/academic-writing/citation-style/geografie-sbornik-cgs"
   }
 }

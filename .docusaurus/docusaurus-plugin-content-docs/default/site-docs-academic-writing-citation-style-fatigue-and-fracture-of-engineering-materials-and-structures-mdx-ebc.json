@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
   "id": "academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
   "isDocsHomePage": false,
-  "title": "fatigue-and-fracture-of-engineering-materials-and-structures",
-  "description": "---",
+  "title": "Fatigue & Fracture of Engineering Materials & Structures",
+  "description": "When you 're tasked by using \"Fatigue & Fracture of Engineering Materials & Structures\" (FFEMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
   "permalink": "/support/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fatigue-and-fracture-of-engineering-materials-and-structures.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "farmeconomia-health-economics-and-therapeutic-pathways",
+    "title": "Farmeconomia. Health Economics and Therapeutic Pathways",
     "permalink": "/support/docs/academic-writing/citation-style/farmeconomia-health-economics-and-therapeutic-pathways"
   },
   "next": {
-    "title": "feminist-economics",
+    "title": "Feminist Economics",
     "permalink": "/support/docs/academic-writing/citation-style/feminist-economics"
   }
 }

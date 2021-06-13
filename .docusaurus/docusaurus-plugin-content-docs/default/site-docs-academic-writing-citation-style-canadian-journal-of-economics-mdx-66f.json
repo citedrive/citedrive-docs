@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/canadian-journal-of-economics",
   "id": "academic-writing/citation-style/canadian-journal-of-economics",
   "isDocsHomePage": false,
-  "title": "canadian-journal-of-economics",
-  "description": "---",
+  "title": "Canadian Journal of Economics",
+  "description": "When you 're tasked by using \"Canadian Journal of Economics\" (UPS-en) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/canadian-journal-of-economics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/canadian-journal-of-economics",
   "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-economics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-journal-of-economics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "canadian-journal-of-earth-sciences",
+    "title": "Canadian Journal of Earth Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-earth-sciences"
   },
   "next": {
-    "title": "canadian-journal-of-fisheries-and-aquatic-sciences",
+    "title": "Canadian Journal of Fisheries and Aquatic Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences"
   }
 }

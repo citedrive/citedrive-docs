@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/archeosciences-french",
   "id": "academic-writing/citation-style/archeosciences-french",
   "isDocsHomePage": false,
-  "title": "archeosciences-french",
-  "description": "---",
+  "title": "ArchéoSciences (French)",
+  "description": "When you 're tasked by using \"ArchéoSciences (French)\" (J Ind Microbiol Biotechnol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/archeosciences-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/archeosciences-french",
   "permalink": "/support/docs/academic-writing/citation-style/archeosciences-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archeosciences-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "archeologies-et-sciences-de-lantiquite-french",
-    "permalink": "/support/docs/academic-writing/citation-style/archeologies-et-sciences-de-lantiquite-french"
+    "title": "Archéologie médiévale (French)",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologie-medievale-french"
   },
   "next": {
-    "title": "archiv-fur-die-civilistische-praxis-german",
+    "title": "Archiv für die civilistische Praxis (German)",
     "permalink": "/support/docs/academic-writing/citation-style/archiv-fur-die-civilistische-praxis-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-leukocyte-biology",
   "id": "academic-writing/citation-style/journal-of-leukocyte-biology",
   "isDocsHomePage": false,
-  "title": "journal-of-leukocyte-biology",
-  "description": "---",
+  "title": "Journal of Leukocyte Biology",
+  "description": "When you 're tasked by using \"Journal of Leukocyte Biology\" (JLB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-leukocyte-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-leukocyte-biology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-leukocyte-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-leukocyte-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-korean-neurosurgical-society",
+    "title": "Journal of Korean Neurosurgical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-korean-neurosurgical-society"
   },
   "next": {
-    "title": "journal-of-limnology",
+    "title": "Journal of Limnology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-limnology"
   }
 }

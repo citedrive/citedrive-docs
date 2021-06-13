@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/vigiliae-christianae",
   "id": "academic-writing/citation-style/vigiliae-christianae",
   "isDocsHomePage": false,
-  "title": "vigiliae-christianae",
-  "description": "---",
+  "title": "Vigiliae Christianae",
+  "description": "When you 're tasked by using \"Vigiliae Christianae\" (VC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/vigiliae-christianae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/vigiliae-christianae",
   "permalink": "/support/docs/academic-writing/citation-style/vigiliae-christianae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vigiliae-christianae.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vietnam-ministry-of-education-and-training-vietnamese",
+    "title": "Vietnam Ministry of Education and Training (Vietnamese)",
     "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese"
   },
   "next": {
-    "title": "vingtieme-siecle-revue-dhistoire-french",
+    "title": "Vingtième Siècle. Revue d''histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/vingtieme-siecle-revue-dhistoire-french"
   }
 }

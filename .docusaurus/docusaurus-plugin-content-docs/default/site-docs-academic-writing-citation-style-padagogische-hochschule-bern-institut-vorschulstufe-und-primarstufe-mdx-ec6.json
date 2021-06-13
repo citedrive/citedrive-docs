@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
   "id": "academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
   "isDocsHomePage": false,
-  "title": "padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
-  "description": "---",
+  "title": "Pädagogische Hochschule Bern - Institut Vorschulstufe und Primarstufe",
+  "description": "When you 're tasked by using \"Pädagogische Hochschule Bern - Institut Vorschulstufe und Primarstufe\" (PHBern-IVP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
   "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pacific-science",
+    "title": "Pacific Science",
     "permalink": "/support/docs/academic-writing/citation-style/pacific-science"
   },
   "next": {
-    "title": "padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland",
+    "title": "Pädagogische Hochschule Fachhochschule Nordwestschweiz (German - Switzerland)",
     "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland"
   }
 }

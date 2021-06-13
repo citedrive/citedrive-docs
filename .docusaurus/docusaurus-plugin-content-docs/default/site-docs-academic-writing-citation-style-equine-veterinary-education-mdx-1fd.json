@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/equine-veterinary-education",
   "id": "academic-writing/citation-style/equine-veterinary-education",
   "isDocsHomePage": false,
-  "title": "equine-veterinary-education",
-  "description": "---",
+  "title": "Equine Veterinary Education",
+  "description": "When you 're tasked by using \"Equine Veterinary Education\" (EVE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/equine-veterinary-education.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/equine-veterinary-education",
   "permalink": "/support/docs/academic-writing/citation-style/equine-veterinary-education",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/equine-veterinary-education.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "epilepsia",
+    "title": "Epilepsia",
     "permalink": "/support/docs/academic-writing/citation-style/epilepsia"
   },
   "next": {
-    "title": "equine-veterinary-journal",
+    "title": "Equine Veterinary Journal",
     "permalink": "/support/docs/academic-writing/citation-style/equine-veterinary-journal"
   }
 }

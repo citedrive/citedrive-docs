@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/stem-cells-and-development",
   "id": "academic-writing/citation-style/stem-cells-and-development",
   "isDocsHomePage": false,
-  "title": "stem-cells-and-development",
-  "description": "---",
+  "title": "Stem Cells and Development",
+  "description": "When you 're tasked by using \"Stem Cells and Development\" (CMJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/stem-cells-and-development.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/stem-cells-and-development",
   "permalink": "/support/docs/academic-writing/citation-style/stem-cells-and-development",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/stem-cells-and-development.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "stellenbosch-university--harvard",
+    "title": "Stellenbosch University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/stellenbosch-university--harvard"
   },
   "next": {
-    "title": "stem-cells",
+    "title": "Stem Cells",
     "permalink": "/support/docs/academic-writing/citation-style/stem-cells"
   }
 }

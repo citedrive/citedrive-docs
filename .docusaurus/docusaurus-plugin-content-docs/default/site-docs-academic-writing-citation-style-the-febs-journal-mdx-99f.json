@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-febs-journal",
   "id": "academic-writing/citation-style/the-febs-journal",
   "isDocsHomePage": false,
-  "title": "the-febs-journal",
-  "description": "---",
+  "title": "The FEBS Journal",
+  "description": "When you 're tasked by using \"The FEBS Journal\" (Int J Speech Technol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-febs-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-febs-journal",
   "permalink": "/support/docs/academic-writing/citation-style/the-febs-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-febs-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-faseb-journal",
+    "title": "The FASEB Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-faseb-journal"
   },
   "next": {
-    "title": "the-geological-society-of-america",
+    "title": "The Geological Society of America",
     "permalink": "/support/docs/academic-writing/citation-style/the-geological-society-of-america"
   }
 }

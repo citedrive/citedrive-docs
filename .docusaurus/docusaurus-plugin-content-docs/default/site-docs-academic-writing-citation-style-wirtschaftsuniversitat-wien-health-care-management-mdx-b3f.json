@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
   "id": "academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
   "isDocsHomePage": false,
-  "title": "wirtschaftsuniversitat-wien--health-care-management",
-  "description": "---",
+  "title": "Wirtschaftsuniversität Wien - Health Care Management",
+  "description": "When you 're tasked by using \"Wirtschaftsuniversität Wien - Health Care Management\" (WU HCM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
   "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "wirtschaftsuniversitat-wien--handel-und-marketing-german--austria",
+    "title": "Wirtschaftsuniversität Wien - Handel und Marketing (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--handel-und-marketing-german--austria"
   },
   "next": {
-    "title": "wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
+    "title": "Wirtschaftsuniversität Wien - Institut für BWL des Außenhandels (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria"
   }
 }

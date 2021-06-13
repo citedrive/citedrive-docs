@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-accounting-review",
   "id": "academic-writing/citation-style/the-accounting-review",
   "isDocsHomePage": false,
-  "title": "the-accounting-review",
-  "description": "---",
+  "title": "The Accounting Review",
+  "description": "When you 're tasked by using \"The Accounting Review\" (ACS Photonics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-accounting-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-accounting-review",
   "permalink": "/support/docs/academic-writing/citation-style/the-accounting-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-accounting-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "tgm-wien-diplomarbeit-onorm-german--austria",
+    "title": "TGM Wien Diplomarbeit ÖNORM (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/tgm-wien-diplomarbeit-onorm-german--austria"
   },
   "next": {
-    "title": "the-american-journal-of-bioethics",
+    "title": "The American Journal of Bioethics",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-bioethics"
   }
 }

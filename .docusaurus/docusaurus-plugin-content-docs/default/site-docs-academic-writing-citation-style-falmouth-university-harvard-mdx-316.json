@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/falmouth-university--harvard",
   "id": "academic-writing/citation-style/falmouth-university--harvard",
   "isDocsHomePage": false,
-  "title": "falmouth-university--harvard",
-  "description": "---",
+  "title": "Falmouth University - Harvard",
+  "description": "When you 're tasked by using \"Falmouth University - Harvard\" (JB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/falmouth-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/falmouth-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/falmouth-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/falmouth-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian",
+    "title": "Facoltà Teologica dell''Italia Settentrionale - Milano (titoli di riviste non abbreviati, Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/facolta-teologica-dellitalia-settentrionale--milano-titoli-di-riviste-non-abbreviati-italian"
   },
   "next": {
-    "title": "family-business-review",
+    "title": "Family Business Review",
     "permalink": "/support/docs/academic-writing/citation-style/family-business-review"
   }
 }

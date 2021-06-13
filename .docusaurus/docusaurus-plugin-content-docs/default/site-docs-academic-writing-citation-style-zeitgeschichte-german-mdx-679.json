@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zeitgeschichte-german",
   "id": "academic-writing/citation-style/zeitgeschichte-german",
   "isDocsHomePage": false,
-  "title": "zeitgeschichte-german",
-  "description": "---",
+  "title": "Zeitgeschichte (German)",
+  "description": "When you 're tasked by using \"Zeitgeschichte (German)\" (Zeitgeschichte) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zeitgeschichte-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zeitgeschichte-german",
   "permalink": "/support/docs/academic-writing/citation-style/zeitgeschichte-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitgeschichte-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zdravniski-vestnik-slovenian-medical-journal",
+    "title": "Zdravniški Vestnik (Slovenian Medical Journal)",
     "permalink": "/support/docs/academic-writing/citation-style/zdravniski-vestnik-slovenian-medical-journal"
   },
   "next": {
-    "title": "zeitschrift-fur-allgemeinmedizin",
+    "title": "Zeitschrift für Allgemeinmedizin",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-allgemeinmedizin"
   }
 }

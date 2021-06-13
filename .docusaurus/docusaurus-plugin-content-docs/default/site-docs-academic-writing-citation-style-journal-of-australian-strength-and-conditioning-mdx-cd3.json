@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-australian-strength-and-conditioning",
   "id": "academic-writing/citation-style/journal-of-australian-strength-and-conditioning",
   "isDocsHomePage": false,
-  "title": "journal-of-australian-strength-and-conditioning",
-  "description": "---",
+  "title": "Journal of Australian Strength & Conditioning",
+  "description": "When you 're tasked by using \"Journal of Australian Strength & Conditioning\" (JASC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-australian-strength-and-conditioning.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-australian-strength-and-conditioning",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-australian-strength-and-conditioning",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-australian-strength-and-conditioning.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-atrial-fibrillation",
+    "title": "Journal of Atrial Fibrillation",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-atrial-fibrillation"
   },
   "next": {
-    "title": "journal-of-avian-biology",
+    "title": "Journal of Avian Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-avian-biology"
   }
 }

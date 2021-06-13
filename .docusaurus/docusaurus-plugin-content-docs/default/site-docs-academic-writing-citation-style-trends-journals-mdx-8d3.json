@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/trends-journals",
   "id": "academic-writing/citation-style/trends-journals",
   "isDocsHomePage": false,
-  "title": "trends-journals",
-  "description": "---",
+  "title": "Trends journals",
+  "description": "When you 're tasked by using \"Trends journals\" (TUD Linguistik (German)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/trends-journals.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/trends-journals",
   "permalink": "/support/docs/academic-writing/citation-style/trends-journals",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/trends-journals.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "trends-in-glycoscience-and-glycotechnology",
+    "title": "Trends in Glycoscience and Glycotechnology",
     "permalink": "/support/docs/academic-writing/citation-style/trends-in-glycoscience-and-glycotechnology"
   },
   "next": {
-    "title": "triangle-french",
+    "title": "Triangle (French)",
     "permalink": "/support/docs/academic-writing/citation-style/triangle-french"
   }
 }

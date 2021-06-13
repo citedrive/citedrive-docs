@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/neural-plasticity",
   "id": "academic-writing/citation-style/neural-plasticity",
   "isDocsHomePage": false,
-  "title": "neural-plasticity",
-  "description": "---",
+  "title": "Neural Plasticity",
+  "description": "When you 're tasked by using \"Neural Plasticity\" (Neural Plast) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/neural-plasticity.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/neural-plasticity",
   "permalink": "/support/docs/academic-writing/citation-style/neural-plasticity",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neural-plasticity.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "neue-juristische-wochenschrift-german",
+    "title": "Neue Juristische Wochenschrift (German)",
     "permalink": "/support/docs/academic-writing/citation-style/neue-juristische-wochenschrift-german"
   },
   "next": {
-    "title": "neuroendocrinology-letters",
+    "title": "Neuroendocrinology Letters",
     "permalink": "/support/docs/academic-writing/citation-style/neuroendocrinology-letters"
   }
 }

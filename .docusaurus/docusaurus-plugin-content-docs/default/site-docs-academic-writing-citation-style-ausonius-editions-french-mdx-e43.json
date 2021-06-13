@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ausonius-editions-french",
   "id": "academic-writing/citation-style/ausonius-editions-french",
   "isDocsHomePage": false,
-  "title": "ausonius-editions-french",
-  "description": "---",
+  "title": "Ausonius Éditions (French)",
+  "description": "When you 're tasked by using \"Ausonius Éditions (French)\" (Artif Life Robotics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ausonius-editions-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ausonius-editions-french",
   "permalink": "/support/docs/academic-writing/citation-style/ausonius-editions-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ausonius-editions-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+    "title": "Atlas of Genetics and Cytogenetics in Oncology and Haematology",
     "permalink": "/support/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology"
   },
   "next": {
-    "title": "austral-ecology",
+    "title": "Austral Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/austral-ecology"
   }
 }

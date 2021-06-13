@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french",
   "id": "academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french",
   "isDocsHomePage": false,
-  "title": "presses-universitaires-de-paris-nanterre-note-french",
-  "description": "---",
+  "title": "Presses universitaires de Paris Nanterre (note, French)",
+  "description": "When you 're tasked by using \"Presses universitaires de Paris Nanterre (note, French)\" (PU Paris Nanterre) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french",
   "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/presses-universitaires-de-paris-nanterre-note-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "preslia--the-journal-of-the-czech-botanical-society",
+    "title": "Preslia - The Journal of the Czech Botanical Society",
     "permalink": "/support/docs/academic-writing/citation-style/preslia--the-journal-of-the-czech-botanical-society"
   },
   "next": {
-    "title": "presses-universitaires-de-rennes--archeologie-et-culture-french",
+    "title": "Presses Universitaires de Rennes - Archéologie et Culture (French)",
     "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-rennes--archeologie-et-culture-french"
   }
 }

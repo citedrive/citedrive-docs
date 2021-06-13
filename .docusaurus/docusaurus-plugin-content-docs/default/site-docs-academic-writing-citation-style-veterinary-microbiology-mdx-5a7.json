@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/veterinary-microbiology",
   "id": "academic-writing/citation-style/veterinary-microbiology",
   "isDocsHomePage": false,
-  "title": "veterinary-microbiology",
-  "description": "---",
+  "title": "Veterinary Microbiology",
+  "description": "When you 're tasked by using \"Veterinary Microbiology\" (FTIS-it) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/veterinary-microbiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/veterinary-microbiology",
   "permalink": "/support/docs/academic-writing/citation-style/veterinary-microbiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/veterinary-microbiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "veterinary-medicine-austria-wiener-tierarztliche-monatsschrift",
+    "title": "Veterinary Medicine Austria (Wiener Tierärztliche Monatsschrift)",
     "permalink": "/support/docs/academic-writing/citation-style/veterinary-medicine-austria-wiener-tierarztliche-monatsschrift"
   },
   "next": {
-    "title": "veterinary-pathology",
+    "title": "Veterinary Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/veterinary-pathology"
   }
 }

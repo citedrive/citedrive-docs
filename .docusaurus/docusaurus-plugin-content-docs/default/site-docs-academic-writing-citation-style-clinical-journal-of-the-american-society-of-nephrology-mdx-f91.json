@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology",
   "id": "academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology",
   "isDocsHomePage": false,
-  "title": "clinical-journal-of-the-american-society-of-nephrology",
-  "description": "---",
+  "title": "Clinical Journal of the American Society of Nephrology",
+  "description": "When you 're tasked by using \"Clinical Journal of the American Society of Nephrology\" (CJASN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-journal-of-the-american-society-of-nephrology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-journal-of-sport-medicine",
+    "title": "Clinical Journal of Sport Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-journal-of-sport-medicine"
   },
   "next": {
-    "title": "clinical-management-issues",
+    "title": "Clinical Management Issues",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-management-issues"
   }
 }

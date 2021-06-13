@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/developing-world-bioethics",
   "id": "academic-writing/citation-style/developing-world-bioethics",
   "isDocsHomePage": false,
-  "title": "developing-world-bioethics",
-  "description": "---",
+  "title": "Developing World Bioethics",
+  "description": "When you 're tasked by using \"Developing World Bioethics\" (DWB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/developing-world-bioethics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/developing-world-bioethics",
   "permalink": "/support/docs/academic-writing/citation-style/developing-world-bioethics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/developing-world-bioethics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "deutsches-arzteblatt",
+    "title": "Deutsches Ärzteblatt",
     "permalink": "/support/docs/academic-writing/citation-style/deutsches-arzteblatt"
   },
   "next": {
-    "title": "development-and-change",
+    "title": "Development and Change",
     "permalink": "/support/docs/academic-writing/citation-style/development-and-change"
   }
 }

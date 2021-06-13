@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
   "id": "academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
   "isDocsHomePage": false,
-  "title": "international-journal-for-numerical-methods-in-biomedical-engineering",
-  "description": "---",
+  "title": "International Journal for Numerical Methods in Biomedical Engineering",
+  "description": "When you 're tasked by using \"International Journal for Numerical Methods in Biomedical Engineering\" (Int J Polit Cult Soc) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
   "permalink": "/support/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
+    "title": "International Islamic University Malaysia - Ahmad Ibrahim Kulliyyah of Laws",
     "permalink": "/support/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws"
   },
   "next": {
-    "title": "international-journal-of-audiology",
+    "title": "International Journal of Audiology",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-audiology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-tropical-life-science",
   "id": "academic-writing/citation-style/journal-of-tropical-life-science",
   "isDocsHomePage": false,
-  "title": "journal-of-tropical-life-science",
-  "description": "---",
+  "title": "Journal of Tropical Life Science",
+  "description": "When you 're tasked by using \"Journal of Tropical Life Science\" (J Trop. Life. Science) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-tropical-life-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-tropical-life-science",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-life-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-tropical-life-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-tropical-ecology",
+    "title": "Journal of Tropical Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-ecology"
   },
   "next": {
-    "title": "journal-of-universal-computer-science",
+    "title": "Journal of Universal Computer Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-universal-computer-science"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish",
   "id": "academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish",
   "isDocsHomePage": false,
-  "title": "helsingin-yliopisto--teologinen-tiedekunta-finnish",
-  "description": "---",
+  "title": "Helsingin yliopisto - Teologinen tiedekunta (Finnish)",
+  "description": "When you 're tasked by using \"Helsingin yliopisto - Teologinen tiedekunta (Finnish)\" (Minds & Machines) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish",
   "permalink": "/support/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/helsingin-yliopisto--teologinen-tiedekunta-finnish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "heiliger-dienst-german",
+    "title": "Heiliger Dienst (German)",
     "permalink": "/support/docs/academic-writing/citation-style/heiliger-dienst-german"
   },
   "next": {
-    "title": "helvetica-chimica-acta",
+    "title": "Helvetica Chimica Acta",
     "permalink": "/support/docs/academic-writing/citation-style/helvetica-chimica-acta"
   }
 }

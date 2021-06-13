@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/periodontology-2000",
   "id": "academic-writing/citation-style/periodontology-2000",
   "isDocsHomePage": false,
-  "title": "periodontology-2000",
-  "description": "---",
+  "title": "Periodontology 2000",
+  "description": "When you 're tasked by using \"Periodontology 2000\" (JBSC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/periodontology-2000.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/periodontology-2000",
   "permalink": "/support/docs/academic-writing/citation-style/periodontology-2000",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/periodontology-2000.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "periodicum-biologorum",
+    "title": "Periodicum Biologorum",
     "permalink": "/support/docs/academic-writing/citation-style/periodicum-biologorum"
   },
   "next": {
-    "title": "permafrost-and-periglacial-processes",
+    "title": "Permafrost and Periglacial Processes",
     "permalink": "/support/docs/academic-writing/citation-style/permafrost-and-periglacial-processes"
   }
 }

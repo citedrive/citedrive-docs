@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medecinesciences",
   "id": "academic-writing/citation-style/medecinesciences",
   "isDocsHomePage": false,
-  "title": "medecinesciences",
-  "description": "---",
+  "title": "médecine/sciences",
+  "description": "When you 're tasked by using \"médecine/sciences\" (GCB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medecinesciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medecinesciences",
   "permalink": "/support/docs/academic-writing/citation-style/medecinesciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medecinesciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "medecine-intensive-reanimation",
+    "title": "Médecine Intensive Réanimation",
     "permalink": "/support/docs/academic-writing/citation-style/medecine-intensive-reanimation"
   },
   "next": {
-    "title": "media-culture-and-society",
+    "title": "Media, Culture & Society",
     "permalink": "/support/docs/academic-writing/citation-style/media-culture-and-society"
   }
 }

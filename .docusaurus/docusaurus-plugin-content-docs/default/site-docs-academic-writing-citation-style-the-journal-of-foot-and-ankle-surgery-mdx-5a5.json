@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
   "id": "academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
   "isDocsHomePage": false,
-  "title": "the-journal-of-foot-and-ankle-surgery",
-  "description": "---",
+  "title": "The Journal of Foot & Ankle Surgery",
+  "description": "When you 're tasked by using \"The Journal of Foot & Ankle Surgery\" (JFAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-eukaryotic-microbiology",
+    "title": "The Journal of Eukaryotic Microbiology",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology"
   },
   "next": {
-    "title": "the-journal-of-hand-surgery-asianpacific-volume",
+    "title": "The Journal of Hand Surgery Asian-Pacific Volume",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-hand-surgery-asianpacific-volume"
   }
 }

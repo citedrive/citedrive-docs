@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/leonardo",
   "id": "academic-writing/citation-style/leonardo",
   "isDocsHomePage": false,
-  "title": "leonardo",
-  "description": "---",
+  "title": "Leonardo",
+  "description": "When you 're tasked by using \"Leonardo\" (J Consum Policy) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/leonardo.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/leonardo",
   "permalink": "/support/docs/academic-writing/citation-style/leonardo",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/leonardo.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "leiden-journal-of-international-law",
+    "title": "Leiden Journal of International Law",
     "permalink": "/support/docs/academic-writing/citation-style/leiden-journal-of-international-law"
   },
   "next": {
-    "title": "les-journees-de-la-recherche-avicole-french",
+    "title": "Les Journées de la Recherche Avicole (French)",
     "permalink": "/support/docs/academic-writing/citation-style/les-journees-de-la-recherche-avicole-french"
   }
 }

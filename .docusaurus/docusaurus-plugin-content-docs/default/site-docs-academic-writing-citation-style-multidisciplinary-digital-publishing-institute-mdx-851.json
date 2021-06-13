@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/multidisciplinary-digital-publishing-institute",
   "id": "academic-writing/citation-style/multidisciplinary-digital-publishing-institute",
   "isDocsHomePage": false,
-  "title": "multidisciplinary-digital-publishing-institute",
-  "description": "---",
+  "title": "Multidisciplinary Digital Publishing Institute",
+  "description": "When you 're tasked by using \"Multidisciplinary Digital Publishing Institute\" (MDPI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/multidisciplinary-digital-publishing-institute.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/multidisciplinary-digital-publishing-institute",
   "permalink": "/support/docs/academic-writing/citation-style/multidisciplinary-digital-publishing-institute",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/multidisciplinary-digital-publishing-institute.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "moorlands-college",
+    "title": "Moorlands College",
     "permalink": "/support/docs/academic-writing/citation-style/moorlands-college"
   },
   "next": {
-    "title": "multimed-spanish",
+    "title": "Multimed (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/multimed-spanish"
   }
 }

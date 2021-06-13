@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-atomic-energy-agency",
   "id": "academic-writing/citation-style/international-atomic-energy-agency",
   "isDocsHomePage": false,
-  "title": "international-atomic-energy-agency",
-  "description": "---",
+  "title": "International Atomic Energy Agency",
+  "description": "When you 're tasked by using \"International Atomic Energy Agency\" (IAEA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-atomic-energy-agency.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-atomic-energy-agency",
   "permalink": "/support/docs/academic-writing/citation-style/international-atomic-energy-agency",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-atomic-energy-agency.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "interdisziplinare-zeitschrift-fur-technologie-und-lernen-german",
+    "title": "Interdisziplinäre Zeitschrift für Technologie und Lernen (German)",
     "permalink": "/support/docs/academic-writing/citation-style/interdisziplinare-zeitschrift-fur-technologie-und-lernen-german"
   },
   "next": {
-    "title": "international-biodeterioration-and-biodegradation",
+    "title": "International Biodeterioration & Biodegradation",
     "permalink": "/support/docs/academic-writing/citation-style/international-biodeterioration-and-biodegradation"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/primary-care-clinics-in-office-practice",
   "id": "academic-writing/citation-style/primary-care-clinics-in-office-practice",
   "isDocsHomePage": false,
-  "title": "primary-care-clinics-in-office-practice",
-  "description": "---",
+  "title": "Primary Care: Clinics in Office Practice",
+  "description": "When you 're tasked by using \"Primary Care: Clinics in Office Practice\" (POP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/primary-care-clinics-in-office-practice",
   "permalink": "/support/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/primary-care-clinics-in-office-practice.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "presses-universitaires-de-strasbourg-note-french",
+    "title": "Presses universitaires de Strasbourg (note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/presses-universitaires-de-strasbourg-note-french"
   },
   "next": {
-    "title": "proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021",
+    "title": "Proceedings of the Joint International Grassland & International Rangeland Congress 2021",
     "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-joint-international-grassland-and-international-rangeland-congress-2021"
   }
 }

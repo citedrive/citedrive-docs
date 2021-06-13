@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/turabian-9th-edition-authordate",
   "id": "academic-writing/citation-style/turabian-9th-edition-authordate",
   "isDocsHomePage": false,
-  "title": "turabian-9th-edition-authordate",
-  "description": "---",
+  "title": "Turabian 9th edition (author-date)",
+  "description": "When you 're tasked by using \"Turabian 9th edition (author-date)\" (AMS Rev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/turabian-9th-edition-authordate.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/turabian-9th-edition-authordate",
   "permalink": "/support/docs/academic-writing/citation-style/turabian-9th-edition-authordate",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/turabian-9th-edition-authordate.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "turabian-8th-edition-full-note",
+    "title": "Turabian 8th edition (full note)",
     "permalink": "/support/docs/academic-writing/citation-style/turabian-8th-edition-full-note"
   },
   "next": {
-    "title": "twentiethcentury-music",
+    "title": "Twentieth-Century Music",
     "permalink": "/support/docs/academic-writing/citation-style/twentiethcentury-music"
   }
 }

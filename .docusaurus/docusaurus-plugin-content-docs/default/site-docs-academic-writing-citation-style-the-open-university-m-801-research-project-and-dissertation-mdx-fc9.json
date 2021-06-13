@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation",
   "id": "academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation",
   "isDocsHomePage": false,
-  "title": "the-open-university--m801--research-project-and-dissertation",
-  "description": "---",
+  "title": "The Open University - M801 - Research Project and Dissertation",
+  "description": "When you 're tasked by using \"The Open University - M801 - Research Project and Dissertation\" (JNCI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation",
   "permalink": "/support/docs/academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-open-university--m801--research-project-and-dissertation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-open-university--harvard",
+    "title": "The Open University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/the-open-university--harvard"
   },
   "next": {
-    "title": "the-open-university--s390",
+    "title": "The Open University - S390",
     "permalink": "/support/docs/academic-writing/citation-style/the-open-university--s390"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-urology",
   "id": "academic-writing/citation-style/the-journal-of-urology",
   "isDocsHomePage": false,
-  "title": "the-journal-of-urology",
-  "description": "---",
+  "title": "The Journal of Urology",
+  "description": "When you 're tasked by using \"The Journal of Urology\" (AOSIS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-urology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-urology",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-urology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-urology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-trauma-and-acute-care-surgery",
+    "title": "The Journal of Trauma and Acute Care Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery"
   },
   "next": {
-    "title": "the-journal-of-veterinary-medical-science",
+    "title": "The Journal of Veterinary Medical Science",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-veterinary-medical-science"
   }
 }

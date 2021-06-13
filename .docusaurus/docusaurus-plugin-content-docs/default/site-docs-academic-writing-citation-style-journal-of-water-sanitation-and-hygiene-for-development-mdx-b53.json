@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development",
   "id": "academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development",
   "isDocsHomePage": false,
-  "title": "journal-of-water-sanitation-and-hygiene-for-development",
-  "description": "---",
+  "title": "Journal of Water Sanitation and Hygiene for Development",
+  "description": "When you 're tasked by using \"Journal of Water Sanitation and Hygiene for Development\" (JWaSHDev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-visualized-experiments",
+    "title": "Journal of Visualized Experiments",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-visualized-experiments"
   },
   "next": {
-    "title": "journal-of-wildlife-diseases",
+    "title": "Journal of Wildlife Diseases",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-wildlife-diseases"
   }
 }

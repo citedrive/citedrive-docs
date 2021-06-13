@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mycologia",
   "id": "academic-writing/citation-style/mycologia",
   "isDocsHomePage": false,
-  "title": "mycologia",
-  "description": "---",
+  "title": "Mycologia",
+  "description": "When you 're tasked by using \"Mycologia\" (Integr. Equ. Oper. Theory) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mycologia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mycologia",
   "permalink": "/support/docs/academic-writing/citation-style/mycologia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mycologia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mutagenesis",
+    "title": "Mutagenesis",
     "permalink": "/support/docs/academic-writing/citation-style/mutagenesis"
   },
   "next": {
-    "title": "myrmecological-news",
+    "title": "Myrmecological News",
     "permalink": "/support/docs/academic-writing/citation-style/myrmecological-news"
   }
 }

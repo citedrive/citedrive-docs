@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america",
   "id": "academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america",
   "isDocsHomePage": false,
-  "title": "gastrointestinal-endoscopy-clinics-of-north-america",
-  "description": "---",
+  "title": "Gastrointestinal Endoscopy Clinics of North America",
+  "description": "When you 're tasked by using \"Gastrointestinal Endoscopy Clinics of North America\" (GEC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america",
   "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gastroenterology",
+    "title": "Gastroenterology",
     "permalink": "/support/docs/academic-writing/citation-style/gastroenterology"
   },
   "next": {
-    "title": "gastrointestinal-intervention",
+    "title": "Gastrointestinal Intervention",
     "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-intervention"
   }
 }

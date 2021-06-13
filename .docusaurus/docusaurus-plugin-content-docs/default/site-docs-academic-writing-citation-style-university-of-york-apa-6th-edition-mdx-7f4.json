@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-york--apa-6th-edition",
   "id": "academic-writing/citation-style/university-of-york--apa-6th-edition",
   "isDocsHomePage": false,
-  "title": "university-of-york--apa-6th-edition",
-  "description": "---",
+  "title": "University of York - APA 6th edition",
+  "description": "When you 're tasked by using \"University of York - APA 6th edition\" (UoY APA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-york--apa-6th-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-york--apa-6th-edition",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-york--apa-6th-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--apa-6th-edition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-worcester--harvard",
+    "title": "University of Worcester - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-worcester--harvard"
   },
   "next": {
-    "title": "university-of-york--chicago-manual-of-style-16th-edition",
+    "title": "University of York - Chicago Manual of Style 16th edition",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--chicago-manual-of-style-16th-edition"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/lethaia",
   "id": "academic-writing/citation-style/lethaia",
   "isDocsHomePage": false,
-  "title": "lethaia",
-  "description": "---",
+  "title": "Lethaia",
+  "description": "When you 're tasked by using \"Lethaia\" (ASEM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/lethaia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/lethaia",
   "permalink": "/support/docs/academic-writing/citation-style/lethaia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/lethaia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "les-nouvelles-de-larcheologie-french",
+    "title": "Les nouvelles de l''archéologie (French)",
     "permalink": "/support/docs/academic-writing/citation-style/les-nouvelles-de-larcheologie-french"
   },
   "next": {
-    "title": "letters-in-applied-microbiology",
+    "title": "Letters in Applied Microbiology",
     "permalink": "/support/docs/academic-writing/citation-style/letters-in-applied-microbiology"
   }
 }

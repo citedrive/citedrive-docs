@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cyberpsychology-behavior-and-social-networking",
   "id": "academic-writing/citation-style/cyberpsychology-behavior-and-social-networking",
   "isDocsHomePage": false,
-  "title": "cyberpsychology-behavior-and-social-networking",
-  "description": "---",
+  "title": "Cyberpsychology, Behavior, and Social Networking",
+  "description": "When you 're tasked by using \"Cyberpsychology, Behavior, and Social Networking\" (Softw Syst Model) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking",
   "permalink": "/support/docs/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "currents-in-biblical-research",
+    "title": "Currents in Biblical Research",
     "permalink": "/support/docs/academic-writing/citation-style/currents-in-biblical-research"
   },
   "next": {
-    "title": "cybium",
+    "title": "Cybium",
     "permalink": "/support/docs/academic-writing/citation-style/cybium"
   }
 }

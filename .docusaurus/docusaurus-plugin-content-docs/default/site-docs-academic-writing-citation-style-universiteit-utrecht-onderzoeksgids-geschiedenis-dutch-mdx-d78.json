@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
   "id": "academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
   "isDocsHomePage": false,
-  "title": "universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
-  "description": "---",
+  "title": "Universiteit Utrecht - Onderzoeksgids Geschiedenis (Dutch)",
+  "description": "When you 're tasked by using \"Universiteit Utrecht - Onderzoeksgids Geschiedenis (Dutch)\" (UU Geschiedenis) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
   "permalink": "/support/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universiteit-utrecht--onderzoeksgids-geschiedenis-dutch.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universite-nangui-abrogoua--sciences-de-la-nature--apa-french",
+    "title": "Université Nangui Abrogoua - Sciences de la Nature - APA (French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-nangui-abrogoua--sciences-de-la-nature--apa-french"
   },
   "next": {
-    "title": "universitetet-i-oslo--rettsvitenskap-norwegian--bokmal",
+    "title": "Universitetet i Oslo - Rettsvitenskap (Norwegian - Bokmål)",
     "permalink": "/support/docs/academic-writing/citation-style/universitetet-i-oslo--rettsvitenskap-norwegian--bokmal"
   }
 }

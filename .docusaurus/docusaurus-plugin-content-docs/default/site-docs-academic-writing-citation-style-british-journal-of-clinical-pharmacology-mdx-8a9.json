@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/british-journal-of-clinical-pharmacology",
   "id": "academic-writing/citation-style/british-journal-of-clinical-pharmacology",
   "isDocsHomePage": false,
-  "title": "british-journal-of-clinical-pharmacology",
-  "description": "---",
+  "title": "British Journal of Clinical Pharmacology",
+  "description": "When you 're tasked by using \"British Journal of Clinical Pharmacology\" (BJCP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/british-journal-of-clinical-pharmacology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/british-journal-of-clinical-pharmacology",
   "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-clinical-pharmacology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/british-journal-of-clinical-pharmacology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "british-journal-of-cancer",
+    "title": "British Journal of Cancer",
     "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-cancer"
   },
   "next": {
-    "title": "british-journal-of-dermatology",
+    "title": "British Journal of Dermatology",
     "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-dermatology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science",
   "id": "academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science",
   "isDocsHomePage": false,
-  "title": "journal-of-the-american-association-of-laboratory-animal-science",
-  "description": "---",
+  "title": "Journal of the American Association of Laboratory Animal Science",
+  "description": "When you 're tasked by using \"Journal of the American Association of Laboratory Animal Science\" (JAALAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-association-of-laboratory-animal-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-american-animal-hospital-association",
+    "title": "Journal of the American Animal Hospital Association",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-animal-hospital-association"
   },
   "next": {
-    "title": "journal-of-the-american-ceramic-society",
+    "title": "Journal of the American Ceramic Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-ceramic-society"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/limnetica",
   "id": "academic-writing/citation-style/limnetica",
   "isDocsHomePage": false,
-  "title": "limnetica",
-  "description": "---",
+  "title": "Limnetica",
+  "description": "When you 're tasked by using \"Limnetica\" (Struct Chem) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/limnetica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/limnetica",
   "permalink": "/support/docs/academic-writing/citation-style/limnetica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/limnetica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "lien-social-et-politiques-french",
+    "title": "Lien social et Politiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/lien-social-et-politiques-french"
   },
   "next": {
-    "title": "limnology-and-oceanography",
+    "title": "Limnology and Oceanography",
     "permalink": "/support/docs/academic-writing/citation-style/limnology-and-oceanography"
   }
 }

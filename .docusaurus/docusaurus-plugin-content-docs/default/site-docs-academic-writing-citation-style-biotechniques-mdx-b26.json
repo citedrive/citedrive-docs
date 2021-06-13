@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biotechniques",
   "id": "academic-writing/citation-style/biotechniques",
   "isDocsHomePage": false,
-  "title": "biotechniques",
-  "description": "---",
+  "title": "BioTechniques",
+  "description": "When you 're tasked by using \"BioTechniques\" (Indian J Pediatr) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biotechniques.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biotechniques",
   "permalink": "/support/docs/academic-writing/citation-style/biotechniques",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biotechniques.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biota-neotropica",
+    "title": "Biota Neotropica",
     "permalink": "/support/docs/academic-writing/citation-style/biota-neotropica"
   },
   "next": {
-    "title": "biotechnology-and-bioengineering",
+    "title": "Biotechnology and Bioengineering",
     "permalink": "/support/docs/academic-writing/citation-style/biotechnology-and-bioengineering"
   }
 }

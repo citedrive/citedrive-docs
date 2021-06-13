@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universitat-wien--institut-fur-geschichte",
   "id": "academic-writing/citation-style/universitat-wien--institut-fur-geschichte",
   "isDocsHomePage": false,
-  "title": "universitat-wien--institut-fur-geschichte",
-  "description": "---",
+  "title": "Universität Wien - Institut für Geschichte",
+  "description": "When you 're tasked by using \"Universität Wien - Institut für Geschichte\" (Univie History) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universitat-wien--institut-fur-geschichte.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universitat-wien--institut-fur-geschichte",
   "permalink": "/support/docs/academic-writing/citation-style/universitat-wien--institut-fur-geschichte",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-wien--institut-fur-geschichte.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitat-stuttgart--planung-und-partizipation-german",
+    "title": "Universität Stuttgart - Planung und Partizipation (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german"
   },
   "next": {
-    "title": "universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german",
+    "title": "Universität zu Köln - Seminar für ABWL und Finanzierungslehre (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-zu-koln--seminar-fur-abwl-und-finanzierungslehre-german"
   }
 }

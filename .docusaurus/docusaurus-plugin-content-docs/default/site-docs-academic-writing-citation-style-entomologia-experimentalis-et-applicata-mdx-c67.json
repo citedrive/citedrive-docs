@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/entomologia-experimentalis-et-applicata",
   "id": "academic-writing/citation-style/entomologia-experimentalis-et-applicata",
   "isDocsHomePage": false,
-  "title": "entomologia-experimentalis-et-applicata",
-  "description": "---",
+  "title": "Entomologia Experimentalis et Applicata",
+  "description": "When you 're tasked by using \"Entomologia Experimentalis et Applicata\" (Semin Immunopathol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/entomologia-experimentalis-et-applicata",
   "permalink": "/support/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/entomologia-experimentalis-et-applicata.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "entecho-czech",
+    "title": "ENTECHO (Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/entecho-czech"
   },
   "next": {
-    "title": "entomological-society-of-america",
+    "title": "Entomological Society of America",
     "permalink": "/support/docs/academic-writing/citation-style/entomological-society-of-america"
   }
 }

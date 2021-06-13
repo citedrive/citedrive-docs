@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-molecular-diagnostics",
   "id": "academic-writing/citation-style/the-journal-of-molecular-diagnostics",
   "isDocsHomePage": false,
-  "title": "the-journal-of-molecular-diagnostics",
-  "description": "---",
+  "title": "The Journal of Molecular Diagnostics",
+  "description": "When you 're tasked by using \"The Journal of Molecular Diagnostics\" (JMD) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-molecular-diagnostics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-molecular-diagnostics",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-molecular-diagnostics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-molecular-diagnostics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-modern-history",
+    "title": "The Journal of Modern History",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-modern-history"
   },
   "next": {
-    "title": "the-journal-of-nervous-and-mental-disease",
+    "title": "The Journal of Nervous and Mental Disease",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-nervous-and-mental-disease"
   }
 }

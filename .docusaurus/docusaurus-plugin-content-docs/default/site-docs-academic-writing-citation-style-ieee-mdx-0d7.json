@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ieee",
   "id": "academic-writing/citation-style/ieee",
   "isDocsHomePage": false,
-  "title": "ieee",
-  "description": "---",
+  "title": "IEEE",
+  "description": "When you 're tasked by using \"IEEE\" (Heart Fail Rev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ieee.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ieee",
   "permalink": "/support/docs/academic-writing/citation-style/ieee",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ieee.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ieee-with-url",
+    "title": "IEEE (with URL)",
     "permalink": "/support/docs/academic-writing/citation-style/ieee-with-url"
   },
   "next": {
-    "title": "iforest",
+    "title": "iForest",
     "permalink": "/support/docs/academic-writing/citation-style/iforest"
   }
 }

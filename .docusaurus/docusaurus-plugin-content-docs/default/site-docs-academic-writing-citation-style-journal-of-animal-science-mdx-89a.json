@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-animal-science",
   "id": "academic-writing/citation-style/journal-of-animal-science",
   "isDocsHomePage": false,
-  "title": "journal-of-animal-science",
-  "description": "---",
+  "title": "Journal of Animal Science",
+  "description": "When you 're tasked by using \"Journal of Animal Science\" (JAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-animal-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-animal-science",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-animal-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-animal-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-animal-physiology-and-animal-nutrition",
+    "title": "Journal of Animal Physiology and Animal Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-animal-physiology-and-animal-nutrition"
   },
   "next": {
-    "title": "journal-of-antimicrobial-chemotherapy",
+    "title": "Journal of Antimicrobial Chemotherapy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-antimicrobial-chemotherapy"
   }
 }

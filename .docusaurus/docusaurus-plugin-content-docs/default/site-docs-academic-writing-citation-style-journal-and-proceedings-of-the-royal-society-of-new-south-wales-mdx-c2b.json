@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
   "id": "academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
   "isDocsHomePage": false,
-  "title": "journal-and-proceedings-of-the-royal-society-of-new-south-wales",
-  "description": "---",
+  "title": "Journal and Proceedings of the Royal Society of New South Wales",
+  "description": "When you 're tasked by using \"Journal and Proceedings of the Royal Society of New South Wales\" (JProcRSNSW) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
   "permalink": "/support/docs/academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-and-proceedings-of-the-royal-society-of-new-south-wales.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "johnson-matthey-technology-review",
+    "title": "Johnson Matthey Technology Review",
     "permalink": "/support/docs/academic-writing/citation-style/johnson-matthey-technology-review"
   },
   "next": {
-    "title": "journal-de-la-societe-des-americanistes",
+    "title": "Journal de la Société des américanistes",
     "permalink": "/support/docs/academic-writing/citation-style/journal-de-la-societe-des-americanistes"
   }
 }

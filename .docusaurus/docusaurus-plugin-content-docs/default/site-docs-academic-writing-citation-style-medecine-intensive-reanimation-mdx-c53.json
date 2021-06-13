@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medecine-intensive-reanimation",
   "id": "academic-writing/citation-style/medecine-intensive-reanimation",
   "isDocsHomePage": false,
-  "title": "medecine-intensive-reanimation",
-  "description": "---",
+  "title": "Médecine Intensive Réanimation",
+  "description": "When you 're tasked by using \"Médecine Intensive Réanimation\" (MTSR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medecine-intensive-reanimation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medecine-intensive-reanimation",
   "permalink": "/support/docs/academic-writing/citation-style/medecine-intensive-reanimation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medecine-intensive-reanimation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mcdonald-institute-monographs",
+    "title": "McDonald Institute Monographs",
     "permalink": "/support/docs/academic-writing/citation-style/mcdonald-institute-monographs"
   },
   "next": {
-    "title": "medecinesciences",
+    "title": "médecine/sciences",
     "permalink": "/support/docs/academic-writing/citation-style/medecinesciences"
   }
 }

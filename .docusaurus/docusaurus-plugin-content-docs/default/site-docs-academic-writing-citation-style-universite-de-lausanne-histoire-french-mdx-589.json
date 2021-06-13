@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universite-de-lausanne--histoire-french",
   "id": "academic-writing/citation-style/universite-de-lausanne--histoire-french",
   "isDocsHomePage": false,
-  "title": "universite-de-lausanne--histoire-french",
-  "description": "---",
+  "title": "Université de Lausanne - Histoire (French)",
+  "description": "When you 're tasked by using \"Université de Lausanne - Histoire (French)\" (Inf Technol Manag) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universite-de-lausanne--histoire-french",
   "permalink": "/support/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-de-lausanne--histoire-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universite-catholique-de-louvain--histoire-french",
+    "title": "Université Catholique de Louvain - Histoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-catholique-de-louvain--histoire-french"
   },
   "next": {
-    "title": "universite-de-liege--droit-classement-par-categorie-french",
+    "title": "Université de Liège - Droit (classement par catégorie, French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--droit-classement-par-categorie-french"
   }
 }

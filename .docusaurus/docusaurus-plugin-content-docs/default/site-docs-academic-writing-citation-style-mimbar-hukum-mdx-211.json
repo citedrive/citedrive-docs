@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mimbar-hukum",
   "id": "academic-writing/citation-style/mimbar-hukum",
   "isDocsHomePage": false,
-  "title": "mimbar-hukum",
-  "description": "---",
+  "title": "Mimbar Hukum",
+  "description": "When you 're tasked by using \"Mimbar Hukum\" (TCG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mimbar-hukum.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mimbar-hukum",
   "permalink": "/support/docs/academic-writing/citation-style/mimbar-hukum",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mimbar-hukum.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "midwestern-baptist-theological-seminary",
+    "title": "Midwestern Baptist Theological Seminary",
     "permalink": "/support/docs/academic-writing/citation-style/midwestern-baptist-theological-seminary"
   },
   "next": {
-    "title": "mimesis-edizioni-italian",
+    "title": "Mimesis Edizioni (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian"
   }
 }

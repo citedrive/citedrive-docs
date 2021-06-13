@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/canadian-public-policy",
   "id": "academic-writing/citation-style/canadian-public-policy",
   "isDocsHomePage": false,
-  "title": "canadian-public-policy",
-  "description": "---",
+  "title": "Canadian Public Policy",
+  "description": "When you 're tasked by using \"Canadian Public Policy\" (CPP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/canadian-public-policy.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/canadian-public-policy",
   "permalink": "/support/docs/academic-writing/citation-style/canadian-public-policy",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-public-policy.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "canadian-journal-of-soil-science",
+    "title": "Canadian Journal of Soil Science",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-soil-science"
   },
   "next": {
-    "title": "cancer-translational-medicine",
+    "title": "Cancer Translational Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/cancer-translational-medicine"
   }
 }

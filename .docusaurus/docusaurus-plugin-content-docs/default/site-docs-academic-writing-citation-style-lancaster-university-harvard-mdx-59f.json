@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/lancaster-university--harvard",
   "id": "academic-writing/citation-style/lancaster-university--harvard",
   "isDocsHomePage": false,
-  "title": "lancaster-university--harvard",
-  "description": "---",
+  "title": "Lancaster University - Harvard",
+  "description": "When you 're tasked by using \"Lancaster University - Harvard\" (EER) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/lancaster-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/lancaster-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/lancaster-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/lancaster-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "laboratory-animal-science-professional",
+    "title": "Laboratory Animal Science Professional",
     "permalink": "/support/docs/academic-writing/citation-style/laboratory-animal-science-professional"
   },
   "next": {
-    "title": "land-degradation-and-development",
+    "title": "Land Degradation & Development",
     "permalink": "/support/docs/academic-writing/citation-style/land-degradation-and-development"
   }
 }

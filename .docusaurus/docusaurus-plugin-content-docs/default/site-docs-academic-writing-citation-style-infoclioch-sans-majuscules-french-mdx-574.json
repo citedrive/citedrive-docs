@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/infoclioch-sans-majuscules-french",
   "id": "academic-writing/citation-style/infoclioch-sans-majuscules-french",
   "isDocsHomePage": false,
-  "title": "infoclioch-sans-majuscules-french",
-  "description": "---",
+  "title": "infoclio.ch (sans majuscules, French)",
+  "description": "When you 're tasked by using \"infoclio.ch (sans majuscules, French)\" (EER) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/infoclioch-sans-majuscules-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/infoclioch-sans-majuscules-french",
   "permalink": "/support/docs/academic-writing/citation-style/infoclioch-sans-majuscules-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/infoclioch-sans-majuscules-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "infoclioch-petites-majuscules-french",
+    "title": "infoclio.ch (petites majuscules, French)",
     "permalink": "/support/docs/academic-writing/citation-style/infoclioch-petites-majuscules-french"
   },
   "next": {
-    "title": "infomin",
+    "title": "Infomin",
     "permalink": "/support/docs/academic-writing/citation-style/infomin"
   }
 }

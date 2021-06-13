@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-nutrition",
   "id": "academic-writing/citation-style/journal-of-nutrition",
   "isDocsHomePage": false,
-  "title": "journal-of-nutrition",
-  "description": "---",
+  "title": "Journal of Nutrition",
+  "description": "When you 're tasked by using \"Journal of Nutrition\" (Norsk APA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-nutrition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-nutrition",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-nutrition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-nutrition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-new-zealand-grasslands",
+    "title": "Journal of New Zealand Grasslands",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-new-zealand-grasslands"
   },
   "next": {
-    "title": "journal-of-oral-and-maxillofacial-surgery",
+    "title": "Journal of Oral and Maxillofacial Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery"
   }
 }

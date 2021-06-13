@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-international-journal-of-psychoanalysis",
   "id": "academic-writing/citation-style/the-international-journal-of-psychoanalysis",
   "isDocsHomePage": false,
-  "title": "the-international-journal-of-psychoanalysis",
-  "description": "---",
+  "title": "The International Journal of Psychoanalysis",
+  "description": "When you 're tasked by using \"The International Journal of Psychoanalysis\" (J. Plant Biochem. Biotechnol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-international-journal-of-psychoanalysis",
   "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-international-journal-of-psychoanalysis.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-international-journal-of-developmental-biology",
+    "title": "The International Journal of Developmental Biology",
     "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-developmental-biology"
   },
   "next": {
-    "title": "the-international-journal-of-tuberculosis-and-lung-disease",
+    "title": "The International Journal of Tuberculosis and Lung Disease",
     "permalink": "/support/docs/academic-writing/citation-style/the-international-journal-of-tuberculosis-and-lung-disease"
   }
 }

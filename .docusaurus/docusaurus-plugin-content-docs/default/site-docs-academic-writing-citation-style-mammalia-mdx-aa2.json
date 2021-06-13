@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mammalia",
   "id": "academic-writing/citation-style/mammalia",
   "isDocsHomePage": false,
-  "title": "mammalia",
-  "description": "---",
+  "title": "Mammalia",
+  "description": "When you 're tasked by using \"Mammalia\" (JITE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mammalia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mammalia",
   "permalink": "/support/docs/academic-writing/citation-style/mammalia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mammalia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mammal-review",
+    "title": "Mammal Review",
     "permalink": "/support/docs/academic-writing/citation-style/mammal-review"
   },
   "next": {
-    "title": "mammalogy-notes",
+    "title": "Mammalogy Notes",
     "permalink": "/support/docs/academic-writing/citation-style/mammalogy-notes"
   }
 }

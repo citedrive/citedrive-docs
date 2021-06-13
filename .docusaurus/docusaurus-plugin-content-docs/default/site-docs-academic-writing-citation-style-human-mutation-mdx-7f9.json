@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/human-mutation",
   "id": "academic-writing/citation-style/human-mutation",
   "isDocsHomePage": false,
-  "title": "human-mutation",
-  "description": "---",
+  "title": "Human Mutation",
+  "description": "When you 're tasked by using \"Human Mutation\" (WTM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/human-mutation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/human-mutation",
   "permalink": "/support/docs/academic-writing/citation-style/human-mutation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-mutation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "human-gene-therapy",
+    "title": "Human Gene Therapy",
     "permalink": "/support/docs/academic-writing/citation-style/human-gene-therapy"
   },
   "next": {
-    "title": "human-reproduction-update",
+    "title": "Human Reproduction Update",
     "permalink": "/support/docs/academic-writing/citation-style/human-reproduction-update"
   }
 }

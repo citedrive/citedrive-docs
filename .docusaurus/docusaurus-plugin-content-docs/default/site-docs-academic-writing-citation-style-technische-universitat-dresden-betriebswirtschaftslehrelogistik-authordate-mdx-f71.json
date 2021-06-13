@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
   "id": "academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
   "isDocsHomePage": false,
-  "title": "technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
-  "description": "---",
+  "title": "Technische Universität Dresden - Betriebswirtschaftslehre/Logistik (author-date)",
+  "description": "When you 're tasked by using \"Technische Universität Dresden - Betriebswirtschaftslehre/Logistik (author-date)\" (TUD BWL/Logistik (author-date)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
   "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "technische-universitat-dortmund--ag-virtual-machining-german",
+    "title": "Technische Universität Dortmund - AG Virtual Machining (German)",
     "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german"
   },
   "next": {
-    "title": "technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate",
+    "title": "Technische Universität Dresden - Betriebswirtschaftslehre/Marketing (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehremarketing-authordate"
   }
 }

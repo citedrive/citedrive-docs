@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/society-for-laboratory-automation-and-screening",
   "id": "academic-writing/citation-style/society-for-laboratory-automation-and-screening",
   "isDocsHomePage": false,
-  "title": "society-for-laboratory-automation-and-screening",
-  "description": "---",
+  "title": "Society for Laboratory Automation and Screening",
+  "description": "When you 're tasked by using \"Society for Laboratory Automation and Screening\" (SLAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/society-for-laboratory-automation-and-screening.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/society-for-laboratory-automation-and-screening",
   "permalink": "/support/docs/academic-writing/citation-style/society-for-laboratory-automation-and-screening",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/society-for-laboratory-automation-and-screening.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "society-for-historical-archaeology",
+    "title": "Society for Historical Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/society-for-historical-archaeology"
   },
   "next": {
-    "title": "society-of-automotive-engineers-technical-papers-numeric",
+    "title": "Society of Automotive Engineers Technical Papers (numeric)",
     "permalink": "/support/docs/academic-writing/citation-style/society-of-automotive-engineers-technical-papers-numeric"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales",
   "id": "academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales",
   "isDocsHomePage": false,
-  "title": "revista-latinoamericana-de-metalurgia-y-materiales",
-  "description": "---",
+  "title": "Revista Latinoamericana de Metalurgia y Materiales",
+  "description": "When you 're tasked by using \"Revista Latinoamericana de Metalurgia y Materiales\" (RLMM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales",
   "permalink": "/support/docs/academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-latinoamericana-de-metalurgia-y-materiales.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "revista-fave--seccion-ciencias-agrarias-spanish",
+    "title": "Revista FAVE - Sección Ciencias Agrarias (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/revista-fave--seccion-ciencias-agrarias-spanish"
   },
   "next": {
-    "title": "revista-latinoamericana-de-recursos-naturales",
+    "title": "Revista Latinoamericana de Recursos Naturales",
     "permalink": "/support/docs/academic-writing/citation-style/revista-latinoamericana-de-recursos-naturales"
   }
 }

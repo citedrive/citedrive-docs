@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque",
   "id": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque",
   "isDocsHomePage": false,
-  "title": "chicago-manual-of-style-16th-edition-authordate-basque",
-  "description": "---",
+  "title": "Chicago Manual of Style 16th edition (author-date, Basque)",
+  "description": "When you 're tasked by using \"Chicago Manual of Style 16th edition (author-date, Basque)\" (Popul Ecol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque",
   "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chest",
+    "title": "Chest",
     "permalink": "/support/docs/academic-writing/citation-style/chest"
   },
   "next": {
-    "title": "chicago-manual-of-style-16th-edition-authordate-german",
+    "title": "Chicago Manual of Style 16th edition (author-date, German)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german"
   }
 }

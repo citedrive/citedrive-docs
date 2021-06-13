@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/european-society-of-cardiology",
   "id": "academic-writing/citation-style/european-society-of-cardiology",
   "isDocsHomePage": false,
-  "title": "european-society-of-cardiology",
-  "description": "---",
+  "title": "European Society of Cardiology",
+  "description": "When you 're tasked by using \"European Society of Cardiology\" (Hernia) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/european-society-of-cardiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/european-society-of-cardiology",
   "permalink": "/support/docs/academic-writing/citation-style/european-society-of-cardiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-society-of-cardiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "european-retail-research",
+    "title": "European Retail Research",
     "permalink": "/support/docs/academic-writing/citation-style/european-retail-research"
   },
   "next": {
-    "title": "european-union--interinstitutional-style-guide-authordate",
+    "title": "European Union - Interinstitutional Style Guide (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/european-union--interinstitutional-style-guide-authordate"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
   "id": "academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
   "isDocsHomePage": false,
-  "title": "arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
-  "description": "---",
+  "title": "Arhiv za higijenu rada i toksikologiju (Archives of Industrial Hygiene and Toxicology)",
+  "description": "When you 're tasked by using \"Arhiv za higijenu rada i toksikologiju (Archives of Industrial Hygiene and Toxicology)\" (Arh Hig Rada Toksikol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
   "permalink": "/support/docs/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/arhiv-za-higijenu-rada-i-toksikologiju-archives-of-industrial-hygiene-and-toxicology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "arctic",
+    "title": "Arctic",
     "permalink": "/support/docs/academic-writing/citation-style/arctic"
   },
   "next": {
-    "title": "art-history",
+    "title": "Art History",
     "permalink": "/support/docs/academic-writing/citation-style/art-history"
   }
 }

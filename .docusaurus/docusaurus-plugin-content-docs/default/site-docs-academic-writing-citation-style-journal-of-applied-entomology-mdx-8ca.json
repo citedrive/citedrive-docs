@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-applied-entomology",
   "id": "academic-writing/citation-style/journal-of-applied-entomology",
   "isDocsHomePage": false,
-  "title": "journal-of-applied-entomology",
-  "description": "---",
+  "title": "Journal of Applied Entomology",
+  "description": "When you 're tasked by using \"Journal of Applied Entomology\" (J Appl Entomol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-applied-entomology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-applied-entomology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-entomology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-applied-entomology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-applied-clinical-medical-physics",
+    "title": "Journal of Applied Clinical Medical Physics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-clinical-medical-physics"
   },
   "next": {
-    "title": "journal-of-applied-pharmaceutical-research",
+    "title": "Journal of Applied Pharmaceutical Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-pharmaceutical-research"
   }
 }

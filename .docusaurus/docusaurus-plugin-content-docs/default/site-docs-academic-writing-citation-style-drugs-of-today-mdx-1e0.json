@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/drugs-of-today",
   "id": "academic-writing/citation-style/drugs-of-today",
   "isDocsHomePage": false,
-  "title": "drugs-of-today",
-  "description": "---",
+  "title": "Drugs of Today",
+  "description": "When you 're tasked by using \"Drugs of Today\" (Z Energiewirtsch) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/drugs-of-today.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/drugs-of-today",
   "permalink": "/support/docs/academic-writing/citation-style/drugs-of-today",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/drugs-of-today.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "drug-testing-and-analysis",
+    "title": "Drug Testing and Analysis",
     "permalink": "/support/docs/academic-writing/citation-style/drug-testing-and-analysis"
   },
   "next": {
-    "title": "dundalk-institute-of-technology--harvard",
+    "title": "Dundalk Institute of Technology - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/dundalk-institute-of-technology--harvard"
   }
 }

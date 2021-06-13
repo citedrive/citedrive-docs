@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
   "id": "academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
   "isDocsHomePage": false,
-  "title": "the-canadian-journal-of-chemical-engineering",
-  "description": "---",
+  "title": "The Canadian Journal of Chemical Engineering",
+  "description": "When you 're tasked by using \"The Canadian Journal of Chemical Engineering\" (ICVTS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
   "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-canadian-journal-of-chemical-engineering.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-canadian-geographer-le-geographe-canadien",
+    "title": "The Canadian Geographer (Le Géographe canadien)",
     "permalink": "/support/docs/academic-writing/citation-style/the-canadian-geographer-le-geographe-canadien"
   },
   "next": {
-    "title": "the-canadian-journal-of-psychiatry",
+    "title": "The Canadian Journal of Psychiatry",
     "permalink": "/support/docs/academic-writing/citation-style/the-canadian-journal-of-psychiatry"
   }
 }

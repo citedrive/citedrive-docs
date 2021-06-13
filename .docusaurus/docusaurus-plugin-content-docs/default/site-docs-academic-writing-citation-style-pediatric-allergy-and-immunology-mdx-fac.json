@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pediatric-allergy-and-immunology",
   "id": "academic-writing/citation-style/pediatric-allergy-and-immunology",
   "isDocsHomePage": false,
-  "title": "pediatric-allergy-and-immunology",
-  "description": "---",
+  "title": "Pediatric Allergy and Immunology",
+  "description": "When you 're tasked by using \"Pediatric Allergy and Immunology\" (Environ. Sci. Technol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pediatric-allergy-and-immunology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pediatric-allergy-and-immunology",
   "permalink": "/support/docs/academic-writing/citation-style/pediatric-allergy-and-immunology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-allergy-and-immunology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "past-and-present",
+    "title": "Past & Present",
     "permalink": "/support/docs/academic-writing/citation-style/past-and-present"
   },
   "next": {
-    "title": "pediatric-anesthesia",
+    "title": "Pediatric Anesthesia",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-anesthesia"
   }
 }

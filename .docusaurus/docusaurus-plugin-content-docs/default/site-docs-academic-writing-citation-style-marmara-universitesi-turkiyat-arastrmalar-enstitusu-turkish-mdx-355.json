@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
   "id": "academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
   "isDocsHomePage": false,
-  "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
-  "description": "---",
+  "title": "Marmara Üniversitesi - Türkiyat Araştırmaları Enstitüsü (Turkish)",
+  "description": "When you 're tasked by using \"Marmara Üniversitesi - Türkiyat Araştırmaları Enstitüsü (Turkish)\" (AJR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
   "permalink": "/support/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "marine-turtle-newsletter",
+    "title": "Marine Turtle Newsletter",
     "permalink": "/support/docs/academic-writing/citation-style/marine-turtle-newsletter"
   },
   "next": {
-    "title": "mastozoologia-neotropical",
+    "title": "Mastozoologia Neotropical",
     "permalink": "/support/docs/academic-writing/citation-style/mastozoologia-neotropical"
   }
 }

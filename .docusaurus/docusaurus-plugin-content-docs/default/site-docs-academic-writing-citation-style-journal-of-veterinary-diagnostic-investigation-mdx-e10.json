@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation",
   "id": "academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation",
   "isDocsHomePage": false,
-  "title": "journal-of-veterinary-diagnostic-investigation",
-  "description": "---",
+  "title": "Journal of Veterinary Diagnostic Investigation",
+  "description": "When you 're tasked by using \"Journal of Veterinary Diagnostic Investigation\" (JVDI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-vertebrate-paleontology",
+    "title": "Journal of Vertebrate Paleontology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-vertebrate-paleontology"
   },
   "next": {
-    "title": "journal-of-visualized-experiments",
+    "title": "Journal of Visualized Experiments",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-visualized-experiments"
   }
 }

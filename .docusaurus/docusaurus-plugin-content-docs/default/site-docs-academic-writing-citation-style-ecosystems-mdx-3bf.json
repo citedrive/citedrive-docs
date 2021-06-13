@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ecosystems",
   "id": "academic-writing/citation-style/ecosystems",
   "isDocsHomePage": false,
-  "title": "ecosystems",
-  "description": "---",
+  "title": "Ecosystems",
+  "description": "When you 're tasked by using \"Ecosystems\" (rcta) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ecosystems.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ecosystems",
   "permalink": "/support/docs/academic-writing/citation-style/ecosystems",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecosystems.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ecosistemas-spanish",
+    "title": "Ecosistemas (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/ecosistemas-spanish"
   },
   "next": {
-    "title": "edge-hill-university--harvard",
+    "title": "Edge Hill University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/edge-hill-university--harvard"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/archivos-de-bronconeumologia",
   "id": "academic-writing/citation-style/archivos-de-bronconeumologia",
   "isDocsHomePage": false,
-  "title": "archivos-de-bronconeumologia",
-  "description": "---",
+  "title": "Archivos de Bronconeumología",
+  "description": "When you 're tasked by using \"Archivos de Bronconeumología\" (ERIES) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/archivos-de-bronconeumologia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/archivos-de-bronconeumologia",
   "permalink": "/support/docs/academic-writing/citation-style/archivos-de-bronconeumologia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archivos-de-bronconeumologia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "archives-of-physical-medicine-and-rehabilitation",
+    "title": "Archives of Physical Medicine and Rehabilitation",
     "permalink": "/support/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation"
   },
   "next": {
-    "title": "archivos-de-la-sociedad-espanola-de-oftalmologia-spanish",
+    "title": "Archivos de la Sociedad Española de Oftalmología (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/archivos-de-la-sociedad-espanola-de-oftalmologia-spanish"
   }
 }

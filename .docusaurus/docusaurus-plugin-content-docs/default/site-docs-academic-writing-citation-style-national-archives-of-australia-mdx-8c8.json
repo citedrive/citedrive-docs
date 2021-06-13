@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/national-archives-of-australia",
   "id": "academic-writing/citation-style/national-archives-of-australia",
   "isDocsHomePage": false,
-  "title": "national-archives-of-australia",
-  "description": "---",
+  "title": "National Archives of Australia",
+  "description": "When you 're tasked by using \"National Archives of Australia\" (Microgravity Sci. Technol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/national-archives-of-australia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/national-archives-of-australia",
   "permalink": "/support/docs/academic-writing/citation-style/national-archives-of-australia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/national-archives-of-australia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "natbib--plainnat-authordate",
+    "title": "natbib - plainnat (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/natbib--plainnat-authordate"
   },
   "next": {
-    "title": "national-institute-of-health-research",
+    "title": "National Institute of Health Research",
     "permalink": "/support/docs/academic-writing/citation-style/national-institute-of-health-research"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/spandidos-publications",
   "id": "academic-writing/citation-style/spandidos-publications",
   "isDocsHomePage": false,
-  "title": "spandidos-publications",
-  "description": "---",
+  "title": "Spandidos Publications",
+  "description": "When you 're tasked by using \"Spandidos Publications\" (IBICT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/spandidos-publications.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/spandidos-publications",
   "permalink": "/support/docs/academic-writing/citation-style/spandidos-publications",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spandidos-publications.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "soziologiemagazin-german",
+    "title": "Soziologiemagazin (German)",
     "permalink": "/support/docs/academic-writing/citation-style/soziologiemagazin-german"
   },
   "next": {
-    "title": "spanish-legal-spanish",
+    "title": "Spanish Legal (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/spanish-legal-spanish"
   }
 }

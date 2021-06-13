@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/leeds-metropolitan-university--harvard",
   "id": "academic-writing/citation-style/leeds-metropolitan-university--harvard",
   "isDocsHomePage": false,
-  "title": "leeds-metropolitan-university--harvard",
-  "description": "---",
+  "title": "Leeds Metropolitan University - Harvard",
+  "description": "When you 're tasked by using \"Leeds Metropolitan University - Harvard\" (Forum Psychoanal) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/leeds-metropolitan-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/leeds-metropolitan-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/leeds-metropolitan-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/leeds-metropolitan-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "leeds-beckett-university--harvard",
+    "title": "Leeds Beckett University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/leeds-beckett-university--harvard"
   },
   "next": {
-    "title": "leiden-journal-of-international-law",
+    "title": "Leiden Journal of International Law",
     "permalink": "/support/docs/academic-writing/citation-style/leiden-journal-of-international-law"
   }
 }

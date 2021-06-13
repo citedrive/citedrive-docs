@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
   "id": "academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
   "isDocsHomePage": false,
-  "title": "springer--basic-authordate-no-et-al-with-issue-numbers",
-  "description": "---",
+  "title": "Springer - Basic (author-date, no \"et al.\", with issue numbers)",
+  "description": "When you 're tasked by using \"Springer - Basic (author-date, no \"et al.\", with issue numbers)\" (Clin Transl Oncol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
   "permalink": "/support/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al-with-issue-numbers.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "spip--cite-plugin",
+    "title": "SPIP - Cite plugin",
     "permalink": "/support/docs/academic-writing/citation-style/spip--cite-plugin"
   },
   "next": {
-    "title": "springer--basic-authordate-no-et-al",
+    "title": "Springer - Basic (author-date, no \"et al.\")",
     "permalink": "/support/docs/academic-writing/citation-style/springer--basic-authordate-no-et-al"
   }
 }

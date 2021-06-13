@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nottingham-trent-university-library--harvard",
   "id": "academic-writing/citation-style/nottingham-trent-university-library--harvard",
   "isDocsHomePage": false,
-  "title": "nottingham-trent-university-library--harvard",
-  "description": "---",
+  "title": "Nottingham Trent University Library - Harvard",
+  "description": "When you 're tasked by using \"Nottingham Trent University Library - Harvard\" (NTU Library - Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nottingham-trent-university-library--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "northwest-university--harvard",
+    "title": "North-West University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/northwest-university--harvard"
   },
   "next": {
-    "title": "nouvelles-perspectives-en-sciences-sociales-french--canada",
+    "title": "Nouvelles perspectives en sciences sociales (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/nouvelles-perspectives-en-sciences-sociales-french--canada"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/spie-bios",
   "id": "academic-writing/citation-style/spie-bios",
   "isDocsHomePage": false,
-  "title": "spie-bios",
-  "description": "---",
+  "title": "SPIE BiOS",
+  "description": "When you 're tasked by using \"SPIE BiOS\" (medizinische genetik) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/spie-bios.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/spie-bios",
   "permalink": "/support/docs/academic-writing/citation-style/spie-bios",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spie-bios.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "speculum",
+    "title": "Speculum",
     "permalink": "/support/docs/academic-writing/citation-style/speculum"
   },
   "next": {
-    "title": "spie-conference-proceedings",
+    "title": "SPIE Conference Proceedings",
     "permalink": "/support/docs/academic-writing/citation-style/spie-conference-proceedings"
   }
 }

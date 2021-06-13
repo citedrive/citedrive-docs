@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health",
   "id": "academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health",
   "isDocsHomePage": false,
-  "title": "perspectives-on-sexual-and-reproductive-health",
-  "description": "---",
+  "title": "Perspectives on Sexual and Reproductive Health",
+  "description": "When you 're tasked by using \"Perspectives on Sexual and Reproductive Health\" (ASBP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health",
   "permalink": "/support/docs/academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/perspectives-on-sexual-and-reproductive-health.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "permafrost-and-periglacial-processes",
+    "title": "Permafrost and Periglacial Processes",
     "permalink": "/support/docs/academic-writing/citation-style/permafrost-and-periglacial-processes"
   },
   "next": {
-    "title": "pest-management-science",
+    "title": "Pest Management Science",
     "permalink": "/support/docs/academic-writing/citation-style/pest-management-science"
   }
 }

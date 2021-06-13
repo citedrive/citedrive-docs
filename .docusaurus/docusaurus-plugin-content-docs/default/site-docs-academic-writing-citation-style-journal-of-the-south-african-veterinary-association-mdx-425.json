@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-south-african-veterinary-association",
   "id": "academic-writing/citation-style/journal-of-the-south-african-veterinary-association",
   "isDocsHomePage": false,
-  "title": "journal-of-the-south-african-veterinary-association",
-  "description": "---",
+  "title": "Journal of the South African Veterinary Association",
+  "description": "When you 're tasked by using \"Journal of the South African Veterinary Association\" (JSAVA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-south-african-veterinary-association.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-south-african-veterinary-association",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-south-african-veterinary-association",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-south-african-veterinary-association.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-serbian-chemical-society",
+    "title": "Journal of the Serbian Chemical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-serbian-chemical-society"
   },
   "next": {
-    "title": "journal-of-the-warburg-and-courtauld-institutes",
+    "title": "Journal of the Warburg and Courtauld Institutes",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-warburg-and-courtauld-institutes"
   }
 }

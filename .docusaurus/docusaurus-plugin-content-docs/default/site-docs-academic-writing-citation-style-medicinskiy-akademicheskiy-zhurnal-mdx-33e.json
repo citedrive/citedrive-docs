@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
   "id": "academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
   "isDocsHomePage": false,
-  "title": "medicinskiy-akademicheskiy-zhurnal",
-  "description": "---",
+  "title": "Medicinskiy Akademicheskiy Zhurnal",
+  "description": "When you 're tasked by using \"Medicinskiy Akademicheskiy Zhurnal\" (Jpn J Ophthalmol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
   "permalink": "/support/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medicinskiy-akademicheskiy-zhurnal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "medicine-and-science-in-sports-and-exercise",
+    "title": "Medicine & Science in Sports & Exercise",
     "permalink": "/support/docs/academic-writing/citation-style/medicine-and-science-in-sports-and-exercise"
   },
   "next": {
-    "title": "mediterranean-journal-of-chemistry",
+    "title": "Mediterranean Journal of Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/mediterranean-journal-of-chemistry"
   }
 }

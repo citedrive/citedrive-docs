@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cell-transplantation",
   "id": "academic-writing/citation-style/cell-transplantation",
   "isDocsHomePage": false,
-  "title": "cell-transplantation",
-  "description": "---",
+  "title": "Cell Transplantation",
+  "description": "When you 're tasked by using \"Cell Transplantation\" (Ann. Solid Struct. Mech.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cell-transplantation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cell-transplantation",
   "permalink": "/support/docs/academic-writing/citation-style/cell-transplantation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cell-transplantation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cell-structure-and-function",
+    "title": "Cell Structure and Function",
     "permalink": "/support/docs/academic-writing/citation-style/cell-structure-and-function"
   },
   "next": {
-    "title": "cell",
+    "title": "Cell",
     "permalink": "/support/docs/academic-writing/citation-style/cell"
   }
 }

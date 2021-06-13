@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-contemporary-medicine",
   "id": "academic-writing/citation-style/journal-of-contemporary-medicine",
   "isDocsHomePage": false,
-  "title": "journal-of-contemporary-medicine",
-  "description": "---",
+  "title": "Journal of Contemporary Medicine",
+  "description": "When you 're tasked by using \"Journal of Contemporary Medicine\" (USP-IME) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-contemporary-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-contemporary-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-contemporary-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-contemporary-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-consumer-research",
+    "title": "Journal of Consumer Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-consumer-research"
   },
   "next": {
-    "title": "journal-of-crohns-and-colitis-supplements",
+    "title": "Journal of Crohn''s and Colitis Supplements",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-crohns-and-colitis-supplements"
   }
 }

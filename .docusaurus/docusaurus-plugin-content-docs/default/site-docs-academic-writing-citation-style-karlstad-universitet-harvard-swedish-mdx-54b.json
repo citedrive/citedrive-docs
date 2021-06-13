@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/karlstad-universitet--harvard-swedish",
   "id": "academic-writing/citation-style/karlstad-universitet--harvard-swedish",
   "isDocsHomePage": false,
-  "title": "karlstad-universitet--harvard-swedish",
-  "description": "---",
+  "title": "Karlstad Universitet - Harvard (Swedish)",
+  "description": "When you 're tasked by using \"Karlstad Universitet - Harvard (Swedish)\" (KAU Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/karlstad-universitet--harvard-swedish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/karlstad-universitet--harvard-swedish",
   "permalink": "/support/docs/academic-writing/citation-style/karlstad-universitet--harvard-swedish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/karlstad-universitet--harvard-swedish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "karger-journals",
+    "title": "Karger journals",
     "permalink": "/support/docs/academic-writing/citation-style/karger-journals"
   },
   "next": {
-    "title": "karstenia",
+    "title": "Karstenia",
     "permalink": "/support/docs/academic-writing/citation-style/karstenia"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nehet-french",
   "id": "academic-writing/citation-style/nehet-french",
   "isDocsHomePage": false,
-  "title": "nehet-french",
-  "description": "---",
+  "title": "NeHeT (French)",
+  "description": "When you 're tasked by using \"NeHeT (French)\" (J Technol Transf) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nehet-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nehet-french",
   "permalink": "/support/docs/academic-writing/citation-style/nehet-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nehet-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish",
+    "title": "Necmettin Erbakan Üniversitesi Fen ve Mühendislik Bilimleri Dergisi (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/necmettin-erbakan-universitesi-fen-ve-muhendislik-bilimleri-dergisi-turkish"
   },
   "next": {
-    "title": "nejm-catalyst-innovations-in-care-delivery",
+    "title": "NEJM Catalyst Innovations in Care Delivery",
     "permalink": "/support/docs/academic-writing/citation-style/nejm-catalyst-innovations-in-care-delivery"
   }
 }

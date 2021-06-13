@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences",
   "id": "academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences",
   "isDocsHomePage": false,
-  "title": "critical-reviews-in-solid-state-and-materials-sciences",
-  "description": "---",
+  "title": "Critical Reviews in Solid State and Materials Sciences",
+  "description": "When you 're tasked by using \"Critical Reviews in Solid State and Materials Sciences\" (Rev Manag Sci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences",
   "permalink": "/support/docs/academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/critical-reviews-in-solid-state-and-materials-sciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "critical-reviews-in-plant-sciences",
+    "title": "Critical Reviews in Plant Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/critical-reviews-in-plant-sciences"
   },
   "next": {
-    "title": "crop-breeding-and-applied-biotechnology",
+    "title": "Crop Breeding and Applied Biotechnology",
     "permalink": "/support/docs/academic-writing/citation-style/crop-breeding-and-applied-biotechnology"
   }
 }

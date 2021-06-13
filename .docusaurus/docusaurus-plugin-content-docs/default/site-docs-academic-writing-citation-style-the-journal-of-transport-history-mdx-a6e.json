@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-transport-history",
   "id": "academic-writing/citation-style/the-journal-of-transport-history",
   "isDocsHomePage": false,
-  "title": "the-journal-of-transport-history",
-  "description": "---",
+  "title": "The Journal of Transport History",
+  "description": "When you 're tasked by using \"The Journal of Transport History\" (JTH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-transport-history.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-transport-history",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-transport-history",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-transport-history.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-the-torrey-botanical-society",
+    "title": "The Journal of the Torrey Botanical Society",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-the-torrey-botanical-society"
   },
   "next": {
-    "title": "the-journal-of-trauma-and-acute-care-surgery",
+    "title": "The Journal of Trauma and Acute Care Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery"
   }
 }

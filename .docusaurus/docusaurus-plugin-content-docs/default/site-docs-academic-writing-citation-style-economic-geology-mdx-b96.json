@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/economic-geology",
   "id": "academic-writing/citation-style/economic-geology",
   "isDocsHomePage": false,
-  "title": "economic-geology",
-  "description": "---",
+  "title": "Economic Geology",
+  "description": "When you 're tasked by using \"Economic Geology\" (RSG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/economic-geology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/economic-geology",
   "permalink": "/support/docs/academic-writing/citation-style/economic-geology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/economic-geology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "economic-commission-for-latin-america-and-the-caribbean",
+    "title": "Economic Commission for Latin America and the Caribbean",
     "permalink": "/support/docs/academic-writing/citation-style/economic-commission-for-latin-america-and-the-caribbean"
   },
   "next": {
-    "title": "economie-et-statistique-french",
+    "title": "Économie et Statistique (French)",
     "permalink": "/support/docs/academic-writing/citation-style/economie-et-statistique-french"
   }
 }

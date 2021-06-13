@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology",
   "id": "academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology",
   "isDocsHomePage": false,
-  "title": "obafemi-awolowo-university--faculty-of-technology",
-  "description": "---",
+  "title": "Obafemi Awolowo University - Faculty of Technology",
+  "description": "When you 're tasked by using \"Obafemi Awolowo University - Faculty of Technology\" (OAU Tech) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology",
   "permalink": "/support/docs/academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/obafemi-awolowo-university--faculty-of-technology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nutrition-research-reviews",
+    "title": "Nutrition Research Reviews",
     "permalink": "/support/docs/academic-writing/citation-style/nutrition-research-reviews"
   },
   "next": {
-    "title": "obesity",
+    "title": "Obesity",
     "permalink": "/support/docs/academic-writing/citation-style/obesity"
   }
 }

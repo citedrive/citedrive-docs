@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biomed-research-international",
   "id": "academic-writing/citation-style/biomed-research-international",
   "isDocsHomePage": false,
-  "title": "biomed-research-international",
-  "description": "---",
+  "title": "BioMed Research International",
+  "description": "When you 're tasked by using \"BioMed Research International\" (BRI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biomed-research-international.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biomed-research-international",
   "permalink": "/support/docs/academic-writing/citation-style/biomed-research-international",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biomed-research-international.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biomed-central",
+    "title": "BioMed Central",
     "permalink": "/support/docs/academic-writing/citation-style/biomed-central"
   },
   "next": {
-    "title": "biometrics",
+    "title": "Biometrics",
     "permalink": "/support/docs/academic-writing/citation-style/biometrics"
   }
 }

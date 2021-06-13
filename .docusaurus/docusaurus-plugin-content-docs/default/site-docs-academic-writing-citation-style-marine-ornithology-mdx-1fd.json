@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/marine-ornithology",
   "id": "academic-writing/citation-style/marine-ornithology",
   "isDocsHomePage": false,
-  "title": "marine-ornithology",
-  "description": "---",
+  "title": "Marine Ornithology",
+  "description": "When you 're tasked by using \"Marine Ornithology\" (PIDJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/marine-ornithology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/marine-ornithology",
   "permalink": "/support/docs/academic-writing/citation-style/marine-ornithology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/marine-ornithology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "marine-mammal-science",
+    "title": "Marine Mammal Science",
     "permalink": "/support/docs/academic-writing/citation-style/marine-mammal-science"
   },
   "next": {
-    "title": "marine-turtle-newsletter",
+    "title": "Marine Turtle Newsletter",
     "permalink": "/support/docs/academic-writing/citation-style/marine-turtle-newsletter"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/brazilian-oral-research",
   "id": "academic-writing/citation-style/brazilian-oral-research",
   "isDocsHomePage": false,
-  "title": "brazilian-oral-research",
-  "description": "---",
+  "title": "Brazilian Oral Research",
+  "description": "When you 're tasked by using \"Brazilian Oral Research\" (BOR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/brazilian-oral-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/brazilian-oral-research",
   "permalink": "/support/docs/academic-writing/citation-style/brazilian-oral-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/brazilian-oral-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "brazilian-journal-of-infectious-diseases",
+    "title": "Brazilian Journal of Infectious Diseases",
     "permalink": "/support/docs/academic-writing/citation-style/brazilian-journal-of-infectious-diseases"
   },
   "next": {
-    "title": "brewingscience",
+    "title": "BrewingScience",
     "permalink": "/support/docs/academic-writing/citation-style/brewingscience"
   }
 }

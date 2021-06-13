@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-interactive-marketing",
   "id": "academic-writing/citation-style/journal-of-interactive-marketing",
   "isDocsHomePage": false,
-  "title": "journal-of-interactive-marketing",
-  "description": "---",
+  "title": "Journal of Interactive Marketing",
+  "description": "When you 're tasked by using \"Journal of Interactive Marketing\" (HCII) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-interactive-marketing.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-interactive-marketing",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-interactive-marketing",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-interactive-marketing.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-integrated-omics",
+    "title": "Journal of Integrated OMICS",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-integrated-omics"
   },
   "next": {
-    "title": "journal-of-internal-medicine",
+    "title": "Journal of Internal Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-internal-medicine"
   }
 }

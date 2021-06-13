@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
   "id": "academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
   "isDocsHomePage": false,
-  "title": "international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
-  "description": "---",
+  "title": "International Islamic University Malaysia - Ahmad Ibrahim Kulliyyah of Laws",
+  "description": "When you 're tasked by using \"International Islamic University Malaysia - Ahmad Ibrahim Kulliyyah of Laws\" (IIUM-AIKOL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
   "permalink": "/support/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-islamic-university-malaysia--ahmad-ibrahim-kulliyyah-of-laws.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-energy-agency--organisation-for-economic-cooperation-and-development",
+    "title": "International Energy Agency - Organisation for Economic Co-operation and Development",
     "permalink": "/support/docs/academic-writing/citation-style/international-energy-agency--organisation-for-economic-cooperation-and-development"
   },
   "next": {
-    "title": "international-journal-for-numerical-methods-in-biomedical-engineering",
+    "title": "International Journal for Numerical Methods in Biomedical Engineering",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-for-numerical-methods-in-biomedical-engineering"
   }
 }

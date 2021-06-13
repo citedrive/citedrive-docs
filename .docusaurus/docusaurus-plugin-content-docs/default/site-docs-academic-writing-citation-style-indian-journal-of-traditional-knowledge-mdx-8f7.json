@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/indian-journal-of-traditional-knowledge",
   "id": "academic-writing/citation-style/indian-journal-of-traditional-knowledge",
   "isDocsHomePage": false,
-  "title": "indian-journal-of-traditional-knowledge",
-  "description": "---",
+  "title": "Indian Journal of Traditional Knowledge",
+  "description": "When you 're tasked by using \"Indian Journal of Traditional Knowledge\" (IJTK) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/indian-journal-of-traditional-knowledge.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/indian-journal-of-traditional-knowledge",
   "permalink": "/support/docs/academic-writing/citation-style/indian-journal-of-traditional-knowledge",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/indian-journal-of-traditional-knowledge.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "indian-journal-of-physics",
+    "title": "Indian Journal of Physics",
     "permalink": "/support/docs/academic-writing/citation-style/indian-journal-of-physics"
   },
   "next": {
-    "title": "indiana",
+    "title": "INDIANA",
     "permalink": "/support/docs/academic-writing/citation-style/indiana"
   }
 }

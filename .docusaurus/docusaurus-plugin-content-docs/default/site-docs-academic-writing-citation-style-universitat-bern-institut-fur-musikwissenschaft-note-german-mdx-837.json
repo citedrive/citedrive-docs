@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
   "id": "academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
   "isDocsHomePage": false,
-  "title": "universitat-bern--institut-fur-musikwissenschaft-note-german",
-  "description": "---",
+  "title": "Universität Bern - Institut für Musikwissenschaft (note, German)",
+  "description": "When you 're tasked by using \"Universität Bern - Institut für Musikwissenschaft (note, German)\" (Orient Pharm Exp Med) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
   "permalink": "/support/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-bern--institut-fur-musikwissenschaft-note-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitat-basel--iberoromanistik-spanish",
+    "title": "Universität Basel - Iberoromanistik (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-basel--iberoromanistik-spanish"
   },
   "next": {
-    "title": "universitat-bern--institut-fur-sozialanthropologie-german--switzerland",
+    "title": "Universität Bern - Institut für Sozialanthropologie (German - Switzerland)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-bern--institut-fur-sozialanthropologie-german--switzerland"
   }
 }

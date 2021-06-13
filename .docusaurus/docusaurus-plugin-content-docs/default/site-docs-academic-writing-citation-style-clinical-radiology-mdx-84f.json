@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-radiology",
   "id": "academic-writing/citation-style/clinical-radiology",
   "isDocsHomePage": false,
-  "title": "clinical-radiology",
-  "description": "---",
+  "title": "Clinical Radiology",
+  "description": "When you 're tasked by using \"Clinical Radiology\" (Int Econ Econ Policy) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-radiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-radiology",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-radiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-radiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-physiology-and-functional-imaging",
+    "title": "Clinical Physiology and Functional Imaging",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging"
   },
   "next": {
-    "title": "clinical-spine-surgery",
+    "title": "Clinical Spine Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-spine-surgery"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hochschule-bonnrheinsieg-german",
   "id": "academic-writing/citation-style/hochschule-bonnrheinsieg-german",
   "isDocsHomePage": false,
-  "title": "hochschule-bonnrheinsieg-german",
-  "description": "---",
+  "title": "Hochschule Bonn-Rhein-Sieg (German)",
+  "description": "When you 're tasked by using \"Hochschule Bonn-Rhein-Sieg (German)\" (Ophthalmol Ther) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hochschule-bonnrheinsieg-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hochschule-bonnrheinsieg-german",
   "permalink": "/support/docs/academic-writing/citation-style/hochschule-bonnrheinsieg-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hochschule-bonnrheinsieg-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "history-of-the-human-sciences",
+    "title": "History of the Human Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/history-of-the-human-sciences"
   },
   "next": {
-    "title": "hochschule-der-medien-stuttgart-german",
+    "title": "Hochschule der Medien Stuttgart (German)",
     "permalink": "/support/docs/academic-writing/citation-style/hochschule-der-medien-stuttgart-german"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mind-and-language",
   "id": "academic-writing/citation-style/mind-and-language",
   "isDocsHomePage": false,
-  "title": "mind-and-language",
-  "description": "---",
+  "title": "Mind & Language",
+  "description": "When you 're tasked by using \"Mind & Language\" (GCB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mind-and-language.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mind-and-language",
   "permalink": "/support/docs/academic-writing/citation-style/mind-and-language",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mind-and-language.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mimesis-edizioni-italian",
+    "title": "Mimesis Edizioni (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian"
   },
   "next": {
-    "title": "mineralogical-magazine",
+    "title": "Mineralogical Magazine",
     "permalink": "/support/docs/academic-writing/citation-style/mineralogical-magazine"
   }
 }

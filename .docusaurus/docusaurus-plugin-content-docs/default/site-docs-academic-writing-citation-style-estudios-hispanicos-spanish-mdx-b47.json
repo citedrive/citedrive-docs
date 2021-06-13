@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/estudios-hispanicos-spanish",
   "id": "academic-writing/citation-style/estudios-hispanicos-spanish",
   "isDocsHomePage": false,
-  "title": "estudios-hispanicos-spanish",
-  "description": "---",
+  "title": "Estudios Hispánicos (Spanish)",
+  "description": "When you 're tasked by using \"Estudios Hispánicos (Spanish)\" (EH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/estudios-hispanicos-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/estudios-hispanicos-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/estudios-hispanicos-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/estudios-hispanicos-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "estudios-de-fonetica-experimental",
+    "title": "Estudios de Fonética Experimental",
     "permalink": "/support/docs/academic-writing/citation-style/estudios-de-fonetica-experimental"
   },
   "next": {
-    "title": "ethics-for-book-reviews",
+    "title": "Ethics (for book reviews)",
     "permalink": "/support/docs/academic-writing/citation-style/ethics-for-book-reviews"
   }
 }

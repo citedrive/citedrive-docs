@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/bioarchaeology-of-the-near-east",
   "id": "academic-writing/citation-style/bioarchaeology-of-the-near-east",
   "isDocsHomePage": false,
-  "title": "bioarchaeology-of-the-near-east",
-  "description": "---",
+  "title": "Bioarchaeology of the Near East",
+  "description": "When you 're tasked by using \"Bioarchaeology of the Near East\" (BNE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/bioarchaeology-of-the-near-east",
   "permalink": "/support/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioarchaeology-of-the-near-east.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bioarchaeology-international",
+    "title": "Bioarchaeology International",
     "permalink": "/support/docs/academic-writing/citation-style/bioarchaeology-international"
   },
   "next": {
-    "title": "biochemical-journal",
+    "title": "Biochemical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/biochemical-journal"
   }
 }

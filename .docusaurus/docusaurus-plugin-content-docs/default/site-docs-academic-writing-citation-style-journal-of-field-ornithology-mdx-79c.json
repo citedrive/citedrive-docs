@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-field-ornithology",
   "id": "academic-writing/citation-style/journal-of-field-ornithology",
   "isDocsHomePage": false,
-  "title": "journal-of-field-ornithology",
-  "description": "---",
+  "title": "Journal of Field Ornithology",
+  "description": "When you 're tasked by using \"Journal of Field Ornithology\" (Plant Reprod) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-field-ornithology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-field-ornithology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-field-ornithology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-field-ornithology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-experimental-botany",
+    "title": "Journal of Experimental Botany",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-experimental-botany"
   },
   "next": {
-    "title": "journal-of-finance",
+    "title": "Journal of Finance",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-finance"
   }
 }

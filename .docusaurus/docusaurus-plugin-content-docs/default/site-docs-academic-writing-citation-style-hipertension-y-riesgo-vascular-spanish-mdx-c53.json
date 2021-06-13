@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
   "id": "academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
   "isDocsHomePage": false,
-  "title": "hipertension-y-riesgo-vascular-spanish",
-  "description": "---",
+  "title": "Hipertensión y Riesgo Vascular (Spanish)",
+  "description": "When you 're tasked by using \"Hipertensión y Riesgo Vascular (Spanish)\" (HIPERT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hipertension-y-riesgo-vascular-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hiob-ludolf-centre-for-ethiopian-studies",
+    "title": "Hiob Ludolf Centre for Ethiopian Studies",
     "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies"
   },
   "next": {
-    "title": "histoire-and-mesure-french",
+    "title": "Histoire & Mesure (French)",
     "permalink": "/support/docs/academic-writing/citation-style/histoire-and-mesure-french"
   }
 }

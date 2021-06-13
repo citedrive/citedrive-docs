@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-instrumentation",
   "id": "academic-writing/citation-style/journal-of-instrumentation",
   "isDocsHomePage": false,
-  "title": "journal-of-instrumentation",
-  "description": "---",
+  "title": "Journal of Instrumentation",
+  "description": "When you 're tasked by using \"Journal of Instrumentation\" (GCB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-instrumentation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-instrumentation",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-instrumentation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-instrumentation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-institutional-and-theoretical-economics",
+    "title": "Journal of Institutional and Theoretical Economics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-institutional-and-theoretical-economics"
   },
   "next": {
-    "title": "journal-of-integrated-omics",
+    "title": "Journal of Integrated OMICS",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-integrated-omics"
   }
 }

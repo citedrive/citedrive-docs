@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/evolution-and-development",
   "id": "academic-writing/citation-style/evolution-and-development",
   "isDocsHomePage": false,
-  "title": "evolution-and-development",
-  "description": "---",
+  "title": "Evolution & Development",
+  "description": "When you 're tasked by using \"Evolution & Development\" (Theor Chem Acc) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/evolution-and-development.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/evolution-and-development",
   "permalink": "/support/docs/academic-writing/citation-style/evolution-and-development",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/evolution-and-development.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "evidencebased-complementary-and-alternative-medicine",
+    "title": "Evidence-Based Complementary and Alternative Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/evidencebased-complementary-and-alternative-medicine"
   },
   "next": {
-    "title": "evolution",
+    "title": "Evolution",
     "permalink": "/support/docs/academic-writing/citation-style/evolution"
   }
 }

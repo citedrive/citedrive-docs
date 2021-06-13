@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/united-nations-framework-convention-on-climate-change",
   "id": "academic-writing/citation-style/united-nations-framework-convention-on-climate-change",
   "isDocsHomePage": false,
-  "title": "united-nations-framework-convention-on-climate-change",
-  "description": "---",
+  "title": "United Nations Framework Convention on Climate Change",
+  "description": "When you 're tasked by using \"United Nations Framework Convention on Climate Change\" (UNFCCC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/united-nations-framework-convention-on-climate-change.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/united-nations-framework-convention-on-climate-change",
   "permalink": "/support/docs/academic-writing/citation-style/united-nations-framework-convention-on-climate-change",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/united-nations-framework-convention-on-climate-change.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "united-nations-development-programme-icca-legal-review",
+    "title": "United Nations Development Programme ICCA Legal Review",
     "permalink": "/support/docs/academic-writing/citation-style/united-nations-development-programme-icca-legal-review"
   },
   "next": {
-    "title": "universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico",
+    "title": "Universidad Autónoma de Ciudad Juárez - Estilo Latino Humanístico",
     "permalink": "/support/docs/academic-writing/citation-style/universidad-autonoma-de-ciudad-juarez--estilo-latino-humanistico"
   }
 }

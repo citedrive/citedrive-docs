@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list",
   "id": "academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list",
   "isDocsHomePage": false,
-  "title": "chicago-manual-of-style-17th-edition-library-list",
-  "description": "---",
+  "title": "Chicago Manual of Style 17th edition (library list)",
+  "description": "When you 're tasked by using \"Chicago Manual of Style 17th edition (library list)\" (Euro Jnl Phil Sci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list",
   "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-library-list.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chicago-manual-of-style-17th-edition-full-note",
+    "title": "Chicago Manual of Style 17th edition (full note)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-full-note"
   },
   "next": {
-    "title": "chicago-manual-of-style-17th-edition-note-annotated-bibliography",
+    "title": "Chicago Manual of Style 17th edition (note, annotated bibliography)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-17th-edition-note-annotated-bibliography"
   }
 }

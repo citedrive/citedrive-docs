@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/archivum-latinitatis-medii-aevi-french",
   "id": "academic-writing/citation-style/archivum-latinitatis-medii-aevi-french",
   "isDocsHomePage": false,
-  "title": "archivum-latinitatis-medii-aevi-french",
-  "description": "---",
+  "title": "Archivum Latinitatis Medii Aevi (French)",
+  "description": "When you 're tasked by using \"Archivum Latinitatis Medii Aevi (French)\" (ALMA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/archivum-latinitatis-medii-aevi-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/archivum-latinitatis-medii-aevi-french",
   "permalink": "/support/docs/academic-writing/citation-style/archivum-latinitatis-medii-aevi-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archivum-latinitatis-medii-aevi-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "archivos-de-la-sociedad-espanola-de-oftalmologia-spanish",
+    "title": "Archivos de la Sociedad Española de Oftalmología (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/archivos-de-la-sociedad-espanola-de-oftalmologia-spanish"
   },
   "next": {
-    "title": "arctic-antarctic-and-alpine-research",
+    "title": "Arctic, Antarctic, and Alpine Research",
     "permalink": "/support/docs/academic-writing/citation-style/arctic-antarctic-and-alpine-research"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/style-manual--australian-government-authordate",
   "id": "academic-writing/citation-style/style-manual--australian-government-authordate",
   "isDocsHomePage": false,
-  "title": "style-manual--australian-government-authordate",
-  "description": "---",
+  "title": "Style Manual - Australian Government (author-date)",
+  "description": "When you 're tasked by using \"Style Manual - Australian Government (author-date)\" (JPIM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/style-manual--australian-government-authordate.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/style-manual--australian-government-authordate",
   "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-authordate",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/style-manual--australian-government-authordate.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "studii-teologice",
+    "title": "Studii Teologice",
     "permalink": "/support/docs/academic-writing/citation-style/studii-teologice"
   },
   "next": {
-    "title": "style-manual--australian-government-note",
+    "title": "Style Manual - Australian Government (note)",
     "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-note"
   }
 }

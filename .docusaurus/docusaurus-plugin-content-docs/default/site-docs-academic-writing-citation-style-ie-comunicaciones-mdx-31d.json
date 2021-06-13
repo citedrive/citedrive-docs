@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ie-comunicaciones",
   "id": "academic-writing/citation-style/ie-comunicaciones",
   "isDocsHomePage": false,
-  "title": "ie-comunicaciones",
-  "description": "---",
+  "title": "IE Comunicaciones",
+  "description": "When you 're tasked by using \"IE Comunicaciones\" (IE Com) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ie-comunicaciones.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ie-comunicaciones",
   "permalink": "/support/docs/academic-writing/citation-style/ie-comunicaciones",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ie-comunicaciones.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "idojaras--quarterly-journal-of-the-hungarian-meteorological-service",
+    "title": "Időjárás - Quarterly Journal of the Hungarian Meteorological Service",
     "permalink": "/support/docs/academic-writing/citation-style/idojaras--quarterly-journal-of-the-hungarian-meteorological-service"
   },
   "next": {
-    "title": "ieee-transactions-on-medical-imaging",
+    "title": "IEEE Transactions on Medical Imaging",
     "permalink": "/support/docs/academic-writing/citation-style/ieee-transactions-on-medical-imaging"
   }
 }

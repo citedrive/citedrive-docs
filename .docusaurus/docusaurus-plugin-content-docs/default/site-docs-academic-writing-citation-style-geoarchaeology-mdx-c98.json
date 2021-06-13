@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/geoarchaeology",
   "id": "academic-writing/citation-style/geoarchaeology",
   "isDocsHomePage": false,
-  "title": "geoarchaeology",
-  "description": "---",
+  "title": "Geoarchaeology",
+  "description": "When you 're tasked by using \"Geoarchaeology\" (Graefes Arch Clin Exp Ophthalmol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/geoarchaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/geoarchaeology",
   "permalink": "/support/docs/academic-writing/citation-style/geoarchaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/geoarchaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "genomics-and-informatics",
+    "title": "Genomics & Informatics",
     "permalink": "/support/docs/academic-writing/citation-style/genomics-and-informatics"
   },
   "next": {
-    "title": "geobiology",
+    "title": "Geobiology",
     "permalink": "/support/docs/academic-writing/citation-style/geobiology"
   }
 }

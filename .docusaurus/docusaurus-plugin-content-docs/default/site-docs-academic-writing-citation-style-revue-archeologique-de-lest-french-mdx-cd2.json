@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revue-archeologique-de-lest-french",
   "id": "academic-writing/citation-style/revue-archeologique-de-lest-french",
   "isDocsHomePage": false,
-  "title": "revue-archeologique-de-lest-french",
-  "description": "---",
+  "title": "Revue archéologique de l’Est (French)",
+  "description": "When you 're tasked by using \"Revue archéologique de l’Est (French)\" (RAE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revue-archeologique-de-lest-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revue-archeologique-de-lest-french",
   "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-de-lest-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-archeologique-de-lest-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "revista-virtual-de-quimica-portuguese--brazil",
+    "title": "Revista Virtual de Química (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil"
   },
   "next": {
-    "title": "revue-archeologique-du-centre-de-la-france-french",
+    "title": "Revue archéologique du Centre de la France (French)",
     "permalink": "/support/docs/academic-writing/citation-style/revue-archeologique-du-centre-de-la-france-french"
   }
 }

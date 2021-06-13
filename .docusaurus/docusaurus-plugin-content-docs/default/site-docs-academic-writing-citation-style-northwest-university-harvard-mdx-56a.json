@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/northwest-university--harvard",
   "id": "academic-writing/citation-style/northwest-university--harvard",
   "isDocsHomePage": false,
-  "title": "northwest-university--harvard",
-  "description": "---",
+  "title": "North-West University - Harvard",
+  "description": "When you 're tasked by using \"North-West University - Harvard\" (NWU) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/northwest-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/northwest-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/northwest-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/northwest-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "northeastern-naturalist",
+    "title": "Northeastern Naturalist",
     "permalink": "/support/docs/academic-writing/citation-style/northeastern-naturalist"
   },
   "next": {
-    "title": "nottingham-trent-university-library--harvard",
+    "title": "Nottingham Trent University Library - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/nottingham-trent-university-library--harvard"
   }
 }

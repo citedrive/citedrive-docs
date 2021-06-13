@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/environnement-risques-and-sante",
   "id": "academic-writing/citation-style/environnement-risques-and-sante",
   "isDocsHomePage": false,
-  "title": "environnement-risques-and-sante",
-  "description": "---",
+  "title": "Environnement, Risques & Santé",
+  "description": "When you 're tasked by using \"Environnement, Risques & Santé\" (J Appl Phycol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/environnement-risques-and-sante.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/environnement-risques-and-sante",
   "permalink": "/support/docs/academic-writing/citation-style/environnement-risques-and-sante",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environnement-risques-and-sante.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "environmental-values",
+    "title": "Environmental Values",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-values"
   },
   "next": {
-    "title": "ephemerides-theologicae-lovanienses",
+    "title": "Ephemerides Theologicae Lovanienses",
     "permalink": "/support/docs/academic-writing/citation-style/ephemerides-theologicae-lovanienses"
   }
 }

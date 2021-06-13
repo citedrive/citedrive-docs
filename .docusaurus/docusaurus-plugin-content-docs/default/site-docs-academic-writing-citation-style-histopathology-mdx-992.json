@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/histopathology",
   "id": "academic-writing/citation-style/histopathology",
   "isDocsHomePage": false,
-  "title": "histopathology",
-  "description": "---",
+  "title": "Histopathology",
+  "description": "When you 're tasked by using \"Histopathology\" (Neurocrit Care) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/histopathology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/histopathology",
   "permalink": "/support/docs/academic-writing/citation-style/histopathology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/histopathology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "histoirepolitique-politique-culture-societe-french",
+    "title": "Histoire@Politique. Politique, culture, société (French)",
     "permalink": "/support/docs/academic-writing/citation-style/histoirepolitique-politique-culture-societe-french"
   },
   "next": {
-    "title": "historiascribere-german",
+    "title": "historia.scribere (German)",
     "permalink": "/support/docs/academic-writing/citation-style/historiascribere-german"
   }
 }

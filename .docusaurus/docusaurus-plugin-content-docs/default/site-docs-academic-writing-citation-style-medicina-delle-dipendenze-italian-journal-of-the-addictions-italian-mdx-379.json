@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
   "id": "academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
   "isDocsHomePage": false,
-  "title": "medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
-  "description": "---",
+  "title": "Medicina delle Dipendenze - Italian Journal of the Addictions (Italian)",
+  "description": "When you 're tasked by using \"Medicina delle Dipendenze - Italian Journal of the Addictions (Italian)\" (MDD) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
   "permalink": "/support/docs/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/medicina-delle-dipendenze--italian-journal-of-the-addictions-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "medicina-clinica-spanish",
+    "title": "Medicina Clínica (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/medicina-clinica-spanish"
   },
   "next": {
-    "title": "medicinal-research-reviews",
+    "title": "Medicinal Research Reviews",
     "permalink": "/support/docs/academic-writing/citation-style/medicinal-research-reviews"
   }
 }

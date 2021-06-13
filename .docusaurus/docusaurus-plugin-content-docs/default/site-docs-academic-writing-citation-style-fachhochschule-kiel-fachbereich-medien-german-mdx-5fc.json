@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german",
   "id": "academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german",
   "isDocsHomePage": false,
-  "title": "fachhochschule-kiel--fachbereich-medien-german",
-  "description": "---",
+  "title": "Fachhochschule Kiel - Fachbereich Medien (German)",
+  "description": "When you 're tasked by using \"Fachhochschule Kiel - Fachbereich Medien (German)\" (FH Kiel | Medien) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german",
   "permalink": "/support/docs/academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fachhochschule-kiel--fachbereich-medien-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "eye",
+    "title": "Eye",
     "permalink": "/support/docs/academic-writing/citation-style/eye"
   },
   "next": {
-    "title": "fachhochschule-salzburg--harvard",
+    "title": "Fachhochschule Salzburg - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/fachhochschule-salzburg--harvard"
   }
 }

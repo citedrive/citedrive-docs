@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-american-journal-of-cardiology",
   "id": "academic-writing/citation-style/the-american-journal-of-cardiology",
   "isDocsHomePage": false,
-  "title": "the-american-journal-of-cardiology",
-  "description": "---",
+  "title": "The American Journal of Cardiology",
+  "description": "When you 're tasked by using \"The American Journal of Cardiology\" (Educ Res Policy Prac) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-american-journal-of-cardiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-american-journal-of-cardiology",
   "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-cardiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-american-journal-of-cardiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-american-journal-of-bioethics",
+    "title": "The American Journal of Bioethics",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-bioethics"
   },
   "next": {
-    "title": "the-american-journal-of-gastroenterology",
+    "title": "The American Journal of Gastroenterology",
     "permalink": "/support/docs/academic-writing/citation-style/the-american-journal-of-gastroenterology"
   }
 }

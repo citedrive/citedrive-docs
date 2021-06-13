@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/budownictwo-i-architektura",
   "id": "academic-writing/citation-style/budownictwo-i-architektura",
   "isDocsHomePage": false,
-  "title": "budownictwo-i-architektura",
-  "description": "---",
+  "title": "Budownictwo i Architektura",
+  "description": "When you 're tasked by using \"Budownictwo i Architektura\" (IJOM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/budownictwo-i-architektura.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/budownictwo-i-architektura",
   "permalink": "/support/docs/academic-writing/citation-style/budownictwo-i-architektura",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/budownictwo-i-architektura.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "british-journal-of-surgery",
+    "title": "British Journal of Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-surgery"
   },
   "next": {
-    "title": "building-structure-chinese",
+    "title": "Building Structure (Chinese)",
     "permalink": "/support/docs/academic-writing/citation-style/building-structure-chinese"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
   "id": "academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-limerick-cite-it-right--harvard",
-  "description": "---",
+  "title": "University of Limerick (Cite it Right) - Harvard",
+  "description": "When you 're tasked by using \"University of Limerick (Cite it Right) - Harvard\" (ASME) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-limerick-cite-it-right--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-leeds--harvard",
+    "title": "University of Leeds - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-leeds--harvard"
   },
   "next": {
-    "title": "university-of-south-africa--harvard",
+    "title": "University of South Africa - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-south-africa--harvard"
   }
 }

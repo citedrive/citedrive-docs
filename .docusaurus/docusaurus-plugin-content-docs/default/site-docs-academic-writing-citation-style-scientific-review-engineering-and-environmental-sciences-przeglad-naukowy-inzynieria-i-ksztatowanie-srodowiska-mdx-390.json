@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
   "id": "academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
   "isDocsHomePage": false,
-  "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
-  "description": "---",
+  "title": "Scientific Review Engineering and Environmental Sciences (Przegląd Naukowy Inżynieria i Kształtowanie Środowiska)",
+  "description": "When you 're tasked by using \"Scientific Review Engineering and Environmental Sciences (Przegląd Naukowy Inżynieria i Kształtowanie Środowiska)\" (SREES) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
   "permalink": "/support/docs/academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "scientia-iranica",
+    "title": "Scientia Iranica",
     "permalink": "/support/docs/academic-writing/citation-style/scientia-iranica"
   },
   "next": {
-    "title": "scrinium",
+    "title": "Scrinium",
     "permalink": "/support/docs/academic-writing/citation-style/scrinium"
   }
 }

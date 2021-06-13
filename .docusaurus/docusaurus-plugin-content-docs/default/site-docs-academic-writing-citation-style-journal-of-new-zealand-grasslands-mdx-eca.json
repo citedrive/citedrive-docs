@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-new-zealand-grasslands",
   "id": "academic-writing/citation-style/journal-of-new-zealand-grasslands",
   "isDocsHomePage": false,
-  "title": "journal-of-new-zealand-grasslands",
-  "description": "---",
+  "title": "Journal of New Zealand Grasslands",
+  "description": "When you 're tasked by using \"Journal of New Zealand Grasslands\" (JNZG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-new-zealand-grasslands.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-new-zealand-grasslands",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-new-zealand-grasslands",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-new-zealand-grasslands.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-neurotrauma",
+    "title": "Journal of Neurotrauma",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurotrauma"
   },
   "next": {
-    "title": "journal-of-nutrition",
+    "title": "Journal of Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-nutrition"
   }
 }

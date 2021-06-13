@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-glaciology",
   "id": "academic-writing/citation-style/journal-of-glaciology",
   "isDocsHomePage": false,
-  "title": "journal-of-glaciology",
-  "description": "---",
+  "title": "Journal of Glaciology",
+  "description": "When you 're tasked by using \"Journal of Glaciology\" (ACS Photonics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-glaciology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-glaciology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-glaciology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-glaciology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-geriatric-psychiatry-and-neurology",
+    "title": "Journal of Geriatric Psychiatry and Neurology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-geriatric-psychiatry-and-neurology"
   },
   "next": {
-    "title": "journal-of-hearing-science",
+    "title": "Journal of Hearing Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-hearing-science"
   }
 }

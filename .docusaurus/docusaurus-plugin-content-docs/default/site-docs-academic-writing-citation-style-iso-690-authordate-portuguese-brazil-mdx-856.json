@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/iso690-authordate-portuguese--brazil",
   "id": "academic-writing/citation-style/iso690-authordate-portuguese--brazil",
   "isDocsHomePage": false,
-  "title": "iso690-authordate-portuguese--brazil",
-  "description": "---",
+  "title": "ISO-690 (author-date, Portuguese - Brazil)",
+  "description": "When you 're tasked by using \"ISO-690 (author-date, Portuguese - Brazil)\" (J. Am. Chem. Soc.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/iso690-authordate-portuguese--brazil.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/iso690-authordate-portuguese--brazil",
   "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-portuguese--brazil",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iso690-authordate-portuguese--brazil.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iso690-authordate-no-abstract-french",
+    "title": "ISO-690 (author-date, no abstract, French)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-no-abstract-french"
   },
   "next": {
-    "title": "iso690-authordate-slovak",
+    "title": "ISO-690 (author-date, Slovak)",
     "permalink": "/support/docs/academic-writing/citation-style/iso690-authordate-slovak"
   }
 }

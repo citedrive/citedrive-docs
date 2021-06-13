@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/biopolymers",
   "id": "academic-writing/citation-style/biopolymers",
   "isDocsHomePage": false,
-  "title": "biopolymers",
-  "description": "---",
+  "title": "Biopolymers",
+  "description": "When you 're tasked by using \"Biopolymers\" (Theor Chem Acc) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/biopolymers.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/biopolymers",
   "permalink": "/support/docs/academic-writing/citation-style/biopolymers",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/biopolymers.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biophysical-journal",
+    "title": "Biophysical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/biophysical-journal"
   },
   "next": {
-    "title": "bioresources",
+    "title": "BioResources",
     "permalink": "/support/docs/academic-writing/citation-style/bioresources"
   }
 }

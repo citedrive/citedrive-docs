@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-computer-applications-in-archaeology",
   "id": "academic-writing/citation-style/journal-of-computer-applications-in-archaeology",
   "isDocsHomePage": false,
-  "title": "journal-of-computer-applications-in-archaeology",
-  "description": "---",
+  "title": "Journal of Computer Applications in Archaeology",
+  "description": "When you 're tasked by using \"Journal of Computer Applications in Archaeology\" (JCAA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-computer-applications-in-archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-computer-applications-in-archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-computer-applications-in-archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-computer-applications-in-archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-computational-chemistry",
+    "title": "Journal of Computational Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-computational-chemistry"
   },
   "next": {
-    "title": "journal-of-computer-information-systems",
+    "title": "Journal of Computer Information Systems",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-computer-information-systems"
   }
 }

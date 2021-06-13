@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/environmental-conservation",
   "id": "academic-writing/citation-style/environmental-conservation",
   "isDocsHomePage": false,
-  "title": "environmental-conservation",
-  "description": "---",
+  "title": "Environmental Conservation",
+  "description": "When you 're tasked by using \"Environmental Conservation\" (MTSR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/environmental-conservation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/environmental-conservation",
   "permalink": "/support/docs/academic-writing/citation-style/environmental-conservation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environmental-conservation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "environmental-chemistry",
+    "title": "Environmental Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-chemistry"
   },
   "next": {
-    "title": "environmental-health-perspectives",
+    "title": "Environmental Health Perspectives",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-health-perspectives"
   }
 }

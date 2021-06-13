@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/engineering-in-life-sciences",
   "id": "academic-writing/citation-style/engineering-in-life-sciences",
   "isDocsHomePage": false,
-  "title": "engineering-in-life-sciences",
-  "description": "---",
+  "title": "Engineering in Life Sciences",
+  "description": "When you 're tasked by using \"Engineering in Life Sciences\" (Neotrop Entomol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/engineering-in-life-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/engineering-in-life-sciences",
   "permalink": "/support/docs/academic-writing/citation-style/engineering-in-life-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/engineering-in-life-sciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "enfermeria-intensiva-spanish",
+    "title": "Enfermería Intensiva (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/enfermeria-intensiva-spanish"
   },
   "next": {
-    "title": "engineering-technology-and-applied-science-research",
+    "title": "Engineering, Technology & Applied Science Research",
     "permalink": "/support/docs/academic-writing/citation-style/engineering-technology-and-applied-science-research"
   }
 }

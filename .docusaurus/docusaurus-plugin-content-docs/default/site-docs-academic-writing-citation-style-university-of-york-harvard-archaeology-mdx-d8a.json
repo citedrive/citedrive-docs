@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-york--harvard--archaeology",
   "id": "academic-writing/citation-style/university-of-york--harvard--archaeology",
   "isDocsHomePage": false,
-  "title": "university-of-york--harvard--archaeology",
-  "description": "---",
+  "title": "University of York - Harvard - Archaeology",
+  "description": "When you 're tasked by using \"University of York - Harvard - Archaeology\" (UoY Harvard Archaeology) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-york--harvard--archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-york--harvard--archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard--archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--harvard--archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-york--chicago-manual-of-style-16th-edition",
+    "title": "University of York - Chicago Manual of Style 16th edition",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--chicago-manual-of-style-16th-edition"
   },
   "next": {
-    "title": "university-of-york--harvard--environment",
+    "title": "University of York - Harvard - Environment",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard--environment"
   }
 }

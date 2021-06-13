@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
   "id": "academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
   "isDocsHomePage": false,
-  "title": "associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
-  "description": "---",
+  "title": "Associação Brasileira de Normas Técnicas (Portuguese - Brazil)",
+  "description": "When you 're tasked by using \"Associação Brasileira de Normas Técnicas (Portuguese - Brazil)\" (ABNT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
   "permalink": "/support/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-portuguese--brazil.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil",
+    "title": "Associação Brasileira de Normas Técnicas (note, Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/associacao-brasileira-de-normas-tecnicas-note-portuguese--brazil"
   },
   "next": {
-    "title": "association-de-science-regionale-de-langue-francaise-french",
+    "title": "Association de Science Régionale de Langue Française (French)",
     "permalink": "/support/docs/academic-writing/citation-style/association-de-science-regionale-de-langue-francaise-french"
   }
 }

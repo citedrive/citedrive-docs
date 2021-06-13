@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gastrointestinal-intervention",
   "id": "academic-writing/citation-style/gastrointestinal-intervention",
   "isDocsHomePage": false,
-  "title": "gastrointestinal-intervention",
-  "description": "---",
+  "title": "Gastrointestinal Intervention",
+  "description": "When you 're tasked by using \"Gastrointestinal Intervention\" (GII) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gastrointestinal-intervention.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gastrointestinal-intervention",
   "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-intervention",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gastrointestinal-intervention.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gastrointestinal-endoscopy-clinics-of-north-america",
+    "title": "Gastrointestinal Endoscopy Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-endoscopy-clinics-of-north-america"
   },
   "next": {
-    "title": "gazeta-medica",
+    "title": "Gazeta Médica",
     "permalink": "/support/docs/academic-writing/citation-style/gazeta-medica"
   }
 }

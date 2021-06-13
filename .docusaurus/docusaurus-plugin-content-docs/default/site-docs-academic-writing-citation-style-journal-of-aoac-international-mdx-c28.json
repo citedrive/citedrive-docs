@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-aoac-international",
   "id": "academic-writing/citation-style/journal-of-aoac-international",
   "isDocsHomePage": false,
-  "title": "journal-of-aoac-international",
-  "description": "---",
+  "title": "Journal of AOAC International",
+  "description": "When you 're tasked by using \"Journal of AOAC International\" (AOAC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-aoac-international.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-aoac-international",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-aoac-international",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-aoac-international.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-antimicrobial-chemotherapy",
+    "title": "Journal of Antimicrobial Chemotherapy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-antimicrobial-chemotherapy"
   },
   "next": {
-    "title": "journal-of-applied-animal-science",
+    "title": "Journal of Applied Animal Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-applied-animal-science"
   }
 }

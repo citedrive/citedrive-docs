@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/podzemna-voda-slovak",
   "id": "academic-writing/citation-style/podzemna-voda-slovak",
   "isDocsHomePage": false,
-  "title": "podzemna-voda-slovak",
-  "description": "---",
+  "title": "Podzemná voda (Slovak)",
+  "description": "When you 're tasked by using \"Podzemná voda (Slovak)\" (Insights Imaging) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/podzemna-voda-slovak.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/podzemna-voda-slovak",
   "permalink": "/support/docs/academic-writing/citation-style/podzemna-voda-slovak",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/podzemna-voda-slovak.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "plant-physiology",
+    "title": "Plant Physiology",
     "permalink": "/support/docs/academic-writing/citation-style/plant-physiology"
   },
   "next": {
-    "title": "polish-legal-polish",
+    "title": "Polish Legal (Polish)",
     "permalink": "/support/docs/academic-writing/citation-style/polish-legal-polish"
   }
 }

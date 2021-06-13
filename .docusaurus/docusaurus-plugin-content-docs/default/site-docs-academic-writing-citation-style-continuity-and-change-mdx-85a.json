@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/continuity-and-change",
   "id": "academic-writing/citation-style/continuity-and-change",
   "isDocsHomePage": false,
-  "title": "continuity-and-change",
-  "description": "---",
+  "title": "Continuity and Change",
+  "description": "When you 're tasked by using \"Continuity and Change\" (Hum Nat) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/continuity-and-change.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/continuity-and-change",
   "permalink": "/support/docs/academic-writing/citation-style/continuity-and-change",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/continuity-and-change.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "contemporary-accounting-research",
+    "title": "Contemporary Accounting Research",
     "permalink": "/support/docs/academic-writing/citation-style/contemporary-accounting-research"
   },
   "next": {
-    "title": "contributions-to-the-archaeology-of-egypt-nubia-and-the-levant",
+    "title": "Contributions to the Archaeology of Egypt, Nubia and the Levant",
     "permalink": "/support/docs/academic-writing/citation-style/contributions-to-the-archaeology-of-egypt-nubia-and-the-levant"
   }
 }

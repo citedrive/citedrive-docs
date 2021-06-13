@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
   "id": "academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
   "isDocsHomePage": false,
-  "title": "australian-guide-to-legal-citation-4th-edition",
-  "description": "---",
+  "title": "Australian Guide to Legal Citation 4th edition",
+  "description": "When you 're tasked by using \"Australian Guide to Legal Citation 4th edition\" (AGLC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
   "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-guide-to-legal-citation-4th-edition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "australian-guide-to-legal-citation-3rd-edition",
+    "title": "Australian Guide to Legal Citation 3rd edition",
     "permalink": "/support/docs/academic-writing/citation-style/australian-guide-to-legal-citation-3rd-edition"
   },
   "next": {
-    "title": "australian-historical-studies",
+    "title": "Australian Historical Studies",
     "permalink": "/support/docs/academic-writing/citation-style/australian-historical-studies"
   }
 }

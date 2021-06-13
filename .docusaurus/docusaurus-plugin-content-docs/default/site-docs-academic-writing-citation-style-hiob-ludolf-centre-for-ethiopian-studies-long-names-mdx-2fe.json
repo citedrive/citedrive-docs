@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names",
   "id": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names",
   "isDocsHomePage": false,
-  "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
-  "description": "---",
+  "title": "Hiob Ludolf Centre for Ethiopian Studies (long names)",
+  "description": "When you 're tasked by using \"Hiob Ludolf Centre for Ethiopian Studies (long names)\" (HLCES (Hamburg) long names) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names",
   "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "high-altitude-medicine-and-biology",
+    "title": "High Altitude Medicine & Biology",
     "permalink": "/support/docs/academic-writing/citation-style/high-altitude-medicine-and-biology"
   },
   "next": {
-    "title": "hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
+    "title": "Hiob Ludolf Centre for Ethiopian Studies (with URL/DOI)",
     "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi"
   }
 }

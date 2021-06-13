@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ecosistemas-spanish",
   "id": "academic-writing/citation-style/ecosistemas-spanish",
   "isDocsHomePage": false,
-  "title": "ecosistemas-spanish",
-  "description": "---",
+  "title": "Ecosistemas (Spanish)",
+  "description": "When you 're tasked by using \"Ecosistemas (Spanish)\" (TOS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ecosistemas-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ecosistemas-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/ecosistemas-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ecosistemas-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ecoscience",
+    "title": "Écoscience",
     "permalink": "/support/docs/academic-writing/citation-style/ecoscience"
   },
   "next": {
-    "title": "ecosystems",
+    "title": "Ecosystems",
     "permalink": "/support/docs/academic-writing/citation-style/ecosystems"
   }
 }

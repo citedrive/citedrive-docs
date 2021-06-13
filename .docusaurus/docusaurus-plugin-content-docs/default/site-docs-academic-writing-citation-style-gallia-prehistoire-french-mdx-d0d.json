@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gallia-prehistoire-french",
   "id": "academic-writing/citation-style/gallia-prehistoire-french",
   "isDocsHomePage": false,
-  "title": "gallia-prehistoire-french",
-  "description": "---",
+  "title": "Gallia Préhistoire (French)",
+  "description": "When you 're tasked by using \"Gallia Préhistoire (French)\" (GP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gallia-prehistoire-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gallia-prehistoire-french",
   "permalink": "/support/docs/academic-writing/citation-style/gallia-prehistoire-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gallia-prehistoire-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gallia-french",
+    "title": "Gallia (French)",
     "permalink": "/support/docs/academic-writing/citation-style/gallia-french"
   },
   "next": {
-    "title": "gastroenterology",
+    "title": "Gastroenterology",
     "permalink": "/support/docs/academic-writing/citation-style/gastroenterology"
   }
 }

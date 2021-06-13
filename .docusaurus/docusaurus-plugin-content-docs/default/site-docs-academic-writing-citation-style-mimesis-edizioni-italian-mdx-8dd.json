@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mimesis-edizioni-italian",
   "id": "academic-writing/citation-style/mimesis-edizioni-italian",
   "isDocsHomePage": false,
-  "title": "mimesis-edizioni-italian",
-  "description": "---",
+  "title": "Mimesis Edizioni (Italian)",
+  "description": "When you 're tasked by using \"Mimesis Edizioni (Italian)\" (PLR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mimesis-edizioni-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mimesis-edizioni-italian",
   "permalink": "/support/docs/academic-writing/citation-style/mimesis-edizioni-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mimesis-edizioni-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mimbar-hukum",
+    "title": "Mimbar Hukum",
     "permalink": "/support/docs/academic-writing/citation-style/mimbar-hukum"
   },
   "next": {
-    "title": "mind-and-language",
+    "title": "Mind & Language",
     "permalink": "/support/docs/academic-writing/citation-style/mind-and-language"
   }
 }

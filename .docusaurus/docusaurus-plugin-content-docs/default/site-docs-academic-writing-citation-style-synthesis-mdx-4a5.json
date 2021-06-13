@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/synthesis",
   "id": "academic-writing/citation-style/synthesis",
   "isDocsHomePage": false,
-  "title": "synthesis",
-  "description": "---",
+  "title": "Synthesis",
+  "description": "When you 're tasked by using \"Synthesis\" (BAMBED) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/synthesis.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/synthesis",
   "permalink": "/support/docs/academic-writing/citation-style/synthesis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/synthesis.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "sylwan-polish",
+    "title": "Sylwan (Polish)",
     "permalink": "/support/docs/academic-writing/citation-style/sylwan-polish"
   },
   "next": {
-    "title": "systematic-and-applied-microbiology",
+    "title": "Systematic and Applied Microbiology",
     "permalink": "/support/docs/academic-writing/citation-style/systematic-and-applied-microbiology"
   }
 }

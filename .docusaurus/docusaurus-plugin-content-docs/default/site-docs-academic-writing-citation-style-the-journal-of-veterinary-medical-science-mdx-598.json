@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-veterinary-medical-science",
   "id": "academic-writing/citation-style/the-journal-of-veterinary-medical-science",
   "isDocsHomePage": false,
-  "title": "the-journal-of-veterinary-medical-science",
-  "description": "---",
+  "title": "The Journal of Veterinary Medical Science",
+  "description": "When you 're tasked by using \"The Journal of Veterinary Medical Science\" (J. Vet. Med. Sci.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-veterinary-medical-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-veterinary-medical-science",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-veterinary-medical-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-veterinary-medical-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-urology",
+    "title": "The Journal of Urology",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-urology"
   },
   "next": {
-    "title": "the-journal-of-wildlife-management",
+    "title": "The Journal of Wildlife Management",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-wildlife-management"
   }
 }

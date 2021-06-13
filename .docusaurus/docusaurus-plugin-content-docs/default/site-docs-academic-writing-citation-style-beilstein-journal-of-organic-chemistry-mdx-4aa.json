@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/beilstein-journal-of-organic-chemistry",
   "id": "academic-writing/citation-style/beilstein-journal-of-organic-chemistry",
   "isDocsHomePage": false,
-  "title": "beilstein-journal-of-organic-chemistry",
-  "description": "---",
+  "title": "Beilstein Journal of Organic Chemistry",
+  "description": "When you 're tasked by using \"Beilstein Journal of Organic Chemistry\" (Beilstein) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/beilstein-journal-of-organic-chemistry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/beilstein-journal-of-organic-chemistry",
   "permalink": "/support/docs/academic-writing/citation-style/beilstein-journal-of-organic-chemistry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/beilstein-journal-of-organic-chemistry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "behaviour",
+    "title": "Behaviour",
     "permalink": "/support/docs/academic-writing/citation-style/behaviour"
   },
   "next": {
-    "title": "berghahn-books-authordate-english--uk",
+    "title": "Berghahn Books (author-date, English - UK)",
     "permalink": "/support/docs/academic-writing/citation-style/berghahn-books-authordate-english--uk"
   }
 }

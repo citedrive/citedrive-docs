@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gallia-french",
   "id": "academic-writing/citation-style/gallia-french",
   "isDocsHomePage": false,
-  "title": "gallia-french",
-  "description": "---",
+  "title": "Gallia (French)",
+  "description": "When you 're tasked by using \"Gallia (French)\" (Drugs R D) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gallia-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gallia-french",
   "permalink": "/support/docs/academic-writing/citation-style/gallia-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gallia-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "galatasaray-universitesi-sosyal-bilimler-enstitusu",
+    "title": "Galatasaray Üniversitesi Sosyal Bilimler Enstitüsü",
     "permalink": "/support/docs/academic-writing/citation-style/galatasaray-universitesi-sosyal-bilimler-enstitusu"
   },
   "next": {
-    "title": "gallia-prehistoire-french",
+    "title": "Gallia Préhistoire (French)",
     "permalink": "/support/docs/academic-writing/citation-style/gallia-prehistoire-french"
   }
 }

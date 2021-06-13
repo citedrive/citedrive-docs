@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/aquatic-living-resources",
   "id": "academic-writing/citation-style/aquatic-living-resources",
   "isDocsHomePage": false,
-  "title": "aquatic-living-resources",
-  "description": "---",
+  "title": "Aquatic Living Resources",
+  "description": "When you 're tasked by using \"Aquatic Living Resources\" (NLM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/aquatic-living-resources.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aquatic-living-resources",
   "permalink": "/support/docs/academic-writing/citation-style/aquatic-living-resources",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aquatic-living-resources.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aquatic-invasions",
+    "title": "Aquatic Invasions",
     "permalink": "/support/docs/academic-writing/citation-style/aquatic-invasions"
   },
   "next": {
-    "title": "aquitania-french",
+    "title": "Aquitania (French)",
     "permalink": "/support/docs/academic-writing/citation-style/aquitania-french"
   }
 }

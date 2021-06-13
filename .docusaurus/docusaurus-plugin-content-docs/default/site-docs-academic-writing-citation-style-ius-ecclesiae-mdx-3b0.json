@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ius-ecclesiae",
   "id": "academic-writing/citation-style/ius-ecclesiae",
   "isDocsHomePage": false,
-  "title": "ius-ecclesiae",
-  "description": "---",
+  "title": "Ius Ecclesiae",
+  "description": "When you 're tasked by using \"Ius Ecclesiae\" (IusEcc) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ius-ecclesiae.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ius-ecclesiae",
   "permalink": "/support/docs/academic-writing/citation-style/ius-ecclesiae",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ius-ecclesiae.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iubmb-life",
+    "title": "IUBMB Life",
     "permalink": "/support/docs/academic-writing/citation-style/iubmb-life"
   },
   "next": {
-    "title": "izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish",
+    "title": "İzmir Katip Çelebi Üniversitesi - Sosyal Bilimler Enstitüsü (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/izmir-katip-celebi-universitesi--sosyal-bilimler-enstitusu-turkish"
   }
 }

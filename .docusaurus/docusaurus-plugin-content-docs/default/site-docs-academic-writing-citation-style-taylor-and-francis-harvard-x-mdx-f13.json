@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/taylor-and-francis--harvard-x",
   "id": "academic-writing/citation-style/taylor-and-francis--harvard-x",
   "isDocsHomePage": false,
-  "title": "taylor-and-francis--harvard-x",
-  "description": "---",
+  "title": "Taylor & Francis - Harvard X",
+  "description": "When you 're tasked by using \"Taylor & Francis - Harvard X\" (J Invest Dermatol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/taylor-and-francis--harvard-x.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/taylor-and-francis--harvard-x",
   "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--harvard-x",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/taylor-and-francis--harvard-x.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "taylor-and-francis--council-of-science-editors-authordate",
+    "title": "Taylor & Francis - Council of Science Editors (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--council-of-science-editors-authordate"
   },
   "next": {
-    "title": "taylor-and-francis--national-library-of-medicine",
+    "title": "Taylor & Francis - National Library of Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/taylor-and-francis--national-library-of-medicine"
   }
 }

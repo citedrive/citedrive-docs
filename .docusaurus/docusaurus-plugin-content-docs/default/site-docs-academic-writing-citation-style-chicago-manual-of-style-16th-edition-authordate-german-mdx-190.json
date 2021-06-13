@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
   "id": "academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
   "isDocsHomePage": false,
-  "title": "chicago-manual-of-style-16th-edition-authordate-german",
-  "description": "---",
+  "title": "Chicago Manual of Style 16th edition (author-date, German)",
+  "description": "When you 're tasked by using \"Chicago Manual of Style 16th edition (author-date, German)\" (AOAC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
   "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+    "title": "Chicago Manual of Style 16th edition (author-date, Basque)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque"
   },
   "next": {
-    "title": "chicago-manual-of-style-16th-edition-authordate",
+    "title": "Chicago Manual of Style 16th edition (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate"
   }
 }

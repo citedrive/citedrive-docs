@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/liver-international",
   "id": "academic-writing/citation-style/liver-international",
   "isDocsHomePage": false,
-  "title": "liver-international",
-  "description": "---",
+  "title": "Liver International",
+  "description": "When you 're tasked by using \"Liver International\" (J. Med. Chem.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/liver-international.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/liver-international",
   "permalink": "/support/docs/academic-writing/citation-style/liver-international",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/liver-international.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "limnology-and-oceanography",
+    "title": "Limnology and Oceanography",
     "permalink": "/support/docs/academic-writing/citation-style/limnology-and-oceanography"
   },
   "next": {
-    "title": "liverpool-john-moores-university--harvard",
+    "title": "Liverpool John Moores University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/liverpool-john-moores-university--harvard"
   }
 }

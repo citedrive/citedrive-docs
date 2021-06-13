@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/british-journal-of-pharmacology",
   "id": "academic-writing/citation-style/british-journal-of-pharmacology",
   "isDocsHomePage": false,
-  "title": "british-journal-of-pharmacology",
-  "description": "---",
+  "title": "British Journal of Pharmacology",
+  "description": "When you 're tasked by using \"British Journal of Pharmacology\" (BJP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/british-journal-of-pharmacology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/british-journal-of-pharmacology",
   "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-pharmacology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/british-journal-of-pharmacology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "british-journal-of-industrial-relations",
+    "title": "British Journal of Industrial Relations",
     "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-industrial-relations"
   },
   "next": {
-    "title": "british-journal-of-political-science",
+    "title": "British Journal of Political Science",
     "permalink": "/support/docs/academic-writing/citation-style/british-journal-of-political-science"
   }
 }

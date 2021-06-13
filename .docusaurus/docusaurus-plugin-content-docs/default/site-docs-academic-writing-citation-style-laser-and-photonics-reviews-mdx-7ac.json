@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/laser-and-photonics-reviews",
   "id": "academic-writing/citation-style/laser-and-photonics-reviews",
   "isDocsHomePage": false,
-  "title": "laser-and-photonics-reviews",
-  "description": "---",
+  "title": "Laser & Photonics Reviews",
+  "description": "When you 're tasked by using \"Laser & Photonics Reviews\" (Chromosome Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/laser-and-photonics-reviews.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/laser-and-photonics-reviews",
   "permalink": "/support/docs/academic-writing/citation-style/laser-and-photonics-reviews",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/laser-and-photonics-reviews.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "lannee-sociologique-french",
+    "title": "L’Année sociologique (French)",
     "permalink": "/support/docs/academic-writing/citation-style/lannee-sociologique-french"
   },
   "next": {
-    "title": "latin-american-perspectives",
+    "title": "Latin American Perspectives",
     "permalink": "/support/docs/academic-writing/citation-style/latin-american-perspectives"
   }
 }

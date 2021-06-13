@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/science",
   "id": "academic-writing/citation-style/science",
   "isDocsHomePage": false,
-  "title": "science",
-  "description": "---",
+  "title": "Science",
+  "description": "When you 're tasked by using \"Science\" (TF-APA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/science",
   "permalink": "/support/docs/academic-writing/citation-style/science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "science-without-titles",
+    "title": "Science (without titles)",
     "permalink": "/support/docs/academic-writing/citation-style/science-without-titles"
   },
   "next": {
-    "title": "scienceasia",
+    "title": "ScienceAsia",
     "permalink": "/support/docs/academic-writing/citation-style/scienceasia"
   }
 }

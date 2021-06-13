@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
   "id": "academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
   "isDocsHomePage": false,
-  "title": "journal-of-agricultural-and-resource-economics",
-  "description": "---",
+  "title": "Journal of Agricultural and Resource Economics",
+  "description": "When you 're tasked by using \"Journal of Agricultural and Resource Economics\" (JARE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-agricultural-and-resource-economics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-agricultural-and-applied-economics",
+    "title": "Journal of Agricultural and Applied Economics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-agricultural-and-applied-economics"
   },
   "next": {
-    "title": "journal-of-alzheimers-disease",
+    "title": "Journal of Alzheimer''s Disease",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-alzheimers-disease"
   }
 }

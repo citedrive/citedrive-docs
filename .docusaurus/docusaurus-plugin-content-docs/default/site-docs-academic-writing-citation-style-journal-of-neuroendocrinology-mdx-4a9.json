@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-neuroendocrinology",
   "id": "academic-writing/citation-style/journal-of-neuroendocrinology",
   "isDocsHomePage": false,
-  "title": "journal-of-neuroendocrinology",
-  "description": "---",
+  "title": "Journal of Neuroendocrinology",
+  "description": "When you 're tasked by using \"Journal of Neuroendocrinology\" (JNE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-neuroendocrinology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-neuroendocrinology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-neuroendocrinology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neuroendocrinology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-neurochemistry",
+    "title": "Journal of Neurochemistry",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurochemistry"
   },
   "next": {
-    "title": "journal-of-neurological-disorders",
+    "title": "Journal of Neurological Disorders",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurological-disorders"
   }
 }

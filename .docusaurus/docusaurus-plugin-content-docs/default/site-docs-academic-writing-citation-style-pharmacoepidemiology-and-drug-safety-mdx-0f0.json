@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pharmacoepidemiology-and-drug-safety",
   "id": "academic-writing/citation-style/pharmacoepidemiology-and-drug-safety",
   "isDocsHomePage": false,
-  "title": "pharmacoepidemiology-and-drug-safety",
-  "description": "---",
+  "title": "Pharmacoepidemiology and Drug Safety",
+  "description": "When you 're tasked by using \"Pharmacoepidemiology and Drug Safety\" (DIAPRE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pharmacoepidemiology-and-drug-safety.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pharmacoepidemiology-and-drug-safety",
   "permalink": "/support/docs/academic-writing/citation-style/pharmacoepidemiology-and-drug-safety",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pharmacoepidemiology-and-drug-safety.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "petit-chicago-authordate-french--canada",
+    "title": "Petit Chicago (author-date, French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/petit-chicago-authordate-french--canada"
   },
   "next": {
-    "title": "philippika-german",
+    "title": "Philippika (German)",
     "permalink": "/support/docs/academic-writing/citation-style/philippika-german"
   }
 }

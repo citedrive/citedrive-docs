@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universite-de-liege--histoire-french",
   "id": "academic-writing/citation-style/universite-de-liege--histoire-french",
   "isDocsHomePage": false,
-  "title": "universite-de-liege--histoire-french",
-  "description": "---",
+  "title": "Université de Liège - Histoire (French)",
+  "description": "When you 're tasked by using \"Université de Liège - Histoire (French)\" (ULg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universite-de-liege--histoire-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universite-de-liege--histoire-french",
   "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--histoire-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-de-liege--histoire-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universite-de-liege--droit-french",
+    "title": "Université de Liège - Droit (French)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-de-liege--droit-french"
   },
   "next": {
-    "title": "universite-de-montreal--apa-french--canada",
+    "title": "Université de Montréal - APA (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-de-montreal--apa-french--canada"
   }
 }

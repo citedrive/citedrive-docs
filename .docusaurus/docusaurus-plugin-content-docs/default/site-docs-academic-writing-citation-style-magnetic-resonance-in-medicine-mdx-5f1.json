@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/magnetic-resonance-in-medicine",
   "id": "academic-writing/citation-style/magnetic-resonance-in-medicine",
   "isDocsHomePage": false,
-  "title": "magnetic-resonance-in-medicine",
-  "description": "---",
+  "title": "Magnetic Resonance in Medicine",
+  "description": "When you 're tasked by using \"Magnetic Resonance in Medicine\" (TMIS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/magnetic-resonance-in-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/magnetic-resonance-in-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/magnetic-resonance-in-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/magnetic-resonance-in-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "macromolecular-reaction-engineering",
+    "title": "Macromolecular Reaction Engineering",
     "permalink": "/support/docs/academic-writing/citation-style/macromolecular-reaction-engineering"
   },
   "next": {
-    "title": "magnetic-resonance-materials-in-physics-biology-and-medicine",
+    "title": "Magnetic Resonance Materials in Physics, Biology and Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/magnetic-resonance-materials-in-physics-biology-and-medicine"
   }
 }

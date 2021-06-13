@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/human-reproduction",
   "id": "academic-writing/citation-style/human-reproduction",
   "isDocsHomePage": false,
-  "title": "human-reproduction",
-  "description": "---",
+  "title": "Human Reproduction",
+  "description": "When you 're tasked by using \"Human Reproduction\" (JNCI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/human-reproduction.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/human-reproduction",
   "permalink": "/support/docs/academic-writing/citation-style/human-reproduction",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/human-reproduction.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "human-reproduction-update",
+    "title": "Human Reproduction Update",
     "permalink": "/support/docs/academic-writing/citation-style/human-reproduction-update"
   },
   "next": {
-    "title": "human-resource-management-journal",
+    "title": "Human Resource Management Journal",
     "permalink": "/support/docs/academic-writing/citation-style/human-resource-management-journal"
   }
 }

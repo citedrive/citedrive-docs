@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury",
   "id": "academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury",
   "isDocsHomePage": false,
-  "title": "journal-of-brachial-plexus-and-peripheral-nerve-injury",
-  "description": "---",
+  "title": "Journal of Brachial Plexus and Peripheral Nerve Injury",
+  "description": "When you 're tasked by using \"Journal of Brachial Plexus and Peripheral Nerve Injury\" (J Brachial Plexus Peripher Nerve Inj) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-brachial-plexus-and-peripheral-nerve-injury.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-bone-and-mineral-research",
+    "title": "Journal of Bone and Mineral Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-bone-and-mineral-research"
   },
   "next": {
-    "title": "journal-of-breast-cancer",
+    "title": "Journal of Breast Cancer",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-breast-cancer"
   }
 }

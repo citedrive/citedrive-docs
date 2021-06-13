@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french",
   "id": "academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french",
   "isDocsHomePage": false,
-  "title": "revue-dhistoire-des-sciences-humaines-french",
-  "description": "---",
+  "title": "Revue d''histoire des sciences humaines (French)",
+  "description": "When you 're tasked by using \"Revue d''histoire des sciences humaines (French)\" (RHSH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french",
   "permalink": "/support/docs/academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revue-dhistoire-des-sciences-humaines-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "revue-des-nouvelles-technologies-de-linformation-french",
+    "title": "Revue des Nouvelles Technologies de l''Information (French)",
     "permalink": "/support/docs/academic-writing/citation-style/revue-des-nouvelles-technologies-de-linformation-french"
   },
   "next": {
-    "title": "revue-dhistoire-moderne-et-contemporaine-french",
+    "title": "Revue d''histoire moderne et contemporaine (French)",
     "permalink": "/support/docs/academic-writing/citation-style/revue-dhistoire-moderne-et-contemporaine-french"
   }
 }

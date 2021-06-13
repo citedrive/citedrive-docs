@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-physiology-and-functional-imaging",
   "id": "academic-writing/citation-style/clinical-physiology-and-functional-imaging",
   "isDocsHomePage": false,
-  "title": "clinical-physiology-and-functional-imaging",
-  "description": "---",
+  "title": "Clinical Physiology and Functional Imaging",
+  "description": "When you 're tasked by using \"Clinical Physiology and Functional Imaging\" (Am J Clin Dermatol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-physiology-and-functional-imaging",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-physiology-and-functional-imaging.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-pharmacology-and-therapeutics",
+    "title": "Clinical Pharmacology & Therapeutics",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-pharmacology-and-therapeutics"
   },
   "next": {
-    "title": "clinical-radiology",
+    "title": "Clinical Radiology",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-radiology"
   }
 }

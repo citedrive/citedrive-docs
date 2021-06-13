@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cellular-reprogramming",
   "id": "academic-writing/citation-style/cellular-reprogramming",
   "isDocsHomePage": false,
-  "title": "cellular-reprogramming",
-  "description": "---",
+  "title": "Cellular Reprogramming",
+  "description": "When you 're tasked by using \"Cellular Reprogramming\" (GJI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cellular-reprogramming.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cellular-reprogramming",
   "permalink": "/support/docs/academic-writing/citation-style/cellular-reprogramming",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cellular-reprogramming.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cellular-and-molecular-gastroenterology-and-hepatology",
+    "title": "Cellular and Molecular Gastroenterology and Hepatology",
     "permalink": "/support/docs/academic-writing/citation-style/cellular-and-molecular-gastroenterology-and-hepatology"
   },
   "next": {
-    "title": "centaurus",
+    "title": "Centaurus",
     "permalink": "/support/docs/academic-writing/citation-style/centaurus"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/psychiatric-services",
   "id": "academic-writing/citation-style/psychiatric-services",
   "isDocsHomePage": false,
-  "title": "psychiatric-services",
-  "description": "---",
+  "title": "Psychiatric Services",
+  "description": "When you 're tasked by using \"Psychiatric Services\" (Curr Atheroscler Rep) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/psychiatric-services.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/psychiatric-services",
   "permalink": "/support/docs/academic-writing/citation-style/psychiatric-services",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/psychiatric-services.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "psychiatric-clinics-of-north-america",
+    "title": "Psychiatric Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/psychiatric-clinics-of-north-america"
   },
   "next": {
-    "title": "psychiatry-and-clinical-neurosciences",
+    "title": "Psychiatry and Clinical Neurosciences",
     "permalink": "/support/docs/academic-writing/citation-style/psychiatry-and-clinical-neurosciences"
   }
 }

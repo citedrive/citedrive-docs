@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/current-alzheimer-research",
   "id": "academic-writing/citation-style/current-alzheimer-research",
   "isDocsHomePage": false,
-  "title": "current-alzheimer-research",
-  "description": "---",
+  "title": "Current Alzheimer Research",
+  "description": "When you 're tasked by using \"Current Alzheimer Research\" (CAR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/current-alzheimer-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/current-alzheimer-research",
   "permalink": "/support/docs/academic-writing/citation-style/current-alzheimer-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/current-alzheimer-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cureus",
+    "title": "Cureus",
     "permalink": "/support/docs/academic-writing/citation-style/cureus"
   },
   "next": {
-    "title": "current-gene-therapy",
+    "title": "Current Gene Therapy",
     "permalink": "/support/docs/academic-writing/citation-style/current-gene-therapy"
   }
 }

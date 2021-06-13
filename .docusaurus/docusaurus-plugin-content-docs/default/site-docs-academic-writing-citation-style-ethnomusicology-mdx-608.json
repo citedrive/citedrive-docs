@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ethnomusicology",
   "id": "academic-writing/citation-style/ethnomusicology",
   "isDocsHomePage": false,
-  "title": "ethnomusicology",
-  "description": "---",
+  "title": "Ethnomusicology",
+  "description": "When you 're tasked by using \"Ethnomusicology\" (Geoheritage) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ethnomusicology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ethnomusicology",
   "permalink": "/support/docs/academic-writing/citation-style/ethnomusicology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ethnomusicology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ethnologie-francaise-french",
+    "title": "Ethnologie française (French)",
     "permalink": "/support/docs/academic-writing/citation-style/ethnologie-francaise-french"
   },
   "next": {
-    "title": "ets--ecole-de-technologie-superieure-french--canada",
+    "title": "ÉTS - École de technologie supérieure (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/ets--ecole-de-technologie-superieure-french--canada"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/veterinary-radiology-and-ultrasound",
   "id": "academic-writing/citation-style/veterinary-radiology-and-ultrasound",
   "isDocsHomePage": false,
-  "title": "veterinary-radiology-and-ultrasound",
-  "description": "---",
+  "title": "Veterinary Radiology & Ultrasound",
+  "description": "When you 're tasked by using \"Veterinary Radiology & Ultrasound\" (AR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/veterinary-radiology-and-ultrasound",
   "permalink": "/support/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/veterinary-radiology-and-ultrasound.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "veterinary-pathology",
+    "title": "Veterinary Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/veterinary-pathology"
   },
   "next": {
-    "title": "veterinary-record",
+    "title": "Veterinary Record",
     "permalink": "/support/docs/academic-writing/citation-style/veterinary-record"
   }
 }

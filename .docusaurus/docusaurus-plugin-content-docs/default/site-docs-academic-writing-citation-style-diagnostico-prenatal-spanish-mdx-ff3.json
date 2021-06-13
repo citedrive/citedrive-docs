@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/diagnostico-prenatal-spanish",
   "id": "academic-writing/citation-style/diagnostico-prenatal-spanish",
   "isDocsHomePage": false,
-  "title": "diagnostico-prenatal-spanish",
-  "description": "---",
+  "title": "Diagnóstico Prenatal (Spanish)",
+  "description": "When you 're tasked by using \"Diagnóstico Prenatal (Spanish)\" (DIAPRE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/diagnostico-prenatal-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/diagnostico-prenatal-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/diagnostico-prenatal-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/diagnostico-prenatal-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "diabetologia",
+    "title": "Diabetologia",
     "permalink": "/support/docs/academic-writing/citation-style/diabetologia"
   },
   "next": {
-    "title": "dialisis-y-trasplante-spanish",
+    "title": "Dialisis y Trasplante (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish"
   }
 }

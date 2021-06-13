@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-nuclear-medicine",
   "id": "academic-writing/citation-style/the-journal-of-nuclear-medicine",
   "isDocsHomePage": false,
-  "title": "the-journal-of-nuclear-medicine",
-  "description": "---",
+  "title": "The Journal of Nuclear Medicine",
+  "description": "When you 're tasked by using \"The Journal of Nuclear Medicine\" (JNM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-nuclear-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-nuclear-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-nuclear-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-nuclear-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-neuroscience",
+    "title": "The Journal of Neuroscience",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-neuroscience"
   },
   "next": {
-    "title": "the-journal-of-nutrition-health-and-aging",
+    "title": "The Journal of Nutrition, Health & Aging",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-nutrition-health-and-aging"
   }
 }

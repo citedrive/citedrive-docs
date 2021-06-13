@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
   "id": "academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
   "isDocsHomePage": false,
-  "title": "wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
-  "description": "---",
+  "title": "Wirtschaftsuniversität Wien - Institut für BWL des Außenhandels (German - Austria)",
+  "description": "When you 're tasked by using \"Wirtschaftsuniversität Wien - Institut für BWL des Außenhandels (German - Austria)\" (REPA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
   "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--institut-fur-bwl-des-auenhandels-german--austria.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "wirtschaftsuniversitat-wien--health-care-management",
+    "title": "Wirtschaftsuniversität Wien - Health Care Management",
     "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--health-care-management"
   },
   "next": {
-    "title": "wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling",
+    "title": "Wirtschaftsuniversität Wien - Unternehmensrechnung und Controlling",
     "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien--unternehmensrechnung-und-controlling"
   }
 }

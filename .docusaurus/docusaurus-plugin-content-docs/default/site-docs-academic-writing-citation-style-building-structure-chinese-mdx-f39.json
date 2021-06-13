@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/building-structure-chinese",
   "id": "academic-writing/citation-style/building-structure-chinese",
   "isDocsHomePage": false,
-  "title": "building-structure-chinese",
-  "description": "---",
+  "title": "Building Structure (Chinese)",
+  "description": "When you 're tasked by using \"Building Structure (Chinese)\" (AIAA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/building-structure-chinese.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/building-structure-chinese",
   "permalink": "/support/docs/academic-writing/citation-style/building-structure-chinese",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/building-structure-chinese.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "budownictwo-i-architektura",
+    "title": "Budownictwo i Architektura",
     "permalink": "/support/docs/academic-writing/citation-style/budownictwo-i-architektura"
   },
   "next": {
-    "title": "buletin-agrohorti",
+    "title": "Buletin Agrohorti",
     "permalink": "/support/docs/academic-writing/citation-style/buletin-agrohorti"
   }
 }

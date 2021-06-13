@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/natur-und-landschaft-german",
   "id": "academic-writing/citation-style/natur-und-landschaft-german",
   "isDocsHomePage": false,
-  "title": "natur-und-landschaft-german",
-  "description": "---",
+  "title": "Natur und Landschaft (German)",
+  "description": "When you 're tasked by using \"Natur und Landschaft (German)\" (IUCr) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/natur-und-landschaft-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/natur-und-landschaft-german",
   "permalink": "/support/docs/academic-writing/citation-style/natur-und-landschaft-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/natur-und-landschaft-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nations-and-nationalism",
+    "title": "Nations and Nationalism",
     "permalink": "/support/docs/academic-writing/citation-style/nations-and-nationalism"
   },
   "next": {
-    "title": "nature-neuroscience-brief-communications",
+    "title": "Nature Neuroscience (brief communications)",
     "permalink": "/support/docs/academic-writing/citation-style/nature-neuroscience-brief-communications"
   }
 }

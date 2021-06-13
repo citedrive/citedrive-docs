@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pacific-science",
   "id": "academic-writing/citation-style/pacific-science",
   "isDocsHomePage": false,
-  "title": "pacific-science",
-  "description": "---",
+  "title": "Pacific Science",
+  "description": "When you 're tasked by using \"Pacific Science\" (ACS Synth. Biol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pacific-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pacific-science",
   "permalink": "/support/docs/academic-writing/citation-style/pacific-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pacific-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pacific-conservation-biology",
+    "title": "Pacific Conservation Biology",
     "permalink": "/support/docs/academic-writing/citation-style/pacific-conservation-biology"
   },
   "next": {
-    "title": "padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe",
+    "title": "Pädagogische Hochschule Bern - Institut Vorschulstufe und Primarstufe",
     "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-bern--institut-vorschulstufe-und-primarstufe"
   }
 }

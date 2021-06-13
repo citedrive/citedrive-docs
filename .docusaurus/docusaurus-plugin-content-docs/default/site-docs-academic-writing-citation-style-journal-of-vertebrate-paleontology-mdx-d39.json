@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-vertebrate-paleontology",
   "id": "academic-writing/citation-style/journal-of-vertebrate-paleontology",
   "isDocsHomePage": false,
-  "title": "journal-of-vertebrate-paleontology",
-  "description": "---",
+  "title": "Journal of Vertebrate Paleontology",
+  "description": "When you 're tasked by using \"Journal of Vertebrate Paleontology\" (Osteoporos Int) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-vertebrate-paleontology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-vertebrate-paleontology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-vertebrate-paleontology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-vertebrate-paleontology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-vertebrate-biology",
+    "title": "Journal of Vertebrate Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-vertebrate-biology"
   },
   "next": {
-    "title": "journal-of-veterinary-diagnostic-investigation",
+    "title": "Journal of Veterinary Diagnostic Investigation",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-veterinary-diagnostic-investigation"
   }
 }

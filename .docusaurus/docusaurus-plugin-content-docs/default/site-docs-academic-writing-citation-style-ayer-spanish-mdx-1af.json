@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ayer-spanish",
   "id": "academic-writing/citation-style/ayer-spanish",
   "isDocsHomePage": false,
-  "title": "ayer-spanish",
-  "description": "---",
+  "title": "Ayer (Spanish)",
+  "description": "When you 're tasked by using \"Ayer (Spanish)\" (Indian J Otolaryngol Head Neck Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ayer-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ayer-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/ayer-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ayer-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "aviation-space-and-environmental-medicine",
+    "title": "Aviation, Space, and Environmental Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/aviation-space-and-environmental-medicine"
   },
   "next": {
-    "title": "azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria",
+    "title": "AZR - Abkürzungs- und Zitierregeln der österreichischen Rechtssprache und europarechtlicher Rechtsquellen (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/azr--abkurzungs-und-zitierregeln-der-osterreichischen-rechtssprache-und-europarechtlicher-rechtsquellen-german--austria"
   }
 }

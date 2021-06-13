@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/european-journal-for-philosophy-of-religion",
   "id": "academic-writing/citation-style/european-journal-for-philosophy-of-religion",
   "isDocsHomePage": false,
-  "title": "european-journal-for-philosophy-of-religion",
-  "description": "---",
+  "title": "European Journal for Philosophy of Religion",
+  "description": "When you 're tasked by using \"European Journal for Philosophy of Religion\" (Reac Kinet Mech Cat) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/european-journal-for-philosophy-of-religion",
   "permalink": "/support/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/european-journal-for-philosophy-of-religion.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "european-cells-and-materials",
+    "title": "European Cells & Materials",
     "permalink": "/support/docs/academic-writing/citation-style/european-cells-and-materials"
   },
   "next": {
-    "title": "european-journal-of-anaesthesiology",
+    "title": "European Journal of Anaesthesiology",
     "permalink": "/support/docs/academic-writing/citation-style/european-journal-of-anaesthesiology"
   }
 }

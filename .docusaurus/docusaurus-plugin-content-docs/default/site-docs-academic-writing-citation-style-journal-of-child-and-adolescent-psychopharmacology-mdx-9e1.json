@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology",
   "id": "academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology",
   "isDocsHomePage": false,
-  "title": "journal-of-child-and-adolescent-psychopharmacology",
-  "description": "---",
+  "title": "Journal of Child and Adolescent Psychopharmacology",
+  "description": "When you 're tasked by using \"Journal of Child and Adolescent Psychopharmacology\" (ECLAC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-child-and-adolescent-psychopharmacology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-chemometrics",
+    "title": "Journal of Chemometrics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-chemometrics"
   },
   "next": {
-    "title": "journal-of-clinical-neurology",
+    "title": "Journal of Clinical Neurology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-clinical-neurology"
   }
 }

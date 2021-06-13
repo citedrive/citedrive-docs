@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/lhomme--revue-francaise-danthropologie",
   "id": "academic-writing/citation-style/lhomme--revue-francaise-danthropologie",
   "isDocsHomePage": false,
-  "title": "lhomme--revue-francaise-danthropologie",
-  "description": "---",
+  "title": "L''homme – Revue française d''anthropologie",
+  "description": "When you 're tasked by using \"L''homme – Revue française d''anthropologie\" (Microgravity Sci. Technol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/lhomme--revue-francaise-danthropologie.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/lhomme--revue-francaise-danthropologie",
   "permalink": "/support/docs/academic-writing/citation-style/lhomme--revue-francaise-danthropologie",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/lhomme--revue-francaise-danthropologie.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "leviathan-german",
+    "title": "Leviathan (German)",
     "permalink": "/support/docs/academic-writing/citation-style/leviathan-german"
   },
   "next": {
-    "title": "lien-social-et-politiques-french",
+    "title": "Lien social et Politiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/lien-social-et-politiques-french"
   }
 }

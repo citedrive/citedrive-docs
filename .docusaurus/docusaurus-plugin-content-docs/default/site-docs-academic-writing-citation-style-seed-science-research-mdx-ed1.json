@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/seed-science-research",
   "id": "academic-writing/citation-style/seed-science-research",
   "isDocsHomePage": false,
-  "title": "seed-science-research",
-  "description": "---",
+  "title": "Seed Science Research",
+  "description": "When you 're tasked by using \"Seed Science Research\" (Cell Stress and Chaperones) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/seed-science-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/seed-science-research",
   "permalink": "/support/docs/academic-writing/citation-style/seed-science-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/seed-science-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "seed-science-and-technology",
+    "title": "Seed Science and Technology",
     "permalink": "/support/docs/academic-writing/citation-style/seed-science-and-technology"
   },
   "next": {
-    "title": "seismological-research-letters",
+    "title": "Seismological Research Letters",
     "permalink": "/support/docs/academic-writing/citation-style/seismological-research-letters"
   }
 }

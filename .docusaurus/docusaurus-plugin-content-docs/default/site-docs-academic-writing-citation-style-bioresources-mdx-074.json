@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/bioresources",
   "id": "academic-writing/citation-style/bioresources",
   "isDocsHomePage": false,
-  "title": "bioresources",
-  "description": "---",
+  "title": "BioResources",
+  "description": "When you 're tasked by using \"BioResources\" (Trauma Berufskrankheit) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/bioresources.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/bioresources",
   "permalink": "/support/docs/academic-writing/citation-style/bioresources",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bioresources.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "biopolymers",
+    "title": "Biopolymers",
     "permalink": "/support/docs/academic-writing/citation-style/biopolymers"
   },
   "next": {
-    "title": "bioscience",
+    "title": "BioScience",
     "permalink": "/support/docs/academic-writing/citation-style/bioscience"
   }
 }

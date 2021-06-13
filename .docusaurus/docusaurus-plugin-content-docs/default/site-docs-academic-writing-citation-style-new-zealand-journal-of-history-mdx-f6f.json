@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/new-zealand-journal-of-history",
   "id": "academic-writing/citation-style/new-zealand-journal-of-history",
   "isDocsHomePage": false,
-  "title": "new-zealand-journal-of-history",
-  "description": "---",
+  "title": "New Zealand Journal of History",
+  "description": "When you 're tasked by using \"New Zealand Journal of History\" (J Hematopathol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/new-zealand-journal-of-history.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/new-zealand-journal-of-history",
   "permalink": "/support/docs/academic-writing/citation-style/new-zealand-journal-of-history",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-zealand-journal-of-history.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "new-zealand-journal-of-forestry-science",
+    "title": "New Zealand Journal of Forestry Science",
     "permalink": "/support/docs/academic-writing/citation-style/new-zealand-journal-of-forestry-science"
   },
   "next": {
-    "title": "new-zealand-plant-protection",
+    "title": "New Zealand Plant Protection",
     "permalink": "/support/docs/academic-writing/citation-style/new-zealand-plant-protection"
   }
 }

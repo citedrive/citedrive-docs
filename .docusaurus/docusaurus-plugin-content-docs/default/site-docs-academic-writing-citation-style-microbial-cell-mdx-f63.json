@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/microbial-cell",
   "id": "academic-writing/citation-style/microbial-cell",
   "isDocsHomePage": false,
-  "title": "microbial-cell",
-  "description": "---",
+  "title": "Microbial Cell",
+  "description": "When you 're tasked by using \"Microbial Cell\" (MIC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/microbial-cell.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/microbial-cell",
   "permalink": "/support/docs/academic-writing/citation-style/microbial-cell",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/microbial-cell.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "metropolitiques-french",
+    "title": "Métropolitiques (French)",
     "permalink": "/support/docs/academic-writing/citation-style/metropolitiques-french"
   },
   "next": {
-    "title": "microbial-drug-resistance",
+    "title": "Microbial Drug Resistance",
     "permalink": "/support/docs/academic-writing/citation-style/microbial-drug-resistance"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/interresearch-science-center",
   "id": "academic-writing/citation-style/interresearch-science-center",
   "isDocsHomePage": false,
-  "title": "interresearch-science-center",
-  "description": "---",
+  "title": "Inter-Research Science Center",
+  "description": "When you 're tasked by using \"Inter-Research Science Center\" (IRSC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/interresearch-science-center.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/interresearch-science-center",
   "permalink": "/support/docs/academic-writing/citation-style/interresearch-science-center",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/interresearch-science-center.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-union-of-forest-research-organizations--headquarters",
+    "title": "International Union of Forest Research Organizations - Headquarters",
     "permalink": "/support/docs/academic-writing/citation-style/international-union-of-forest-research-organizations--headquarters"
   },
   "next": {
-    "title": "invertebrate-biology",
+    "title": "Invertebrate Biology",
     "permalink": "/support/docs/academic-writing/citation-style/invertebrate-biology"
   }
 }

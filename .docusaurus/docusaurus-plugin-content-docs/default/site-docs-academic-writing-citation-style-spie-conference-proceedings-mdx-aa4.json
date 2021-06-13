@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/spie-conference-proceedings",
   "id": "academic-writing/citation-style/spie-conference-proceedings",
   "isDocsHomePage": false,
-  "title": "spie-conference-proceedings",
-  "description": "---",
+  "title": "SPIE Conference Proceedings",
+  "description": "When you 're tasked by using \"SPIE Conference Proceedings\" (Community Ment Health J) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/spie-conference-proceedings.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/spie-conference-proceedings",
   "permalink": "/support/docs/academic-writing/citation-style/spie-conference-proceedings",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/spie-conference-proceedings.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "spie-bios",
+    "title": "SPIE BiOS",
     "permalink": "/support/docs/academic-writing/citation-style/spie-bios"
   },
   "next": {
-    "title": "spie-journals",
+    "title": "SPIE journals",
     "permalink": "/support/docs/academic-writing/citation-style/spie-journals"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/recherches-en-sciences-de-gestion-french",
   "id": "academic-writing/citation-style/recherches-en-sciences-de-gestion-french",
   "isDocsHomePage": false,
-  "title": "recherches-en-sciences-de-gestion-french",
-  "description": "---",
+  "title": "Recherches en Sciences de Gestion (French)",
+  "description": "When you 're tasked by using \"Recherches en Sciences de Gestion (French)\" (LUSEM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/recherches-en-sciences-de-gestion-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/recherches-en-sciences-de-gestion-french",
   "permalink": "/support/docs/academic-writing/citation-style/recherches-en-sciences-de-gestion-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/recherches-en-sciences-de-gestion-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "recent-patents-on-drug-delivery-and-formulation",
+    "title": "Recent Patents on Drug Delivery & Formulation",
     "permalink": "/support/docs/academic-writing/citation-style/recent-patents-on-drug-delivery-and-formulation"
   },
   "next": {
-    "title": "religion-in-the-roman-empire",
+    "title": "Religion in the Roman Empire",
     "permalink": "/support/docs/academic-writing/citation-style/religion-in-the-roman-empire"
   }
 }

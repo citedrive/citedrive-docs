@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/scientia-agriculturae-bohemica",
   "id": "academic-writing/citation-style/scientia-agriculturae-bohemica",
   "isDocsHomePage": false,
-  "title": "scientia-agriculturae-bohemica",
-  "description": "---",
+  "title": "Scientia Agriculturae Bohemica",
+  "description": "When you 're tasked by using \"Scientia Agriculturae Bohemica\" (SAB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/scientia-agriculturae-bohemica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/scientia-agriculturae-bohemica",
   "permalink": "/support/docs/academic-writing/citation-style/scientia-agriculturae-bohemica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scientia-agriculturae-bohemica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "sciences-po--ecole-doctorale-note-french",
+    "title": "Sciences Po - École doctorale (note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-note-french"
   },
   "next": {
-    "title": "scientia-iranica",
+    "title": "Scientia Iranica",
     "permalink": "/support/docs/academic-writing/citation-style/scientia-iranica"
   }
 }

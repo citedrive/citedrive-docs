@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/dialisis-y-trasplante-spanish",
   "id": "academic-writing/citation-style/dialisis-y-trasplante-spanish",
   "isDocsHomePage": false,
-  "title": "dialisis-y-trasplante-spanish",
-  "description": "---",
+  "title": "Dialisis y Trasplante (Spanish)",
+  "description": "When you 're tasked by using \"Dialisis y Trasplante (Spanish)\" (DIALIS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/dialisis-y-trasplante-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/dialisis-y-trasplante-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "diagnostico-prenatal-spanish",
+    "title": "Diagnóstico Prenatal (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/diagnostico-prenatal-spanish"
   },
   "next": {
-    "title": "diatom-research",
+    "title": "Diatom Research",
     "permalink": "/support/docs/academic-writing/citation-style/diatom-research"
   }
 }

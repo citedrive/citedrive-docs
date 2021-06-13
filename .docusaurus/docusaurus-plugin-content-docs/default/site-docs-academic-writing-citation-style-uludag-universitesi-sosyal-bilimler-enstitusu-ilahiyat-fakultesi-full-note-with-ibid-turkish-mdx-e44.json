@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
   "id": "academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
   "isDocsHomePage": false,
-  "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
-  "description": "---",
+  "title": "Uludağ Üniversitesi - Sosyal Bilimler Enstitüsü - İlahiyat Fakültesi (full note, with Ibid., Turkish)",
+  "description": "When you 're tasked by using \"Uludağ Üniversitesi - Sosyal Bilimler Enstitüsü - İlahiyat Fakültesi (full note, with Ibid., Turkish)\" (Wood Sci Technol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
   "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-with-ibid-turkish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish",
+    "title": "Uludağ Üniversitesi - Sosyal Bilimler Enstitüsü - İlahiyat Fakültesi (full note, Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu--ilahiyat-fakultesi-full-note-turkish"
   },
   "next": {
-    "title": "uludag-universitesi--sosyal-bilimler-enstitusu-authordate-turkish",
+    "title": "Uludağ Üniversitesi - Sosyal Bilimler Enstitüsü (author-date, Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/uludag-universitesi--sosyal-bilimler-enstitusu-authordate-turkish"
   }
 }

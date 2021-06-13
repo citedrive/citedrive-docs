@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-music-technology-and-education",
   "id": "academic-writing/citation-style/journal-of-music-technology-and-education",
   "isDocsHomePage": false,
-  "title": "journal-of-music-technology-and-education",
-  "description": "---",
+  "title": "Journal of Music Technology and Education",
+  "description": "When you 're tasked by using \"Journal of Music Technology and Education\" (JMTE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-music-technology-and-education.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-music-technology-and-education",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-music-technology-and-education",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-music-technology-and-education.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-musculoskeletal-research",
+    "title": "Journal of Musculoskeletal Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-musculoskeletal-research"
   },
   "next": {
-    "title": "journal-of-nanoscience-and-nanotechnology",
+    "title": "Journal of Nanoscience and Nanotechnology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-nanoscience-and-nanotechnology"
   }
 }

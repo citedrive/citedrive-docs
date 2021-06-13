@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ophthalmic-genetics",
   "id": "academic-writing/citation-style/ophthalmic-genetics",
   "isDocsHomePage": false,
-  "title": "ophthalmic-genetics",
-  "description": "---",
+  "title": "Ophthalmic Genetics",
+  "description": "When you 're tasked by using \"Ophthalmic Genetics\" (Ophthalmic Genet.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ophthalmic-genetics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ophthalmic-genetics",
   "permalink": "/support/docs/academic-writing/citation-style/ophthalmic-genetics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ophthalmic-genetics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "operative-dentistry",
+    "title": "Operative Dentistry",
     "permalink": "/support/docs/academic-writing/citation-style/operative-dentistry"
   },
   "next": {
-    "title": "ophthalmology-retina",
+    "title": "Ophthalmology Retina",
     "permalink": "/support/docs/academic-writing/citation-style/ophthalmology-retina"
   }
 }

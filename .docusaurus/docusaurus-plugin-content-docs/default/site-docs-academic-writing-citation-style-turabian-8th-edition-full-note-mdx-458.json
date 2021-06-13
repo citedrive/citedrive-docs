@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/turabian-8th-edition-full-note",
   "id": "academic-writing/citation-style/turabian-8th-edition-full-note",
   "isDocsHomePage": false,
-  "title": "turabian-8th-edition-full-note",
-  "description": "---",
+  "title": "Turabian 8th edition (full note)",
+  "description": "When you 're tasked by using \"Turabian 8th edition (full note)\" (JB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/turabian-8th-edition-full-note.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/turabian-8th-edition-full-note",
   "permalink": "/support/docs/academic-writing/citation-style/turabian-8th-edition-full-note",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/turabian-8th-edition-full-note.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish",
+    "title": "TÜBİTAK (Türkiye Bilimsel ve Teknolojik Araştırma Kurumu) (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/tubitak-turkiye-bilimsel-ve-teknolojik-arastrma-kurumu-turkish"
   },
   "next": {
-    "title": "turabian-9th-edition-authordate",
+    "title": "Turabian 9th edition (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/turabian-9th-edition-authordate"
   }
 }

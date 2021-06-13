@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/kritische-ausgabe-german",
   "id": "academic-writing/citation-style/kritische-ausgabe-german",
   "isDocsHomePage": false,
-  "title": "kritische-ausgabe-german",
-  "description": "---",
+  "title": "Kritische Ausgabe (German)",
+  "description": "When you 're tasked by using \"Kritische Ausgabe (German)\" (Sports Med) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/kritische-ausgabe-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/kritische-ausgabe-german",
   "permalink": "/support/docs/academic-writing/citation-style/kritische-ausgabe-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/kritische-ausgabe-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "korean-journal-of-radiology",
+    "title": "Korean Journal of Radiology",
     "permalink": "/support/docs/academic-writing/citation-style/korean-journal-of-radiology"
   },
   "next": {
-    "title": "ksce-journal-of-civil-engineering",
+    "title": "KSCE Journal of Civil Engineering",
     "permalink": "/support/docs/academic-writing/citation-style/ksce-journal-of-civil-engineering"
   }
 }

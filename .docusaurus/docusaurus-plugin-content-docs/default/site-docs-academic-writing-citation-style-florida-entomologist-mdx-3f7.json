@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/florida-entomologist",
   "id": "academic-writing/citation-style/florida-entomologist",
   "isDocsHomePage": false,
-  "title": "florida-entomologist",
-  "description": "---",
+  "title": "Florida Entomologist",
+  "description": "When you 're tasked by using \"Florida Entomologist\" (Sport Sci Health) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/florida-entomologist.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/florida-entomologist",
   "permalink": "/support/docs/academic-writing/citation-style/florida-entomologist",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/florida-entomologist.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "flavour-and-fragrance-journal",
+    "title": "Flavour and Fragrance Journal",
     "permalink": "/support/docs/academic-writing/citation-style/flavour-and-fragrance-journal"
   },
   "next": {
-    "title": "foldandr-fasti-on-line-documents-and-research",
+    "title": "FOLD&R (Fasti On Line Documents & Research)",
     "permalink": "/support/docs/academic-writing/citation-style/foldandr-fasti-on-line-documents-and-research"
   }
 }

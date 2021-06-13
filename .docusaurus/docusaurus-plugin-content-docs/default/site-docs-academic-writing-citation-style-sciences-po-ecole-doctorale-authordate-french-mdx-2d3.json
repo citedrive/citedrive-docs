@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french",
   "id": "academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french",
   "isDocsHomePage": false,
-  "title": "sciences-po--ecole-doctorale-authordate-french",
-  "description": "---",
+  "title": "Sciences Po - Ecole doctorale (author-date, French)",
+  "description": "When you 're tasked by using \"Sciences Po - Ecole doctorale (author-date, French)\" (J Risk Uncertain) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french",
   "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-authordate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "scienceasia",
+    "title": "ScienceAsia",
     "permalink": "/support/docs/academic-writing/citation-style/scienceasia"
   },
   "next": {
-    "title": "sciences-po--ecole-doctorale-note-french",
+    "title": "Sciences Po - École doctorale (note, French)",
     "permalink": "/support/docs/academic-writing/citation-style/sciences-po--ecole-doctorale-note-french"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zeitschrift-fur-padagogik-german",
   "id": "academic-writing/citation-style/zeitschrift-fur-padagogik-german",
   "isDocsHomePage": false,
-  "title": "zeitschrift-fur-padagogik-german",
-  "description": "---",
+  "title": "Zeitschrift für Pädagogik (German)",
+  "description": "When you 're tasked by using \"Zeitschrift für Pädagogik (German)\" (ZfPäd) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zeitschrift-fur-padagogik-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zeitschrift-fur-padagogik-german",
   "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-padagogik-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zeitschrift-fur-padagogik-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zeitschrift-fur-ostmitteleuropaforschung-german",
+    "title": "Zeitschrift für Ostmitteleuropa-Forschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-ostmitteleuropaforschung-german"
   },
   "next": {
-    "title": "zeitschrift-fur-parlamentsfragen-german",
+    "title": "Zeitschrift für Parlamentsfragen (German)",
     "permalink": "/support/docs/academic-writing/citation-style/zeitschrift-fur-parlamentsfragen-german"
   }
 }

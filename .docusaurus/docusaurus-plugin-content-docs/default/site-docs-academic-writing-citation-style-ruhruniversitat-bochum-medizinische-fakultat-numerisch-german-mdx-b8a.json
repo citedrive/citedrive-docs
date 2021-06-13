@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
   "id": "academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
   "isDocsHomePage": false,
-  "title": "ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
-  "description": "---",
+  "title": "Ruhr-Universität Bochum - Medizinische Fakultät (numerisch, German)",
+  "description": "When you 're tasked by using \"Ruhr-Universität Bochum - Medizinische Fakultät (numerisch, German)\" (OR Spectrum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
   "permalink": "/support/docs/academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ruhruniversitat-bochum--medizinische-fakultat-numerisch-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering",
+    "title": "Ruhr-Universität Bochum - Lehrstuhl für Industrial Sales and Service Engineering",
     "permalink": "/support/docs/academic-writing/citation-style/ruhruniversitat-bochum--lehrstuhl-fur-industrial-sales-and-service-engineering"
   },
   "next": {
-    "title": "russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+    "title": "Russian GOST R 7.0.5-2008 (numeric, sorted alphabetically, Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian"
   }
 }

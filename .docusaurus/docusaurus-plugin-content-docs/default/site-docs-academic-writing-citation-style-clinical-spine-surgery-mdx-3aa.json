@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/clinical-spine-surgery",
   "id": "academic-writing/citation-style/clinical-spine-surgery",
   "isDocsHomePage": false,
-  "title": "clinical-spine-surgery",
-  "description": "---",
+  "title": "Clinical Spine Surgery",
+  "description": "When you 're tasked by using \"Clinical Spine Surgery\" (Int J Polit Cult Soc) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/clinical-spine-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/clinical-spine-surgery",
   "permalink": "/support/docs/academic-writing/citation-style/clinical-spine-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/clinical-spine-surgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "clinical-radiology",
+    "title": "Clinical Radiology",
     "permalink": "/support/docs/academic-writing/citation-style/clinical-radiology"
   },
   "next": {
-    "title": "clio-medica",
+    "title": "Clio Medica",
     "permalink": "/support/docs/academic-writing/citation-style/clio-medica"
   }
 }

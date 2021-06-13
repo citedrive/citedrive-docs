@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-molecular-cell-biology",
   "id": "academic-writing/citation-style/journal-of-molecular-cell-biology",
   "isDocsHomePage": false,
-  "title": "journal-of-molecular-cell-biology",
-  "description": "---",
+  "title": "Journal of Molecular Cell Biology",
+  "description": "When you 're tasked by using \"Journal of Molecular Cell Biology\" (JMCB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-molecular-cell-biology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-molecular-cell-biology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-cell-biology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-molecular-cell-biology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-minimally-invasive-gynecology",
+    "title": "Journal of Minimally Invasive Gynecology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-minimally-invasive-gynecology"
   },
   "next": {
-    "title": "journal-of-molecular-endocrinology",
+    "title": "Journal of Molecular Endocrinology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-molecular-endocrinology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/scrinium",
   "id": "academic-writing/citation-style/scrinium",
   "isDocsHomePage": false,
-  "title": "scrinium",
-  "description": "---",
+  "title": "Scrinium",
+  "description": "When you 're tasked by using \"Scrinium\" (SCRI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/scrinium.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/scrinium",
   "permalink": "/support/docs/academic-writing/citation-style/scrinium",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/scrinium.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska",
+    "title": "Scientific Review Engineering and Environmental Sciences (Przegląd Naukowy Inżynieria i Kształtowanie Środowiska)",
     "permalink": "/support/docs/academic-writing/citation-style/scientific-review-engineering-and-environmental-sciences-przeglad-naukowy-inzynieria-i-ksztatowanie-srodowiska"
   },
   "next": {
-    "title": "sedimentology",
+    "title": "Sedimentology",
     "permalink": "/support/docs/academic-writing/citation-style/sedimentology"
   }
 }

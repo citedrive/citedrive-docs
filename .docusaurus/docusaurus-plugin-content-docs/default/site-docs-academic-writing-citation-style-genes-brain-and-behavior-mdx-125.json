@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/genes-brain-and-behavior",
   "id": "academic-writing/citation-style/genes-brain-and-behavior",
   "isDocsHomePage": false,
-  "title": "genes-brain-and-behavior",
-  "description": "---",
+  "title": "Genes, Brain and Behavior",
+  "description": "When you 're tasked by using \"Genes, Brain and Behavior\" (Indian J Hematol Blood Transfus) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/genes-brain-and-behavior.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/genes-brain-and-behavior",
   "permalink": "/support/docs/academic-writing/citation-style/genes-brain-and-behavior",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genes-brain-and-behavior.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "generic-style-rules-for-linguistics",
+    "title": "Generic Style Rules for Linguistics",
     "permalink": "/support/docs/academic-writing/citation-style/generic-style-rules-for-linguistics"
   },
   "next": {
-    "title": "genes-to-cells",
+    "title": "Genes to Cells",
     "permalink": "/support/docs/academic-writing/citation-style/genes-to-cells"
   }
 }

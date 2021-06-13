@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/revista-portuguesa-de-arqueologia",
   "id": "academic-writing/citation-style/revista-portuguesa-de-arqueologia",
   "isDocsHomePage": false,
-  "title": "revista-portuguesa-de-arqueologia",
-  "description": "---",
+  "title": "Revista Portuguesa de Arqueologia",
+  "description": "When you 're tasked by using \"Revista Portuguesa de Arqueologia\" (RPA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/revista-portuguesa-de-arqueologia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/revista-portuguesa-de-arqueologia",
   "permalink": "/support/docs/academic-writing/citation-style/revista-portuguesa-de-arqueologia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/revista-portuguesa-de-arqueologia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "revista-peruana-de-medicina-experimental-y-salud-publica-spanish",
+    "title": "Revista Peruana de Medicina Experimental y Salud Pública (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/revista-peruana-de-medicina-experimental-y-salud-publica-spanish"
   },
   "next": {
-    "title": "revista-virtual-de-quimica-portuguese--brazil",
+    "title": "Revista Virtual de Química (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/revista-virtual-de-quimica-portuguese--brazil"
   }
 }

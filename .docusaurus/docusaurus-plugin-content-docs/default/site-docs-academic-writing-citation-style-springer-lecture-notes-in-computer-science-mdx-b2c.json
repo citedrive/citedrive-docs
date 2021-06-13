@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--lecture-notes-in-computer-science",
   "id": "academic-writing/citation-style/springer--lecture-notes-in-computer-science",
   "isDocsHomePage": false,
-  "title": "springer--lecture-notes-in-computer-science",
-  "description": "---",
+  "title": "Springer - Lecture Notes in Computer Science",
+  "description": "When you 're tasked by using \"Springer - Lecture Notes in Computer Science\" (Springer LNCS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--lecture-notes-in-computer-science",
   "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--lecture-notes-in-computer-science-sorted-alphabetically",
+    "title": "Springer - Lecture Notes in Computer Science (sorted alphabetically)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--lecture-notes-in-computer-science-sorted-alphabetically"
   },
   "next": {
-    "title": "springer--mathphys-authordate",
+    "title": "Springer - MathPhys (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--mathphys-authordate"
   }
 }

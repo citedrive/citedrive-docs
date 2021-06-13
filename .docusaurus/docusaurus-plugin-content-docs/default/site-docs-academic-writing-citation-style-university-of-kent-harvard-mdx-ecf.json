@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-kent--harvard",
   "id": "academic-writing/citation-style/university-of-kent--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-kent--harvard",
-  "description": "---",
+  "title": "University of Kent - Harvard",
+  "description": "When you 're tasked by using \"University of Kent - Harvard\" (UNIRIO-EIPP-ABNT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-kent--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-kent--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-kent--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-kent--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-greenwich--harvard",
+    "title": "University of Greenwich - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-greenwich--harvard"
   },
   "next": {
-    "title": "university-of-leeds--harvard",
+    "title": "University of Leeds - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-leeds--harvard"
   }
 }

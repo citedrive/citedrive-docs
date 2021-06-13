@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/engineering-technology-and-applied-science-research",
   "id": "academic-writing/citation-style/engineering-technology-and-applied-science-research",
   "isDocsHomePage": false,
-  "title": "engineering-technology-and-applied-science-research",
-  "description": "---",
+  "title": "Engineering, Technology & Applied Science Research",
+  "description": "When you 're tasked by using \"Engineering, Technology & Applied Science Research\" (ETASR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/engineering-technology-and-applied-science-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/engineering-technology-and-applied-science-research",
   "permalink": "/support/docs/academic-writing/citation-style/engineering-technology-and-applied-science-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/engineering-technology-and-applied-science-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "engineering-in-life-sciences",
+    "title": "Engineering in Life Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/engineering-in-life-sciences"
   },
   "next": {
-    "title": "entecho-czech",
+    "title": "ENTECHO (Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/entecho-czech"
   }
 }

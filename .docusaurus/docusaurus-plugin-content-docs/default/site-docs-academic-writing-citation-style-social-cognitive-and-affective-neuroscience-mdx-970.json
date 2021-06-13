@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
   "id": "academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
   "isDocsHomePage": false,
-  "title": "social-cognitive-and-affective-neuroscience",
-  "description": "---",
+  "title": "Social Cognitive and Affective Neuroscience",
+  "description": "When you 're tasked by using \"Social Cognitive and Affective Neuroscience\" (SCAN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
   "permalink": "/support/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/social-cognitive-and-affective-neuroscience.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "smyrna-tp-dergisi-turkish",
+    "title": "Smyrna Tıp Dergisi (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/smyrna-tp-dergisi-turkish"
   },
   "next": {
-    "title": "societe-archeologique-de-bordeaux-french",
+    "title": "Société Archéologique de Bordeaux (French)",
     "permalink": "/support/docs/academic-writing/citation-style/societe-archeologique-de-bordeaux-french"
   }
 }

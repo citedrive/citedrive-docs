@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia",
   "id": "academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia",
   "isDocsHomePage": false,
-  "title": "rivista-italiana-di-paleontologia-e-stratigrafia",
-  "description": "---",
+  "title": "Rivista Italiana di Paleontologia e Stratigrafia",
+  "description": "When you 're tasked by using \"Rivista Italiana di Paleontologia e Stratigrafia\" (RIPS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia",
   "permalink": "/support/docs/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/rivista-italiana-di-paleontologia-e-stratigrafia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "riti-timarit-hugvisindastofnunar-icelandic",
+    "title": "Ritið: tímarit Hugvísindastofnunar (Icelandic)",
     "permalink": "/support/docs/academic-writing/citation-style/riti-timarit-hugvisindastofnunar-icelandic"
   },
   "next": {
-    "title": "rmit-university--harvard",
+    "title": "RMIT University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/rmit-university--harvard"
   }
 }

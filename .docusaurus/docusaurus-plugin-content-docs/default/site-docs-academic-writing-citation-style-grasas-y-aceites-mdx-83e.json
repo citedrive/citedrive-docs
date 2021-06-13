@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/grasas-y-aceites",
   "id": "academic-writing/citation-style/grasas-y-aceites",
   "isDocsHomePage": false,
-  "title": "grasas-y-aceites",
-  "description": "---",
+  "title": "Grasas y Aceites",
+  "description": "When you 're tasked by using \"Grasas y Aceites\" (USFS PNWRS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/grasas-y-aceites.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/grasas-y-aceites",
   "permalink": "/support/docs/academic-writing/citation-style/grasas-y-aceites",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/grasas-y-aceites.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "government-and-opposition",
+    "title": "Government and Opposition",
     "permalink": "/support/docs/academic-writing/citation-style/government-and-opposition"
   },
   "next": {
-    "title": "groupe-danthropologie-et-darcheologie-funeraire-french",
-    "permalink": "/support/docs/academic-writing/citation-style/groupe-danthropologie-et-darcheologie-funeraire-french"
+    "title": "Guide des citations, références et abréviations juridiques 6e édition (French)",
+    "permalink": "/support/docs/academic-writing/citation-style/guide-des-citations-references-et-abreviations-juridiques-6e-edition-french"
   }
 }

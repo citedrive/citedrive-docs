@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mediterranean-politics",
   "id": "academic-writing/citation-style/mediterranean-politics",
   "isDocsHomePage": false,
-  "title": "mediterranean-politics",
-  "description": "---",
+  "title": "Mediterranean Politics",
+  "description": "When you 're tasked by using \"Mediterranean Politics\" (fMed) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mediterranean-politics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mediterranean-politics",
   "permalink": "/support/docs/academic-writing/citation-style/mediterranean-politics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mediterranean-politics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mediterranean-journal-of-infection-microbes-and-antimicrobials",
+    "title": "Mediterranean Journal of Infection, Microbes and Antimicrobials",
     "permalink": "/support/docs/academic-writing/citation-style/mediterranean-journal-of-infection-microbes-and-antimicrobials"
   },
   "next": {
-    "title": "melbourne-polytechnic--harvard",
+    "title": "Melbourne Polytechnic - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/melbourne-polytechnic--harvard"
   }
 }

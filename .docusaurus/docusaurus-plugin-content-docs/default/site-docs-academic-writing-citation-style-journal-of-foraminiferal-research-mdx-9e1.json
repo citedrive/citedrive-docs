@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-foraminiferal-research",
   "id": "academic-writing/citation-style/journal-of-foraminiferal-research",
   "isDocsHomePage": false,
-  "title": "journal-of-foraminiferal-research",
-  "description": "---",
+  "title": "Journal of Foraminiferal Research",
+  "description": "When you 're tasked by using \"Journal of Foraminiferal Research\" (JFR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-foraminiferal-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-foraminiferal-research",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-foraminiferal-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-foraminiferal-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-food-protection",
+    "title": "Journal of Food Protection",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-food-protection"
   },
   "next": {
-    "title": "journal-of-forensic-sciences",
+    "title": "Journal of Forensic Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-forensic-sciences"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/soil-science-and-plant-nutrition",
   "id": "academic-writing/citation-style/soil-science-and-plant-nutrition",
   "isDocsHomePage": false,
-  "title": "soil-science-and-plant-nutrition",
-  "description": "---",
+  "title": "Soil Science and Plant Nutrition",
+  "description": "When you 're tasked by using \"Soil Science and Plant Nutrition\" (GCB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/soil-science-and-plant-nutrition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/soil-science-and-plant-nutrition",
   "permalink": "/support/docs/academic-writing/citation-style/soil-science-and-plant-nutrition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/soil-science-and-plant-nutrition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "soil-biology-and-biochemistry",
+    "title": "Soil Biology and Biochemistry",
     "permalink": "/support/docs/academic-writing/citation-style/soil-biology-and-biochemistry"
   },
   "next": {
-    "title": "solent-university--harvard",
+    "title": "Solent University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/solent-university--harvard"
   }
 }

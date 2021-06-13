@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/solent-university--harvard",
   "id": "academic-writing/citation-style/solent-university--harvard",
   "isDocsHomePage": false,
-  "title": "solent-university--harvard",
-  "description": "---",
+  "title": "Solent University - Harvard",
+  "description": "When you 're tasked by using \"Solent University - Harvard\" (Transportation) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/solent-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/solent-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/solent-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/solent-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "soil-science-and-plant-nutrition",
+    "title": "Soil Science and Plant Nutrition",
     "permalink": "/support/docs/academic-writing/citation-style/soil-science-and-plant-nutrition"
   },
   "next": {
-    "title": "solutions",
+    "title": "Solutions",
     "permalink": "/support/docs/academic-writing/citation-style/solutions"
   }
 }

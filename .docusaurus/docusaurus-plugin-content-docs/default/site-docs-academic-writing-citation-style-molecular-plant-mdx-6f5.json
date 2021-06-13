@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/molecular-plant",
   "id": "academic-writing/citation-style/molecular-plant",
   "isDocsHomePage": false,
-  "title": "molecular-plant",
-  "description": "---",
+  "title": "Molecular Plant",
+  "description": "When you 're tasked by using \"Molecular Plant\" (Pharm Med) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/molecular-plant.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/molecular-plant",
   "permalink": "/support/docs/academic-writing/citation-style/molecular-plant",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-plant.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "molecular-plant-pathology",
+    "title": "Molecular Plant Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-plant-pathology"
   },
   "next": {
-    "title": "molecular-plantmicrobe-interactions",
+    "title": "Molecular Plant-Microbe Interactions",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-plantmicrobe-interactions"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/molecular-plantmicrobe-interactions",
   "id": "academic-writing/citation-style/molecular-plantmicrobe-interactions",
   "isDocsHomePage": false,
-  "title": "molecular-plantmicrobe-interactions",
-  "description": "---",
+  "title": "Molecular Plant-Microbe Interactions",
+  "description": "When you 're tasked by using \"Molecular Plant-Microbe Interactions\" (MPMI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/molecular-plantmicrobe-interactions.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/molecular-plantmicrobe-interactions",
   "permalink": "/support/docs/academic-writing/citation-style/molecular-plantmicrobe-interactions",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-plantmicrobe-interactions.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "molecular-plant",
+    "title": "Molecular Plant",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-plant"
   },
   "next": {
-    "title": "molecular-psychiatry-letters-to-the-editor",
+    "title": "Molecular Psychiatry (letters to the editor)",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-psychiatry-letters-to-the-editor"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/comparative-politics",
   "id": "academic-writing/citation-style/comparative-politics",
   "isDocsHomePage": false,
-  "title": "comparative-politics",
-  "description": "---",
+  "title": "Comparative Politics",
+  "description": "When you 're tasked by using \"Comparative Politics\" (J Genet Counsel) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/comparative-politics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/comparative-politics",
   "permalink": "/support/docs/academic-writing/citation-style/comparative-politics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/comparative-politics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "communication-et-langages",
+    "title": "Communication et Langages",
     "permalink": "/support/docs/academic-writing/citation-style/communication-et-langages"
   },
   "next": {
-    "title": "comparative-population-studies",
+    "title": "Comparative Population Studies",
     "permalink": "/support/docs/academic-writing/citation-style/comparative-population-studies"
   }
 }

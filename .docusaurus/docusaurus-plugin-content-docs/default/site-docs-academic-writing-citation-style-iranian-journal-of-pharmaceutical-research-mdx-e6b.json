@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/iranian-journal-of-pharmaceutical-research",
   "id": "academic-writing/citation-style/iranian-journal-of-pharmaceutical-research",
   "isDocsHomePage": false,
-  "title": "iranian-journal-of-pharmaceutical-research",
-  "description": "---",
+  "title": "Iranian Journal of Pharmaceutical Research",
+  "description": "When you 're tasked by using \"Iranian Journal of Pharmaceutical Research\" (IJPR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/iranian-journal-of-pharmaceutical-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/iranian-journal-of-pharmaceutical-research",
   "permalink": "/support/docs/academic-writing/citation-style/iranian-journal-of-pharmaceutical-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/iranian-journal-of-pharmaceutical-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "iranian-journal-of-basic-medical-sciences",
+    "title": "Iranian Journal of Basic Medical Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences"
   },
   "next": {
-    "title": "irish-historical-studies",
+    "title": "Irish Historical Studies",
     "permalink": "/support/docs/academic-writing/citation-style/irish-historical-studies"
   }
 }

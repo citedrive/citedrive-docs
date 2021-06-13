@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/durham-university-business-school--harvard",
   "id": "academic-writing/citation-style/durham-university-business-school--harvard",
   "isDocsHomePage": false,
-  "title": "durham-university-business-school--harvard",
-  "description": "---",
+  "title": "Durham University Business School - Harvard",
+  "description": "When you 're tasked by using \"Durham University Business School - Harvard\" (Virus Genes) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/durham-university-business-school--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/durham-university-business-school--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/durham-university-business-school--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/durham-university-business-school--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "dundalk-institute-of-technology--harvard",
+    "title": "Dundalk Institute of Technology - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/dundalk-institute-of-technology--harvard"
   },
   "next": {
-    "title": "e3s-web-of-conferences",
+    "title": "E3S Web of Conferences",
     "permalink": "/support/docs/academic-writing/citation-style/e3s-web-of-conferences"
   }
 }

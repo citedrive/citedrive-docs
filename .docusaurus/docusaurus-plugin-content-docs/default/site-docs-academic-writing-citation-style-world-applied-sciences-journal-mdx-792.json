@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/world-applied-sciences-journal",
   "id": "academic-writing/citation-style/world-applied-sciences-journal",
   "isDocsHomePage": false,
-  "title": "world-applied-sciences-journal",
-  "description": "---",
+  "title": "World Applied Sciences Journal",
+  "description": "When you 're tasked by using \"World Applied Sciences Journal\" (WASJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/world-applied-sciences-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/world-applied-sciences-journal",
   "permalink": "/support/docs/academic-writing/citation-style/world-applied-sciences-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/world-applied-sciences-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "wissenschaftlicher-industrielogistikdialog-german--austria",
+    "title": "Wissenschaftlicher Industrielogistik-Dialog (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria"
   },
   "next": {
-    "title": "world-congress-on-engineering-asset-management-2010",
+    "title": "World Congress on Engineering Asset Management 2010",
     "permalink": "/support/docs/academic-writing/citation-style/world-congress-on-engineering-asset-management-2010"
   }
 }

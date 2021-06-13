@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/asian-studies-review",
   "id": "academic-writing/citation-style/asian-studies-review",
   "isDocsHomePage": false,
-  "title": "asian-studies-review",
-  "description": "---",
+  "title": "Asian Studies Review",
+  "description": "When you 're tasked by using \"Asian Studies Review\" (Bull. Chem. Soc. Jpn.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/asian-studies-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/asian-studies-review",
   "permalink": "/support/docs/academic-writing/citation-style/asian-studies-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asian-studies-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "asian-journal-of-neurosurgery",
+    "title": "Asian Journal of Neurosurgery",
     "permalink": "/support/docs/academic-writing/citation-style/asian-journal-of-neurosurgery"
   },
   "next": {
-    "title": "assay-and-drug-development-technologies",
+    "title": "ASSAY and Drug Development Technologies",
     "permalink": "/support/docs/academic-writing/citation-style/assay-and-drug-development-technologies"
   }
 }

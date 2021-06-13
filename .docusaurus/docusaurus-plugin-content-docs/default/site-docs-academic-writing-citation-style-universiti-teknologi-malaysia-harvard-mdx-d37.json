@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universiti-teknologi-malaysia--harvard",
   "id": "academic-writing/citation-style/universiti-teknologi-malaysia--harvard",
   "isDocsHomePage": false,
-  "title": "universiti-teknologi-malaysia--harvard",
-  "description": "---",
+  "title": "Universiti Teknologi Malaysia - Harvard",
+  "description": "When you 're tasked by using \"Universiti Teknologi Malaysia - Harvard\" (UFRGS-ABNT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universiti-teknologi-malaysia--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universiti-teknologi-malaysia--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/universiti-teknologi-malaysia--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universiti-teknologi-malaysia--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universiti-kebangsaan-malaysia-malay",
+    "title": "Universiti Kebangsaan Malaysia (Malay)",
     "permalink": "/support/docs/academic-writing/citation-style/universiti-kebangsaan-malaysia-malay"
   },
   "next": {
-    "title": "universiti-tunku-abdul-rahman--harvard",
+    "title": "Universiti Tunku Abdul Rahman - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/universiti-tunku-abdul-rahman--harvard"
   }
 }

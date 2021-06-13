@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria",
   "id": "academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria",
   "isDocsHomePage": false,
-  "title": "wissenschaftlicher-industrielogistikdialog-german--austria",
-  "description": "---",
+  "title": "Wissenschaftlicher Industrielogistik-Dialog (German - Austria)",
+  "description": "When you 're tasked by using \"Wissenschaftlicher Industrielogistik-Dialog (German - Austria)\" (WilD) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria",
   "permalink": "/support/docs/academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/wissenschaftlicher-industrielogistikdialog-german--austria.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "wirtschaftsuniversitat-wien-authordate",
+    "title": "Wirtschaftsuniversität Wien (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/wirtschaftsuniversitat-wien-authordate"
   },
   "next": {
-    "title": "world-applied-sciences-journal",
+    "title": "World Applied Sciences Journal",
     "permalink": "/support/docs/academic-writing/citation-style/world-applied-sciences-journal"
   }
 }

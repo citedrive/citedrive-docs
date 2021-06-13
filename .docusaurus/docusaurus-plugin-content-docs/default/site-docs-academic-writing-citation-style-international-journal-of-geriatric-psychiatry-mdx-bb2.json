@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-journal-of-geriatric-psychiatry",
   "id": "academic-writing/citation-style/international-journal-of-geriatric-psychiatry",
   "isDocsHomePage": false,
-  "title": "international-journal-of-geriatric-psychiatry",
-  "description": "---",
+  "title": "International Journal of Geriatric Psychiatry",
+  "description": "When you 're tasked by using \"International Journal of Geriatric Psychiatry\" (JGP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-journal-of-geriatric-psychiatry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-journal-of-geriatric-psychiatry",
   "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-geriatric-psychiatry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-geriatric-psychiatry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-journal-of-food-science-and-technology",
+    "title": "International Journal of Food Science & Technology",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-food-science-and-technology"
   },
   "next": {
-    "title": "international-journal-of-humanoid-robotics",
+    "title": "International Journal of Humanoid Robotics",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-humanoid-robotics"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-reconstructive-microsurgery",
   "id": "academic-writing/citation-style/journal-of-reconstructive-microsurgery",
   "isDocsHomePage": false,
-  "title": "journal-of-reconstructive-microsurgery",
-  "description": "---",
+  "title": "Journal of Reconstructive Microsurgery",
+  "description": "When you 're tasked by using \"Journal of Reconstructive Microsurgery\" (J Reconstr Microsurg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-reconstructive-microsurgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-reconstructive-microsurgery",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-reconstructive-microsurgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-reconstructive-microsurgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-raman-spectroscopy",
+    "title": "Journal of Raman Spectroscopy",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-raman-spectroscopy"
   },
   "next": {
-    "title": "journal-of-refugee-studies",
+    "title": "Journal of Refugee Studies",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-refugee-studies"
   }
 }

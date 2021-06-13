@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/currents-in-biblical-research",
   "id": "academic-writing/citation-style/currents-in-biblical-research",
   "isDocsHomePage": false,
-  "title": "currents-in-biblical-research",
-  "description": "---",
+  "title": "Currents in Biblical Research",
+  "description": "When you 're tasked by using \"Currents in Biblical Research\" (Nat Hazards) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/currents-in-biblical-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/currents-in-biblical-research",
   "permalink": "/support/docs/academic-writing/citation-style/currents-in-biblical-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/currents-in-biblical-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "current-topics-in-medicinal-chemistry",
+    "title": "Current Topics in Medicinal Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry"
   },
   "next": {
-    "title": "cyberpsychology-behavior-and-social-networking",
+    "title": "Cyberpsychology, Behavior, and Social Networking",
     "permalink": "/support/docs/academic-writing/citation-style/cyberpsychology-behavior-and-social-networking"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/freshwater-crayfish",
   "id": "academic-writing/citation-style/freshwater-crayfish",
   "isDocsHomePage": false,
-  "title": "freshwater-crayfish",
-  "description": "---",
+  "title": "Freshwater Crayfish",
+  "description": "When you 're tasked by using \"Freshwater Crayfish\" (Int J Softw Tools Technol Transfer) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/freshwater-crayfish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/freshwater-crayfish",
   "permalink": "/support/docs/academic-writing/citation-style/freshwater-crayfish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/freshwater-crayfish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "freshwater-biology",
+    "title": "Freshwater Biology",
     "permalink": "/support/docs/academic-writing/citation-style/freshwater-biology"
   },
   "next": {
-    "title": "freshwater-science",
+    "title": "Freshwater Science",
     "permalink": "/support/docs/academic-writing/citation-style/freshwater-science"
   }
 }

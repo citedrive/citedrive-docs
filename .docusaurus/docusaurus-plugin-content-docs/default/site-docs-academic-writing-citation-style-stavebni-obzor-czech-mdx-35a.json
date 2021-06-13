@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/stavebni-obzor-czech",
   "id": "academic-writing/citation-style/stavebni-obzor-czech",
   "isDocsHomePage": false,
-  "title": "stavebni-obzor-czech",
-  "description": "---",
+  "title": "Stavební obzor (Czech)",
+  "description": "When you 're tasked by using \"Stavební obzor (Czech)\" (Eur J Futures Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/stavebni-obzor-czech.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/stavebni-obzor-czech",
   "permalink": "/support/docs/academic-writing/citation-style/stavebni-obzor-czech",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/stavebni-obzor-czech.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "statistika-statistics-and-economy-journal",
+    "title": "Statistika: Statistics and Economy Journal",
     "permalink": "/support/docs/academic-writing/citation-style/statistika-statistics-and-economy-journal"
   },
   "next": {
-    "title": "steinbeishochschule--school-of-management-and-innovation-german",
+    "title": "Steinbeis-Hochschule - School of Management & Innovation (German)",
     "permalink": "/support/docs/academic-writing/citation-style/steinbeishochschule--school-of-management-and-innovation-german"
   }
 }

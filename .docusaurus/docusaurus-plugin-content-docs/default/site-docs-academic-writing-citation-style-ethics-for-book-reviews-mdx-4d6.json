@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ethics-for-book-reviews",
   "id": "academic-writing/citation-style/ethics-for-book-reviews",
   "isDocsHomePage": false,
-  "title": "ethics-for-book-reviews",
-  "description": "---",
+  "title": "Ethics (for book reviews)",
+  "description": "When you 're tasked by using \"Ethics (for book reviews)\" (Environ. Sci. Technol.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ethics-for-book-reviews.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ethics-for-book-reviews",
   "permalink": "/support/docs/academic-writing/citation-style/ethics-for-book-reviews",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ethics-for-book-reviews.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "estudios-hispanicos-spanish",
+    "title": "Estudios Hispánicos (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/estudios-hispanicos-spanish"
   },
   "next": {
-    "title": "ethnobiology-and-conservation",
+    "title": "Ethnobiology and Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/ethnobiology-and-conservation"
   }
 }

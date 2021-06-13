@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/oxford-art-journal",
   "id": "academic-writing/citation-style/oxford-art-journal",
   "isDocsHomePage": false,
-  "title": "oxford-art-journal",
-  "description": "---",
+  "title": "Oxford Art Journal",
+  "description": "When you 're tasked by using \"Oxford Art Journal\" (SBL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/oxford-art-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/oxford-art-journal",
   "permalink": "/support/docs/academic-writing/citation-style/oxford-art-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/oxford-art-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ow-barth-verlag-german",
+    "title": "O.W. Barth Verlag (German)",
     "permalink": "/support/docs/academic-writing/citation-style/ow-barth-verlag-german"
   },
   "next": {
-    "title": "oxford-brookes-university--faculty-of-health-and-life-sciences--harvard",
+    "title": "Oxford Brookes University - Faculty of Health and Life Sciences - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/oxford-brookes-university--faculty-of-health-and-life-sciences--harvard"
   }
 }

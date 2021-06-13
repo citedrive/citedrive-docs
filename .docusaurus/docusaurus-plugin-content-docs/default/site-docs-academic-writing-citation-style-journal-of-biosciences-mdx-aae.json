@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-biosciences",
   "id": "academic-writing/citation-style/journal-of-biosciences",
   "isDocsHomePage": false,
-  "title": "journal-of-biosciences",
-  "description": "---",
+  "title": "Journal of Biosciences",
+  "description": "When you 're tasked by using \"Journal of Biosciences\" (JBSC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-biosciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-biosciences",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-biosciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-biosciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-biomedical-materials-research-part-a",
+    "title": "Journal of Biomedical Materials Research Part A",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-biomedical-materials-research-part-a"
   },
   "next": {
-    "title": "journal-of-bone-and-mineral-research",
+    "title": "Journal of Bone and Mineral Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-bone-and-mineral-research"
   }
 }

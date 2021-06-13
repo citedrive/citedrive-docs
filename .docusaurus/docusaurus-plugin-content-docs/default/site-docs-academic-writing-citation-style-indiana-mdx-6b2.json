@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/indiana",
   "id": "academic-writing/citation-style/indiana",
   "isDocsHomePage": false,
-  "title": "indiana",
-  "description": "---",
+  "title": "INDIANA",
+  "description": "When you 're tasked by using \"INDIANA\" (CEPAL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/indiana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/indiana",
   "permalink": "/support/docs/academic-writing/citation-style/indiana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/indiana.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "indian-journal-of-traditional-knowledge",
+    "title": "Indian Journal of Traditional Knowledge",
     "permalink": "/support/docs/academic-writing/citation-style/indian-journal-of-traditional-knowledge"
   },
   "next": {
-    "title": "indoor-air",
+    "title": "Indoor Air",
     "permalink": "/support/docs/academic-writing/citation-style/indoor-air"
   }
 }

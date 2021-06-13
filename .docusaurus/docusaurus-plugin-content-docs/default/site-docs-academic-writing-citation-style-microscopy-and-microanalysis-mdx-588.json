@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/microscopy-and-microanalysis",
   "id": "academic-writing/citation-style/microscopy-and-microanalysis",
   "isDocsHomePage": false,
-  "title": "microscopy-and-microanalysis",
-  "description": "---",
+  "title": "Microscopy and Microanalysis",
+  "description": "When you 're tasked by using \"Microscopy and Microanalysis\" (CSE C-N) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/microscopy-and-microanalysis.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/microscopy-and-microanalysis",
   "permalink": "/support/docs/academic-writing/citation-style/microscopy-and-microanalysis",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/microscopy-and-microanalysis.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "microbiology-society",
+    "title": "Microbiology Society",
     "permalink": "/support/docs/academic-writing/citation-style/microbiology-society"
   },
   "next": {
-    "title": "middle-east-critique",
+    "title": "Middle East Critique",
     "permalink": "/support/docs/academic-writing/citation-style/middle-east-critique"
   }
 }

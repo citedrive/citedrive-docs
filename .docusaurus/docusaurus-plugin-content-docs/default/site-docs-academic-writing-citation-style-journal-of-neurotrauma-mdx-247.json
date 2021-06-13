@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-neurotrauma",
   "id": "academic-writing/citation-style/journal-of-neurotrauma",
   "isDocsHomePage": false,
-  "title": "journal-of-neurotrauma",
-  "description": "---",
+  "title": "Journal of Neurotrauma",
+  "description": "When you 're tasked by using \"Journal of Neurotrauma\" (Algorithmica) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-neurotrauma.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-neurotrauma",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurotrauma",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neurotrauma.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-neurosurgery",
+    "title": "Journal of Neurosurgery",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurosurgery"
   },
   "next": {
-    "title": "journal-of-new-zealand-grasslands",
+    "title": "Journal of New Zealand Grasslands",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-new-zealand-grasslands"
   }
 }

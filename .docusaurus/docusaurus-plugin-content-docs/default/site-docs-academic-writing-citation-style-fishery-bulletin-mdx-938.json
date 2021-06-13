@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/fishery-bulletin",
   "id": "academic-writing/citation-style/fishery-bulletin",
   "isDocsHomePage": false,
-  "title": "fishery-bulletin",
-  "description": "---",
+  "title": "Fishery Bulletin",
+  "description": "When you 're tasked by using \"Fishery Bulletin\" (IE Com) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/fishery-bulletin.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/fishery-bulletin",
   "permalink": "/support/docs/academic-writing/citation-style/fishery-bulletin",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fishery-bulletin.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "first-monday",
+    "title": "First Monday",
     "permalink": "/support/docs/academic-writing/citation-style/first-monday"
   },
   "next": {
-    "title": "flavour-and-fragrance-journal",
+    "title": "Flavour and Fragrance Journal",
     "permalink": "/support/docs/academic-writing/citation-style/flavour-and-fragrance-journal"
   }
 }

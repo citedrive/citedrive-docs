@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/radiography",
   "id": "academic-writing/citation-style/radiography",
   "isDocsHomePage": false,
-  "title": "radiography",
-  "description": "---",
+  "title": "Radiography",
+  "description": "When you 're tasked by using \"Radiography\" (RADI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/radiography.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/radiography",
   "permalink": "/support/docs/academic-writing/citation-style/radiography",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/radiography.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "radiographics",
+    "title": "RadioGraphics",
     "permalink": "/support/docs/academic-writing/citation-style/radiographics"
   },
   "next": {
-    "title": "radiologic-clinics-of-north-america",
+    "title": "Radiologic Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/radiologic-clinics-of-north-america"
   }
 }

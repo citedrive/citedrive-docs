@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/york-st-john-university--harvard",
   "id": "academic-writing/citation-style/york-st-john-university--harvard",
   "isDocsHomePage": false,
-  "title": "york-st-john-university--harvard",
-  "description": "---",
+  "title": "York St John University - Harvard",
+  "description": "When you 're tasked by using \"York St John University - Harvard\" (Harvard-YSJU) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/york-st-john-university--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/york-st-john-university--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/york-st-john-university--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/york-st-john-university--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "yeast",
+    "title": "Yeast",
     "permalink": "/support/docs/academic-writing/citation-style/yeast"
   },
   "next": {
-    "title": "yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish",
+    "title": "Yozgat Bozok Üniversitesi - Fen Bilimleri Enstitüsü (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/yozgat-bozok-universitesi--fen-bilimleri-enstitusu-turkish"
   }
 }

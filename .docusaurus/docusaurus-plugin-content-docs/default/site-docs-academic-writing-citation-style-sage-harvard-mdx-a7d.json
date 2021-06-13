@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/sage--harvard",
   "id": "academic-writing/citation-style/sage--harvard",
   "isDocsHomePage": false,
-  "title": "sage--harvard",
-  "description": "---",
+  "title": "SAGE - Harvard",
+  "description": "When you 're tasked by using \"SAGE - Harvard\" (BJJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/sage--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/sage--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/sage--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sage--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "russian-gost-r-7052008-russian",
+    "title": "Russian GOST R 7.0.5-2008 (Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-russian"
   },
   "next": {
-    "title": "sage--vancouver-brackets",
+    "title": "SAGE - Vancouver (brackets)",
     "permalink": "/support/docs/academic-writing/citation-style/sage--vancouver-brackets"
   }
 }

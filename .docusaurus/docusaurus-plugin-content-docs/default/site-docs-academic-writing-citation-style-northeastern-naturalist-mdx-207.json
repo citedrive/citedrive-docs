@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/northeastern-naturalist",
   "id": "academic-writing/citation-style/northeastern-naturalist",
   "isDocsHomePage": false,
-  "title": "northeastern-naturalist",
-  "description": "---",
+  "title": "Northeastern Naturalist",
+  "description": "When you 're tasked by using \"Northeastern Naturalist\" (Astron Astrophys Rev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/northeastern-naturalist.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/northeastern-naturalist",
   "permalink": "/support/docs/academic-writing/citation-style/northeastern-naturalist",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/northeastern-naturalist.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "norsk-apamanual--apa-7th-edition-note",
+    "title": "Norsk APA-manual - APA 7th edition (note)",
     "permalink": "/support/docs/academic-writing/citation-style/norsk-apamanual--apa-7th-edition-note"
   },
   "next": {
-    "title": "northwest-university--harvard",
+    "title": "North-West University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/northwest-university--harvard"
   }
 }

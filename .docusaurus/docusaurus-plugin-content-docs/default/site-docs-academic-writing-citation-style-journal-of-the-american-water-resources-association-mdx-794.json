@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-american-water-resources-association",
   "id": "academic-writing/citation-style/journal-of-the-american-water-resources-association",
   "isDocsHomePage": false,
-  "title": "journal-of-the-american-water-resources-association",
-  "description": "---",
+  "title": "Journal of the American Water Resources Association",
+  "description": "When you 're tasked by using \"Journal of the American Water Resources Association\" (JAWRA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-american-water-resources-association.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-american-water-resources-association",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-water-resources-association",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-american-water-resources-association.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-american-society-of-nephrology",
+    "title": "Journal of the American Society of Nephrology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-american-society-of-nephrology"
   },
   "next": {
-    "title": "journal-of-the-association-for-information-systems",
+    "title": "Journal of the Association for Information Systems",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-association-for-information-systems"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/society-for-historical-archaeology",
   "id": "academic-writing/citation-style/society-for-historical-archaeology",
   "isDocsHomePage": false,
-  "title": "society-for-historical-archaeology",
-  "description": "---",
+  "title": "Society for Historical Archaeology",
+  "description": "When you 're tasked by using \"Society for Historical Archaeology\" (Lasers Med Sci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/society-for-historical-archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/society-for-historical-archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/society-for-historical-archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/society-for-historical-archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "society-for-american-archaeology",
+    "title": "Society for American Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/society-for-american-archaeology"
   },
   "next": {
-    "title": "society-for-laboratory-automation-and-screening",
+    "title": "Society for Laboratory Automation and Screening",
     "permalink": "/support/docs/academic-writing/citation-style/society-for-laboratory-automation-and-screening"
   }
 }

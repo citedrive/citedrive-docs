@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences",
   "id": "academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences",
   "isDocsHomePage": false,
-  "title": "canadian-journal-of-fisheries-and-aquatic-sciences",
-  "description": "---",
+  "title": "Canadian Journal of Fisheries and Aquatic Sciences",
+  "description": "When you 're tasked by using \"Canadian Journal of Fisheries and Aquatic Sciences\" (Forum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences",
   "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-journal-of-fisheries-and-aquatic-sciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "canadian-journal-of-economics",
+    "title": "Canadian Journal of Economics",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-economics"
   },
   "next": {
-    "title": "canadian-journal-of-physics",
+    "title": "Canadian Journal of Physics",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-physics"
   }
 }

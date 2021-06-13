@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/glossa",
   "id": "academic-writing/citation-style/glossa",
   "isDocsHomePage": false,
-  "title": "glossa",
-  "description": "---",
+  "title": "Glossa",
+  "description": "When you 're tasked by using \"Glossa\" (OPN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/glossa.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/glossa",
   "permalink": "/support/docs/academic-writing/citation-style/glossa",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/glossa.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "global-ecology-and-biogeography",
+    "title": "Global Ecology and Biogeography",
     "permalink": "/support/docs/academic-writing/citation-style/global-ecology-and-biogeography"
   },
   "next": {
-    "title": "government-and-opposition",
+    "title": "Government and Opposition",
     "permalink": "/support/docs/academic-writing/citation-style/government-and-opposition"
   }
 }

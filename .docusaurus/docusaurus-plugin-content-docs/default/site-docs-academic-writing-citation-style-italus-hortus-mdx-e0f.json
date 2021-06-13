@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/italus-hortus",
   "id": "academic-writing/citation-style/italus-hortus",
   "isDocsHomePage": false,
-  "title": "italus-hortus",
-  "description": "---",
+  "title": "Italus Hortus",
+  "description": "When you 're tasked by using \"Italus Hortus\" (Cardiol Ther) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/italus-hortus.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/italus-hortus",
   "permalink": "/support/docs/academic-writing/citation-style/italus-hortus",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/italus-hortus.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "italian-journal-of-agronomy",
+    "title": "Italian Journal of Agronomy",
     "permalink": "/support/docs/academic-writing/citation-style/italian-journal-of-agronomy"
   },
   "next": {
-    "title": "ithaque-french--canada",
+    "title": "Ithaque (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/ithaque-french--canada"
   }
 }

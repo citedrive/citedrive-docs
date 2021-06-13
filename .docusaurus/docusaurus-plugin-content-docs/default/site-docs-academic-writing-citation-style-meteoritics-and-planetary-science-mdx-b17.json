@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/meteoritics-and-planetary-science",
   "id": "academic-writing/citation-style/meteoritics-and-planetary-science",
   "isDocsHomePage": false,
-  "title": "meteoritics-and-planetary-science",
-  "description": "---",
+  "title": "Meteoritics & Planetary Science",
+  "description": "When you 're tasked by using \"Meteoritics & Planetary Science\" (Neurogenetics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/meteoritics-and-planetary-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/meteoritics-and-planetary-science",
   "permalink": "/support/docs/academic-writing/citation-style/meteoritics-and-planetary-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/meteoritics-and-planetary-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "metallurgical-and-materials-transactions",
+    "title": "Metallurgical and Materials Transactions",
     "permalink": "/support/docs/academic-writing/citation-style/metallurgical-and-materials-transactions"
   },
   "next": {
-    "title": "meteorological-applications",
+    "title": "Meteorological Applications",
     "permalink": "/support/docs/academic-writing/citation-style/meteorological-applications"
   }
 }

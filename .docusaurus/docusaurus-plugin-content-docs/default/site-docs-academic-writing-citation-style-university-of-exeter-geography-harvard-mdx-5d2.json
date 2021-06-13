@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-exeter--geography--harvard",
   "id": "academic-writing/citation-style/university-of-exeter--geography--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-exeter--geography--harvard",
-  "description": "---",
+  "title": "University of Exeter - Geography - Harvard",
+  "description": "When you 're tasked by using \"University of Exeter - Geography - Harvard\" (Comput. Methods Funct. Theory) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-exeter--geography--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-exeter--geography--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-exeter--geography--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-exeter--geography--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-cape-town--harvard",
+    "title": "University of Cape Town - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-cape-town--harvard"
   },
   "next": {
-    "title": "university-of-gothenburg--apa-swedish-legislations",
+    "title": "University of Gothenburg - APA (Swedish legislations)",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-gothenburg--apa-swedish-legislations"
   }
 }

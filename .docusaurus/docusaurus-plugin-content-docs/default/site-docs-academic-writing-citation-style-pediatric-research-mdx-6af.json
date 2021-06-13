@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pediatric-research",
   "id": "academic-writing/citation-style/pediatric-research",
   "isDocsHomePage": false,
-  "title": "pediatric-research",
-  "description": "---",
+  "title": "Pediatric Research",
+  "description": "When you 're tasked by using \"Pediatric Research\" (JPP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pediatric-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pediatric-research",
   "permalink": "/support/docs/academic-writing/citation-style/pediatric-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pediatric-pulmonology",
+    "title": "Pediatric Pulmonology",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-pulmonology"
   },
   "next": {
-    "title": "pediatric-urology-case-reports",
+    "title": "Pediatric Urology Case Reports",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-urology-case-reports"
   }
 }

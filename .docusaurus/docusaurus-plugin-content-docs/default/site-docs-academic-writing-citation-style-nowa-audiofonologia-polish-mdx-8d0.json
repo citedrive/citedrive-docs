@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nowa-audiofonologia-polish",
   "id": "academic-writing/citation-style/nowa-audiofonologia-polish",
   "isDocsHomePage": false,
-  "title": "nowa-audiofonologia-polish",
-  "description": "---",
+  "title": "Nowa Audiofonologia (Polish)",
+  "description": "When you 're tasked by using \"Nowa Audiofonologia (Polish)\" (Now Audiofonol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nowa-audiofonologia-polish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nowa-audiofonologia-polish",
   "permalink": "/support/docs/academic-writing/citation-style/nowa-audiofonologia-polish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nowa-audiofonologia-polish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nouvelles-perspectives-en-sciences-sociales-french--canada",
+    "title": "Nouvelles perspectives en sciences sociales (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/nouvelles-perspectives-en-sciences-sociales-french--canada"
   },
   "next": {
-    "title": "nuclear-receptor-signaling",
+    "title": "Nuclear Receptor Signaling",
     "permalink": "/support/docs/academic-writing/citation-style/nuclear-receptor-signaling"
   }
 }

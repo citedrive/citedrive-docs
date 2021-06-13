@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review",
   "id": "academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review",
   "isDocsHomePage": false,
-  "title": "world-organisation-for-animal-health--scientific-and-technical-review",
-  "description": "---",
+  "title": "World Organisation for Animal Health - Scientific and Technical Review",
+  "description": "When you 're tasked by using \"World Organisation for Animal Health - Scientific and Technical Review\" (OIE - Sci. Tech. Rev.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review",
   "permalink": "/support/docs/academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/world-organisation-for-animal-health--scientific-and-technical-review.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "world-mycotoxin-journal",
+    "title": "World Mycotoxin Journal",
     "permalink": "/support/docs/academic-writing/citation-style/world-mycotoxin-journal"
   },
   "next": {
-    "title": "world-politics",
+    "title": "World Politics",
     "permalink": "/support/docs/academic-writing/citation-style/world-politics"
   }
 }

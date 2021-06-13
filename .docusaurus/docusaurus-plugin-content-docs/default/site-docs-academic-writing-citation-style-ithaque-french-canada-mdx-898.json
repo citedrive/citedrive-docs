@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ithaque-french--canada",
   "id": "academic-writing/citation-style/ithaque-french--canada",
   "isDocsHomePage": false,
-  "title": "ithaque-french--canada",
-  "description": "---",
+  "title": "Ithaque (French - Canada)",
+  "description": "When you 're tasked by using \"Ithaque (French - Canada)\" (OLC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ithaque-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ithaque-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/ithaque-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ithaque-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "italus-hortus",
+    "title": "Italus Hortus",
     "permalink": "/support/docs/academic-writing/citation-style/italus-hortus"
   },
   "next": {
-    "title": "iubmb-life",
+    "title": "IUBMB Life",
     "permalink": "/support/docs/academic-writing/citation-style/iubmb-life"
   }
 }

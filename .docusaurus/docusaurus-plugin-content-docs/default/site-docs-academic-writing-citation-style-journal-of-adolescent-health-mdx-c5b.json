@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-adolescent-health",
   "id": "academic-writing/citation-style/journal-of-adolescent-health",
   "isDocsHomePage": false,
-  "title": "journal-of-adolescent-health",
-  "description": "---",
+  "title": "Journal of Adolescent Health",
+  "description": "When you 're tasked by using \"Journal of Adolescent Health\" (Invert Neurosci) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-adolescent-health.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-adolescent-health",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-adolescent-health",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-adolescent-health.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-acoustics",
+    "title": "Journal of Acoustics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-acoustics"
   },
   "next": {
-    "title": "journal-of-advertising-research",
+    "title": "Journal of Advertising Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-advertising-research"
   }
 }

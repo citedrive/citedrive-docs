@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/new-solutions",
   "id": "academic-writing/citation-style/new-solutions",
   "isDocsHomePage": false,
-  "title": "new-solutions",
-  "description": "---",
+  "title": "New Solutions",
+  "description": "When you 're tasked by using \"New Solutions\" (FST) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/new-solutions.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/new-solutions",
   "permalink": "/support/docs/academic-writing/citation-style/new-solutions",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/new-solutions.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "new-phytologist",
+    "title": "New Phytologist",
     "permalink": "/support/docs/academic-writing/citation-style/new-phytologist"
   },
   "next": {
-    "title": "new-testament-studies",
+    "title": "New Testament Studies",
     "permalink": "/support/docs/academic-writing/citation-style/new-testament-studies"
   }
 }

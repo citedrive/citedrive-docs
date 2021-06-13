@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/thyroid",
   "id": "academic-writing/citation-style/thyroid",
   "isDocsHomePage": false,
-  "title": "thyroid",
-  "description": "---",
+  "title": "Thyroid",
+  "description": "When you 're tasked by using \"Thyroid\" (JPIM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/thyroid.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/thyroid",
   "permalink": "/support/docs/academic-writing/citation-style/thyroid",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/thyroid.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "thrombosis-and-haemostasis",
+    "title": "Thrombosis and Haemostasis",
     "permalink": "/support/docs/academic-writing/citation-style/thrombosis-and-haemostasis"
   },
   "next": {
-    "title": "tijdschrift-voor-economische-en-sociale-geografie",
+    "title": "Tijdschrift voor economische en sociale geografie",
     "permalink": "/support/docs/academic-writing/citation-style/tijdschrift-voor-economische-en-sociale-geografie"
   }
 }

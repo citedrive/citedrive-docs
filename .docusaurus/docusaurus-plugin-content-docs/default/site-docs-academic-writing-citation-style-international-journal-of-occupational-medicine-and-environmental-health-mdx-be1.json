@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
   "id": "academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
   "isDocsHomePage": false,
-  "title": "international-journal-of-occupational-medicine-and-environmental-health",
-  "description": "---",
+  "title": "International Journal of Occupational Medicine and Environmental Health",
+  "description": "When you 're tasked by using \"International Journal of Occupational Medicine and Environmental Health\" (JOUP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
   "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/international-journal-of-occupational-medicine-and-environmental-health.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "international-journal-of-obstetric-anesthesia",
+    "title": "International Journal of Obstetric Anesthesia",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-obstetric-anesthesia"
   },
   "next": {
-    "title": "international-journal-of-oral-and-maxillofacial-surgery",
+    "title": "International Journal of Oral and Maxillofacial Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/international-journal-of-oral-and-maxillofacial-surgery"
   }
 }

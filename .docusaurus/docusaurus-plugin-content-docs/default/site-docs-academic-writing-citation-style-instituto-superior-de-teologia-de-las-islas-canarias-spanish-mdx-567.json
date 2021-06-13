@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
   "id": "academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
   "isDocsHomePage": false,
-  "title": "instituto-superior-de-teologia-de-las-islas-canarias-spanish",
-  "description": "---",
+  "title": "Instituto Superior de Teología de las Islas Canarias (Spanish)",
+  "description": "When you 're tasked by using \"Instituto Superior de Teología de las Islas Canarias (Spanish)\" (Istic) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/instituto-superior-de-teologia-de-las-islas-canarias-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "instituto-de-pesquisas-tecnologicas-portuguese--brazil",
+    "title": "Instituto de Pesquisas Tecnológicas (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/instituto-de-pesquisas-tecnologicas-portuguese--brazil"
   },
   "next": {
-    "title": "integrated-science-publishing-journals",
+    "title": "Integrated Science Publishing journals",
     "permalink": "/support/docs/academic-writing/citation-style/integrated-science-publishing-journals"
   }
 }

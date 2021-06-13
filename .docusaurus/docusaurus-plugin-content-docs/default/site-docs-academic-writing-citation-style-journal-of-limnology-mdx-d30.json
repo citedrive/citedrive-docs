@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-limnology",
   "id": "academic-writing/citation-style/journal-of-limnology",
   "isDocsHomePage": false,
-  "title": "journal-of-limnology",
-  "description": "---",
+  "title": "Journal of Limnology",
+  "description": "When you 're tasked by using \"Journal of Limnology\" (Istic) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-limnology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-limnology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-limnology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-limnology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-leukocyte-biology",
+    "title": "Journal of Leukocyte Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-leukocyte-biology"
   },
   "next": {
-    "title": "journal-of-linguistics",
+    "title": "Journal of Linguistics",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-linguistics"
   }
 }

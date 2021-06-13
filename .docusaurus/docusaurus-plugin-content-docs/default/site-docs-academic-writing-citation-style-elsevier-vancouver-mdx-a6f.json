@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/elsevier--vancouver",
   "id": "academic-writing/citation-style/elsevier--vancouver",
   "isDocsHomePage": false,
-  "title": "elsevier--vancouver",
-  "description": "---",
+  "title": "Elsevier - Vancouver",
+  "description": "When you 're tasked by using \"Elsevier - Vancouver\" (Tapuscrit-EHESS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/elsevier--vancouver.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/elsevier--vancouver",
   "permalink": "/support/docs/academic-writing/citation-style/elsevier--vancouver",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/elsevier--vancouver.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "elsevier--vancouver-authordate",
+    "title": "Elsevier - Vancouver (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/elsevier--vancouver-authordate"
   },
   "next": {
-    "title": "elsevier-numeric-with-titles-sorted-alphabetically",
+    "title": "Elsevier (numeric, with titles, sorted alphabetically)",
     "permalink": "/support/docs/academic-writing/citation-style/elsevier-numeric-with-titles-sorted-alphabetically"
   }
 }

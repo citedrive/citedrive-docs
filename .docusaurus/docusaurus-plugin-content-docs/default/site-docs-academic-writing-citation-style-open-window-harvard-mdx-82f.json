@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/open-window--harvard",
   "id": "academic-writing/citation-style/open-window--harvard",
   "isDocsHomePage": false,
-  "title": "open-window--harvard",
-  "description": "---",
+  "title": "Open Window - Harvard",
+  "description": "When you 're tasked by using \"Open Window - Harvard\" (AMRE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/open-window--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/open-window--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/open-window--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/open-window--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "onderstepoort-journal-of-veterinary-research",
+    "title": "Onderstepoort Journal of Veterinary Research",
     "permalink": "/support/docs/academic-writing/citation-style/onderstepoort-journal-of-veterinary-research"
   },
   "next": {
-    "title": "operative-dentistry",
+    "title": "Operative Dentistry",
     "permalink": "/support/docs/academic-writing/citation-style/operative-dentistry"
   }
 }

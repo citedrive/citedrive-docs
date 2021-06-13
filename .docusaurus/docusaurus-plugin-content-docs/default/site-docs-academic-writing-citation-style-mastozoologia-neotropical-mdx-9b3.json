@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mastozoologia-neotropical",
   "id": "academic-writing/citation-style/mastozoologia-neotropical",
   "isDocsHomePage": false,
-  "title": "mastozoologia-neotropical",
-  "description": "---",
+  "title": "Mastozoologia Neotropical",
+  "description": "When you 're tasked by using \"Mastozoologia Neotropical\" (Bus Inf Syst Eng) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mastozoologia-neotropical.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mastozoologia-neotropical",
   "permalink": "/support/docs/academic-writing/citation-style/mastozoologia-neotropical",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mastozoologia-neotropical.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish",
+    "title": "Marmara Üniversitesi - Türkiyat Araştırmaları Enstitüsü (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/marmara-universitesi--turkiyat-arastrmalar-enstitusu-turkish"
   },
   "next": {
-    "title": "materials-express",
+    "title": "Materials Express",
     "permalink": "/support/docs/academic-writing/citation-style/materials-express"
   }
 }

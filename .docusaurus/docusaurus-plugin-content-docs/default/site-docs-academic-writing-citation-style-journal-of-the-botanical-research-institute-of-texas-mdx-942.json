@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
   "id": "academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
   "isDocsHomePage": false,
-  "title": "journal-of-the-botanical-research-institute-of-texas",
-  "description": "---",
+  "title": "Journal of the Botanical Research Institute of Texas",
+  "description": "When you 're tasked by using \"Journal of the Botanical Research Institute of Texas\" (JBRIT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-the-botanical-research-institute-of-texas.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-the-association-of-environmental-and-resource-economists",
+    "title": "Journal of the Association of Environmental and Resource Economists",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-association-of-environmental-and-resource-economists"
   },
   "next": {
-    "title": "journal-of-the-brazilian-chemical-society",
+    "title": "Journal of the Brazilian Chemical Society",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-brazilian-chemical-society"
   }
 }

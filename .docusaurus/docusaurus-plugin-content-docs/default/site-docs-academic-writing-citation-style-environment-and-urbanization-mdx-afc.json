@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/environment-and-urbanization",
   "id": "academic-writing/citation-style/environment-and-urbanization",
   "isDocsHomePage": false,
-  "title": "environment-and-urbanization",
-  "description": "---",
+  "title": "Environment and Urbanization",
+  "description": "When you 're tasked by using \"Environment and Urbanization\" (Fungal Diversity) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/environment-and-urbanization.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/environment-and-urbanization",
   "permalink": "/support/docs/academic-writing/citation-style/environment-and-urbanization",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/environment-and-urbanization.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "environment-and-planning",
+    "title": "Environment and Planning",
     "permalink": "/support/docs/academic-writing/citation-style/environment-and-planning"
   },
   "next": {
-    "title": "environmental-and-engineering-geoscience",
+    "title": "Environmental & Engineering Geoscience",
     "permalink": "/support/docs/academic-writing/citation-style/environmental-and-engineering-geoscience"
   }
 }

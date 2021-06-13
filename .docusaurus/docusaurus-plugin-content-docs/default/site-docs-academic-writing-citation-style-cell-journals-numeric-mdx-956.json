@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/cell-journals-numeric",
   "id": "academic-writing/citation-style/cell-journals-numeric",
   "isDocsHomePage": false,
-  "title": "cell-journals-numeric",
-  "description": "---",
+  "title": "Cell journals (numeric)",
+  "description": "When you 're tasked by using \"Cell journals (numeric)\" (Polar Biol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/cell-journals-numeric.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/cell-journals-numeric",
   "permalink": "/support/docs/academic-writing/citation-style/cell-journals-numeric",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/cell-journals-numeric.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cell-journals-numeric-superscript",
+    "title": "Cell journals (numeric, superscript)",
     "permalink": "/support/docs/academic-writing/citation-style/cell-journals-numeric-superscript"
   },
   "next": {
-    "title": "cell-research",
+    "title": "Cell Research",
     "permalink": "/support/docs/academic-writing/citation-style/cell-research"
   }
 }

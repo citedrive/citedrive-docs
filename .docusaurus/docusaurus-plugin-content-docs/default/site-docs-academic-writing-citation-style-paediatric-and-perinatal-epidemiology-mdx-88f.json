@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/paediatric-and-perinatal-epidemiology",
   "id": "academic-writing/citation-style/paediatric-and-perinatal-epidemiology",
   "isDocsHomePage": false,
-  "title": "paediatric-and-perinatal-epidemiology",
-  "description": "---",
+  "title": "Paediatric and Perinatal Epidemiology",
+  "description": "When you 're tasked by using \"Paediatric and Perinatal Epidemiology\" (PPE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/paediatric-and-perinatal-epidemiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/paediatric-and-perinatal-epidemiology",
   "permalink": "/support/docs/academic-writing/citation-style/paediatric-and-perinatal-epidemiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/paediatric-and-perinatal-epidemiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "padagogische-hochschule-vorarlberg-german",
+    "title": "Pädagogische Hochschule Vorarlberg (German)",
     "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german"
   },
   "next": {
-    "title": "pain",
+    "title": "PAIN",
     "permalink": "/support/docs/academic-writing/citation-style/pain"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
   "id": "academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
   "isDocsHomePage": false,
-  "title": "jurnal-pangan-dan-agroindustri-indonesian",
-  "description": "---",
+  "title": "Jurnal Pangan dan Agroindustri (Indonesian)",
+  "description": "When you 're tasked by using \"Jurnal Pangan dan Agroindustri (Indonesian)\" (JPA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
   "permalink": "/support/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/jurnal-pangan-dan-agroindustri-indonesian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "jurnal-ilmu-dan-teknologi-hasil-ternak",
+    "title": "Jurnal Ilmu dan Teknologi Hasil Ternak",
     "permalink": "/support/docs/academic-writing/citation-style/jurnal-ilmu-dan-teknologi-hasil-ternak"
   },
   "next": {
-    "title": "jurnal-sains-farmasi-and-klinis",
+    "title": "Jurnal Sains Farmasi & Klinis",
     "permalink": "/support/docs/academic-writing/citation-style/jurnal-sains-farmasi-and-klinis"
   }
 }

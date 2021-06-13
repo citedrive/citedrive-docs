@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/civilta-italiana-italian",
   "id": "academic-writing/citation-style/civilta-italiana-italian",
   "isDocsHomePage": false,
-  "title": "civilta-italiana-italian",
-  "description": "---",
+  "title": "Civiltà Italiana (Italian)",
+  "description": "When you 're tasked by using \"Civiltà Italiana (Italian)\" (Bus Inf Syst Eng) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/civilta-italiana-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/civilta-italiana-italian",
   "permalink": "/support/docs/academic-writing/citation-style/civilta-italiana-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/civilta-italiana-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "citizen-science-theory-and-practice",
+    "title": "Citizen Science: Theory and Practice",
     "permalink": "/support/docs/academic-writing/citation-style/citizen-science-theory-and-practice"
   },
   "next": {
-    "title": "cladistics",
+    "title": "Cladistics",
     "permalink": "/support/docs/academic-writing/citation-style/cladistics"
   }
 }

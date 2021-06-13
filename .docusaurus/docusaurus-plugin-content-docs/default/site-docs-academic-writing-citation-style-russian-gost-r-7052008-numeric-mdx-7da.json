@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/russian-gost-r-7052008-numeric",
   "id": "academic-writing/citation-style/russian-gost-r-7052008-numeric",
   "isDocsHomePage": false,
-  "title": "russian-gost-r-7052008-numeric",
-  "description": "---",
+  "title": "Russian GOST R 7.0.5-2008 (numeric)",
+  "description": "When you 're tasked by using \"Russian GOST R 7.0.5-2008 (numeric)\" (J Muscle Res Cell Motil) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/russian-gost-r-7052008-numeric",
   "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "russian-gost-r-7052008-numeric-sorted-alphabetically-russian",
+    "title": "Russian GOST R 7.0.5-2008 (numeric, sorted alphabetically, Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-numeric-sorted-alphabetically-russian"
   },
   "next": {
-    "title": "russian-gost-r-7052008-russian",
+    "title": "Russian GOST R 7.0.5-2008 (Russian)",
     "permalink": "/support/docs/academic-writing/citation-style/russian-gost-r-7052008-russian"
   }
 }

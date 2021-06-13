@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/nauplius",
   "id": "academic-writing/citation-style/nauplius",
   "isDocsHomePage": false,
-  "title": "nauplius",
-  "description": "---",
+  "title": "Nauplius",
+  "description": "When you 're tasked by using \"Nauplius\" (PSM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/nauplius.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/nauplius",
   "permalink": "/support/docs/academic-writing/citation-style/nauplius",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/nauplius.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "natures-sciences-societes",
+    "title": "Natures Sciences Sociétés",
     "permalink": "/support/docs/academic-writing/citation-style/natures-sciences-societes"
   },
   "next": {
-    "title": "navigation",
+    "title": "Navigation",
     "permalink": "/support/docs/academic-writing/citation-style/navigation"
   }
 }

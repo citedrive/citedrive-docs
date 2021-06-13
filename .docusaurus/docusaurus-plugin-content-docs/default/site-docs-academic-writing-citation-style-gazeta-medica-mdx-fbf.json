@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gazeta-medica",
   "id": "academic-writing/citation-style/gazeta-medica",
   "isDocsHomePage": false,
-  "title": "gazeta-medica",
-  "description": "---",
+  "title": "Gazeta Médica",
+  "description": "When you 're tasked by using \"Gazeta Médica\" (Reprod. Domest. Anim.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gazeta-medica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gazeta-medica",
   "permalink": "/support/docs/academic-writing/citation-style/gazeta-medica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gazeta-medica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gastrointestinal-intervention",
+    "title": "Gastrointestinal Intervention",
     "permalink": "/support/docs/academic-writing/citation-style/gastrointestinal-intervention"
   },
   "next": {
-    "title": "geistes-und-kulturwissenschaften-heilmann-german",
+    "title": "Geistes- und Kulturwissenschaften (Heilmann) (German)",
     "permalink": "/support/docs/academic-writing/citation-style/geistes-und-kulturwissenschaften-heilmann-german"
   }
 }

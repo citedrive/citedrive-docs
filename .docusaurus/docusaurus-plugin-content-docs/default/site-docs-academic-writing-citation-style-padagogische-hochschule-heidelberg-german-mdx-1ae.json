@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
   "id": "academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
   "isDocsHomePage": false,
-  "title": "padagogische-hochschule-heidelberg-german",
-  "description": "---",
+  "title": "Pädagogische Hochschule Heidelberg (German)",
+  "description": "When you 're tasked by using \"Pädagogische Hochschule Heidelberg (German)\" (PH Heidelberg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
   "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/padagogische-hochschule-heidelberg-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland",
+    "title": "Pädagogische Hochschule Fachhochschule Nordwestschweiz (German - Switzerland)",
     "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-fachhochschule-nordwestschweiz-german--switzerland"
   },
   "next": {
-    "title": "padagogische-hochschule-vorarlberg-german",
+    "title": "Pädagogische Hochschule Vorarlberg (German)",
     "permalink": "/support/docs/academic-writing/citation-style/padagogische-hochschule-vorarlberg-german"
   }
 }

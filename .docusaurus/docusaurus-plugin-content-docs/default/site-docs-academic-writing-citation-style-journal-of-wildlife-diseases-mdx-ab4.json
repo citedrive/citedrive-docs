@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-wildlife-diseases",
   "id": "academic-writing/citation-style/journal-of-wildlife-diseases",
   "isDocsHomePage": false,
-  "title": "journal-of-wildlife-diseases",
-  "description": "---",
+  "title": "Journal of Wildlife Diseases",
+  "description": "When you 're tasked by using \"Journal of Wildlife Diseases\" (MDPI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-wildlife-diseases.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-wildlife-diseases",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-wildlife-diseases",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-wildlife-diseases.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-water-sanitation-and-hygiene-for-development",
+    "title": "Journal of Water Sanitation and Hygiene for Development",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-water-sanitation-and-hygiene-for-development"
   },
   "next": {
-    "title": "journal-of-zoo-and-wildlife-medicine",
+    "title": "Journal of Zoo and Wildlife Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-zoo-and-wildlife-medicine"
   }
 }

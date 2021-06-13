@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/surgical-clinics-of-north-america",
   "id": "academic-writing/citation-style/surgical-clinics-of-north-america",
   "isDocsHomePage": false,
-  "title": "surgical-clinics-of-north-america",
-  "description": "---",
+  "title": "Surgical Clinics of North America",
+  "description": "When you 're tasked by using \"Surgical Clinics of North America\" (SUC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/surgical-clinics-of-north-america.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/surgical-clinics-of-north-america",
   "permalink": "/support/docs/academic-writing/citation-style/surgical-clinics-of-north-america",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/surgical-clinics-of-north-america.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "sunway-college-johor-bahru--harvard",
+    "title": "Sunway College Johor Bahru - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/sunway-college-johor-bahru--harvard"
   },
   "next": {
-    "title": "surgical-neurology-international",
+    "title": "Surgical Neurology International",
     "permalink": "/support/docs/academic-writing/citation-style/surgical-neurology-international"
   }
 }

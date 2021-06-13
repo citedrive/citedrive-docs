@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/style-manual--australian-government-note",
   "id": "academic-writing/citation-style/style-manual--australian-government-note",
   "isDocsHomePage": false,
-  "title": "style-manual--australian-government-note",
-  "description": "---",
+  "title": "Style Manual - Australian Government (note)",
+  "description": "When you 're tasked by using \"Style Manual - Australian Government (note)\" (Public Organiz Rev) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/style-manual--australian-government-note.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/style-manual--australian-government-note",
   "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-note",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/style-manual--australian-government-note.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "style-manual--australian-government-authordate",
+    "title": "Style Manual - Australian Government (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/style-manual--australian-government-authordate"
   },
   "next": {
-    "title": "suburban--zeitschrift-fur-kritische-stadtforschung-german",
+    "title": "sub\\urban - Zeitschrift für kritische Stadtforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/suburban--zeitschrift-fur-kritische-stadtforschung-german"
   }
 }

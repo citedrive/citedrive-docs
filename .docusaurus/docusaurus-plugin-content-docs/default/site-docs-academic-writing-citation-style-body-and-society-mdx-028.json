@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/body-and-society",
   "id": "academic-writing/citation-style/body-and-society",
   "isDocsHomePage": false,
-  "title": "body-and-society",
-  "description": "---",
+  "title": "Body & Society",
+  "description": "When you 're tasked by using \"Body & Society\" (TISSEC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/body-and-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/body-and-society",
   "permalink": "/support/docs/academic-writing/citation-style/body-and-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/body-and-society.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bmj",
+    "title": "BMJ",
     "permalink": "/support/docs/academic-writing/citation-style/bmj"
   },
   "next": {
-    "title": "boletin-de-pediatria-spanish",
+    "title": "Boletín de Pediatría (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/boletin-de-pediatria-spanish"
   }
 }

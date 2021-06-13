@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/zwitschermaschine",
   "id": "academic-writing/citation-style/zwitschermaschine",
   "isDocsHomePage": false,
-  "title": "zwitschermaschine",
-  "description": "---",
+  "title": "Zwitscher-Maschine",
+  "description": "When you 're tasked by using \"Zwitscher-Maschine\" (EBEM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/zwitschermaschine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/zwitschermaschine",
   "permalink": "/support/docs/academic-writing/citation-style/zwitschermaschine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/zwitschermaschine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "zootaxa",
+    "title": "Zootaxa",
     "permalink": "/support/docs/academic-writing/citation-style/zootaxa"
   },
   "next": {
-    "title": "Working with BibTeX",
-    "permalink": "/support/docs/bibtex"
+    "title": "archeologies-et-sciences-de-lantiquite-french",
+    "permalink": "/support/docs/academic-writing/citation-style/archeologies-et-sciences-de-lantiquite-french"
   }
 }

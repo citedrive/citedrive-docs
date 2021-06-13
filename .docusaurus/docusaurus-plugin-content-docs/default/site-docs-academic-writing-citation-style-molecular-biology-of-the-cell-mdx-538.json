@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/molecular-biology-of-the-cell",
   "id": "academic-writing/citation-style/molecular-biology-of-the-cell",
   "isDocsHomePage": false,
-  "title": "molecular-biology-of-the-cell",
-  "description": "---",
+  "title": "Molecular Biology of the Cell",
+  "description": "When you 're tasked by using \"Molecular Biology of the Cell\" (MBoC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/molecular-biology-of-the-cell.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/molecular-biology-of-the-cell",
   "permalink": "/support/docs/academic-writing/citation-style/molecular-biology-of-the-cell",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/molecular-biology-of-the-cell.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "molecular-biology-and-evolution",
+    "title": "Molecular Biology and Evolution",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-biology-and-evolution"
   },
   "next": {
-    "title": "molecular-biology",
+    "title": "Molecular Biology",
     "permalink": "/support/docs/academic-writing/citation-style/molecular-biology"
   }
 }

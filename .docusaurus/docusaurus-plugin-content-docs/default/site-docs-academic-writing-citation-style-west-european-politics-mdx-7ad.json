@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/west-european-politics",
   "id": "academic-writing/citation-style/west-european-politics",
   "isDocsHomePage": false,
-  "title": "west-european-politics",
-  "description": "---",
+  "title": "West European Politics",
+  "description": "When you 're tasked by using \"West European Politics\" (Int J Adv Eng Sci Appl Math) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/west-european-politics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/west-european-politics",
   "permalink": "/support/docs/academic-writing/citation-style/west-european-politics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/west-european-politics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "weed-science-society-of-america",
+    "title": "Weed Science Society of America",
     "permalink": "/support/docs/academic-writing/citation-style/weed-science-society-of-america"
   },
   "next": {
-    "title": "western-journal-of-emergency-medicine",
+    "title": "Western Journal of Emergency Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/western-journal-of-emergency-medicine"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/genetics",
   "id": "academic-writing/citation-style/genetics",
   "isDocsHomePage": false,
-  "title": "genetics",
-  "description": "---",
+  "title": "Genetics",
+  "description": "When you 're tasked by using \"Genetics\" (Med Chem Res) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/genetics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/genetics",
   "permalink": "/support/docs/academic-writing/citation-style/genetics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/genetics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "genetics-and-molecular-biology",
+    "title": "Genetics and Molecular Biology",
     "permalink": "/support/docs/academic-writing/citation-style/genetics-and-molecular-biology"
   },
   "next": {
-    "title": "genome-biology-and-evolution",
+    "title": "Genome Biology and Evolution",
     "permalink": "/support/docs/academic-writing/citation-style/genome-biology-and-evolution"
   }
 }

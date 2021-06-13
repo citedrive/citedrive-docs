@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/vietnam-ministry-of-education-and-training-english",
   "id": "academic-writing/citation-style/vietnam-ministry-of-education-and-training-english",
   "isDocsHomePage": false,
-  "title": "vietnam-ministry-of-education-and-training-english",
-  "description": "---",
+  "title": "Vietnam Ministry of Education and Training (English)",
+  "description": "When you 're tasked by using \"Vietnam Ministry of Education and Training (English)\" (BGDDT_TA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english",
   "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-english.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vienna-legal",
+    "title": "Vienna Legal",
     "permalink": "/support/docs/academic-writing/citation-style/vienna-legal"
   },
   "next": {
-    "title": "vietnam-ministry-of-education-and-training-vietnamese",
+    "title": "Vietnam Ministry of Education and Training (Vietnamese)",
     "permalink": "/support/docs/academic-writing/citation-style/vietnam-ministry-of-education-and-training-vietnamese"
   }
 }

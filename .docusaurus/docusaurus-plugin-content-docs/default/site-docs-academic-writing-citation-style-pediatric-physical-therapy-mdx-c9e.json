@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/pediatric-physical-therapy",
   "id": "academic-writing/citation-style/pediatric-physical-therapy",
   "isDocsHomePage": false,
-  "title": "pediatric-physical-therapy",
-  "description": "---",
+  "title": "Pediatric Physical Therapy",
+  "description": "When you 're tasked by using \"Pediatric Physical Therapy\" (ULiège - Droit - par catégorie) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/pediatric-physical-therapy.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/pediatric-physical-therapy",
   "permalink": "/support/docs/academic-writing/citation-style/pediatric-physical-therapy",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/pediatric-physical-therapy.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "pediatric-infectious-disease-journal",
+    "title": "Pediatric Infectious Disease Journal",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-infectious-disease-journal"
   },
   "next": {
-    "title": "pediatric-practice-and-research",
+    "title": "Pediatric Practice and Research",
     "permalink": "/support/docs/academic-writing/citation-style/pediatric-practice-and-research"
   }
 }

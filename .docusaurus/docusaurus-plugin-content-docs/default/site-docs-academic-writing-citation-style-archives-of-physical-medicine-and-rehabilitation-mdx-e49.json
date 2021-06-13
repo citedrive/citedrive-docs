@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
   "id": "academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
   "isDocsHomePage": false,
-  "title": "archives-of-physical-medicine-and-rehabilitation",
-  "description": "---",
+  "title": "Archives of Physical Medicine and Rehabilitation",
+  "description": "When you 're tasked by using \"Archives of Physical Medicine and Rehabilitation\" (J Plant Growth Regul) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
   "permalink": "/support/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/archives-of-physical-medicine-and-rehabilitation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "archiv-fur-geschichte-der-philosophie",
+    "title": "Archiv für Geschichte der Philosophie",
     "permalink": "/support/docs/academic-writing/citation-style/archiv-fur-geschichte-der-philosophie"
   },
   "next": {
-    "title": "archivos-de-bronconeumologia",
+    "title": "Archivos de Bronconeumología",
     "permalink": "/support/docs/academic-writing/citation-style/archivos-de-bronconeumologia"
   }
 }

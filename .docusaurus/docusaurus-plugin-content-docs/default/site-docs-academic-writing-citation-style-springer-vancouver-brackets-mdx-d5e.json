@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--vancouver-brackets",
   "id": "academic-writing/citation-style/springer--vancouver-brackets",
   "isDocsHomePage": false,
-  "title": "springer--vancouver-brackets",
-  "description": "---",
+  "title": "Springer - Vancouver (brackets)",
+  "description": "When you 're tasked by using \"Springer - Vancouver (brackets)\" (IJPR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--vancouver-brackets.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--vancouver-brackets",
   "permalink": "/support/docs/academic-writing/citation-style/springer--vancouver-brackets",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--vancouver-brackets.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--vancouver-authordate",
+    "title": "Springer - Vancouver (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--vancouver-authordate"
   },
   "next": {
-    "title": "springer--vancouver",
+    "title": "Springer - Vancouver",
     "permalink": "/support/docs/academic-writing/citation-style/springer--vancouver"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/university-of-york--harvard",
   "id": "academic-writing/citation-style/university-of-york--harvard",
   "isDocsHomePage": false,
-  "title": "university-of-york--harvard",
-  "description": "---",
+  "title": "University of York - Harvard",
+  "description": "When you 're tasked by using \"University of York - Harvard\" (UoY Harvard) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/university-of-york--harvard.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/university-of-york--harvard",
   "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/university-of-york--harvard.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "university-of-york--harvard--environment",
+    "title": "University of York - Harvard - Environment",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--harvard--environment"
   },
   "next": {
-    "title": "university-of-york--ieee",
+    "title": "University of York - IEEE",
     "permalink": "/support/docs/academic-writing/citation-style/university-of-york--ieee"
   }
 }

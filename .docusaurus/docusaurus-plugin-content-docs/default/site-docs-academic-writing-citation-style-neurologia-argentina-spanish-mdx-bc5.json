@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/neurologia-argentina-spanish",
   "id": "academic-writing/citation-style/neurologia-argentina-spanish",
   "isDocsHomePage": false,
-  "title": "neurologia-argentina-spanish",
-  "description": "---",
+  "title": "Neurología Argentina (Spanish)",
+  "description": "When you 're tasked by using \"Neurología Argentina (Spanish)\" (NEUARG) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/neurologia-argentina-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/neurologia-argentina-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/neurologia-argentina-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/neurologia-argentina-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "neuroimaging-clinics-of-north-america",
+    "title": "Neuroimaging Clinics of North America",
     "permalink": "/support/docs/academic-writing/citation-style/neuroimaging-clinics-of-north-america"
   },
   "next": {
-    "title": "neurologia-spanish",
+    "title": "Neurología (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/neurologia-spanish"
   }
 }

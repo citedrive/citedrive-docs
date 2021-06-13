@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/mammalogy-notes",
   "id": "academic-writing/citation-style/mammalogy-notes",
   "isDocsHomePage": false,
-  "title": "mammalogy-notes",
-  "description": "---",
+  "title": "Mammalogy Notes",
+  "description": "When you 're tasked by using \"Mammalogy Notes\" (MaNo) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/mammalogy-notes.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/mammalogy-notes",
   "permalink": "/support/docs/academic-writing/citation-style/mammalogy-notes",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/mammalogy-notes.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "mammalia",
+    "title": "Mammalia",
     "permalink": "/support/docs/academic-writing/citation-style/mammalia"
   },
   "next": {
-    "title": "management-and-avenir-french",
+    "title": "Management & Avenir (French)",
     "permalink": "/support/docs/academic-writing/citation-style/management-and-avenir-french"
   }
 }

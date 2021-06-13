@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/historical-materialism",
   "id": "academic-writing/citation-style/historical-materialism",
   "isDocsHomePage": false,
-  "title": "historical-materialism",
-  "description": "---",
+  "title": "Historical Materialism",
+  "description": "When you 're tasked by using \"Historical Materialism\" (OAU Tech) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/historical-materialism.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/historical-materialism",
   "permalink": "/support/docs/academic-writing/citation-style/historical-materialism",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/historical-materialism.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "historiascribere-german",
+    "title": "historia.scribere (German)",
     "permalink": "/support/docs/academic-writing/citation-style/historiascribere-german"
   },
   "next": {
-    "title": "historical-social-research",
+    "title": "Historical Social Research",
     "permalink": "/support/docs/academic-writing/citation-style/historical-social-research"
   }
 }

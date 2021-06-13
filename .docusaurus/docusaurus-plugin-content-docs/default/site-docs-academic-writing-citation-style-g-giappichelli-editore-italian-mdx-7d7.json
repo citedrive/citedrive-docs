@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/g-giappichelli-editore-italian",
   "id": "academic-writing/citation-style/g-giappichelli-editore-italian",
   "isDocsHomePage": false,
-  "title": "g-giappichelli-editore-italian",
-  "description": "---",
+  "title": "G. Giappichelli Editore (Italian)",
+  "description": "When you 're tasked by using \"G. Giappichelli Editore (Italian)\" (WR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/g-giappichelli-editore-italian.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/g-giappichelli-editore-italian",
   "permalink": "/support/docs/academic-writing/citation-style/g-giappichelli-editore-italian",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/g-giappichelli-editore-italian.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "future-science-group",
+    "title": "Future Science Group",
     "permalink": "/support/docs/academic-writing/citation-style/future-science-group"
   },
   "next": {
-    "title": "g3-genes-genomes-genetics",
+    "title": "G3: Genes, Genomes, Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/g3-genes-genomes-genetics"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/sage--vancouver-brackets",
   "id": "academic-writing/citation-style/sage--vancouver-brackets",
   "isDocsHomePage": false,
-  "title": "sage--vancouver-brackets",
-  "description": "---",
+  "title": "SAGE - Vancouver (brackets)",
+  "description": "When you 're tasked by using \"SAGE - Vancouver (brackets)\" (Software Qual J) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/sage--vancouver-brackets.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/sage--vancouver-brackets",
   "permalink": "/support/docs/academic-writing/citation-style/sage--vancouver-brackets",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sage--vancouver-brackets.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "sage--harvard",
+    "title": "SAGE - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/sage--harvard"
   },
   "next": {
-    "title": "sage--vancouver",
+    "title": "SAGE - Vancouver",
     "permalink": "/support/docs/academic-writing/citation-style/sage--vancouver"
   }
 }

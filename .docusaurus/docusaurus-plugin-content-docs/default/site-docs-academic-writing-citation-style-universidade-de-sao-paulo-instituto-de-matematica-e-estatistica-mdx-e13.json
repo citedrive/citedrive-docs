@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
   "id": "academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
   "isDocsHomePage": false,
-  "title": "universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
-  "description": "---",
+  "title": "Universidade de São Paulo - Instituto de Matemática e Estatística",
+  "description": "When you 're tasked by using \"Universidade de São Paulo - Instituto de Matemática e Estatística\" (USP-IME) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
   "permalink": "/support/docs/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universidade-de-sao-paulo--instituto-de-matematica-e-estatistica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil",
+    "title": "Universidade de São Paulo - Faculdade de Medicina Veterinária e Zootecnia - ABNT (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/universidade-de-sao-paulo--faculdade-de-medicina-veterinaria-e-zootecnia--abnt-portuguese--brazil"
   },
   "next": {
-    "title": "universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style",
+    "title": "Universidade do Porto - Faculdade de Engenharia - Chicago Manual of Style",
     "permalink": "/support/docs/academic-writing/citation-style/universidade-do-porto--faculdade-de-engenharia--chicago-manual-of-style"
   }
 }

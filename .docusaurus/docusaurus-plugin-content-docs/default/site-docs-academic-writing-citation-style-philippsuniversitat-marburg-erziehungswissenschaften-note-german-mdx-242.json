@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
   "id": "academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
   "isDocsHomePage": false,
-  "title": "philippsuniversitat-marburg--erziehungswissenschaften-note-german",
-  "description": "---",
+  "title": "Philipps-Universität Marburg - Erziehungswissenschaften (note, German)",
+  "description": "When you 're tasked by using \"Philipps-Universität Marburg - Erziehungswissenschaften (note, German)\" (World J Surg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
   "permalink": "/support/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/philippsuniversitat-marburg--erziehungswissenschaften-note-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "philippika-german",
+    "title": "Philippika (German)",
     "permalink": "/support/docs/academic-writing/citation-style/philippika-german"
   },
   "next": {
-    "title": "philosophia-scienti",
+    "title": "Philosophia Scientiæ",
     "permalink": "/support/docs/academic-writing/citation-style/philosophia-scienti"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-biological-chemistry",
   "id": "academic-writing/citation-style/the-journal-of-biological-chemistry",
   "isDocsHomePage": false,
-  "title": "the-journal-of-biological-chemistry",
-  "description": "---",
+  "title": "The Journal of Biological Chemistry",
+  "description": "When you 're tasked by using \"The Journal of Biological Chemistry\" (JBC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-biological-chemistry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-biological-chemistry",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-biological-chemistry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-biological-chemistry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-agricultural-science",
+    "title": "The Journal of Agricultural Science",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-agricultural-science"
   },
   "next": {
-    "title": "the-journal-of-clinical-ethics",
+    "title": "The Journal of Clinical Ethics",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-clinical-ethics"
   }
 }

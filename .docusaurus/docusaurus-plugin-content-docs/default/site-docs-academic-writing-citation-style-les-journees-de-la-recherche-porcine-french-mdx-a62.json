@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/les-journees-de-la-recherche-porcine-french",
   "id": "academic-writing/citation-style/les-journees-de-la-recherche-porcine-french",
   "isDocsHomePage": false,
-  "title": "les-journees-de-la-recherche-porcine-french",
-  "description": "---",
+  "title": "Les Journées de la Recherche Porcine (French)",
+  "description": "When you 're tasked by using \"Les Journées de la Recherche Porcine (French)\" (CRN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/les-journees-de-la-recherche-porcine-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/les-journees-de-la-recherche-porcine-french",
   "permalink": "/support/docs/academic-writing/citation-style/les-journees-de-la-recherche-porcine-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/les-journees-de-la-recherche-porcine-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "les-journees-de-la-recherche-avicole-french",
+    "title": "Les Journées de la Recherche Avicole (French)",
     "permalink": "/support/docs/academic-writing/citation-style/les-journees-de-la-recherche-avicole-french"
   },
   "next": {
-    "title": "les-nouvelles-de-larcheologie-french",
+    "title": "Les nouvelles de l''archéologie (French)",
     "permalink": "/support/docs/academic-writing/citation-style/les-nouvelles-de-larcheologie-french"
   }
 }

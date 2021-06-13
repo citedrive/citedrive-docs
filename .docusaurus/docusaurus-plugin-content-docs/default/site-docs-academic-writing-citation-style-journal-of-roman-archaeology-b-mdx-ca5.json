@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-roman-archaeology-b",
   "id": "academic-writing/citation-style/journal-of-roman-archaeology-b",
   "isDocsHomePage": false,
-  "title": "journal-of-roman-archaeology-b",
-  "description": "---",
+  "title": "Journal of Roman Archaeology (B)",
+  "description": "When you 're tasked by using \"Journal of Roman Archaeology (B)\" (J Algebr Comb) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-roman-archaeology-b.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-roman-archaeology-b",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-b",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-roman-archaeology-b.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-roman-archaeology-a",
+    "title": "Journal of Roman Archaeology (A)",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-roman-archaeology-a"
   },
   "next": {
-    "title": "journal-of-science-and-medicine-in-sport",
+    "title": "Journal of Science and Medicine in Sport",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-science-and-medicine-in-sport"
   }
 }

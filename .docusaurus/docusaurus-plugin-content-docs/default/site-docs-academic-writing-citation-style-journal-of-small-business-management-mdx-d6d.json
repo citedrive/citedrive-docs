@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-small-business-management",
   "id": "academic-writing/citation-style/journal-of-small-business-management",
   "isDocsHomePage": false,
-  "title": "journal-of-small-business-management",
-  "description": "---",
+  "title": "Journal of Small Business Management",
+  "description": "When you 're tasked by using \"Journal of Small Business Management\" (JSBM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-small-business-management.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-small-business-management",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-small-business-management",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-small-business-management.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-small-animal-practice",
+    "title": "Journal of Small Animal Practice",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-small-animal-practice"
   },
   "next": {
-    "title": "journal-of-social-archaeology",
+    "title": "Journal of Social Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-social-archaeology"
   }
 }

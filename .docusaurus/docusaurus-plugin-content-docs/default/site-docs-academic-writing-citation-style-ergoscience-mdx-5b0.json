@@ -3,21 +3,24 @@
   "id": "academic-writing/citation-style/ergoscience",
   "isDocsHomePage": false,
   "title": "ergoscience",
-  "description": "---",
+  "description": "When you 're tasked by using \"ergoscience\" (JAAPA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ergoscience.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ergoscience",
   "permalink": "/support/docs/academic-writing/citation-style/ergoscience",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ergoscience.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ergo",
+    "title": "Ergo",
     "permalink": "/support/docs/academic-writing/citation-style/ergo"
   },
   "next": {
-    "title": "errata-publicacao-sobre-processos-editoriais-portuguese--brazil",
+    "title": "Errata: Publicação sobre processos editoriais (Portuguese - Brazil)",
     "permalink": "/support/docs/academic-writing/citation-style/errata-publicacao-sobre-processos-editoriais-portuguese--brazil"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-perinatal-medicine",
   "id": "academic-writing/citation-style/journal-of-perinatal-medicine",
   "isDocsHomePage": false,
-  "title": "journal-of-perinatal-medicine",
-  "description": "---",
+  "title": "Journal of Perinatal Medicine",
+  "description": "When you 're tasked by using \"Journal of Perinatal Medicine\" (Hernia) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-perinatal-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-perinatal-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-perinatal-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-perinatal-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-peptide-science",
+    "title": "Journal of Peptide Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-peptide-science"
   },
   "next": {
-    "title": "journal-of-periodontal-research",
+    "title": "Journal of Periodontal Research",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-periodontal-research"
   }
 }

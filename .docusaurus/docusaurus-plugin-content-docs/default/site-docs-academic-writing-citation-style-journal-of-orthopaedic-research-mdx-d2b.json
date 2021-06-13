@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-orthopaedic-research",
   "id": "academic-writing/citation-style/journal-of-orthopaedic-research",
   "isDocsHomePage": false,
-  "title": "journal-of-orthopaedic-research",
-  "description": "---",
+  "title": "Journal of Orthopaedic Research",
+  "description": "When you 're tasked by using \"Journal of Orthopaedic Research\" (FMR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-orthopaedic-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-orthopaedic-research",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-orthopaedic-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-orthopaedic-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-oral-and-maxillofacial-surgery",
+    "title": "Journal of Oral and Maxillofacial Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-oral-and-maxillofacial-surgery"
   },
   "next": {
-    "title": "journal-of-orthopaedic-trauma",
+    "title": "Journal of Orthopaedic Trauma",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-orthopaedic-trauma"
   }
 }

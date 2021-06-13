@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/australian-archaeology",
   "id": "academic-writing/citation-style/australian-archaeology",
   "isDocsHomePage": false,
-  "title": "australian-archaeology",
-  "description": "---",
+  "title": "Australian Archaeology",
+  "description": "When you 're tasked by using \"Australian Archaeology\" (Clin Drug Investig) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/australian-archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/australian-archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/australian-archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/australian-archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "austral-entomology",
+    "title": "Austral Entomology",
     "permalink": "/support/docs/academic-writing/citation-style/austral-entomology"
   },
   "next": {
-    "title": "australian-critical-care",
+    "title": "Australian Critical Care",
     "permalink": "/support/docs/academic-writing/citation-style/australian-critical-care"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/canadian-biosystems-engineering",
   "id": "academic-writing/citation-style/canadian-biosystems-engineering",
   "isDocsHomePage": false,
-  "title": "canadian-biosystems-engineering",
-  "description": "---",
+  "title": "Canadian Biosystems Engineering",
+  "description": "When you 're tasked by using \"Canadian Biosystems Engineering\" (CBE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/canadian-biosystems-engineering.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/canadian-biosystems-engineering",
   "permalink": "/support/docs/academic-writing/citation-style/canadian-biosystems-engineering",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-biosystems-engineering.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "cambridge-university-press-numeric",
+    "title": "Cambridge University Press (numeric)",
     "permalink": "/support/docs/academic-writing/citation-style/cambridge-university-press-numeric"
   },
   "next": {
-    "title": "canadian-geotechnical-journal",
+    "title": "Canadian Geotechnical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-geotechnical-journal"
   }
 }

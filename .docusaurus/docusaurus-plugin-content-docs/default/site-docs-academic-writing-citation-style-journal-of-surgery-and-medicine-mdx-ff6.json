@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-surgery-and-medicine",
   "id": "academic-writing/citation-style/journal-of-surgery-and-medicine",
   "isDocsHomePage": false,
-  "title": "journal-of-surgery-and-medicine",
-  "description": "---",
+  "title": "Journal of Surgery and Medicine",
+  "description": "When you 're tasked by using \"Journal of Surgery and Medicine\" (JOSAM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-surgery-and-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-surgery-and-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-surgery-and-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-surgery-and-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-studies-on-alcohol-and-drugs",
+    "title": "Journal of Studies on Alcohol and Drugs",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-studies-on-alcohol-and-drugs"
   },
   "next": {
-    "title": "journal-of-systematic-palaeontology",
+    "title": "Journal of Systematic Palaeontology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-systematic-palaeontology"
   }
 }

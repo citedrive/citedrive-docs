@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-historical-journal",
   "id": "academic-writing/citation-style/the-historical-journal",
   "isDocsHomePage": false,
-  "title": "the-historical-journal",
-  "description": "---",
+  "title": "The Historical Journal",
+  "description": "When you 're tasked by using \"The Historical Journal\" (FPCEUP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-historical-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-historical-journal",
   "permalink": "/support/docs/academic-writing/citation-style/the-historical-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-historical-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-hastings-center-report",
+    "title": "The Hastings Center Report",
     "permalink": "/support/docs/academic-writing/citation-style/the-hastings-center-report"
   },
   "next": {
-    "title": "the-holocene",
+    "title": "The Holocene",
     "permalink": "/support/docs/academic-writing/citation-style/the-holocene"
   }
 }

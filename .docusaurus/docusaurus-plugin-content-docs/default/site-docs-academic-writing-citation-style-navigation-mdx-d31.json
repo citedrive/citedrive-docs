@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/navigation",
   "id": "academic-writing/citation-style/navigation",
   "isDocsHomePage": false,
-  "title": "navigation",
-  "description": "---",
+  "title": "Navigation",
+  "description": "When you 're tasked by using \"Navigation\" (Bull. Math. Sci.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/navigation.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/navigation",
   "permalink": "/support/docs/academic-writing/citation-style/navigation",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/navigation.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "nauplius",
+    "title": "Nauplius",
     "permalink": "/support/docs/academic-writing/citation-style/nauplius"
   },
   "next": {
-    "title": "nccr-mediality-medienwandel--medienwechsel--medienwissen-german",
+    "title": "NCCR Mediality. Medienwandel - Medienwechsel - Medienwissen (German)",
     "permalink": "/support/docs/academic-writing/citation-style/nccr-mediality-medienwandel--medienwechsel--medienwissen-german"
   }
 }

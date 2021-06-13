@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gaceta-sanitaria",
   "id": "academic-writing/citation-style/gaceta-sanitaria",
   "isDocsHomePage": false,
-  "title": "gaceta-sanitaria",
-  "description": "---",
+  "title": "Gaceta Sanitaria",
+  "description": "When you 're tasked by using \"Gaceta Sanitaria\" (J Math Didakt) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gaceta-sanitaria.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gaceta-sanitaria",
   "permalink": "/support/docs/academic-writing/citation-style/gaceta-sanitaria",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gaceta-sanitaria.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "g3-genes-genomes-genetics",
+    "title": "G3: Genes, Genomes, Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/g3-genes-genomes-genetics"
   },
   "next": {
-    "title": "gaia",
+    "title": "GAIA",
     "permalink": "/support/docs/academic-writing/citation-style/gaia"
   }
 }

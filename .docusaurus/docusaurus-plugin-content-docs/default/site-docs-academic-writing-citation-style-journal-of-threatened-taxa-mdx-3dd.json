@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-threatened-taxa",
   "id": "academic-writing/citation-style/journal-of-threatened-taxa",
   "isDocsHomePage": false,
-  "title": "journal-of-threatened-taxa",
-  "description": "---",
+  "title": "Journal of Threatened Taxa",
+  "description": "When you 're tasked by using \"Journal of Threatened Taxa\" (JoTT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-threatened-taxa.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-threatened-taxa",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-threatened-taxa",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-threatened-taxa.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-thermal-spray-technology",
+    "title": "Journal of Thermal Spray Technology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-thermal-spray-technology"
   },
   "next": {
-    "title": "journal-of-thrombosis-and-haemostasis",
+    "title": "Journal of Thrombosis and Haemostasis",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis"
   }
 }

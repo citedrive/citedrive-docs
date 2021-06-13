@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/global-ecology-and-biogeography",
   "id": "academic-writing/citation-style/global-ecology-and-biogeography",
   "isDocsHomePage": false,
-  "title": "global-ecology-and-biogeography",
-  "description": "---",
+  "title": "Global Ecology and Biogeography",
+  "description": "When you 're tasked by using \"Global Ecology and Biogeography\" (wissen kompakt) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/global-ecology-and-biogeography.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/global-ecology-and-biogeography",
   "permalink": "/support/docs/academic-writing/citation-style/global-ecology-and-biogeography",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/global-ecology-and-biogeography.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gigascience",
+    "title": "GigaScience",
     "permalink": "/support/docs/academic-writing/citation-style/gigascience"
   },
   "next": {
-    "title": "glossa",
+    "title": "Glossa",
     "permalink": "/support/docs/academic-writing/citation-style/glossa"
   }
 }

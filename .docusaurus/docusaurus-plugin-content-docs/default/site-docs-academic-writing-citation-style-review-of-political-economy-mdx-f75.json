@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/review-of-political-economy",
   "id": "academic-writing/citation-style/review-of-political-economy",
   "isDocsHomePage": false,
-  "title": "review-of-political-economy",
-  "description": "---",
+  "title": "Review of Political Economy",
+  "description": "When you 're tasked by using \"Review of Political Economy\" (RPE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/review-of-political-economy.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/review-of-political-economy",
   "permalink": "/support/docs/academic-writing/citation-style/review-of-political-economy",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/review-of-political-economy.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "review-of-international-studies",
+    "title": "Review of International Studies",
     "permalink": "/support/docs/academic-writing/citation-style/review-of-international-studies"
   },
   "next": {
-    "title": "reviews-of-modern-physics-with-titles",
+    "title": "Reviews of Modern Physics (with titles)",
     "permalink": "/support/docs/academic-writing/citation-style/reviews-of-modern-physics-with-titles"
   }
 }

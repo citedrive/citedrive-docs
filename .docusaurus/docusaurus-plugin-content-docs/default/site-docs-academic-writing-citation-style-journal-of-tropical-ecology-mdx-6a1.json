@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-tropical-ecology",
   "id": "academic-writing/citation-style/journal-of-tropical-ecology",
   "isDocsHomePage": false,
-  "title": "journal-of-tropical-ecology",
-  "description": "---",
+  "title": "Journal of Tropical Ecology",
+  "description": "When you 're tasked by using \"Journal of Tropical Ecology\" (Struct Chem) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-tropical-ecology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-tropical-ecology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-ecology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-tropical-ecology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-thrombosis-and-haemostasis",
+    "title": "Journal of Thrombosis and Haemostasis",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-thrombosis-and-haemostasis"
   },
   "next": {
-    "title": "journal-of-tropical-life-science",
+    "title": "Journal of Tropical Life Science",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-tropical-life-science"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
   "id": "academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
   "isDocsHomePage": false,
-  "title": "gewerblicher-rechtsschutz-und-urheberrecht-german",
-  "description": "---",
+  "title": "Gewerblicher Rechtsschutz und Urheberrecht (German)",
+  "description": "When you 're tasked by using \"Gewerblicher Rechtsschutz und Urheberrecht (German)\" (GRUR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
   "permalink": "/support/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/gewerblicher-rechtsschutz-und-urheberrecht-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "gesellschaft-fur-popularmusikforschung-german",
+    "title": "Gesellschaft fur Popularmusikforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/gesellschaft-fur-popularmusikforschung-german"
   },
   "next": {
-    "title": "gigascience",
+    "title": "GigaScience",
     "permalink": "/support/docs/academic-writing/citation-style/gigascience"
   }
 }

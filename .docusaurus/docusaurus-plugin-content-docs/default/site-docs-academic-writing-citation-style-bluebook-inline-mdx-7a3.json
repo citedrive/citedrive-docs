@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/bluebook-inline",
   "id": "academic-writing/citation-style/bluebook-inline",
   "isDocsHomePage": false,
-  "title": "bluebook-inline",
-  "description": "---",
+  "title": "Bluebook Inline",
+  "description": "When you 're tasked by using \"Bluebook Inline\" (AAA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/bluebook-inline.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/bluebook-inline",
   "permalink": "/support/docs/academic-writing/citation-style/bluebook-inline",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/bluebook-inline.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "blood",
+    "title": "Blood",
     "permalink": "/support/docs/academic-writing/citation-style/blood"
   },
   "next": {
-    "title": "bluebook-law-review-2",
+    "title": "Bluebook Law Review (2)",
     "permalink": "/support/docs/academic-writing/citation-style/bluebook-law-review-2"
   }
 }

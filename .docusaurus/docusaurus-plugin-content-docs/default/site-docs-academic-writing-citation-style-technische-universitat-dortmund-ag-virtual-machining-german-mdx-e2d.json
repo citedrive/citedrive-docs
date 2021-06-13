@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german",
   "id": "academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german",
   "isDocsHomePage": false,
-  "title": "technische-universitat-dortmund--ag-virtual-machining-german",
-  "description": "---",
+  "title": "Technische Universität Dortmund - AG Virtual Machining (German)",
+  "description": "When you 're tasked by using \"Technische Universität Dortmund - AG Virtual Machining (German)\" (TU-Dortmund AGVM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german",
   "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/technische-universitat-dortmund--ag-virtual-machining-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "techniquesandculture-french",
+    "title": "Techniques&Culture (French)",
     "permalink": "/support/docs/academic-writing/citation-style/techniquesandculture-french"
   },
   "next": {
-    "title": "technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate",
+    "title": "Technische Universität Dresden - Betriebswirtschaftslehre/Logistik (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/technische-universitat-dresden--betriebswirtschaftslehrelogistik-authordate"
   }
 }

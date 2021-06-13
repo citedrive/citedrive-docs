@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/springer--physics-numeric-brackets",
   "id": "academic-writing/citation-style/springer--physics-numeric-brackets",
   "isDocsHomePage": false,
-  "title": "springer--physics-numeric-brackets",
-  "description": "---",
+  "title": "Springer - Physics (numeric, brackets)",
+  "description": "When you 're tasked by using \"Springer - Physics (numeric, brackets)\" (Appl Health Econ Health Policy) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/springer--physics-numeric-brackets.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/springer--physics-numeric-brackets",
   "permalink": "/support/docs/academic-writing/citation-style/springer--physics-numeric-brackets",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/springer--physics-numeric-brackets.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "springer--physics-authordate",
+    "title": "Springer - Physics (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--physics-authordate"
   },
   "next": {
-    "title": "springer--socpsych-authordate",
+    "title": "Springer - SocPsych (author-date)",
     "permalink": "/support/docs/academic-writing/citation-style/springer--socpsych-authordate"
   }
 }

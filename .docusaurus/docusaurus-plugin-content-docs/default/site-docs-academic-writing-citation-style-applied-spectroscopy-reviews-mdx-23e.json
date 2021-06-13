@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/applied-spectroscopy-reviews",
   "id": "academic-writing/citation-style/applied-spectroscopy-reviews",
   "isDocsHomePage": false,
-  "title": "applied-spectroscopy-reviews",
-  "description": "---",
+  "title": "Applied Spectroscopy Reviews",
+  "description": "When you 're tasked by using \"Applied Spectroscopy Reviews\" (Curr Cardiovasc Risk Rep) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/applied-spectroscopy-reviews.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/applied-spectroscopy-reviews",
   "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy-reviews",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/applied-spectroscopy-reviews.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "applied-in-vitro-toxicology",
+    "title": "Applied In Vitro Toxicology",
     "permalink": "/support/docs/academic-writing/citation-style/applied-in-vitro-toxicology"
   },
   "next": {
-    "title": "applied-spectroscopy",
+    "title": "Applied Spectroscopy",
     "permalink": "/support/docs/academic-writing/citation-style/applied-spectroscopy"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
   "id": "academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
   "isDocsHomePage": false,
-  "title": "vancouver-superscript-only-year-in-date-no-issue-numbers",
-  "description": "---",
+  "title": "Vancouver (superscript, only year in date, no issue numbers)",
+  "description": "When you 're tasked by using \"Vancouver (superscript, only year in date, no issue numbers)\" (Child Youth Care Forum) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
   "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/vancouver-superscript-only-year-in-date-no-issue-numbers.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "vancouver-superscript-brackets-only-year-in-date",
+    "title": "Vancouver (superscript, brackets, only year in date)",
     "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript-brackets-only-year-in-date"
   },
   "next": {
-    "title": "vancouver-superscript",
+    "title": "Vancouver (superscript)",
     "permalink": "/support/docs/academic-writing/citation-style/vancouver-superscript"
   }
 }

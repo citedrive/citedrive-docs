@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-auk",
   "id": "academic-writing/citation-style/the-auk",
   "isDocsHomePage": false,
-  "title": "the-auk",
-  "description": "---",
+  "title": "The Auk",
+  "description": "When you 're tasked by using \"The Auk\" (APA (numeric, superscript, brackets)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-auk.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-auk",
   "permalink": "/support/docs/academic-writing/citation-style/the-auk",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-auk.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-astrophysical-journal",
+    "title": "The Astrophysical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/the-astrophysical-journal"
   },
   "next": {
-    "title": "the-australian-journal-of-agricultural-and-resource-economics",
+    "title": "The Australian Journal of Agricultural and Resource Economics",
     "permalink": "/support/docs/academic-writing/citation-style/the-australian-journal-of-agricultural-and-resource-economics"
   }
 }

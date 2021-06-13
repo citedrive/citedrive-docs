@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
   "id": "academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
   "isDocsHomePage": false,
-  "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
-  "description": "---",
+  "title": "Atlas of Genetics and Cytogenetics in Oncology and Haematology",
+  "description": "When you 're tasked by using \"Atlas of Genetics and Cytogenetics in Oncology and Haematology\" (JBC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
   "permalink": "/support/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "atlande-authordate-french",
+    "title": "Atlande (author-date, French)",
     "permalink": "/support/docs/academic-writing/citation-style/atlande-authordate-french"
   },
   "next": {
-    "title": "ausonius-editions-french",
+    "title": "Ausonius Éditions (French)",
     "permalink": "/support/docs/academic-writing/citation-style/ausonius-editions-french"
   }
 }

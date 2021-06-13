@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/reproduction",
   "id": "academic-writing/citation-style/reproduction",
   "isDocsHomePage": false,
-  "title": "reproduction",
-  "description": "---",
+  "title": "Reproduction",
+  "description": "When you 're tasked by using \"Reproduction\" (RChDT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/reproduction.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/reproduction",
   "permalink": "/support/docs/academic-writing/citation-style/reproduction",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/reproduction.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "reproduction-fertility-and-development",
+    "title": "Reproduction, Fertility and Development",
     "permalink": "/support/docs/academic-writing/citation-style/reproduction-fertility-and-development"
   },
   "next": {
-    "title": "research-and-education-promotion-association",
+    "title": "Research and Education Promotion Association",
     "permalink": "/support/docs/academic-writing/citation-style/research-and-education-promotion-association"
   }
 }

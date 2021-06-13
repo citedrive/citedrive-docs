@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ipag-business-school--apa",
   "id": "academic-writing/citation-style/ipag-business-school--apa",
   "isDocsHomePage": false,
-  "title": "ipag-business-school--apa",
-  "description": "---",
+  "title": "IPAG Business School - APA",
+  "description": "When you 're tasked by using \"IPAG Business School - APA\" (IPAG-APA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ipag-business-school--apa.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ipag-business-school--apa",
   "permalink": "/support/docs/academic-writing/citation-style/ipag-business-school--apa",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ipag-business-school--apa.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ios-press-books",
+    "title": "IOS Press (books)",
     "permalink": "/support/docs/academic-writing/citation-style/ios-press-books"
   },
   "next": {
-    "title": "iranian-journal-of-basic-medical-sciences",
+    "title": "Iranian Journal of Basic Medical Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/iranian-journal-of-basic-medical-sciences"
   }
 }

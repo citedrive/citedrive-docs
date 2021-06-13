@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-finance",
   "id": "academic-writing/citation-style/journal-of-finance",
   "isDocsHomePage": false,
-  "title": "journal-of-finance",
-  "description": "---",
+  "title": "Journal of Finance",
+  "description": "When you 're tasked by using \"Journal of Finance\" (WCEAM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-finance.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-finance",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-finance",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-finance.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-field-ornithology",
+    "title": "Journal of Field Ornithology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-field-ornithology"
   },
   "next": {
-    "title": "journal-of-fish-biology",
+    "title": "Journal of Fish Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-fish-biology"
   }
 }

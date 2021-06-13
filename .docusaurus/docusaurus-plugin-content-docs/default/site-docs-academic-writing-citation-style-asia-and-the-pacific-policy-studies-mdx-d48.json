@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/asia-and-the-pacific-policy-studies",
   "id": "academic-writing/citation-style/asia-and-the-pacific-policy-studies",
   "isDocsHomePage": false,
-  "title": "asia-and-the-pacific-policy-studies",
-  "description": "---",
+  "title": "Asia & the Pacific Policy Studies",
+  "description": "When you 're tasked by using \"Asia & the Pacific Policy Studies\" (Monatsschrift Kinderheilkunde) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/asia-and-the-pacific-policy-studies",
   "permalink": "/support/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/asia-and-the-pacific-policy-studies.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "asaio-journal-american-society-for-artificial-internal-organs",
+    "title": "ASAIO Journal (American Society for Artificial Internal Organs)",
     "permalink": "/support/docs/academic-writing/citation-style/asaio-journal-american-society-for-artificial-internal-organs"
   },
   "next": {
-    "title": "asia-pacific-journal-of-human-resources",
+    "title": "Asia Pacific Journal of Human Resources",
     "permalink": "/support/docs/academic-writing/citation-style/asia-pacific-journal-of-human-resources"
   }
 }

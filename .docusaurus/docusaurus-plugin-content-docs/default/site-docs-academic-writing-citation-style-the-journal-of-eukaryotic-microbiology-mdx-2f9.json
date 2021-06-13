@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-eukaryotic-microbiology",
   "id": "academic-writing/citation-style/the-journal-of-eukaryotic-microbiology",
   "isDocsHomePage": false,
-  "title": "the-journal-of-eukaryotic-microbiology",
-  "description": "---",
+  "title": "The Journal of Eukaryotic Microbiology",
+  "description": "When you 're tasked by using \"The Journal of Eukaryotic Microbiology\" (BNE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-eukaryotic-microbiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-comparative-neurology",
+    "title": "The Journal of Comparative Neurology",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-comparative-neurology"
   },
   "next": {
-    "title": "the-journal-of-foot-and-ankle-surgery",
+    "title": "The Journal of Foot & Ankle Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-foot-and-ankle-surgery"
   }
 }

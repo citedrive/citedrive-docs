@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/ios-press-books",
   "id": "academic-writing/citation-style/ios-press-books",
   "isDocsHomePage": false,
-  "title": "ios-press-books",
-  "description": "---",
+  "title": "IOS Press (books)",
+  "description": "When you 're tasked by using \"IOS Press (books)\" (JAAOS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/ios-press-books.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/ios-press-books",
   "permalink": "/support/docs/academic-writing/citation-style/ios-press-books",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/ios-press-books.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "invisu",
+    "title": "InVisu",
     "permalink": "/support/docs/academic-writing/citation-style/invisu"
   },
   "next": {
-    "title": "ipag-business-school--apa",
+    "title": "IPAG Business School - APA",
     "permalink": "/support/docs/academic-writing/citation-style/ipag-business-school--apa"
   }
 }

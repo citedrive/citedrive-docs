@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/trabajos-de-prehistoria-spanish",
   "id": "academic-writing/citation-style/trabajos-de-prehistoria-spanish",
   "isDocsHomePage": false,
-  "title": "trabajos-de-prehistoria-spanish",
-  "description": "---",
+  "title": "Trabajos de Prehistoria (Spanish)",
+  "description": "When you 're tasked by using \"Trabajos de Prehistoria (Spanish)\" (JTH) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/trabajos-de-prehistoria-spanish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/trabajos-de-prehistoria-spanish",
   "permalink": "/support/docs/academic-writing/citation-style/trabajos-de-prehistoria-spanish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/trabajos-de-prehistoria-spanish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "toxicological-sciences",
+    "title": "Toxicological Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/toxicological-sciences"
   },
   "next": {
-    "title": "traces-revue-de-sciences-humaines-french",
+    "title": "Tracés: Revue de Sciences Humaines (French)",
     "permalink": "/support/docs/academic-writing/citation-style/traces-revue-de-sciences-humaines-french"
   }
 }

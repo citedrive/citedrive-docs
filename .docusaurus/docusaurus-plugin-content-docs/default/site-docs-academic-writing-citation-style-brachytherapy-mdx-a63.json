@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/brachytherapy",
   "id": "academic-writing/citation-style/brachytherapy",
   "isDocsHomePage": false,
-  "title": "brachytherapy",
-  "description": "---",
+  "title": "Brachytherapy",
+  "description": "When you 're tasked by using \"Brachytherapy\" (CNS Drugs) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/brachytherapy.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/brachytherapy",
   "permalink": "/support/docs/academic-writing/citation-style/brachytherapy",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/brachytherapy.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "bournemouth-university--harvard",
+    "title": "Bournemouth University - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/bournemouth-university--harvard"
   },
   "next": {
-    "title": "brain-behavior-and-evolution",
+    "title": "Brain, Behavior and Evolution",
     "permalink": "/support/docs/academic-writing/citation-style/brain-behavior-and-evolution"
   }
 }

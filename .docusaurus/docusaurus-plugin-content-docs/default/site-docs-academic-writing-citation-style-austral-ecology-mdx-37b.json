@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/austral-ecology",
   "id": "academic-writing/citation-style/austral-ecology",
   "isDocsHomePage": false,
-  "title": "austral-ecology",
-  "description": "---",
+  "title": "Austral Ecology",
+  "description": "When you 're tasked by using \"Austral Ecology\" (Cell. Mol. Life Sci.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/austral-ecology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/austral-ecology",
   "permalink": "/support/docs/academic-writing/citation-style/austral-ecology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/austral-ecology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ausonius-editions-french",
+    "title": "Ausonius Éditions (French)",
     "permalink": "/support/docs/academic-writing/citation-style/ausonius-editions-french"
   },
   "next": {
-    "title": "austral-entomology",
+    "title": "Austral Entomology",
     "permalink": "/support/docs/academic-writing/citation-style/austral-entomology"
   }
 }

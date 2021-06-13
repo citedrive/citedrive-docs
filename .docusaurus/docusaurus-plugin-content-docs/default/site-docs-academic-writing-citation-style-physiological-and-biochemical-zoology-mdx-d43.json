@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/physiological-and-biochemical-zoology",
   "id": "academic-writing/citation-style/physiological-and-biochemical-zoology",
   "isDocsHomePage": false,
-  "title": "physiological-and-biochemical-zoology",
-  "description": "---",
+  "title": "Physiological and Biochemical Zoology",
+  "description": "When you 're tasked by using \"Physiological and Biochemical Zoology\" (CMCA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/physiological-and-biochemical-zoology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/physiological-and-biochemical-zoology",
   "permalink": "/support/docs/academic-writing/citation-style/physiological-and-biochemical-zoology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/physiological-and-biochemical-zoology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "phyllomedusa",
+    "title": "Phyllomedusa",
     "permalink": "/support/docs/academic-writing/citation-style/phyllomedusa"
   },
   "next": {
-    "title": "phytopathologia-mediterranea",
+    "title": "Phytopathologia Mediterranea",
     "permalink": "/support/docs/academic-writing/citation-style/phytopathologia-mediterranea"
   }
 }

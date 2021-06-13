@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/modern-language-association-6th-edition-note",
   "id": "academic-writing/citation-style/modern-language-association-6th-edition-note",
   "isDocsHomePage": false,
-  "title": "modern-language-association-6th-edition-note",
-  "description": "---",
+  "title": "Modern Language Association 6th edition (note)",
+  "description": "When you 're tasked by using \"Modern Language Association 6th edition (note)\" (MLA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/modern-language-association-6th-edition-note.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/modern-language-association-6th-edition-note",
   "permalink": "/support/docs/academic-writing/citation-style/modern-language-association-6th-edition-note",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/modern-language-association-6th-edition-note.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "modern-humanities-research-association-3rd-edition-note-with-bibliography",
+    "title": "Modern Humanities Research Association 3rd edition (note with bibliography)",
     "permalink": "/support/docs/academic-writing/citation-style/modern-humanities-research-association-3rd-edition-note-with-bibliography"
   },
   "next": {
-    "title": "modern-language-association-7th-edition-underline",
+    "title": "Modern Language Association 7th edition (underline)",
     "permalink": "/support/docs/academic-writing/citation-style/modern-language-association-7th-edition-underline"
   }
 }

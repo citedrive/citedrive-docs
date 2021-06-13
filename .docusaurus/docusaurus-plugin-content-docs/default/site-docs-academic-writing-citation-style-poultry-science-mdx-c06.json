@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/poultry-science",
   "id": "academic-writing/citation-style/poultry-science",
   "isDocsHomePage": false,
-  "title": "poultry-science",
-  "description": "---",
+  "title": "Poultry Science",
+  "description": "When you 're tasked by using \"Poultry Science\" (Anal.Math.Phys.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/poultry-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/poultry-science",
   "permalink": "/support/docs/academic-writing/citation-style/poultry-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/poultry-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "postepy-higieny-i-medycyny-doswiadczalnej-polish",
+    "title": "Postępy Higieny i Medycyny Doświadczalnej (Polish)",
     "permalink": "/support/docs/academic-writing/citation-style/postepy-higieny-i-medycyny-doswiadczalnej-polish"
   },
   "next": {
-    "title": "pour-reussir-note-french--canada",
+    "title": "Pour réussir (note, French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/pour-reussir-note-french--canada"
   }
 }

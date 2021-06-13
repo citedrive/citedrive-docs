@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-new-england-journal-of-medicine",
   "id": "academic-writing/citation-style/the-new-england-journal-of-medicine",
   "isDocsHomePage": false,
-  "title": "the-new-england-journal-of-medicine",
-  "description": "---",
+  "title": "The New England Journal of Medicine",
+  "description": "When you 're tasked by using \"The New England Journal of Medicine\" (NEJM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-new-england-journal-of-medicine.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-new-england-journal-of-medicine",
   "permalink": "/support/docs/academic-writing/citation-style/the-new-england-journal-of-medicine",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-new-england-journal-of-medicine.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-neuroscientist",
+    "title": "The Neuroscientist",
     "permalink": "/support/docs/academic-writing/citation-style/the-neuroscientist"
   },
   "next": {
-    "title": "the-oncologist",
+    "title": "The Oncologist",
     "permalink": "/support/docs/academic-writing/citation-style/the-oncologist"
   }
 }

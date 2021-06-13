@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/begell-house--apa",
   "id": "academic-writing/citation-style/begell-house--apa",
   "isDocsHomePage": false,
-  "title": "begell-house--apa",
-  "description": "---",
+  "title": "Begell House - APA",
+  "description": "When you 're tasked by using \"Begell House - APA\" (AMA (11th ed.)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/begell-house--apa.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/begell-house--apa",
   "permalink": "/support/docs/academic-writing/citation-style/begell-house--apa",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/begell-house--apa.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "baghdad-science-journal",
+    "title": "Baghdad Science Journal",
     "permalink": "/support/docs/academic-writing/citation-style/baghdad-science-journal"
   },
   "next": {
-    "title": "begell-house--chicago-manual-of-style",
+    "title": "Begell House - Chicago Manual of Style",
     "permalink": "/support/docs/academic-writing/citation-style/begell-house--chicago-manual-of-style"
   }
 }

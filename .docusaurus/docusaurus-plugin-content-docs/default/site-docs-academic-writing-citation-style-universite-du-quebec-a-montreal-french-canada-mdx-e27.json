@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada",
   "id": "academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada",
   "isDocsHomePage": false,
-  "title": "universite-du-quebec-a-montreal-french--canada",
-  "description": "---",
+  "title": "Université du Québec à Montréal (French - Canada)",
+  "description": "When you 're tasked by using \"Université du Québec à Montréal (French - Canada)\" (UQAM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universite-du-quebec-a-montreal-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universite-du-quebec-a-montreal--etudes-litteraires-et-semiologie-french--canada",
+    "title": "Université du Québec à Montréal - Études littéraires et sémiologie (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-du-quebec-a-montreal--etudes-litteraires-et-semiologie-french--canada"
   },
   "next": {
-    "title": "universite-laval--departement-des-sciences-historiques-french--canada",
+    "title": "Université Laval - Département des sciences historiques (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/universite-laval--departement-des-sciences-historiques-french--canada"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/moorlands-college",
   "id": "academic-writing/citation-style/moorlands-college",
   "isDocsHomePage": false,
-  "title": "moorlands-college",
-  "description": "---",
+  "title": "Moorlands College",
+  "description": "When you 're tasked by using \"Moorlands College\" (Int J Multimed Info Retr) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/moorlands-college.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/moorlands-college",
   "permalink": "/support/docs/academic-writing/citation-style/moorlands-college",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/moorlands-college.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "moore-theological-college",
+    "title": "Moore Theological College",
     "permalink": "/support/docs/academic-writing/citation-style/moore-theological-college"
   },
   "next": {
-    "title": "multidisciplinary-digital-publishing-institute",
+    "title": "Multidisciplinary Digital Publishing Institute",
     "permalink": "/support/docs/academic-writing/citation-style/multidisciplinary-digital-publishing-institute"
   }
 }

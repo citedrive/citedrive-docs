@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/feminist-theory",
   "id": "academic-writing/citation-style/feminist-theory",
   "isDocsHomePage": false,
-  "title": "feminist-theory",
-  "description": "---",
+  "title": "Feminist Theory",
+  "description": "When you 're tasked by using \"Feminist Theory\" (MUAS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/feminist-theory.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/feminist-theory",
   "permalink": "/support/docs/academic-writing/citation-style/feminist-theory",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/feminist-theory.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "feminist-economics",
+    "title": "Feminist Economics",
     "permalink": "/support/docs/academic-writing/citation-style/feminist-economics"
   },
   "next": {
-    "title": "ferdinand-porsche-fernfachhochschule-german--austria",
+    "title": "Ferdinand Porsche Fernfachhochschule (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/ferdinand-porsche-fernfachhochschule-german--austria"
   }
 }

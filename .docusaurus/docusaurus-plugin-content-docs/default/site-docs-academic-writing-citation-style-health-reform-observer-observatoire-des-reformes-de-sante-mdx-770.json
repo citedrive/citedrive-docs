@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante",
   "id": "academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante",
   "isDocsHomePage": false,
-  "title": "health-reform-observer--observatoire-des-reformes-de-sante",
-  "description": "---",
+  "title": "Health Reform Observer - Observatoire des Réformes de Santé",
+  "description": "When you 're tasked by using \"Health Reform Observer - Observatoire des Réformes de Santé\" (ASABE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante",
   "permalink": "/support/docs/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/health-reform-observer--observatoire-des-reformes-de-sante.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "health-policy-and-planning",
+    "title": "Health Policy and Planning",
     "permalink": "/support/docs/academic-writing/citation-style/health-policy-and-planning"
   },
   "next": {
-    "title": "heart-failure-clinics",
+    "title": "Heart Failure Clinics",
     "permalink": "/support/docs/academic-writing/citation-style/heart-failure-clinics"
   }
 }

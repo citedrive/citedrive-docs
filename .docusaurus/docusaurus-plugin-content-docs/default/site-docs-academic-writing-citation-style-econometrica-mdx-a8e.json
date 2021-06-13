@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/econometrica",
   "id": "academic-writing/citation-style/econometrica",
   "isDocsHomePage": false,
-  "title": "econometrica",
-  "description": "---",
+  "title": "Econometrica",
+  "description": "When you 're tasked by using \"Econometrica\" (DAI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/econometrica.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/econometrica",
   "permalink": "/support/docs/academic-writing/citation-style/econometrica",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/econometrica.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ecology",
+    "title": "Ecology",
     "permalink": "/support/docs/academic-writing/citation-style/ecology"
   },
   "next": {
-    "title": "economia-y-politica-spanish--chile",
+    "title": "Economía y Política (Spanish - Chile)",
     "permalink": "/support/docs/academic-writing/citation-style/economia-y-politica-spanish--chile"
   }
 }

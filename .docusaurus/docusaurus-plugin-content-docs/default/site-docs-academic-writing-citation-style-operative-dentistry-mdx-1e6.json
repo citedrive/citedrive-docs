@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/operative-dentistry",
   "id": "academic-writing/citation-style/operative-dentistry",
   "isDocsHomePage": false,
-  "title": "operative-dentistry",
-  "description": "---",
+  "title": "Operative Dentistry",
+  "description": "When you 're tasked by using \"Operative Dentistry\" (Leidraad) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/operative-dentistry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/operative-dentistry",
   "permalink": "/support/docs/academic-writing/citation-style/operative-dentistry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/operative-dentistry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "open-window--harvard",
+    "title": "Open Window - Harvard",
     "permalink": "/support/docs/academic-writing/citation-style/open-window--harvard"
   },
   "next": {
-    "title": "ophthalmic-genetics",
+    "title": "Ophthalmic Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/ophthalmic-genetics"
   }
 }

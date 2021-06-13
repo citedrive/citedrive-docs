@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/baghdad-science-journal",
   "id": "academic-writing/citation-style/baghdad-science-journal",
   "isDocsHomePage": false,
-  "title": "baghdad-science-journal",
-  "description": "---",
+  "title": "Baghdad Science Journal",
+  "description": "When you 're tasked by using \"Baghdad Science Journal\" (INRAP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/baghdad-science-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/baghdad-science-journal",
   "permalink": "/support/docs/academic-writing/citation-style/baghdad-science-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/baghdad-science-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian",
+    "title": "Babes-Bolyai University - Faculty of Orthodox Theology (no ibid., Romanian)",
     "permalink": "/support/docs/academic-writing/citation-style/babesbolyai-university--faculty-of-orthodox-theology-no-ibid-romanian"
   },
   "next": {
-    "title": "begell-house--apa",
+    "title": "Begell House - APA",
     "permalink": "/support/docs/academic-writing/citation-style/begell-house--apa"
   }
 }

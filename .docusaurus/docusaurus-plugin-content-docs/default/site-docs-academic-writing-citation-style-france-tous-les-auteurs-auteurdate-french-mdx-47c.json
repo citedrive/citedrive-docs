@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french",
   "id": "academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french",
   "isDocsHomePage": false,
-  "title": "france-tous-les-auteurs-auteurdate-french",
-  "description": "---",
+  "title": "France (tous les auteurs, auteur-date, French)",
+  "description": "When you 're tasked by using \"France (tous les auteurs, auteur-date, French)\" (UNA SN) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french",
   "permalink": "/support/docs/academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/france-tous-les-auteurs-auteurdate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "france-auteurs-et-al-numerotation-french",
+    "title": "France (auteurs et al., numérotation, French)",
     "permalink": "/support/docs/academic-writing/citation-style/france-auteurs-et-al-numerotation-french"
   },
   "next": {
-    "title": "france-tous-les-auteurs-numerotation-french",
+    "title": "France (tous les auteurs, numérotation, French)",
     "permalink": "/support/docs/academic-writing/citation-style/france-tous-les-auteurs-numerotation-french"
   }
 }

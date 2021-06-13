@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universita-pontificia-salesiana",
   "id": "academic-writing/citation-style/universita-pontificia-salesiana",
   "isDocsHomePage": false,
-  "title": "universita-pontificia-salesiana",
-  "description": "---",
+  "title": "Università Pontificia Salesiana",
+  "description": "When you 're tasked by using \"Università Pontificia Salesiana\" (UPS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universita-pontificia-salesiana.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universita-pontificia-salesiana",
   "permalink": "/support/docs/academic-writing/citation-style/universita-pontificia-salesiana",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universita-pontificia-salesiana.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universita-pontificia-salesiana-italian",
+    "title": "Università Pontificia Salesiana (Italian)",
     "permalink": "/support/docs/academic-writing/citation-style/universita-pontificia-salesiana-italian"
   },
   "next": {
-    "title": "universitas-gadjah-mada--departemen-sejarah-indonesian",
+    "title": "Universitas Gadjah Mada - Departemen Sejarah (Indonesian)",
     "permalink": "/support/docs/academic-writing/citation-style/universitas-gadjah-mada--departemen-sejarah-indonesian"
   }
 }

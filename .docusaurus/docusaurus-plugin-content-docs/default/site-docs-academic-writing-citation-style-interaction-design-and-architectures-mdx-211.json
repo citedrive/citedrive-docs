@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/interaction-design-and-architectures",
   "id": "academic-writing/citation-style/interaction-design-and-architectures",
   "isDocsHomePage": false,
-  "title": "interaction-design-and-architectures",
-  "description": "---",
+  "title": "Interaction Design & Architecture(s)",
+  "description": "When you 're tasked by using \"Interaction Design & Architecture(s)\" (IxD&A) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/interaction-design-and-architectures.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/interaction-design-and-architectures",
   "permalink": "/support/docs/academic-writing/citation-style/interaction-design-and-architectures",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/interaction-design-and-architectures.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "inter-romanian-review-for-theological-and-religious-studies",
+    "title": "INTER: Romanian Review for Theological and Religious Studies",
     "permalink": "/support/docs/academic-writing/citation-style/inter-romanian-review-for-theological-and-religious-studies"
   },
   "next": {
-    "title": "interactive-cardiovascular-and-thoracic-surgery",
+    "title": "Interactive CardioVascular and Thoracic Surgery",
     "permalink": "/support/docs/academic-writing/citation-style/interactive-cardiovascular-and-thoracic-surgery"
   }
 }

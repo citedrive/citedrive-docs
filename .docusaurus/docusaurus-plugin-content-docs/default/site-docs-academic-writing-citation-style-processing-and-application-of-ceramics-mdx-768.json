@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/processing-and-application-of-ceramics",
   "id": "academic-writing/citation-style/processing-and-application-of-ceramics",
   "isDocsHomePage": false,
-  "title": "processing-and-application-of-ceramics",
-  "description": "---",
+  "title": "Processing and Application of Ceramics",
+  "description": "When you 're tasked by using \"Processing and Application of Ceramics\" (Neural Comput & Applic) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/processing-and-application-of-ceramics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/processing-and-application-of-ceramics",
   "permalink": "/support/docs/academic-writing/citation-style/processing-and-application-of-ceramics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/processing-and-application-of-ceramics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "proceedings-of-the-royal-society-b",
+    "title": "Proceedings of the Royal Society B",
     "permalink": "/support/docs/academic-writing/citation-style/proceedings-of-the-royal-society-b"
   },
   "next": {
-    "title": "proinflow-note-czech",
+    "title": "ProInflow (note, Czech)",
     "permalink": "/support/docs/academic-writing/citation-style/proinflow-note-czech"
   }
 }

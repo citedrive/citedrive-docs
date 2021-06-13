@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/world-congress-on-engineering-asset-management-2010",
   "id": "academic-writing/citation-style/world-congress-on-engineering-asset-management-2010",
   "isDocsHomePage": false,
-  "title": "world-congress-on-engineering-asset-management-2010",
-  "description": "---",
+  "title": "World Congress on Engineering Asset Management 2010",
+  "description": "When you 're tasked by using \"World Congress on Engineering Asset Management 2010\" (WCEAM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/world-congress-on-engineering-asset-management-2010.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/world-congress-on-engineering-asset-management-2010",
   "permalink": "/support/docs/academic-writing/citation-style/world-congress-on-engineering-asset-management-2010",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/world-congress-on-engineering-asset-management-2010.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "world-applied-sciences-journal",
+    "title": "World Applied Sciences Journal",
     "permalink": "/support/docs/academic-writing/citation-style/world-applied-sciences-journal"
   },
   "next": {
-    "title": "world-journal-of-gastroenterology",
+    "title": "World Journal of Gastroenterology",
     "permalink": "/support/docs/academic-writing/citation-style/world-journal-of-gastroenterology"
   }
 }

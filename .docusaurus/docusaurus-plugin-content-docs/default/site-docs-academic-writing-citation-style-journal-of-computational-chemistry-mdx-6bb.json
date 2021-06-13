@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-computational-chemistry",
   "id": "academic-writing/citation-style/journal-of-computational-chemistry",
   "isDocsHomePage": false,
-  "title": "journal-of-computational-chemistry",
-  "description": "---",
+  "title": "Journal of Computational Chemistry",
+  "description": "When you 're tasked by using \"Journal of Computational Chemistry\" (JCC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-computational-chemistry.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-computational-chemistry",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-computational-chemistry",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-computational-chemistry.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-comparative-pathology",
+    "title": "Journal of Comparative Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-comparative-pathology"
   },
   "next": {
-    "title": "journal-of-computer-applications-in-archaeology",
+    "title": "Journal of Computer Applications in Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-computer-applications-in-archaeology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/current-science",
   "id": "academic-writing/citation-style/current-science",
   "isDocsHomePage": false,
-  "title": "current-science",
-  "description": "---",
+  "title": "Current Science",
+  "description": "When you 're tasked by using \"Current Science\" (Int J Geomath) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/current-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/current-science",
   "permalink": "/support/docs/academic-writing/citation-style/current-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/current-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "current-protocols-journals",
+    "title": "Current Protocols journals",
     "permalink": "/support/docs/academic-writing/citation-style/current-protocols-journals"
   },
   "next": {
-    "title": "current-topics-in-medicinal-chemistry",
+    "title": "Current Topics in Medicinal Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/current-topics-in-medicinal-chemistry"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-basic-microbiology",
   "id": "academic-writing/citation-style/journal-of-basic-microbiology",
   "isDocsHomePage": false,
-  "title": "journal-of-basic-microbiology",
-  "description": "---",
+  "title": "Journal of Basic Microbiology",
+  "description": "When you 're tasked by using \"Journal of Basic Microbiology\" (Journal of AAPOS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-basic-microbiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-basic-microbiology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-basic-microbiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-basic-microbiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-avian-biology",
+    "title": "Journal of Avian Biology",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-avian-biology"
   },
   "next": {
-    "title": "journal-of-biological-regulators-and-homeostatic-agents",
+    "title": "Journal of Biological Regulators & Homeostatic Agents",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-biological-regulators-and-homeostatic-agents"
   }
 }

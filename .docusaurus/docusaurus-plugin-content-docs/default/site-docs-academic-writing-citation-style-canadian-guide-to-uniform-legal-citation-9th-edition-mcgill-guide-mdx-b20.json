@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
   "id": "academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
   "isDocsHomePage": false,
-  "title": "canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
-  "description": "---",
+  "title": "Canadian Guide to Uniform Legal Citation 9th edition (McGill Guide)",
+  "description": "When you 're tasked by using \"Canadian Guide to Uniform Legal Citation 9th edition (McGill Guide)\" (Bit Numer Math) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
   "permalink": "/support/docs/academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/canadian-guide-to-uniform-legal-citation-9th-edition-mcgill-guide.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "canadian-geotechnical-journal",
+    "title": "Canadian Geotechnical Journal",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-geotechnical-journal"
   },
   "next": {
-    "title": "canadian-journal-of-chemistry",
+    "title": "Canadian Journal of Chemistry",
     "permalink": "/support/docs/academic-writing/citation-style/canadian-journal-of-chemistry"
   }
 }

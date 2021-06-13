@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-neolithic-archaeology",
   "id": "academic-writing/citation-style/journal-of-neolithic-archaeology",
   "isDocsHomePage": false,
-  "title": "journal-of-neolithic-archaeology",
-  "description": "---",
+  "title": "Journal of Neolithic Archaeology",
+  "description": "When you 're tasked by using \"Journal of Neolithic Archaeology\" (JNA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-neolithic-archaeology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-neolithic-archaeology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-neolithic-archaeology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-neolithic-archaeology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-natural-history",
+    "title": "Journal of Natural History",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-natural-history"
   },
   "next": {
-    "title": "journal-of-neurochemistry",
+    "title": "Journal of Neurochemistry",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-neurochemistry"
   }
 }

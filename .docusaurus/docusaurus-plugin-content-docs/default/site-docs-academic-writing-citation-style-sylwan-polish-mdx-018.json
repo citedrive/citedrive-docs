@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/sylwan-polish",
   "id": "academic-writing/citation-style/sylwan-polish",
   "isDocsHomePage": false,
-  "title": "sylwan-polish",
-  "description": "---",
+  "title": "Sylwan (Polish)",
+  "description": "When you 're tasked by using \"Sylwan (Polish)\" (TOSEM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/sylwan-polish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/sylwan-polish",
   "permalink": "/support/docs/academic-writing/citation-style/sylwan-polish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/sylwan-polish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "swiss-political-science-review",
+    "title": "Swiss Political Science Review",
     "permalink": "/support/docs/academic-writing/citation-style/swiss-political-science-review"
   },
   "next": {
-    "title": "synthesis",
+    "title": "Synthesis",
     "permalink": "/support/docs/academic-writing/citation-style/synthesis"
   }
 }

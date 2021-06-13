@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/universitat-mainz--geographisches-institut-german",
   "id": "academic-writing/citation-style/universitat-mainz--geographisches-institut-german",
   "isDocsHomePage": false,
-  "title": "universitat-mainz--geographisches-institut-german",
-  "description": "---",
+  "title": "Universität Mainz - Geographisches Institut (German)",
+  "description": "When you 're tasked by using \"Universität Mainz - Geographisches Institut (German)\" (KJIM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/universitat-mainz--geographisches-institut-german",
   "permalink": "/support/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/universitat-mainz--geographisches-institut-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german",
+    "title": "Universität Heidelberg - Medizinische Fakultät Mannheim (numerisch, German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-heidelberg--medizinische-fakultat-mannheim-numerisch-german"
   },
   "next": {
-    "title": "universitat-stuttgart--planung-und-partizipation-german",
+    "title": "Universität Stuttgart - Planung und Partizipation (German)",
     "permalink": "/support/docs/academic-writing/citation-style/universitat-stuttgart--planung-und-partizipation-german"
   }
 }

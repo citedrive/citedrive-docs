@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
   "id": "academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
   "isDocsHomePage": false,
-  "title": "hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
-  "description": "---",
+  "title": "Hiob Ludolf Centre for Ethiopian Studies (with URL/DOI)",
+  "description": "When you 're tasked by using \"Hiob Ludolf Centre for Ethiopian Studies (with URL/DOI)\" (HLCES (Hamburg)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
   "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-with-urldoi.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "hiob-ludolf-centre-for-ethiopian-studies-long-names",
+    "title": "Hiob Ludolf Centre for Ethiopian Studies (long names)",
     "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies-long-names"
   },
   "next": {
-    "title": "hiob-ludolf-centre-for-ethiopian-studies",
+    "title": "Hiob Ludolf Centre for Ethiopian Studies",
     "permalink": "/support/docs/academic-writing/citation-style/hiob-ludolf-centre-for-ethiopian-studies"
   }
 }

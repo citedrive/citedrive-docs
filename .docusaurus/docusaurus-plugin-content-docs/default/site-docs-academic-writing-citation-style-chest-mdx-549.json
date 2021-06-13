@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/chest",
   "id": "academic-writing/citation-style/chest",
   "isDocsHomePage": false,
-  "title": "chest",
-  "description": "---",
+  "title": "Chest",
+  "description": "When you 're tasked by using \"Chest\" (JEMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/chest.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/chest",
   "permalink": "/support/docs/academic-writing/citation-style/chest",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/chest.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "chemistry-education-research-and-practice",
+    "title": "Chemistry Education Research and Practice",
     "permalink": "/support/docs/academic-writing/citation-style/chemistry-education-research-and-practice"
   },
   "next": {
-    "title": "chicago-manual-of-style-16th-edition-authordate-basque",
+    "title": "Chicago Manual of Style 16th edition (author-date, Basque)",
     "permalink": "/support/docs/academic-writing/citation-style/chicago-manual-of-style-16th-edition-authordate-basque"
   }
 }

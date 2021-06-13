@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/radiologic-clinics-of-north-america",
   "id": "academic-writing/citation-style/radiologic-clinics-of-north-america",
   "isDocsHomePage": false,
-  "title": "radiologic-clinics-of-north-america",
-  "description": "---",
+  "title": "Radiologic Clinics of North America",
+  "description": "When you 're tasked by using \"Radiologic Clinics of North America\" (RCL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/radiologic-clinics-of-north-america.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/radiologic-clinics-of-north-america",
   "permalink": "/support/docs/academic-writing/citation-style/radiologic-clinics-of-north-america",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/radiologic-clinics-of-north-america.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "radiography",
+    "title": "Radiography",
     "permalink": "/support/docs/academic-writing/citation-style/radiography"
   },
   "next": {
-    "title": "radiology",
+    "title": "Radiology",
     "permalink": "/support/docs/academic-writing/citation-style/radiology"
   }
 }

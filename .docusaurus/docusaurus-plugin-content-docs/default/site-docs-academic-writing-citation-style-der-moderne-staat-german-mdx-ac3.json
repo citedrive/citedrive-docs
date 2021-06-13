@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/der-moderne-staat-german",
   "id": "academic-writing/citation-style/der-moderne-staat-german",
   "isDocsHomePage": false,
-  "title": "der-moderne-staat-german",
-  "description": "---",
+  "title": "der moderne staat (German)",
+  "description": "When you 're tasked by using \"der moderne staat (German)\" (dms) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/der-moderne-staat-german.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/der-moderne-staat-german",
   "permalink": "/support/docs/academic-writing/citation-style/der-moderne-staat-german",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/der-moderne-staat-german.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "demographic-research",
+    "title": "Demographic Research",
     "permalink": "/support/docs/academic-writing/citation-style/demographic-research"
   },
   "next": {
-    "title": "dermatology-online-journal",
+    "title": "Dermatology Online Journal",
     "permalink": "/support/docs/academic-writing/citation-style/dermatology-online-journal"
   }
 }

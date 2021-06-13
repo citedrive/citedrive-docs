@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/forum-qualitative-social-research-english",
   "id": "academic-writing/citation-style/forum-qualitative-social-research-english",
   "isDocsHomePage": false,
-  "title": "forum-qualitative-social-research-english",
-  "description": "---",
+  "title": "Forum: Qualitative Social Research (English)",
+  "description": "When you 're tasked by using \"Forum: Qualitative Social Research (English)\" (FQS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/forum-qualitative-social-research-english.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/forum-qualitative-social-research-english",
   "permalink": "/support/docs/academic-writing/citation-style/forum-qualitative-social-research-english",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/forum-qualitative-social-research-english.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "forest-science",
+    "title": "Forest Science",
     "permalink": "/support/docs/academic-writing/citation-style/forest-science"
   },
   "next": {
-    "title": "forum-qualitative-sozialforschung-german",
+    "title": "Forum: Qualitative Sozialforschung (German)",
     "permalink": "/support/docs/academic-writing/citation-style/forum-qualitative-sozialforschung-german"
   }
 }

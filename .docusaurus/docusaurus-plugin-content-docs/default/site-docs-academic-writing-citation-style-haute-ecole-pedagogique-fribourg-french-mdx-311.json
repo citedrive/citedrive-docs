@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french",
   "id": "academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french",
   "isDocsHomePage": false,
-  "title": "haute-ecole-pedagogique-fribourg-french",
-  "description": "---",
+  "title": "Haute Ecole pédagogique Fribourg (French)",
+  "description": "When you 're tasked by using \"Haute Ecole pédagogique Fribourg (French)\" (HEPFR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french",
   "permalink": "/support/docs/academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/haute-ecole-pedagogique-fribourg-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "haute-ecole-de-gestion-de-geneve--iso690-english",
+    "title": "Haute école de gestion de Genève - ISO-690 (English)",
     "permalink": "/support/docs/academic-writing/citation-style/haute-ecole-de-gestion-de-geneve--iso690-english"
   },
   "next": {
-    "title": "hawaii-international-conference-on-system-sciences-proceedings",
+    "title": "Hawaii International Conference on System Sciences Proceedings",
     "permalink": "/support/docs/academic-writing/citation-style/hawaii-international-conference-on-system-sciences-proceedings"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/journal-of-systematic-palaeontology",
   "id": "academic-writing/citation-style/journal-of-systematic-palaeontology",
   "isDocsHomePage": false,
-  "title": "journal-of-systematic-palaeontology",
-  "description": "---",
+  "title": "Journal of Systematic Palaeontology",
+  "description": "When you 're tasked by using \"Journal of Systematic Palaeontology\" (ICVTS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/journal-of-systematic-palaeontology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/journal-of-systematic-palaeontology",
   "permalink": "/support/docs/academic-writing/citation-style/journal-of-systematic-palaeontology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/journal-of-systematic-palaeontology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "journal-of-surgery-and-medicine",
+    "title": "Journal of Surgery and Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-surgery-and-medicine"
   },
   "next": {
-    "title": "journal-of-the-air-and-waste-management-association",
+    "title": "Journal of the Air & Waste Management Association",
     "permalink": "/support/docs/academic-writing/citation-style/journal-of-the-air-and-waste-management-association"
   }
 }

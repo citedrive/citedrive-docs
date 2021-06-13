@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/fertility-and-sterility",
   "id": "academic-writing/citation-style/fertility-and-sterility",
   "isDocsHomePage": false,
-  "title": "fertility-and-sterility",
-  "description": "---",
+  "title": "Fertility and Sterility",
+  "description": "When you 're tasked by using \"Fertility and Sterility\" (Int J Clin Oncol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/fertility-and-sterility.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/fertility-and-sterility",
   "permalink": "/support/docs/academic-writing/citation-style/fertility-and-sterility",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/fertility-and-sterility.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ferdinand-porsche-fernfachhochschule-german--austria",
+    "title": "Ferdinand Porsche Fernfachhochschule (German - Austria)",
     "permalink": "/support/docs/academic-writing/citation-style/ferdinand-porsche-fernfachhochschule-german--austria"
   },
   "next": {
-    "title": "finance-and-society",
+    "title": "Finance and Society",
     "permalink": "/support/docs/academic-writing/citation-style/finance-and-society"
   }
 }

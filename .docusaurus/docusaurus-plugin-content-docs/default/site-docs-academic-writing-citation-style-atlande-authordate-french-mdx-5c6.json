@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/atlande-authordate-french",
   "id": "academic-writing/citation-style/atlande-authordate-french",
   "isDocsHomePage": false,
-  "title": "atlande-authordate-french",
-  "description": "---",
+  "title": "Atlande (author-date, French)",
+  "description": "When you 're tasked by using \"Atlande (author-date, French)\" (Int J Speech Technol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/atlande-authordate-french.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/atlande-authordate-french",
   "permalink": "/support/docs/academic-writing/citation-style/atlande-authordate-french",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/atlande-authordate-french.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "association-for-computing-machinery",
+    "title": "Association for Computing Machinery",
     "permalink": "/support/docs/academic-writing/citation-style/association-for-computing-machinery"
   },
   "next": {
-    "title": "atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology",
+    "title": "Atlas of Genetics and Cytogenetics in Oncology and Haematology",
     "permalink": "/support/docs/academic-writing/citation-style/atlas-of-genetics-and-cytogenetics-in-oncology-and-haematology"
   }
 }

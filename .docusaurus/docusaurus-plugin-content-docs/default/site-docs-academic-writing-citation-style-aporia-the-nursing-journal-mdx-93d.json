@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/aporia-the-nursing-journal",
   "id": "academic-writing/citation-style/aporia-the-nursing-journal",
   "isDocsHomePage": false,
-  "title": "aporia-the-nursing-journal",
-  "description": "---",
+  "title": "Aporia: The Nursing Journal",
+  "description": "When you 're tasked by using \"Aporia: The Nursing Journal\" (J Math Chem) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/aporia-the-nursing-journal.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/aporia-the-nursing-journal",
   "permalink": "/support/docs/academic-writing/citation-style/aporia-the-nursing-journal",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aporia-the-nursing-journal.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "antiquity",
+    "title": "Antiquity",
     "permalink": "/support/docs/academic-writing/citation-style/antiquity"
   },
   "next": {
-    "title": "applied-clay-science",
+    "title": "Applied Clay Science",
     "permalink": "/support/docs/academic-writing/citation-style/applied-clay-science"
   }
 }

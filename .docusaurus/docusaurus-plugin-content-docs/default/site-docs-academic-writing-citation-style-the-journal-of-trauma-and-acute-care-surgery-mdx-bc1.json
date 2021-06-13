@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery",
   "id": "academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery",
   "isDocsHomePage": false,
-  "title": "the-journal-of-trauma-and-acute-care-surgery",
-  "description": "---",
+  "title": "The Journal of Trauma and Acute Care Surgery",
+  "description": "When you 're tasked by using \"The Journal of Trauma and Acute Care Surgery\" (JTACS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery",
   "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/the-journal-of-trauma-and-acute-care-surgery.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "the-journal-of-transport-history",
+    "title": "The Journal of Transport History",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-transport-history"
   },
   "next": {
-    "title": "the-journal-of-urology",
+    "title": "The Journal of Urology",
     "permalink": "/support/docs/academic-writing/citation-style/the-journal-of-urology"
   }
 }
