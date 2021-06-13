@@ -106,6 +106,181 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "academic-writing/citation-style/acta-medica-peruana",
+              "path": "/support/docs/academic-writing/citation-style/acta-medica-peruana",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-naturae",
+              "path": "/support/docs/academic-writing/citation-style/acta-naturae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "path": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-neurochirurgica",
+              "path": "/support/docs/academic-writing/citation-style/acta-neurochirurgica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-ophthalmologica",
+              "path": "/support/docs/academic-writing/citation-style/acta-ophthalmologica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-ornithologica",
+              "path": "/support/docs/academic-writing/citation-style/acta-ornithologica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-orthopaedica",
+              "path": "/support/docs/academic-writing/citation-style/acta-orthopaedica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-orthopdica-belgica",
+              "path": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-paediatrica",
+              "path": "/support/docs/academic-writing/citation-style/acta-paediatrica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-palaeontologica-polonica",
+              "path": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-pharmaceutica",
+              "path": "/support/docs/academic-writing/citation-style/acta-pharmaceutica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "path": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-philosophica",
+              "path": "/support/docs/academic-writing/citation-style/acta-philosophica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-physiologica",
+              "path": "/support/docs/academic-writing/citation-style/acta-physiologica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-polytechnica",
+              "path": "/support/docs/academic-writing/citation-style/acta-polytechnica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "path": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-radiologica",
+              "path": "/support/docs/academic-writing/citation-style/acta-radiologica",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-scientiae-veterinariae",
+              "path": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "path": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "path": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "path": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "path": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/administrative-science-quarterly",
+              "path": "/support/docs/academic-writing/citation-style/administrative-science-quarterly",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advanced-engineering-materials",
+              "path": "/support/docs/academic-writing/citation-style/advanced-engineering-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advanced-functional-materials",
+              "path": "/support/docs/academic-writing/citation-style/advanced-functional-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advanced-healthcare-materials",
+              "path": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advanced-materials",
+              "path": "/support/docs/academic-writing/citation-style/advanced-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advanced-optical-materials",
+              "path": "/support/docs/academic-writing/citation-style/advanced-optical-materials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advances-in-alzheimers-disease",
+              "path": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/advances-in-complex-systems",
+              "path": "/support/docs/academic-writing/citation-style/advances-in-complex-systems",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/aerosol-and-air-quality-research",
+              "path": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/aerosol-science-and-technology",
+              "path": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/african-journal-of-marine-science",
+              "path": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "path": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "academic-writing/citation-style/african-zoology",
+              "path": "/support/docs/academic-writing/citation-style/african-zoology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "bibtex/field-types/address",
               "path": "/support/docs/bibtex/field-types/address",
               "sidebar": "tutorialSidebar"

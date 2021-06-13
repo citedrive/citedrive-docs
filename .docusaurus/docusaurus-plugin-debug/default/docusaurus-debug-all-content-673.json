@@ -1357,6 +1357,146 @@
                       {
                         "type": "doc",
                         "id": "academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-medica-peruana"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-naturae"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-neurobiologiae-experimentalis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-neurochirurgica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-ophthalmologica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-ornithologica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-orthopaedica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-orthopdica-belgica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-paediatrica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-palaeontologica-polonica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-pharmaceutica-sinica-b"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-pharmaceutica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-philosophica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-physiologica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-polytechnica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-psychiatrica-scandinavica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-radiologica"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-scientiae-veterinariae"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/administrative-science-quarterly"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advanced-engineering-materials"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advanced-functional-materials"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advanced-healthcare-materials"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advanced-materials"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advanced-optical-materials"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advances-in-alzheimers-disease"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/advances-in-complex-systems"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/aerosol-and-air-quality-research"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/aerosol-science-and-technology"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/african-journal-of-marine-science"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/african-online-scientific-information-systems--harvard"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "academic-writing/citation-style/african-zoology"
                       }
                     ],
                     "collapsed": true
@@ -1576,6 +1716,41 @@
             "/support/docs/academic-writing/citation-style/acta-chiropterologica": "tutorialSidebar",
             "/support/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca": "tutorialSidebar",
             "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-medica-peruana": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-naturae": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-neurochirurgica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-ophthalmologica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-ornithologica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-orthopaedica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-paediatrica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-pharmaceutica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-philosophica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-physiologica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-polytechnica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-radiologica": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/administrative-science-quarterly": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advanced-engineering-materials": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advanced-functional-materials": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advanced-healthcare-materials": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advanced-materials": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advanced-optical-materials": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/advances-in-complex-systems": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/aerosol-science-and-technology": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/african-journal-of-marine-science": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard": "tutorialSidebar",
+            "/support/docs/academic-writing/citation-style/african-zoology": "tutorialSidebar",
             "/support/docs/bibtex/field-types/address": "tutorialSidebar",
             "/support/docs/bibtex/field-types/annote": "tutorialSidebar",
             "/support/docs/bibtex/field-types/author": "tutorialSidebar",
@@ -2409,6 +2584,916 @@
               "previous": {
                 "title": "Acta chirurgiae orthopaedicae et traumatologiae Čechoslovaca",
                 "permalink": "/support/docs/academic-writing/citation-style/acta-chirurgiae-orthopaedicae-et-traumatologiae-cechoslovaca"
+              },
+              "next": {
+                "title": "Acta Médica Peruana",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-medica-peruana",
+              "id": "academic-writing/citation-style/acta-medica-peruana",
+              "isDocsHomePage": false,
+              "title": "Acta Médica Peruana",
+              "description": "When you 're tasked by using \"Acta Médica Peruana\" (Acta Med Peru) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-medica-peruana.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-medica-peruana",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-medica-peruana.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Ichthyologica et Piscatoria",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
+              },
+              "next": {
+                "title": "Acta Naturae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-naturae"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-naturae",
+              "id": "academic-writing/citation-style/acta-naturae",
+              "isDocsHomePage": false,
+              "title": "Acta Naturae",
+              "description": "When you 're tasked by using \"Acta Naturae\" (LAP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-naturae.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-naturae",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-naturae",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-naturae.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Médica Peruana",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-medica-peruana"
+              },
+              "next": {
+                "title": "Acta Neurobiologiae Experimentalis",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "id": "academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "isDocsHomePage": false,
+              "title": "Acta Neurobiologiae Experimentalis",
+              "description": "When you 're tasked by using \"Acta Neurobiologiae Experimentalis\" (Landscape Ecol Eng) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Naturae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-naturae"
+              },
+              "next": {
+                "title": "Acta Neurochirurgica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-neurochirurgica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-neurochirurgica",
+              "id": "academic-writing/citation-style/acta-neurochirurgica",
+              "isDocsHomePage": false,
+              "title": "Acta Neurochirurgica",
+              "description": "When you 're tasked by using \"Acta Neurochirurgica\" (APA (numeric, superscript, brackets)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-neurochirurgica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-neurochirurgica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-neurochirurgica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-neurochirurgica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Neurobiologiae Experimentalis",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis"
+              },
+              "next": {
+                "title": "Acta Ophthalmologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-ophthalmologica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-ophthalmologica",
+              "id": "academic-writing/citation-style/acta-ophthalmologica",
+              "isDocsHomePage": false,
+              "title": "Acta Ophthalmologica",
+              "description": "When you 're tasked by using \"Acta Ophthalmologica\" (Unfallchirurg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-ophthalmologica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-ophthalmologica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-ophthalmologica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ophthalmologica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Neurochirurgica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-neurochirurgica"
+              },
+              "next": {
+                "title": "Acta Ornithologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-ornithologica",
+              "id": "academic-writing/citation-style/acta-ornithologica",
+              "isDocsHomePage": false,
+              "title": "Acta Ornithologica",
+              "description": "When you 're tasked by using \"Acta Ornithologica\" (CRI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-ornithologica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-ornithologica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-ornithologica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Ophthalmologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-ophthalmologica"
+              },
+              "next": {
+                "title": "Acta Orthopaedica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-orthopaedica",
+              "id": "academic-writing/citation-style/acta-orthopaedica",
+              "isDocsHomePage": false,
+              "title": "Acta Orthopaedica",
+              "description": "When you 're tasked by using \"Acta Orthopaedica\" (Asian J Bus Ethics) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-orthopaedica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopaedica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Ornithologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-ornithologica"
+              },
+              "next": {
+                "title": "Acta Orthopædica Belgica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-orthopdica-belgica",
+              "id": "academic-writing/citation-style/acta-orthopdica-belgica",
+              "isDocsHomePage": false,
+              "title": "Acta Orthopædica Belgica",
+              "description": "When you 're tasked by using \"Acta Orthopædica Belgica\" (Human Cell) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-orthopdica-belgica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-orthopdica-belgica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-orthopdica-belgica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Orthopaedica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-orthopaedica"
+              },
+              "next": {
+                "title": "Acta Paediatrica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-paediatrica",
+              "id": "academic-writing/citation-style/acta-paediatrica",
+              "isDocsHomePage": false,
+              "title": "Acta Paediatrica",
+              "description": "When you 're tasked by using \"Acta Paediatrica\" (EC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-paediatrica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-paediatrica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-paediatrica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Orthopædica Belgica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-orthopdica-belgica"
+              },
+              "next": {
+                "title": "Acta Palaeontologica Polonica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-palaeontologica-polonica",
+              "id": "academic-writing/citation-style/acta-palaeontologica-polonica",
+              "isDocsHomePage": false,
+              "title": "Acta Palaeontologica Polonica",
+              "description": "When you 're tasked by using \"Acta Palaeontologica Polonica\" (WPSJ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-palaeontologica-polonica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-palaeontologica-polonica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Paediatrica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-paediatrica"
+              },
+              "next": {
+                "title": "Acta Pharmaceutica Sinica B",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-pharmaceutica",
+              "id": "academic-writing/citation-style/acta-pharmaceutica",
+              "isDocsHomePage": false,
+              "title": "Acta Pharmaceutica",
+              "description": "When you 're tasked by using \"Acta Pharmaceutica\" (Stat Papers) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-pharmaceutica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-pharmaceutica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Pharmaceutica Sinica B",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b"
+              },
+              "next": {
+                "title": "Acta Philosophica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "id": "academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "isDocsHomePage": false,
+              "title": "Acta Pharmaceutica Sinica B",
+              "description": "When you 're tasked by using \"Acta Pharmaceutica Sinica B\" (APSB) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Palaeontologica Polonica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica"
+              },
+              "next": {
+                "title": "Acta Pharmaceutica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-philosophica",
+              "id": "academic-writing/citation-style/acta-philosophica",
+              "isDocsHomePage": false,
+              "title": "Acta Philosophica",
+              "description": "When you 're tasked by using \"Acta Philosophica\" (ActaPhil) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-philosophica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-philosophica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-philosophica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Pharmaceutica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-pharmaceutica"
+              },
+              "next": {
+                "title": "Acta Physiologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-physiologica",
+              "id": "academic-writing/citation-style/acta-physiologica",
+              "isDocsHomePage": false,
+              "title": "Acta Physiologica",
+              "description": "When you 're tasked by using \"Acta Physiologica\" (CR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-physiologica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-physiologica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-physiologica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Philosophica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-philosophica"
+              },
+              "next": {
+                "title": "Acta Polytechnica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-polytechnica",
+              "id": "academic-writing/citation-style/acta-polytechnica",
+              "isDocsHomePage": false,
+              "title": "Acta Polytechnica",
+              "description": "When you 're tasked by using \"Acta Polytechnica\" (AMI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-polytechnica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-polytechnica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-polytechnica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Physiologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-physiologica"
+              },
+              "next": {
+                "title": "Acta Psychiatrica Scandinavica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "id": "academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "isDocsHomePage": false,
+              "title": "Acta Psychiatrica Scandinavica",
+              "description": "When you 're tasked by using \"Acta Psychiatrica Scandinavica\" (RChDT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Polytechnica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-polytechnica"
+              },
+              "next": {
+                "title": "Acta Radiologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-radiologica",
+              "id": "academic-writing/citation-style/acta-radiologica",
+              "isDocsHomePage": false,
+              "title": "Acta Radiologica",
+              "description": "When you 're tasked by using \"Acta Radiologica\" (CNM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-radiologica.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-radiologica",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-radiologica.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Psychiatrica Scandinavica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica"
+              },
+              "next": {
+                "title": "Acta Scientiae Veterinariae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-scientiae-veterinariae",
+              "id": "academic-writing/citation-style/acta-scientiae-veterinariae",
+              "isDocsHomePage": false,
+              "title": "Acta Scientiae Veterinariae",
+              "description": "When you 're tasked by using \"Acta Scientiae Veterinariae\" (ULg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-scientiae-veterinariae.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-scientiae-veterinariae",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-scientiae-veterinariae.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Radiologica",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-radiologica"
+              },
+              "next": {
+                "title": "Acta Societatis Botanicorum Poloniae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "id": "academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "isDocsHomePage": false,
+              "title": "Acta Societatis Botanicorum Poloniae",
+              "description": "When you 're tasked by using \"Acta Societatis Botanicorum Poloniae\" (ASBP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Scientiae Veterinariae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae"
+              },
+              "next": {
+                "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "id": "academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "isDocsHomePage": false,
+              "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
+              "description": "When you 're tasked by using \"Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis\" (Acta Univ. Agric. Silvic. Mendelianae Brun.) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Societatis Botanicorum Poloniae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae"
+              },
+              "next": {
+                "title": "Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "id": "academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "isDocsHomePage": false,
+              "title": "Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)",
+              "description": "When you 're tasked by using \"Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)\" (uwf) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis"
+              },
+              "next": {
+                "title": "Acta Zoologica Academiae Scientiarum Hungaricae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "id": "academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "isDocsHomePage": false,
+              "title": "Acta Zoologica Academiae Scientiarum Hungaricae",
+              "description": "When you 're tasked by using \"Acta Zoologica Academiae Scientiarum Hungaricae\" (Granular Matter) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Universitatis Agriculturae Sueciae (Swedish University of Agricultural Sciences)",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences"
+              },
+              "next": {
+                "title": "Administrative Science Quarterly",
+                "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/administrative-science-quarterly",
+              "id": "academic-writing/citation-style/administrative-science-quarterly",
+              "isDocsHomePage": false,
+              "title": "Administrative Science Quarterly",
+              "description": "When you 're tasked by using \"Administrative Science Quarterly\" (ASQ) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/administrative-science-quarterly.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/administrative-science-quarterly",
+              "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/administrative-science-quarterly.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Acta Zoologica Academiae Scientiarum Hungaricae",
+                "permalink": "/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae"
+              },
+              "next": {
+                "title": "Advanced Engineering Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advanced-engineering-materials",
+              "id": "academic-writing/citation-style/advanced-engineering-materials",
+              "isDocsHomePage": false,
+              "title": "Advanced Engineering Materials",
+              "description": "When you 're tasked by using \"Advanced Engineering Materials\" (AO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advanced-engineering-materials",
+              "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-engineering-materials.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Administrative Science Quarterly",
+                "permalink": "/support/docs/academic-writing/citation-style/administrative-science-quarterly"
+              },
+              "next": {
+                "title": "Advanced Functional Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advanced-functional-materials",
+              "id": "academic-writing/citation-style/advanced-functional-materials",
+              "isDocsHomePage": false,
+              "title": "Advanced Functional Materials",
+              "description": "When you 're tasked by using \"Advanced Functional Materials\" (J Echocardiogr) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advanced-functional-materials.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advanced-functional-materials",
+              "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-functional-materials.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Engineering Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-engineering-materials"
+              },
+              "next": {
+                "title": "Advanced Healthcare Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advanced-healthcare-materials",
+              "id": "academic-writing/citation-style/advanced-healthcare-materials",
+              "isDocsHomePage": false,
+              "title": "Advanced Healthcare Materials",
+              "description": "When you 're tasked by using \"Advanced Healthcare Materials\" (AHM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advanced-healthcare-materials.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advanced-healthcare-materials",
+              "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-healthcare-materials.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Functional Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-functional-materials"
+              },
+              "next": {
+                "title": "Advanced Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-materials"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advanced-materials",
+              "id": "academic-writing/citation-style/advanced-materials",
+              "isDocsHomePage": false,
+              "title": "Advanced Materials",
+              "description": "When you 're tasked by using \"Advanced Materials\" (Pain Ther) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advanced-materials.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advanced-materials",
+              "permalink": "/support/docs/academic-writing/citation-style/advanced-materials",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-materials.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Healthcare Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-healthcare-materials"
+              },
+              "next": {
+                "title": "Advanced Optical Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advanced-optical-materials",
+              "id": "academic-writing/citation-style/advanced-optical-materials",
+              "isDocsHomePage": false,
+              "title": "Advanced Optical Materials",
+              "description": "When you 're tasked by using \"Advanced Optical Materials\" (TOCL) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advanced-optical-materials.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advanced-optical-materials",
+              "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advanced-optical-materials.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-materials"
+              },
+              "next": {
+                "title": "Advances in Alzheimer''s Disease",
+                "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advances-in-alzheimers-disease",
+              "id": "academic-writing/citation-style/advances-in-alzheimers-disease",
+              "isDocsHomePage": false,
+              "title": "Advances in Alzheimer''s Disease",
+              "description": "When you 're tasked by using \"Advances in Alzheimer''s Disease\" (AMU-DEA) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advances-in-alzheimers-disease.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advances-in-alzheimers-disease",
+              "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advances-in-alzheimers-disease.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advanced Optical Materials",
+                "permalink": "/support/docs/academic-writing/citation-style/advanced-optical-materials"
+              },
+              "next": {
+                "title": "Advances in Complex Systems",
+                "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/advances-in-complex-systems",
+              "id": "academic-writing/citation-style/advances-in-complex-systems",
+              "isDocsHomePage": false,
+              "title": "Advances in Complex Systems",
+              "description": "When you 're tasked by using \"Advances in Complex Systems\" (MKG-Chirurg) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/advances-in-complex-systems.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/advances-in-complex-systems",
+              "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/advances-in-complex-systems.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advances in Alzheimer''s Disease",
+                "permalink": "/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease"
+              },
+              "next": {
+                "title": "Aerosol and Air Quality Research",
+                "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/aerosol-and-air-quality-research",
+              "id": "academic-writing/citation-style/aerosol-and-air-quality-research",
+              "isDocsHomePage": false,
+              "title": "Aerosol and Air Quality Research",
+              "description": "When you 're tasked by using \"Aerosol and Air Quality Research\" (AAQR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/aerosol-and-air-quality-research",
+              "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aerosol-and-air-quality-research.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Advances in Complex Systems",
+                "permalink": "/support/docs/academic-writing/citation-style/advances-in-complex-systems"
+              },
+              "next": {
+                "title": "Aerosol Science and Technology",
+                "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/aerosol-science-and-technology",
+              "id": "academic-writing/citation-style/aerosol-science-and-technology",
+              "isDocsHomePage": false,
+              "title": "Aerosol Science and Technology",
+              "description": "When you 're tasked by using \"Aerosol Science and Technology\" (J Math Imaging Vis) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/aerosol-science-and-technology.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/aerosol-science-and-technology",
+              "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/aerosol-science-and-technology.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Aerosol and Air Quality Research",
+                "permalink": "/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research"
+              },
+              "next": {
+                "title": "African Journal of Marine Science",
+                "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/african-journal-of-marine-science",
+              "id": "academic-writing/citation-style/african-journal-of-marine-science",
+              "isDocsHomePage": false,
+              "title": "African Journal of Marine Science",
+              "description": "When you 're tasked by using \"African Journal of Marine Science\" (AJMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/african-journal-of-marine-science",
+              "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-journal-of-marine-science.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Aerosol Science and Technology",
+                "permalink": "/support/docs/academic-writing/citation-style/aerosol-science-and-technology"
+              },
+              "next": {
+                "title": "African Online Scientific Information Systems - Harvard",
+                "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "id": "academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "isDocsHomePage": false,
+              "title": "African Online Scientific Information Systems - Harvard",
+              "description": "When you 're tasked by using \"African Online Scientific Information Systems - Harvard\" (AOSIS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "African Journal of Marine Science",
+                "permalink": "/support/docs/academic-writing/citation-style/african-journal-of-marine-science"
+              },
+              "next": {
+                "title": "African Zoology",
+                "permalink": "/support/docs/academic-writing/citation-style/african-zoology"
+              }
+            },
+            {
+              "unversionedId": "academic-writing/citation-style/african-zoology",
+              "id": "academic-writing/citation-style/african-zoology",
+              "isDocsHomePage": false,
+              "title": "African Zoology",
+              "description": "When you 're tasked by using \"African Zoology\" (IJPP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
+              "source": "@site/docs/academic-writing/citation-style/african-zoology.mdx",
+              "sourceDirName": "academic-writing/citation-style",
+              "slug": "/academic-writing/citation-style/african-zoology",
+              "permalink": "/support/docs/academic-writing/citation-style/african-zoology",
+              "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/african-zoology.mdx",
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "African Online Scientific Information Systems - Harvard",
+                "permalink": "/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard"
               },
               "next": {
                 "title": "Working with BibTeX",
@@ -11290,8 +12375,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Acta Ichthyologica et Piscatoria",
-                "permalink": "/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria"
+                "title": "African Zoology",
+                "permalink": "/support/docs/academic-writing/citation-style/african-zoology"
               },
               "next": {
                 "title": "Working with any word processor",

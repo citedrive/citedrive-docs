@@ -74,7 +74,7 @@ export default [
 },
 {
   path: '/support/docs',
-  component: ComponentCreator('/support/docs','079'),
+  component: ComponentCreator('/support/docs','938'),
   
   routes: [
 {
@@ -170,6 +170,181 @@ export default [
 {
   path: '/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria',
   component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-ichthyologica-et-piscatoria','d65'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-medica-peruana',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-medica-peruana','e45'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-naturae',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-naturae','668'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-neurobiologiae-experimentalis','19f'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-neurochirurgica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-neurochirurgica','9d2'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-ophthalmologica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-ophthalmologica','f5c'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-ornithologica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-ornithologica','863'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-orthopaedica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-orthopaedica','940'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-orthopdica-belgica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-orthopdica-belgica','03f'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-paediatrica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-paediatrica','4f7'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-palaeontologica-polonica','7ec'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-pharmaceutica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-pharmaceutica','4e1'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-pharmaceutica-sinica-b','3ab'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-philosophica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-philosophica','f08'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-physiologica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-physiologica','5e0'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-polytechnica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-polytechnica','042'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-psychiatrica-scandinavica','8e6'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-radiologica',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-radiologica','cf8'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-scientiae-veterinariae','e0b'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-societatis-botanicorum-poloniae','056'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-et-silviculturae-mendelianae-brunensis','2da'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-universitatis-agriculturae-sueciae-swedish-university-of-agricultural-sciences','727'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/acta-zoologica-academiae-scientiarum-hungaricae','c05'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/administrative-science-quarterly',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/administrative-science-quarterly','7ae'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advanced-engineering-materials',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advanced-engineering-materials','ff6'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advanced-functional-materials',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advanced-functional-materials','240'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advanced-healthcare-materials',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advanced-healthcare-materials','012'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advanced-materials',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advanced-materials','faf'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advanced-optical-materials',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advanced-optical-materials','997'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advances-in-alzheimers-disease','c44'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/advances-in-complex-systems',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/advances-in-complex-systems','306'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/aerosol-and-air-quality-research','001'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/aerosol-science-and-technology',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/aerosol-science-and-technology','dde'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/african-journal-of-marine-science',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/african-journal-of-marine-science','dad'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/african-online-scientific-information-systems--harvard','e5f'),
+  exact: true,
+},
+{
+  path: '/support/docs/academic-writing/citation-style/african-zoology',
+  component: ComponentCreator('/support/docs/academic-writing/citation-style/african-zoology','84a'),
   exact: true,
 },
 {
