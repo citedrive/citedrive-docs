@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-psychological-association-6th-edition-turkish",
   "id": "academic-writing/citation-style/american-psychological-association-6th-edition-turkish",
   "isDocsHomePage": false,
-  "title": "american-psychological-association-6th-edition-turkish",
-  "description": "---",
+  "title": "American Psychological Association 6th edition (Turkish)",
+  "description": "When you 're tasked by using \"American Psychological Association 6th edition (Turkish)\" (APA (tr)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-turkish",
   "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-psychological-association-6th-edition-provost-french--canada",
+    "title": "American Psychological Association 6th edition (Provost) (French - Canada)",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada"
   },
   "next": {
-    "title": "american-psychological-association-6th-edition",
+    "title": "American Psychological Association 6th edition",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition"
   }
 }

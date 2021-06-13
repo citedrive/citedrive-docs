@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
   "id": "academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
   "isDocsHomePage": false,
-  "title": "annals-of-the-new-york-academy-of-sciences",
-  "description": "---",
+  "title": "Annals of the New York Academy of Sciences",
+  "description": "When you 're tasked by using \"Annals of the New York Academy of Sciences\" (Eur J Endocrinol) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
   "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "annals-of-the-association-of-american-geographers",
+    "title": "Annals of the Association of American Geographers",
     "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-association-of-american-geographers"
   },
   "next": {
-    "title": "annual-review-of-astronomy-and-astrophysics",
+    "title": "Annual Review of Astronomy and Astrophysics",
     "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics"
   }
 }

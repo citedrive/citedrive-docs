@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-association-for-cancer-research",
   "id": "academic-writing/citation-style/american-association-for-cancer-research",
   "isDocsHomePage": false,
-  "title": "american-association-for-cancer-research",
-  "description": "---",
+  "title": "American Association for Cancer Research",
+  "description": "When you 're tasked by using \"American Association for Cancer Research\" (AACR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-association-for-cancer-research.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-association-for-cancer-research",
   "permalink": "/support/docs/academic-writing/citation-style/american-association-for-cancer-research",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-association-for-cancer-research.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-anthropological-association",
+    "title": "American Anthropological Association",
     "permalink": "/support/docs/academic-writing/citation-style/american-anthropological-association"
   },
   "next": {
-    "title": "american-association-of-petroleum-geologists",
+    "title": "American Association of Petroleum Geologists",
     "permalink": "/support/docs/academic-writing/citation-style/american-association-of-petroleum-geologists"
   }
 }

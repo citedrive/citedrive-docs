@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/anglia",
   "id": "academic-writing/citation-style/anglia",
   "isDocsHomePage": false,
-  "title": "anglia",
-  "description": "---",
+  "title": "Anglia",
+  "description": "When you 're tasked by using \"Anglia\" (MMS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/anglia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anglia",
   "permalink": "/support/docs/academic-writing/citation-style/anglia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anglia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "anglia-ruskin-university--harvard",
-    "permalink": "/support/docs/academic-writing/citation-style/anglia-ruskin-university--harvard"
+    "title": "Export project",
+    "permalink": "/support/docs/export"
   },
   "next": {
-    "title": "animal-conservation",
+    "title": "Animal Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/animal-conservation"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-journal-of-neuroradiology",
   "id": "academic-writing/citation-style/american-journal-of-neuroradiology",
   "isDocsHomePage": false,
-  "title": "american-journal-of-neuroradiology",
-  "description": "---",
+  "title": "American Journal of Neuroradiology",
+  "description": "When you 're tasked by using \"American Journal of Neuroradiology\" (AJNR) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-neuroradiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-neuroradiology",
   "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-neuroradiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-neuroradiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-journal-of-medical-genetics",
+    "title": "American Journal of Medical Genetics",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-medical-genetics"
   },
   "next": {
-    "title": "american-journal-of-orthodontics-and-dentofacial-orthopedics",
+    "title": "American Journal of Orthodontics & Dentofacial Orthopedics",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-orthodontics-and-dentofacial-orthopedics"
   }
 }

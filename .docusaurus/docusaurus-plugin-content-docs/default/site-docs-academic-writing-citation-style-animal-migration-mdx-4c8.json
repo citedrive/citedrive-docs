@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/animal-migration",
   "id": "academic-writing/citation-style/animal-migration",
   "isDocsHomePage": false,
-  "title": "animal-migration",
-  "description": "---",
+  "title": "Animal Migration",
+  "description": "When you 're tasked by using \"Animal Migration\" (AMI) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/animal-migration.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/animal-migration",
   "permalink": "/support/docs/academic-writing/citation-style/animal-migration",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/animal-migration.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "animal-conservation",
+    "title": "Animal Conservation",
     "permalink": "/support/docs/academic-writing/citation-style/animal-conservation"
   },
   "next": {
-    "title": "animal-welfare",
+    "title": "Animal Welfare",
     "permalink": "/support/docs/academic-writing/citation-style/animal-welfare"
   }
 }

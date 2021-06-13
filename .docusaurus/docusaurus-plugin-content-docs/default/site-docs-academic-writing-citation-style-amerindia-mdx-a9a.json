@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/amerindia",
   "id": "academic-writing/citation-style/amerindia",
   "isDocsHomePage": false,
-  "title": "amerindia",
-  "description": "---",
+  "title": "Amerindia",
+  "description": "When you 're tasked by using \"Amerindia\" (CIP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/amerindia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/amerindia",
   "permalink": "/support/docs/academic-writing/citation-style/amerindia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/amerindia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-veterinary-medical-association",
+    "title": "American Veterinary Medical Association",
     "permalink": "/support/docs/academic-writing/citation-style/american-veterinary-medical-association"
   },
   "next": {
-    "title": "amphibiareptilia",
+    "title": "Amphibia-Reptilia",
     "permalink": "/support/docs/academic-writing/citation-style/amphibiareptilia"
   }
 }

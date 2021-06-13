@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics",
   "id": "academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics",
   "isDocsHomePage": false,
-  "title": "annual-review-of-astronomy-and-astrophysics",
-  "description": "---",
+  "title": "Annual Review of Astronomy and Astrophysics",
+  "description": "When you 're tasked by using \"Annual Review of Astronomy and Astrophysics\" (WU UCO) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics",
   "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-review-of-astronomy-and-astrophysics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "annals-of-the-new-york-academy-of-sciences",
+    "title": "Annals of the New York Academy of Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/annals-of-the-new-york-academy-of-sciences"
   },
   "next": {
-    "title": "annual-review-of-medicine",
+    "title": "Annual Review of Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-medicine"
   }
 }

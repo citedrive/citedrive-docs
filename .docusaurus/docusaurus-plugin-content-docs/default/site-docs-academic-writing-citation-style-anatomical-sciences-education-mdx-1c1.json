@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/anatomical-sciences-education",
   "id": "academic-writing/citation-style/anatomical-sciences-education",
   "isDocsHomePage": false,
-  "title": "anatomical-sciences-education",
-  "description": "---",
+  "title": "Anatomical Sciences Education",
+  "description": "When you 're tasked by using \"Anatomical Sciences Education\" (ASE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/anatomical-sciences-education.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anatomical-sciences-education",
   "permalink": "/support/docs/academic-writing/citation-style/anatomical-sciences-education",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anatomical-sciences-education.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "analytical-sciences",
+    "title": "Analytical Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/analytical-sciences"
   },
   "next": {
-    "title": "ancilla-iuris",
+    "title": "Ancilla Iuris",
     "permalink": "/support/docs/academic-writing/citation-style/ancilla-iuris"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/annual-reviews-authordate",
   "id": "academic-writing/citation-style/annual-reviews-authordate",
   "isDocsHomePage": false,
-  "title": "annual-reviews-authordate",
-  "description": "---",
+  "title": "Annual Reviews (author-date)",
+  "description": "When you 're tasked by using \"Annual Reviews (author-date)\" (Harvard - DkIT) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/annual-reviews-authordate.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annual-reviews-authordate",
   "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-authordate",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annual-reviews-authordate.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "annual-review-of-nuclear-and-particle-science",
+    "title": "Annual Review of Nuclear and Particle Science",
     "permalink": "/support/docs/academic-writing/citation-style/annual-review-of-nuclear-and-particle-science"
   },
   "next": {
-    "title": "annual-reviews-sorted-alphabetically",
+    "title": "Annual Reviews (sorted alphabetically)",
     "permalink": "/support/docs/academic-writing/citation-style/annual-reviews-sorted-alphabetically"
   }
 }

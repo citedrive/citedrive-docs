@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
   "id": "academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
   "isDocsHomePage": false,
-  "title": "american-society-for-pharmacology-and-experimental-therapeutics",
-  "description": "---",
+  "title": "American Society for Pharmacology and Experimental Therapeutics",
+  "description": "When you 're tasked by using \"American Society for Pharmacology and Experimental Therapeutics\" (ASPET) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
   "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-society-for-microbiology",
+    "title": "American Society for Microbiology",
     "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology"
   },
   "next": {
-    "title": "american-society-of-agricultural-and-biological-engineers",
+    "title": "American Society of Agricultural and Biological Engineers",
     "permalink": "/support/docs/academic-writing/citation-style/american-society-of-agricultural-and-biological-engineers"
   }
 }

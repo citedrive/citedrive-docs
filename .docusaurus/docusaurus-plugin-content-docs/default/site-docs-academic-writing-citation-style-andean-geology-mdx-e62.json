@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/andean-geology",
   "id": "academic-writing/citation-style/andean-geology",
   "isDocsHomePage": false,
-  "title": "andean-geology",
-  "description": "---",
+  "title": "Andean Geology",
+  "description": "When you 're tasked by using \"Andean Geology\" (OEZP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/andean-geology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/andean-geology",
   "permalink": "/support/docs/academic-writing/citation-style/andean-geology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/andean-geology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ancilla-iuris",
+    "title": "Ancilla Iuris",
     "permalink": "/support/docs/academic-writing/citation-style/ancilla-iuris"
   },
   "next": {
-    "title": "anesthesia-and-analgesia",
+    "title": "Anesthesia and Analgesia",
     "permalink": "/support/docs/academic-writing/citation-style/anesthesia-and-analgesia"
   }
 }

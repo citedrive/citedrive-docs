@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-journal-of-enology-and-viticulture",
   "id": "academic-writing/citation-style/american-journal-of-enology-and-viticulture",
   "isDocsHomePage": false,
-  "title": "american-journal-of-enology-and-viticulture",
-  "description": "---",
+  "title": "American Journal of Enology and Viticulture",
+  "description": "When you 're tasked by using \"American Journal of Enology and Viticulture\" (AJEV) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-enology-and-viticulture",
   "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-enology-and-viticulture.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-journal-of-clinical-pathology",
+    "title": "American Journal of Clinical Pathology",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-clinical-pathology"
   },
   "next": {
-    "title": "american-journal-of-epidemiology",
+    "title": "American Journal of Epidemiology",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-epidemiology"
   }
 }

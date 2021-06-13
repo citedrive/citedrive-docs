@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
   "id": "academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
   "isDocsHomePage": false,
-  "title": "american-psychological-association-6th-edition-provost-french--canada",
-  "description": "---",
+  "title": "American Psychological Association 6th edition (Provost) (French - Canada)",
+  "description": "When you 're tasked by using \"American Psychological Association 6th edition (Provost) (French - Canada)\" (APA (fr, Provost)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
   "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-provost-french--canada.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-psychological-association-6th-edition-no-dois-no-issue-numbers",
+    "title": "American Psychological Association 6th edition (no DOIs, no issue numbers)",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-dois-no-issue-numbers"
   },
   "next": {
-    "title": "american-psychological-association-6th-edition-turkish",
+    "title": "American Psychological Association 6th edition (Turkish)",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-turkish"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/annals-of-neurology",
   "id": "academic-writing/citation-style/annals-of-neurology",
   "isDocsHomePage": false,
-  "title": "annals-of-neurology",
-  "description": "---",
+  "title": "Annals of Neurology",
+  "description": "When you 're tasked by using \"Annals of Neurology\" (JSWC) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/annals-of-neurology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/annals-of-neurology",
   "permalink": "/support/docs/academic-writing/citation-style/annals-of-neurology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/annals-of-neurology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "annals-of-joint",
+    "title": "Annals of Joint",
     "permalink": "/support/docs/academic-writing/citation-style/annals-of-joint"
   },
   "next": {
-    "title": "annals-of-oncology",
+    "title": "Annals of Oncology",
     "permalink": "/support/docs/academic-writing/citation-style/annals-of-oncology"
   }
 }

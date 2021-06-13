@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-journal-of-agricultural-economics",
   "id": "academic-writing/citation-style/american-journal-of-agricultural-economics",
   "isDocsHomePage": false,
-  "title": "american-journal-of-agricultural-economics",
-  "description": "---",
+  "title": "American Journal of Agricultural Economics",
+  "description": "When you 're tasked by using \"American Journal of Agricultural Economics\" (AJAE) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-agricultural-economics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-agricultural-economics",
   "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-agricultural-economics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-agricultural-economics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-institute-of-physics",
+    "title": "American Institute of Physics",
     "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-physics"
   },
   "next": {
-    "title": "american-journal-of-archaeology",
+    "title": "American Journal of Archaeology",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-archaeology"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-society-for-microbiology",
   "id": "academic-writing/citation-style/american-society-for-microbiology",
   "isDocsHomePage": false,
-  "title": "american-society-for-microbiology",
-  "description": "---",
+  "title": "American Society for Microbiology",
+  "description": "When you 're tasked by using \"American Society for Microbiology\" (ASM) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-society-for-microbiology.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-society-for-microbiology",
   "permalink": "/support/docs/academic-writing/citation-style/american-society-for-microbiology",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-society-for-microbiology.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-school-of-classical-studies-at-athens",
+    "title": "American School of Classical Studies at Athens",
     "permalink": "/support/docs/academic-writing/citation-style/american-school-of-classical-studies-at-athens"
   },
   "next": {
-    "title": "american-society-for-pharmacology-and-experimental-therapeutics",
+    "title": "American Society for Pharmacology and Experimental Therapeutics",
     "permalink": "/support/docs/academic-writing/citation-style/american-society-for-pharmacology-and-experimental-therapeutics"
   }
 }

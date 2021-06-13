@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/angewandte-chemie-international-edition",
   "id": "academic-writing/citation-style/angewandte-chemie-international-edition",
   "isDocsHomePage": false,
-  "title": "angewandte-chemie-international-edition",
-  "description": "---",
+  "title": "Angewandte Chemie International Edition",
+  "description": "When you 're tasked by using \"Angewandte Chemie International Edition\" (Curr Allergy Asthma Rep) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/angewandte-chemie-international-edition.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/angewandte-chemie-international-edition",
   "permalink": "/support/docs/academic-writing/citation-style/angewandte-chemie-international-edition",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/angewandte-chemie-international-edition.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "anesthesiology",
+    "title": "Anesthesiology",
     "permalink": "/support/docs/academic-writing/citation-style/anesthesiology"
   },
   "next": {
-    "title": "angiologia-spanish",
+    "title": "Angiologia (Spanish)",
     "permalink": "/support/docs/academic-writing/citation-style/angiologia-spanish"
   }
 }

@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-medical-association-11th-edition-no-url",
   "id": "academic-writing/citation-style/american-medical-association-11th-edition-no-url",
   "isDocsHomePage": false,
-  "title": "american-medical-association-11th-edition-no-url",
-  "description": "---",
+  "title": "American Medical Association 11th edition (no URL)",
+  "description": "When you 're tasked by using \"American Medical Association 11th edition (no URL)\" (AMA (11th ed.)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-medical-association-11th-edition-no-url",
   "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-url.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-medical-association-11th-edition-no-et-al",
+    "title": "American Medical Association 11th edition (no \"et al.\")",
     "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-no-et-al"
   },
   "next": {
-    "title": "american-medical-association-11th-edition-sorted-alphabetically",
+    "title": "American Medical Association 11th edition (sorted alphabetically)",
     "permalink": "/support/docs/academic-writing/citation-style/american-medical-association-11th-edition-sorted-alphabetically"
   }
 }

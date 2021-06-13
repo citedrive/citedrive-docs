@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-physiological-society",
   "id": "academic-writing/citation-style/american-physiological-society",
   "isDocsHomePage": false,
-  "title": "american-physiological-society",
-  "description": "---",
+  "title": "American Physiological Society",
+  "description": "When you 're tasked by using \"American Physiological Society\" (APS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-physiological-society.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-physiological-society",
   "permalink": "/support/docs/academic-writing/citation-style/american-physiological-society",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-physiological-society.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-physical-society",
+    "title": "American Physical Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-physical-society"
   },
   "next": {
-    "title": "american-phytopathological-society",
+    "title": "American Phytopathological Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-phytopathological-society"
   }
 }

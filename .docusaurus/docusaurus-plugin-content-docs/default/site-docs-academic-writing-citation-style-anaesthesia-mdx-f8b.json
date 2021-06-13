@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/anaesthesia",
   "id": "academic-writing/citation-style/anaesthesia",
   "isDocsHomePage": false,
-  "title": "anaesthesia",
-  "description": "---",
+  "title": "Anaesthesia",
+  "description": "When you 're tasked by using \"Anaesthesia\" (AOP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/anaesthesia.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/anaesthesia",
   "permalink": "/support/docs/academic-writing/citation-style/anaesthesia",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/anaesthesia.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "anabases-french",
-    "permalink": "/support/docs/academic-writing/citation-style/anabases-french"
+    "title": "Export project",
+    "permalink": "/support/docs/export"
   },
   "next": {
-    "title": "analytical-sciences",
+    "title": "Analytical Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/analytical-sciences"
   }
 }

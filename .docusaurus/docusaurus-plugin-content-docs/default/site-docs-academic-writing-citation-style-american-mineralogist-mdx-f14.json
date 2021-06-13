@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-mineralogist",
   "id": "academic-writing/citation-style/american-mineralogist",
   "isDocsHomePage": false,
-  "title": "american-mineralogist",
-  "description": "---",
+  "title": "American Mineralogist",
+  "description": "When you 're tasked by using \"American Mineralogist\" (Stoch Environ Res Risk Assess) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-mineralogist.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-mineralogist",
   "permalink": "/support/docs/academic-writing/citation-style/american-mineralogist",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-mineralogist.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-meteorological-society",
+    "title": "American Meteorological Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-meteorological-society"
   },
   "next": {
-    "title": "american-nuclear-society",
+    "title": "American Nuclear Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-nuclear-society"
   }
 }

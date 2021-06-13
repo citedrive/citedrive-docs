@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
   "id": "academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
   "isDocsHomePage": false,
-  "title": "american-psychological-association-6th-edition-doi-doi-prefix",
-  "description": "---",
+  "title": "American Psychological Association 6th edition (\"doi:\" DOI prefix)",
+  "description": "When you 're tasked by using \"American Psychological Association 6th edition (\"doi\" DOI prefix)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
   "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-psychological-association-6th-edition-doi-doi-prefix.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-psychological-association-5th-edition",
+    "title": "American Psychological Association 5th edition",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-5th-edition"
   },
   "next": {
-    "title": "american-psychological-association-6th-edition-no-ampersand",
+    "title": "American Psychological Association 6th edition (no ampersand)",
     "permalink": "/support/docs/academic-writing/citation-style/american-psychological-association-6th-edition-no-ampersand"
   }
 }

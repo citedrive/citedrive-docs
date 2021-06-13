@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-institute-of-physics",
   "id": "academic-writing/citation-style/american-institute-of-physics",
   "isDocsHomePage": false,
-  "title": "american-institute-of-physics",
-  "description": "---",
+  "title": "American Institute of Physics",
+  "description": "When you 're tasked by using \"American Institute of Physics\" (AIP) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-institute-of-physics.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-institute-of-physics",
   "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-physics",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-institute-of-physics.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-institute-of-aeronautics-and-astronautics",
+    "title": "American Institute of Aeronautics and Astronautics",
     "permalink": "/support/docs/academic-writing/citation-style/american-institute-of-aeronautics-and-astronautics"
   },
   "next": {
-    "title": "american-journal-of-agricultural-economics",
+    "title": "American Journal of Agricultural Economics",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-agricultural-economics"
   }
 }

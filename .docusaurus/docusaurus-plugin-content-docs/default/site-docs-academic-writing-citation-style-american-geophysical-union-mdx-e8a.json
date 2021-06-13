@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-geophysical-union",
   "id": "academic-writing/citation-style/american-geophysical-union",
   "isDocsHomePage": false,
-  "title": "american-geophysical-union",
-  "description": "---",
+  "title": "American Geophysical Union",
+  "description": "When you 're tasked by using \"American Geophysical Union\" (AGU) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-geophysical-union.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-geophysical-union",
   "permalink": "/support/docs/academic-writing/citation-style/american-geophysical-union",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-geophysical-union.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-fisheries-society",
+    "title": "American Fisheries Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-fisheries-society"
   },
   "next": {
-    "title": "american-heart-association",
+    "title": "American Heart Association",
     "permalink": "/support/docs/academic-writing/citation-style/american-heart-association"
   }
 }

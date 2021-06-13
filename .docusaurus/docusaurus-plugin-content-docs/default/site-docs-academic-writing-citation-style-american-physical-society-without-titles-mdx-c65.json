@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-physical-society-without-titles",
   "id": "academic-writing/citation-style/american-physical-society-without-titles",
   "isDocsHomePage": false,
-  "title": "american-physical-society-without-titles",
-  "description": "---",
+  "title": "American Physical Society (without titles)",
+  "description": "When you 're tasked by using \"American Physical Society (without titles)\" (APS (without titles)) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-physical-society-without-titles.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-physical-society-without-titles",
   "permalink": "/support/docs/academic-writing/citation-style/american-physical-society-without-titles",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-physical-society-without-titles.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-physical-society--et-al-if-more-than-3-authors",
+    "title": "American Physical Society - et al. (if more than 3 authors)",
     "permalink": "/support/docs/academic-writing/citation-style/american-physical-society--et-al-if-more-than-3-authors"
   },
   "next": {
-    "title": "american-physical-society",
+    "title": "American Physical Society",
     "permalink": "/support/docs/academic-writing/citation-style/american-physical-society"
   }
 }

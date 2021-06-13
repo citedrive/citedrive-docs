@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/american-journal-of-political-science",
   "id": "academic-writing/citation-style/american-journal-of-political-science",
   "isDocsHomePage": false,
-  "title": "american-journal-of-political-science",
-  "description": "---",
+  "title": "American Journal of Political Science",
+  "description": "When you 're tasked by using \"American Journal of Political Science\" (AJPS) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/american-journal-of-political-science.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/american-journal-of-political-science",
   "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-political-science",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/american-journal-of-political-science.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "american-journal-of-plant-sciences",
+    "title": "American Journal of Plant Sciences",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-plant-sciences"
   },
   "next": {
-    "title": "american-journal-of-respiratory-and-critical-care-medicine",
+    "title": "American Journal of Respiratory and Critical Care Medicine",
     "permalink": "/support/docs/academic-writing/citation-style/american-journal-of-respiratory-and-critical-care-medicine"
   }
 }

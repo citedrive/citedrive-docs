@@ -2,22 +2,25 @@
   "unversionedId": "academic-writing/citation-style/antipode",
   "id": "academic-writing/citation-style/antipode",
   "isDocsHomePage": false,
-  "title": "antipode",
-  "description": "---",
+  "title": "Antipode",
+  "description": "When you 're tasked by using \"Antipode\" (Vet Res Commun) for your term paper, bachelor 's, or master 's thesis to create citations and bibliographies.",
   "source": "@site/docs/academic-writing/citation-style/antipode.mdx",
   "sourceDirName": "academic-writing/citation-style",
   "slug": "/academic-writing/citation-style/antipode",
   "permalink": "/support/docs/academic-writing/citation-style/antipode",
   "editUrl": "https://github.com/citedrive/citedrive-docs/tree/main/docs/academic-writing/citation-style/antipode.mdx",
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "antioxidants-and-redox-signaling",
+    "title": "Antioxidants & Redox Signaling",
     "permalink": "/support/docs/academic-writing/citation-style/antioxidants-and-redox-signaling"
   },
   "next": {
-    "title": "antiquites-africaines",
+    "title": "Antiquités africaines",
     "permalink": "/support/docs/academic-writing/citation-style/antiquites-africaines"
   }
 }
