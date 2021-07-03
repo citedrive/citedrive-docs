@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'citedrive-docs', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'fr'],
+    locales: ['en'],
   },
   themeConfig: {
     navbar: {
@@ -28,7 +28,7 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+      /*  {to: 'blog', label: 'Blog', position: 'left'},*/
         {
           href: 'https://app.citedrive.com/',
           label: 'Login',
