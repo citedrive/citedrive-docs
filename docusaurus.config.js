@@ -20,7 +20,7 @@ module.exports = {
         alt: 'CiteDrive Logo',
         src: 'img/logo.svg',
       },
-      
+
       items: [
         {
           type: 'doc',
@@ -97,7 +97,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
+           routeBasePath: '/',
           editUrl:
             'https://github.com/citedrive/citedrive-docs/tree/main',
         },
