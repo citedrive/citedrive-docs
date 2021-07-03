@@ -2,4 +2,4 @@
 sidebar_position: 2
 ---
 
-# Share project
+# Sharing your project with colleagues

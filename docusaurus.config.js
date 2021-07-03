@@ -7,8 +7,8 @@ module.exports = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/citedrive-favicon.png',
-  organizationName: 'citedrive', // Usually your GitHub org/user name.
-  projectName: 'citedrive-docs', // Usually your repo name.
+  organizationName: 'citedrive',
+  projectName: 'citedrive-docs',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -34,11 +34,7 @@ module.exports = {
           label: 'Login',
           position: 'left',
         },
-        {
-          href: 'https://app.citedrive.com/sign-up',
-          label: 'Get started now',
-          position: 'right',
-        },
+        
         {
           type: 'localeDropdown',
           position: 'left',
@@ -103,7 +99,6 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           editUrl:
             'https://github.com/citedrive/citedrive-docs/tree/main/',
         },
