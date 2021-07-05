@@ -38,8 +38,15 @@ With `Create new project`, when you are ready. We can now see in your new projec
 
 ## Create new references
 
+### Use our browser extension
+
+The Chrome Extension can add papers and web pages to your project with one click. Add the plugin to your browser and click on the icon when you see an article or website that interests you. [More about the Chrome Extension](chrome-extension.md)
+
+### Create references by hand
 You can click on the big plus sign ![Example banner](./assets/plus.svg) in the panel on the right side to add new references. A pop-up window will appear. Define the type of your source, such as “Article in Journal” (paper / scientific publication), website, piece of music, etc., and enter all the data you need to cite.
 Scroll down and click on the button when you have finished. We should have added a new table with further reference.
+
+### Edit references
 
 If you want to edit any reference, **hover** over the table and click on the edit icon.
 
