@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: "/"
 ---
 
-# Get started
+# Quick Start
 
 With CiteDrive, the focus is on a simple and equally appealing user experience. From the beginning, we wanted the app to be beautiful but distraction-free, with simply a few and yet the most essential functions and minimal fuss. We want to offer you a techno-stress-free experience while working on your paper. No intrusive social network nonsense, ads, and features that no one asks for. In the end, CiteDrive is and will always be “nothing” but a reference manager, with precisely the functions you need!
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Chrome Extension
+# CiteDrive Companion Browser Extension
 
 
 ## Paper fetch tool for the CiteDrive app.
