@@ -13,5 +13,3 @@ CiteDrive has the purpose of being an easy-to-use, collaborative and extensible 
 [CiteDrive Companion - Add to chrome](https://chrome.google.com/webstore/detail/citedrive-companion/gmmonfphegngpcbcapfbgembkjeookik)
 
 
-
-![](assets/chrome.jpg)
