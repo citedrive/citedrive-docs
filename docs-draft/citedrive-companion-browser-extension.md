@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Chrome Extension
+# CiteDrive Companion Browser Extension
 
 
 ## Paper fetch tool for the CiteDrive app.
@@ -13,5 +13,3 @@ CiteDrive has the purpose of being an easy-to-use, collaborative and extensible 
 [CiteDrive Companion - Add to chrome](https://chrome.google.com/webstore/detail/citedrive-companion/gmmonfphegngpcbcapfbgembkjeookik)
 
 
-
-![](assets/chrome.jpg)
