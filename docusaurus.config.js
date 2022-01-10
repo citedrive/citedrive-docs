@@ -28,16 +28,20 @@ module.exports = {
           position: 'left',
           label: 'Docs',
         },
-      /*  {to: 'blog', label: 'Blog', position: 'left'},*/
+        {
+          href: 'https://citedrive.medium.com',
+          label: 'Blog', 
+          position: 'left'
+        },
         {
           href: 'https://app.citedrive.com/',
           label: 'Login',
-          position: 'left',
+          position: 'right',
         },
         
         {
           type: 'localeDropdown',
-          position: 'left',
+          position: 'right',
         },
       ],
     },
@@ -75,7 +79,7 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              to: 'blog',
+              href: 'https://medium.com/citedrive',
             },
             {
               label: 'GitHub',
@@ -97,11 +101,11 @@ module.exports = {
           editUrl:
             'https://github.com/citedrive/citedrive-docs/tree/main',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/citedrive/citedrive-docs/tree/main/',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   editUrl:
+        //     'https://github.com/citedrive/citedrive-docs/tree/main/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
