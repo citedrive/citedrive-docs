@@ -31,7 +31,12 @@ module.exports = {
         {
           href: 'https://citedrive.medium.com',
           label: 'Blog', 
-          position: 'left'
+          position: 'left',
+        },
+        {
+          label: 'Forum',
+          href: 'https://forum.citedrive.com',
+          position: 'left',
         },
         {
           href: 'https://app.citedrive.com/',
@@ -52,14 +57,18 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/',
+              label: 'Quick Start',
+              to: '/',
             },
           ],
         },
         {
           title: 'Community',
           items: [
+            {
+              label: 'Questions & Issues',
+              href: 'https://forum.citedrive.com',
+            },
             {
               label: 'Facebook',
               href: 'https://www.facebook.com/citedrive',
@@ -68,10 +77,7 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com/citedrive',
             },
-            {
-              label: 'Community',
-              href: 'https://github.com/citedrive/citedrive-docs/issues',
-            },
+            
           ],
         },
         {
