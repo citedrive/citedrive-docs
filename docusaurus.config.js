@@ -85,7 +85,7 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              href: 'https://medium.com/citedrive',
+              href: 'https://citedrive.medium.com',
             },
             {
               label: 'GitHub',
