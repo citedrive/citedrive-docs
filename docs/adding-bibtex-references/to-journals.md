@@ -20,12 +20,3 @@ You will be presented with the option to conduct an article search by title. Try
 As you find articles of interest, simply click `Add to project` and CiteDrive will directly import the reference, as shown below:
 
 ![Imported article from search](../assets/imported-quantum-computing-article.png)
-
-## ISBN Lookups
-
-If you intend to cite one or more book passages as part of your project, the ISBN lookup makes it easy to quickly import book references. Open the ISBN lookup from the Add Reference menu:
-
-![ISBN Menu Option](../assets/isbn-lookup-menu.png)
-
-You will be presented with the option to provide an ISBN 10 or 13 for lookup. Try looking up `9780134159386` for an *Applied Physics* textbook:
-
