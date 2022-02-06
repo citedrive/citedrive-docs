@@ -27,8 +27,16 @@ Select `Add reference by hand` and paste the copied BibTeX code into the popup:
 
 <Image img={require('../assets/from-bibtex-citedrive-paste.png')} alt={'Pasted code'} />
 
+Click `Save Reference` and you'll find your Algorithms paper added to your project.
+
 ## Example: Importing existing BibTeX database
 
-WIP WIP WIP
+If you have an existing BibTeX database, importing your references into CiteDrive takes just a few seconds. Copy the contents of your existing BibTeX database to your clipboard and click the `+ Add` button inside your CiteDrive project:
 
-![Search Online](../assets/search-journals-online.png)
+<Image img={require('../assets/from-bibtex-citedrive-add.png')} alt={'Add menu'} />
+
+Select `Add reference by hand` and paste the copied BibTeX database into the popup:
+
+<Image img={require('../assets/from-bibtex-database.png')} alt={'Pasted database'} />
+
+Click `Save Reference` and you'll find all your BibTeX references imported into your project.
