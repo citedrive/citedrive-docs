@@ -3,29 +3,30 @@ sidebar_position: 3
 sidebar_label: From Pubmed
 ---
 
+import Image from '@theme/IdealImage';
+
 # Adding References from Pubmed
 
-CiteDrive supports collecting and adding references to your projects in a variety of ways. One of the fastest and easiest paths is to use the CiteDrive Companion Browser Extension but you can also do article searches or ISBN lookups within the app, in addition to pasting existing BibTeX code into your project. Last but not least, you can always add references by hand. We’ll cover a few of these approaches in this section.
+If you do most of your source discovery in Pubmed, you have multiple options for easily adding references to your CiteDrive project. We recommend using the CiteDrive Companion browser extension but additional methods without the extension are also covered in detail below.
 
-## Article Searches
+> ### Recommendation: Install CiteDrive Companion browser extension
+> 
+> We strongly recommend installing the CiteDrive Companion browser extension for the best experience. Add articles, websites and more directly from Google Scholar, Pubmed and anywhere you're searching. CiteDrive Companion is available from: 
+> * [Chrome Web Store](https://chrome.google.com/webstore/detail/citedrive-companion/gmmonfphegngpcbcapfbgembkjeookik)
+> * [Firefox/Mozilla addons](https://addons.mozilla.org/af/firefox/addon/citedrive-companion/)
 
-One convenient way to add references to your project is to use CiteDrive’s built-in article search. Simply click on the Add Reference button and select `Journals` under Search Online:
+## Example: Adding article using CiteDrive Companion
 
-![Search Online](../assets/search-journals-online.png)
+Let's start by looking up our favorite `algorithms` article on Pubmed:
 
-You will be presented with the option to conduct an article search by title. Try searching for a title such as `Quantum computing` and hit Enter to find relevant articles.
+<Image img={require('../assets/from-pubmed-list.png')} alt={'Pubmed lookup'} />
 
-![A search for quantum computing](../assets/quantum-computing-articles.png)
+Click on the `Comparing different supervised machine learning algorithms for disease prediction` paper link to open the full view. Locate the CiteDrive Companion extension icon in the upper right of your browser (highlighted). _If you do not see the icon, please open your browser extensions list and pin the CiteDrive Companion extension in order for the icon to display_
 
-As you find articles of interest, simply click `Add to project` and CiteDrive will directly import the reference, as shown below:
+<Image img={require('../assets/from-pubmed-icon.png')} alt={'Companion icon'} />
 
-![Imported article from search](../assets/imported-quantum-computing-article.png)
+Click the icon and you will see a BibTeX representation of your reference presented, with the ability to customize the BibTeX snippet to your liking:
 
-## ISBN Lookups
+<Image img={require('../assets/from-pubmed-add.png')} alt={'Companion popup'} />
 
-If you intend to cite one or more book passages as part of your project, the ISBN lookup makes it easy to quickly import book references. Open the ISBN lookup from the Add Reference menu:
-
-![ISBN Menu Option](../assets/isbn-lookup-menu.png)
-
-You will be presented with the option to provide an ISBN 10 or 13 for lookup. Try looking up `9780134159386` for an *Applied Physics* textbook:
-
+Once you are satisfied, click `Save Reference` to add the reference to the selected project.
