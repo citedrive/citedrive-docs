@@ -12,7 +12,7 @@ You can find the quick start for getting started with CiteDrive on the following
 This guide walks you through setting up a new project, collecting references, connecting your project to Overleaf, and creating a paper with a bibliography and in-text citations.
 
 
-## ## Easy Reference Management for Overleaf
+## Easy Reference Management for Overleaf
 
 You can find out how to use CiteDrive and Overleaf on the following pages. Here is the blog post on the Overleaf page: 
 
